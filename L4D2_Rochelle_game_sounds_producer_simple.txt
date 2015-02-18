@@ -1,0 +1,2953 @@
+//--------------------------------------------------------------------------------------------------------------
+// Producer Game Sound Text File
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// This file is auto generated do not hand edit!
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// Last Updated: 10/01/09
+// Cleaned by darkid
+//--------------------------------------------------------------------------------------------------------------
+
+//Adrenaline shot here!
+"Producer_Adrenaline01"
+//Grabbin' a shot!
+"Producer_Adrenaline02"
+//Adrenaline shot here!
+"Producer_Adrenaline03"
+//[shaking self awake]
+"Producer_Adrenaline05"
+//[shaking self awake]
+"Producer_Adrenaline06"
+//You can have this.
+"Producer_AlertGiveItem01"
+//Got this just for you.
+"Producer_AlertGiveItem02"
+//Here, you can have this.
+"Producer_AlertGiveItem03"
+//A little something for you.
+"Producer_AlertGiveItem04"
+//I picked this up just for you.
+"Producer_AlertGiveItem05"
+//You're gonna need this.
+"Producer_AlertGiveItemC101"
+//Here!
+"Producer_AlertGiveItemCombat01"
+//Take this!
+"Producer_AlertGiveItemCombat02"
+//Have this!
+"Producer_AlertGiveItemCombat03"
+//Here, use this.
+"Producer_AlertGiveItemCombat04"
+//You need this, take this!
+"Producer_AlertGiveItemCombat05"
+//Here, I'm giving this to you.
+"Producer_AlertGiveItemCombat06"
+//Wait, I have something for you.
+"Producer_AlertGiveItemStop01"
+//STOP, take this.
+"Producer_AlertGiveItemStop02"
+//Can you stop for a sec? I got something for you.
+"Producer_AlertGiveItemStop03"
+//Hey! Hey, uh, you!  I got something for you.
+"Producer_AlertGiveItemStopC101"
+//Alright, you guys ready?
+"Producer_AskReady01"
+//Ready?
+"Producer_AskReady02"
+//Ready for this?
+"Producer_AskReady03"
+//Back back back!
+"Producer_BackUp01"
+//Come on move, move back.
+"Producer_BackUp02"
+//Back it up! Back it up!
+"Producer_BackUp03"
+//Let's back it up!
+"Producer_BackUp04"
+//Back up.
+"Producer_BackUpQuiet01"
+//Move back.
+"Producer_BackUpQuiet02"
+//Get back.
+"Producer_BackUpQuiet03"
+//Get back, get back.
+"Producer_BackUpQuiet04"
+//[Yell while firing a gun for an extended period of ttime]
+"Producer_BattleCry01"
+//[Yell while firing a gun for an extended period of ttime]
+"Producer_BattleCry02"
+//Shoot it! Shoot it!
+"Producer_BattleCryTank01"
+//Light it up!
+"Producer_BattleCryTank04"
+//Don't stop shooting!
+"Producer_BattleCryTank05"
+//Kill it! Kill it!
+"Producer_BattleCryTank06"
+//Shoot the shit out of that thing.
+"Producer_BattleCryTank07"
+//Okay, shoot the shit out of that thing.
+"Producer_BattleCryTank08"
+//Blank
+"Producer_Blank"
+//Bottle ofÖ puke, apparently.
+"Producer_BoomerJar01"
+//That had better not be what I think it is.
+"Producer_BoomerJar02"
+//Boomer bile here!
+"Producer_BoomerJar03"
+//Bile jar here!
+"Producer_BoomerJar04"
+//Grabbing a jar of puke!
+"Producer_BoomerJar05"
+//Grabbing a bile jar!
+"Producer_BoomerJar06"
+//Heads up! Bile incoming!
+"Producer_BoomerJar07"
+//Bile incoming!
+"Producer_BoomerJar08"
+//Here comes somer boomer bile!
+"Producer_BoomerJar09"
+//Damn it, I just washed this!
+"Producer_BoomerReaction01"
+//Oh god!
+"Producer_BoomerReaction02"
+//*Ahhh ugh! Jesus! Eww ugh!
+"Producer_BoomerReaction03"
+//Oh bleh, shit!
+"Producer_BoomerReaction04"
+//Oh, ugh! Oh, not again!
+"Producer_BoomerReaction05"
+//Somebody. Anybody. Everybody.  Help!!!!
+"Producer_CallForRescue01"
+//Hey! Hey! I could use some help over here!
+"Producer_CallForRescue02"
+//Hey! I need some help over here!
+"Producer_CallForRescue03"
+//Anyone out there?
+"Producer_CallForRescue04"
+//Can anyone hear me?
+"Producer_CallForRescue05"
+//I need some help in here!
+"Producer_CallForRescue06"
+//Hey guys! Don't leave me behind!
+"Producer_CallForRescue07"
+//Don't leave me in here!
+"Producer_CallForRescue08"
+//Help! Get me out of here!
+"Producer_CallForRescue09"
+//Help! Help! Help get me out of here!
+"Producer_CallForRescue10"
+//Hey! Anybody out there?!
+"Producer_CallForRescue11"
+//I need to get out of here!
+"Producer_CallForRescue12"
+//Smoker's GOT ME!!!
+"Producer_Choke01"
+//Help! Smoker has me!
+"Producer_Choke02"
+//[Choking]
+"Producer_Choke03"
+//[Choking]
+"Producer_Choke04"
+//[Choking]
+"Producer_Choke05"
+//[Choking]
+"Producer_Choke06"
+//Close the door.
+"Producer_CloseTheDoor01"
+//Can we close that door?
+"Producer_CloseTheDoor02"
+//Let's close that door.
+"Producer_CloseTheDoor04"
+//Someone want to close that door?
+"Producer_CloseTheDoor05"
+//Okay, well close the door now!
+"Producer_CloseTheDoorC101"
+//Well close the door now!
+"Producer_CloseTheDoorC102"
+//We should close that door.
+"Producer_CloseTheDoorC103"
+//We oughta close the door.
+"Producer_CloseTheDoorC104"
+//[Coughing from smoke]
+"Producer_Cough01"
+//[Coughing from smoke]
+"Producer_Cough02"
+//[Coughing from smoke]
+"Producer_Cough03"
+//[Coughing from smoke]
+"Producer_Cough04"
+//[Coughing from smoke]
+"Producer_Cough05"
+//[Coughing from smoke]
+"Producer_Cough06"
+//[Coughing from smoke]
+"Producer_Cough07"
+//Stop guys, I have to heal.
+"Producer_CoverMe01"
+//Cover me, I'm going to patch myself up.
+"Producer_CoverMe02"
+//Watch out for a second, I have to heal.
+"Producer_CoverMe03"
+//Cover me please.
+"Producer_CoverMe04"
+//Healing! Cover me!
+"Producer_CoverMe05"
+//One of you fine gentlemen want to cover me while I heal?
+"Producer_CoverMe06"
+//Can someone cover me? I have to use this kit.
+"Producer_CoverMeC101"
+//I hope I'm doing this right.
+"Producer_CoverMeC102"
+//With my luck, I'm just going to make it worse.
+"Producer_CoverMeC103"
+//[Short quick death scream]
+"Producer_DeathScream01"
+//[Loud painful death scream]
+"Producer_DeathScream02"
+//Chest paddles here.
+"Producer_Defibrillator01"
+//Defibrillator here.
+"Producer_Defibrillator02"
+//Defib unit here.
+"Producer_Defibrillator03"
+//Got some chest paddles.
+"Producer_Defibrillator04"
+//Got a defib unit.
+"Producer_Defibrillator05"
+//Got a defib unit.
+"Producer_Defibrillator06"
+//Clear!
+"Producer_Defibrillator07"
+//Come on!
+"Producer_Defibrillator08"
+//Come ON!
+"Producer_Defibrillator09"
+//Come on DAMNIT WORK!
+"Producer_Defibrillator10"
+//Please work. Please, please workÖ
+"Producer_Defibrillator11"
+//So that's what being dead feels like.
+"Producer_Defibrillator13"
+//I do believe I owe you one.
+"Producer_Defibrillator14"
+//Aggghthat frigging HURTS!
+"Producer_Defibrillator15"
+//[being shocked]
+"Producer_Defibrillator16"
+//WhoaÖ
+"Producer_Defibrillator17"
+//[gasp for breath]
+"Producer_Defibrillator18"
+//Okay, okay, oh god,   this was a  MISTAKE!
+"Producer_DoubleDeathResponse01"
+//I have no idea why I thought this would go better.
+"Producer_DoubleDeathResponse02"
+//Well shit, guess you are the last man on earth.
+"Producer_DoubleDeathResponse03"
+//Ellis, sweetie, can this wait?
+"Producer_EllisInterrupt06"
+//What are you doing? GO!
+"Producer_EmphaticGo01"
+//Come on, come on, let's move!
+"Producer_EmphaticGo02"
+//Come on, come on, let's move!
+"Producer_EmphaticGo03"
+//Well, go!
+"Producer_EmphaticGo04"
+//Go go go!
+"Producer_EmphaticGo05"
+//Go!
+"Producer_EmphaticGo06"
+//GO!
+"Producer_EmphaticGo07"
+//No time to stop, go.
+"Producer_EmphaticGoQuiet01"
+//Keep moving.
+"Producer_EmphaticGoQuiet02"
+//Keep going.
+"Producer_EmphaticGoQuiet03"
+//Explosive rounds here!
+"Producer_ExplosiveAmmo01"
+//Explosive rounds here!
+"Producer_ExplosiveAmmo02"
+//Explosive rounds here!
+"Producer_ExplosiveAmmo03"
+//Frag rounds here!
+"Producer_ExplosiveAmmo04"
+//Grabbin' some frag rounds!
+"Producer_ExplosiveAmmo06"
+//Deploying explosive rounds!
+"Producer_ExplosiveAmmo07"
+//Deploying explosive rounds!
+"Producer_ExplosiveAmmo08"
+//Hey, c'mon, this way!
+"Producer_FollowMe01"
+//Come on, this way!
+"Producer_FollowMe02"
+//This way!
+"Producer_FollowMe03"
+//Follow me this way.
+"Producer_FollowMe04"
+//Follow me.
+"Producer_FollowMe05"
+//That better have been an accident!
+"Producer_FriendlyFire01"
+//Try shooting some damn zombies!
+"Producer_FriendlyFire02"
+//Okay, you have some serious issues with that gun!
+"Producer_FriendlyFire03"
+//Have you lost your mind?
+"Producer_FriendlyFire04"
+//Oh no you didn't just shoot me!
+"Producer_FriendlyFire05"
+//Hey!
+"Producer_FriendlyFire06"
+//Stop shooting me!
+"Producer_FriendlyFire07"
+//What the hell are you doing?
+"Producer_FriendlyFire08"
+//ow! HEY!
+"Producer_FriendlyFire09"
+//What is up with you shooting me?
+"Producer_FriendlyFire10"
+//Watch it!
+"Producer_FriendlyFire11"
+//Hey, hey, hey, hey, seriously?
+"Producer_FriendlyFire12"
+//Watch where you're shooting!
+"Producer_FriendlyFire13"
+//STOP IT!
+"Producer_FriendlyFire14"
+//Oh sweet Jesus, you shot me!
+"Producer_FriendlyFire15"
+//Somebody shot me!
+"Producer_FriendlyFire16"
+//Did you shoot me?
+"Producer_FriendlyFire17"
+//Who in the hell just shot me?
+"Producer_FriendlyFire18"
+//Stop shooing me!
+"Producer_FriendlyFire19"
+//DO NOT SHOOT ME!
+"Producer_FriendlyFire20"
+//STOP SHOOTING ME!
+"Producer_FriendlyFire21"
+//Who in the hell shot me?
+"Producer_FriendlyFire22"
+//We cannot be shooting each other!
+"Producer_FriendlyFire23"
+//Don't make me get ugly with you!
+"Producer_FriendlyFire24"
+//Who do you think you are shootin' me?
+"Producer_FriendlyFire25"
+//Okay, I can not believe that you just shot me?
+"Producer_FriendlyFire26"
+//Hey! What's your name. Don't shoot me!
+"Producer_FriendlyFireC101"
+//Dude, don't shoot me!
+"Producer_FriendlyFireC102"
+//Hey - in the suit, STOP SHOOTING ME!
+"Producer_FriendlyFireC1Nick01"
+//Whoa, whoa! Shoot the Tank!
+"Producer_FriendlyFireTank01"
+//Shoot the Tank!
+"Producer_FriendlyFireTank05"
+//Ugh, shoot the tank, not me!
+"Producer_FriendlyFireTank07"
+//Uh, yeah, yeah, I'm okay.
+"Producer_GettingRevived02"
+//I think I'm okay.
+"Producer_GettingRevived03"
+//Guess I feel all right.
+"Producer_GettingRevived04"
+//Don't worry about me.
+"Producer_GettingRevived05"
+//I'm good.
+"Producer_GettingRevived06"
+//Is it bad?
+"Producer_GettingRevived07"
+//I don't know, get me up.
+"Producer_GettingRevived08"
+//Oh shit, I don't know.
+"Producer_GettingRevived09"
+//Well how do I look?
+"Producer_GettingRevived10"
+//Is it bad?
+"Producer_GettingRevived11"
+//I'm a little bit of a mess.
+"Producer_GettingRevived12"
+//This is great, nah, this is great.  I'm good.
+"Producer_GettingRevived14"
+//Blah blah blah, just please get me up.
+"Producer_GettingRevived15"
+//Does my hair look good?
+"Producer_GettingRevived16"
+//I have no idea.
+"Producer_GettingRevived17"
+//I don't know, bad?
+"Producer_GettingRevived18"
+//You tell me!
+"Producer_GettingRevived19"
+//Shitty.
+"Producer_GettingRevived20"
+//Broke.
+"Producer_GettingRevived21"
+//Okay I guess.
+"Producer_GettingRevived22"
+//I've been better.
+"Producer_GettingRevived23"
+//Okay this was a mistake.
+"Producer_GoingToDie01"
+//Okay, this seriously hurts.
+"Producer_GoingToDie02"
+//Okay, okay  that one hurt.
+"Producer_GoingToDie03"
+//Girl, you should have stayed with Jacob. (to self)
+"Producer_GoingToDie04"
+//By the beard of Zeus this hurts!
+"Producer_GoingToDie05"
+//Son of a bee-sting. this hurts.
+"Producer_GoingToDie06"
+//This is not happening, This is not happening. This is not happening. (to self)
+"Producer_GoingToDie08"
+//Did this ever seem like a good idea?
+"Producer_GoingToDie09"
+//Knights of Columbus this hurts.
+"Producer_GoingToDie10"
+//I am too young to feel this old.
+"Producer_GoingToDie11"
+//This is not going well.
+"Producer_GoingToDie13"
+//One of you fellas want to carry the cute girl?
+"Producer_GoingToDie14"
+//I think I really hurt something.
+"Producer_GoingToDie15"
+//Anyone else feel like crap right now?
+"Producer_GoingToDie16"
+//This is some grim shit we got ourselves into.
+"Producer_GoingToDie17"
+//This is some grim shit we got ourselves into.
+"Producer_GoingToDie18"
+//Something's got to break our way.
+"Producer_GoingToDie20"
+//So this is how it's going to be.
+"Producer_GoingToDie21"
+//Movin' as fast as I can.
+"Producer_GoingToDie22"
+//Sorry guys, I can't go any faster.
+"Producer_GoingToDie23"
+//Going as fast as I can.
+"Producer_GoingToDie24"
+//Girl, you should have stayed at home. (to self)
+"Producer_GoingToDie25"
+//You have got to be kidding me.
+"Producer_GoingToDie26"
+//I got a plan, let's kill all the zombies. Sound good?
+"Producer_GoingToDie27"
+//Tonight's top story, Rochelle isn't going to make it.
+"Producer_GoingToDie301"
+//In case anyone is wondering, I am about to die!
+"Producer_GoingToDie302"
+//I am too young and too beautiful to die.
+"Producer_GoingToDie304"
+//I need to find some health.
+"Producer_GoingToDie305"
+//In case anyone is wondering, I am about to die!
+"Producer_GoingToDie306"
+//Ahhhh! What is this shit?
+"Producer_GooedBySpitter01"
+//Get out of this goo.
+"Producer_GooedBySpitter02"
+//Get out of the goo.
+"Producer_GooedBySpitter03"
+//Damn this stuff hurts.
+"Producer_GooedBySpitter04"
+//Ow! Move!
+"Producer_GooedBySpitter05"
+//Oh Jesus, this zombie spits burning shit!
+"Producer_GooedBySpitterC101"
+//BURNING SHIT!
+"Producer_GooedBySpitterC102"
+//Don't step in this shit!
+"Producer_GooedBySpitterC103"
+//Charger's got me!
+"Producer_GrabbedByCharger01"
+//This thing's crushing me!
+"Producer_GrabbedByCharger02"
+//I'm gettin' my ass beat!
+"Producer_GrabbedByCharger03"
+//Shoot it! Shoot it!
+"Producer_GrabbedByCharger04"
+//You gotta shoot this thing!
+"Producer_GrabbedByCharger05"
+//Shoot it! Shoot it! Shoot this thing!
+"Producer_GrabbedByCharger06"
+//Don't bash, shoot!
+"Producer_GrabbedByCharger07"
+//It's killing me! Shoot it!
+"Producer_GrabbedByCharger08"
+//I ain't playin' with this thing, HELP!
+"Producer_GrabbedByCharger09"
+//GET THIS THING OFF ME!!!
+"Producer_GrabbedByJockey01"
+//I CAN"T SEE! THIS THING IS ON ME!!
+"Producer_GrabbedByJockey02"
+//HELP!!
+"Producer_GrabbedByJockey03"
+//GET THIS THING OFF MY HEAD!!!
+"Producer_GrabbedByJockey04"
+//AGH! LET GO! LET GO! LET GO!
+"Producer_GrabbedByJockey05"
+//LET GO! LET GO! LET GO!
+"Producer_GrabbedByJockey06"
+//IT'S ON MY FACE!
+"Producer_GrabbedByJockey07"
+//OH! IT'S, IT'S ON MY FACE!
+"Producer_GrabbedByJockey08"
+//Holy shit, that thing's riding him!
+"Producer_GrabbedByJockeyR01"
+//That things riding him!
+"Producer_GrabbedByJockeyR02"
+//SMOKER'S GOT ME!!
+"Producer_GrabbedBySmoker01"
+//NO!
+"Producer_GrabbedBySmoker02"
+//NO!
+"Producer_GrabbedBySmoker02a"
+//NO!
+"Producer_GrabbedBySmoker02b"
+//NO!
+"Producer_GrabbedBySmoker02c"
+//NO!
+"Producer_GrabbedBySmoker02d"
+//NO!
+"Producer_GrabbedBySmoker02e"
+//No!
+"Producer_GrabbedBySmoker03"
+//No, No...
+"Producer_GrabbedBySmoker03a"
+//NO, NO!!!!!!!!
+"Producer_GrabbedBySmoker03b"
+//no, No,  No, NO!!!!!!!!
+"Producer_GrabbedBySmoker04"
+//What the hell?!?!
+"Producer_GrabbedBySmokerC101"
+//Something grabbed me!
+"Producer_GrabbedBySmokerC102"
+//I'm gettin' pulled!
+"Producer_GrabbedBySmokerC103"
+//OH shit! What the hell is going on?!?!
+"Producer_GrabbedBySmokerC104"
+//GRENADE!
+"Producer_Grenade01"
+//Throwing a pipe bomb.
+"Producer_Grenade02"
+//Throwing a Molotov.
+"Producer_Grenade03"
+//MOLOTOV COMING!
+"Producer_Grenade04"
+//PIPE BOMB OUT!
+"Producer_Grenade05"
+//FIRE COMING!
+"Producer_Grenade06"
+//GRENADE!
+"Producer_Grenade07"
+//Grenade launcher here!
+"Producer_GrenadeLauncher01"
+//Grenade launcher here!
+"Producer_GrenadeLauncher02"
+//Got a grenade launcher.
+"Producer_GrenadeLauncher03"
+//Got a grenade launcher.
+"Producer_GrenadeLauncher04"
+//Grenade launcher.
+"Producer_GrenadeLauncher05"
+//Oh, I like this.
+"Producer_GrenadeLauncher06"
+//Shit, you gotta quit moving so I can heal you.
+"Producer_HealOther01"
+//Quit fussing and let me heal you.
+"Producer_HealOther02"
+//Stand still or I am going to mess this up.
+"Producer_HealOther03"
+//Stop moving so I can heal you.
+"Producer_HealOther04"
+//Keep shooting, I can heal you.
+"Producer_HealOtherCombat01"
+//Stand still boy, healing you.
+"Producer_HealOtherCombat02"
+//I'll heal you! Don't stop shooting,
+"Producer_HealOtherCombat03"
+//Hold on!
+"Producer_HealOtherCombat04"
+//I'm healing you.
+"Producer_HealOtherCombat05"
+//Careful I can hear a boomer.
+"Producer_HeardBoomer01"
+//Boomer's around.
+"Producer_HeardBoomer02"
+//Careful I hear a boomer.
+"Producer_HeardBoomer03"
+//Careful there's a charger around.
+"Producer_HeardCharger01"
+//I hear a charger.
+"Producer_HeardCharger02"
+//Watch out, charger!
+"Producer_HeardCharger03"
+//Watch out, charger!
+"Producer_HeardCharger04"
+//Careful there's a charger around.
+"Producer_HeardCharger05"
+//Ahhh SHIT TANK!!!
+"Producer_HeardHulk01"
+//TANK! Light it up!
+"Producer_HeardHulk02"
+//TANK!
+"Producer_HeardHulk03"
+//Tank! Tank!
+"Producer_HeardHulk04"
+//I hear a Hunter.
+"Producer_HeardHunter01"
+//Careful, a Hunter's around.
+"Producer_HeardHunter02"
+//Oaohhh, hunter. (disgusted)
+"Producer_HeardHunter03"
+//There's a Hunter out there.
+"Producer_HeardHunter04"
+//A hunter's around, don't get pounced.
+"Producer_HeardHunter05"
+//I hear a Hunter.
+"Producer_HeardHunter06"
+//I hear a jockey.
+"Producer_HeardJockey01"
+//Oh shit, I hear a jockey.
+"Producer_HeardJockey02"
+//I hear one of those little things.
+"Producer_HeardJockey03"
+//Jockey around.
+"Producer_HeardJockey04"
+//Uh oh, I hear one of those, what do you call it? A jockey?
+"Producer_HeardJockeyC101"
+//There's a Smoker around here.
+"Producer_HeardSmoker01"
+//Careful, Smoker.
+"Producer_HeardSmoker02"
+//I hear a smoker.
+"Producer_HeardSmoker03"
+//Oh lord, not another smoker.
+"Producer_HeardSmoker04"
+//Careful, Smoker.
+"Producer_HeardSmoker05"
+//That doesn't sound right.
+"Producer_HeardSpecialC101"
+//Okay, that doesn't sound right.
+"Producer_HeardSpecialC102"
+//I don't like the sound of that.
+"Producer_HeardSpecialC103"
+//Oh what the hell is that!?
+"Producer_HeardSpecialC104"
+//There were reports of stuff worse than zombies.
+"Producer_HeardSpecialC105"
+//You hear that? Some of these things mutated.
+"Producer_HeardSpecialC106"
+//Spitter around.
+"Producer_HeardSpitter01"
+//I hear a spitter.
+"Producer_HeardSpitter02"
+//I hear one of those spitter things.
+"Producer_HeardSpitter03"
+//Spitter around.
+"Producer_HeardSpitter04"
+//I hear a spitter.
+"Producer_HeardSpitter05"
+//I hear one of those spitting things.
+"Producer_HeardSpitter06"
+//HOLY SHIT! WHAT IN THE HELL IS THAT??!!
+"Producer_HeardTanklC101"
+//WE GOTTA FIGHT THAT THING?!!?
+"Producer_HeardTanklC102"
+//SHOOT IT SHOOT IT!!
+"Producer_HeardTanklC103"
+//That sounds like a Witch.
+"Producer_HeardWitch01"
+//I hear a witch crying.
+"Producer_HeardWitch02"
+//I'm gonna give that witch something to cry about.
+"Producer_HeardWitch03"
+//Listen up, a witch!
+"Producer_HeardWitch04"
+//She doesn't sound happy.
+"Producer_HeardWitchC101"
+//What the hell's with that crying?
+"Producer_HeardWitchC102"
+//We should steer clear of her.
+"Producer_HeardWitchC103"
+//For the love of god, someone help me!!!
+"Producer_Help01"
+//Damn, I need some help!
+"Producer_Help02"
+//Ohhh I need some help!
+"Producer_Help03"
+//Help me!
+"Producer_Help04"
+//Help!
+"Producer_Help05"
+//Help!
+"Producer_Help06"
+//Gentlemen, I need some help!
+"Producer_Help07"
+//Come on guys, I need some help!
+"Producer_Help08"
+//Hunter's got Coach!
+"Producer_HunterCoachPounced01"
+//Hunter on  Coach!
+"Producer_HunterCoachPounced02"
+//Hunter's got Ellis!
+"Producer_HunterEllisPounced01"
+//Hunter on  Ellis!
+"Producer_HunterEllisPounced02"
+//Hunter's got Nick!
+"Producer_HunterNickPounced01"
+//Hunter's on Nick!
+"Producer_HunterNickPounced02"
+//That thing's on him!
+"Producer_HunterPouncedC106"
+//Get that thing off him!
+"Producer_HunterPouncedC107"
+//Woo - haha, we are kickin' it!
+"Producer_Hurrah01"
+//We're really doing this!
+"Producer_Hurrah02"
+//We kicked some ass.
+"Producer_Hurrah03"
+//We kick ass, yes we did. Woo!
+"Producer_Hurrah04"
+//Alright, this party is over.
+"Producer_Hurrah05"
+//Woo! We are going to make it!
+"Producer_Hurrah06"
+//Shit, we re all right!
+"Producer_Hurrah07"
+//Woo - we are doing all right.
+"Producer_Hurrah08"
+//Okay. We can do this, we can do this.
+"Producer_Hurrah09"
+//Oh yeah, oh yeah, oh yeah.
+"Producer_Hurrah10"
+//Ha! Oh yeah, oh yeah!
+"Producer_Hurrah11"
+//Thanks to you guys, I am the baddest woman alive!
+"Producer_Hurrah12"
+//Woo! Keep that up and we are out of here!
+"Producer_Hurrah15"
+//Come on hurry up!
+"Producer_HurryUp01"
+//C'mon, get the lead out!
+"Producer_HurryUp02"
+//Would you hurry up?
+"Producer_HurryUp03"
+//C'mon, let's go!
+"Producer_HurryUp04"
+//[pain noise - loud major pain]
+"Producer_HurtCritical01"
+//[pain noise - loud major pain]
+"Producer_HurtCritical02"
+//[pain noise - loud major pain]
+"Producer_HurtCritical03"
+//[pain noise - loud major pain]
+"Producer_HurtCritical04"
+//[pain noise - huh]
+"Producer_HurtMajor01"
+//[pain noise - ahh]
+"Producer_HurtMajor02"
+//[pain noise - oy]
+"Producer_HurtMajor03"
+//[pain noise - ugh]
+"Producer_HurtMajor04"
+//[pain noise - short minor pain]
+"Producer_HurtMinor01"
+//[pain noise - short minor pain]
+"Producer_HurtMinor02"
+//[pain noise - short minor pain]
+"Producer_HurtMinor03"
+//[pain noise - short minor pain]
+"Producer_HurtMinor04"
+//[pain noise - short minor pain]
+"Producer_HurtMinor05"
+//[pain noise - short minor pain]
+"Producer_HurtMinor06"
+//I'm here.
+"Producer_ImWithYou01"
+//I'm with you.
+"Producer_ImWithYou02"
+//I'm with you.
+"Producer_ImWithYou03"
+//I got your back.
+"Producer_ImWithYou04"
+//Yeah, boy, I got your back.
+"Producer_ImWithYou05"
+//I'm here. Let's go.
+"Producer_ImWithYou06"
+//I'm down!
+"Producer_IncapacitatedInitial01"
+//Boys, I'm down!
+"Producer_IncapacitatedInitial02"
+//Shit, I'm down.
+"Producer_IncapacitatedInitial03"
+//Ah, I'm down!
+"Producer_IncapacitatedInitial04"
+//AHHHHH [terrified yell]
+"Producer_IncapacitatedInjury01"
+//AHHHHH [terrified yell]
+"Producer_IncapacitatedInjury02"
+//AHHHHH [terrified yell]
+"Producer_IncapacitatedInjury03"
+//AHHHHH [terrified yell]
+"Producer_IncapacitatedInjury04"
+//Incendiary ammo here!
+"Producer_IncendAmmo02"
+//Incendiary ammo here!
+"Producer_IncendAmmo03"
+//Grabbin' incendiary ammo!
+"Producer_IncendAmmo04"
+//I'm not playing now.
+"Producer_IncendAmmo05"
+//Let's get a little bonfire going.
+"Producer_IncendAmmo06"
+//Deploying incendiary ammo!
+"Producer_IncendAmmo07"
+//Everyone grab some incendiary ammo!
+"Producer_IncendAmmo08"
+//Everyone grab some incendiary ammo!
+"Producer_IncendAmmo10"
+//Deploying incendiary ammo!
+"Producer_IncendAmmo11"
+//They're coming!
+"Producer_Incoming01"
+//Get ready!
+"Producer_Incoming02"
+//Here they come!
+"Producer_Incoming03"
+//Ah, it's on now!
+"Producer_Incoming04"
+//Party time!
+"Producer_Incoming05"
+//Time to kick some ass.
+"Producer_Incoming06"
+//Incoming!
+"Producer_Incoming07"
+//This is it!
+"Producer_Incoming08"
+//Got it!
+"Producer_KillConfirmation01"
+//Taken care of.
+"Producer_KillConfirmation02"
+//That was mine.
+"Producer_KillConfirmation03"
+//Dead.
+"Producer_KillConfirmation04"
+//Got 'em.
+"Producer_KillConfirmation05"
+//Got 'em.
+"Producer_KillConfirmation06"
+//Kicked it.
+"Producer_KillConfirmation07"
+//Kicked it's ass.
+"Producer_KillConfirmation08"
+//Turn your flashlight off.
+"Producer_KillThatLight01"
+//Everyone, lights out.
+"Producer_KillThatLight02"
+//Kill your light.
+"Producer_KillThatLight03"
+//Lights off.
+"Producer_KillThatLight04"
+//Lights out!
+"Producer_KillThatLight05"
+//Flashlights out!
+"Producer_KillThatLight06"
+//Turn off that light *quiet*  NOW.
+"Producer_KillThatLight07"
+//Laser sights here.
+"Producer_LaserSights01"
+//Laser sights here.
+"Producer_LaserSights02"
+//Laser sights here.
+"Producer_LaserSights03"
+//<Short laugh>
+"Producer_Laughter01"
+//<Hearty Laugh>
+"Producer_Laughter04"
+//<Short laugh>
+"Producer_Laughter12"
+//<Hearty Laugh>
+"Producer_Laughter13"
+//<Short laugh>
+"Producer_Laughter14"
+//<Short laugh>
+"Producer_Laughter17"
+//Sure, you lead.
+"Producer_LeadOn01"
+//Sure, lead. on
+"Producer_LeadOn02"
+//Lead on.
+"Producer_LeadOn03"
+//Alright, I'll follow you.
+"Producer_LeadOn04"
+//Go on, I'll keep up.
+"Producer_LeadOn05"
+//I'm right behind you.
+"Producer_LeadOn06"
+//Go on, I'll keep up.
+"Producer_LeadOn07"
+//I'm right behind you.
+"Producer_LeadOn08"
+//Lead on.
+"Producer_LeadOn09"
+//'Kay, go ahead.
+"Producer_LeadOn10"
+//THIS IS NOT  HOW I WANT TO DIE - HELP!
+"Producer_LedgeHangEnd01"
+//I'M OVER HERE!
+"Producer_LedgeHangEnd02"
+//I'M ABOUT TO FALL!
+"Producer_LedgeHangEnd03"
+//I'm FALLING!
+"Producer_LedgeHangEnd04"
+//HELP ME UP!
+"Producer_LedgeHangEnd05"
+//HEEEEEEEELLLLLPPPPP!!!!!
+"Producer_LedgeHangFall01"
+//NOOOOOOOOOOOOOOOO!!!!
+"Producer_LedgeHangFall02"
+//Guys, I can't hang on much longer.
+"Producer_LedgeHangMiddle01"
+//Don't even think of leaving me here!
+"Producer_LedgeHangMiddle02"
+//I can't hang on here all day!
+"Producer_LedgeHangMiddle03"
+//For the love of god, someone needs to pull me up!
+"Producer_LedgeHangMiddle04"
+//Woah
+"Producer_LedgeHangSlip01"
+//Woah
+"Producer_LedgeHangSlip02"
+//Woah woah woah
+"Producer_LedgeHangSlip03"
+//While I am the best looking girl hanging on this ledge...  I wish I wasn't.  Hanging on a ledge I mean.
+"Producer_LedgeHangStart01"
+//I could use a hand here!
+"Producer_LedgeHangStart02"
+//Can someone help me?
+"Producer_LedgeHangStart03"
+//Damsel in distress over here.
+"Producer_LedgeHangStart04"
+//HEY! I uh... kinda slipped!
+"Producer_LedgeHangStart05"
+//You look like a fool hanging there, let me help you up.
+"Producer_LedgeSave01"
+//Hang on boy I'm not going to let you fall.
+"Producer_LedgeSave02"
+//Don't worry. No way I'm going to leave you hanging.
+"Producer_LedgeSave03"
+//Hang on baby I'm not going to let you fall.
+"Producer_LedgeSave04"
+//Yeah, uh, did this seem like a good idea to you at sometime?  Let me help you up.
+"Producer_LedgeSave05"
+//Over there!
+"Producer_Look01"
+//Over there!
+"Producer_Look02"
+//Look!
+"Producer_Look03"
+//Look!
+"Producer_Look04"
+//Over there!
+"Producer_Look05"
+//Look!
+"Producer_Look06"
+//Look over here!
+"Producer_LookHere01"
+//Look at this.
+"Producer_LookHere02"
+//Check this shit out.
+"Producer_LookHere03"
+//Whoa, check this shit out.
+"Producer_LookHere04"
+//Look here.
+"Producer_LookHere05"
+//Look out!
+"Producer_LookOut01"
+//Watch out!
+"Producer_LookOut02"
+//Heads up!
+"Producer_LookOut03"
+//Helloooo?
+"Producer_LostCall01"
+//Helloooo?
+"Producer_LostCall02"
+//Anyone out there?
+"Producer_LostCall03"
+//Can  you guys here me?
+"Producer_LostCall04"
+//Where is everyone?
+"Producer_LostCall05"
+//HELL yeah!
+"Producer_MeleeResponse02"
+//Machete hereÖ
+"Producer_MeleeWeapons02"
+//Got a machete.
+"Producer_MeleeWeapons03"
+//Got a machete.
+"Producer_MeleeWeapons04"
+//Chainsaw hereÖ
+"Producer_MeleeWeapons05"
+//Chainsaw hereÖ
+"Producer_MeleeWeapons06"
+//Got a chainsaw.
+"Producer_MeleeWeapons07"
+//Nightstick hereÖ
+"Producer_MeleeWeapons08"
+//Nightstick hereÖ
+"Producer_MeleeWeapons09"
+//Grabbing a nightstick.
+"Producer_MeleeWeapons10"
+//Guitar here.
+"Producer_MeleeWeapons11"
+//Guitar here.
+"Producer_MeleeWeapons12"
+//Guitar here.
+"Producer_MeleeWeapons13"
+//Grabbing a guitar.
+"Producer_MeleeWeapons14"
+//Katana here.
+"Producer_MeleeWeapons15"
+//Katana here.
+"Producer_MeleeWeapons16"
+//Grabbing a katana.
+"Producer_MeleeWeapons17"
+//Grabbing a crowbar.
+"Producer_MeleeWeapons18"
+//Grabbing a crowbar.
+"Producer_MeleeWeapons19"
+//Crowbar.
+"Producer_MeleeWeapons20"
+//Cricket bat here.
+"Producer_MeleeWeapons21"
+//Cricket bat here.
+"Producer_MeleeWeapons22"
+//Got a cricket bat.
+"Producer_MeleeWeapons23"
+//Through here!
+"Producer_MiscDirectional01"
+//Through there!
+"Producer_MiscDirectional02"
+//This way!
+"Producer_MiscDirectional03"
+//In here!
+"Producer_MiscDirectional04"
+//Down here!
+"Producer_MiscDirectional05"
+//Through this window!
+"Producer_MiscDirectional07"
+//Let's go through here!
+"Producer_MiscDirectional11"
+//Through this door!
+"Producer_MiscDirectional13"
+//Through that gate!
+"Producer_MiscDirectional16"
+//Up this ladder!
+"Producer_MiscDirectional18"
+//Over this fence!
+"Producer_MiscDirectional21"
+//We can cross here!
+"Producer_MiscDirectional24"
+//We can get up here!
+"Producer_MiscDirectional26"
+//There's a safe room up there!
+"Producer_MiscDirectional31"
+//Press the button!
+"Producer_MiscDirectional33"
+//I hit it!
+"Producer_MiscDirectional36"
+//Over this door!
+"Producer_MiscDirectional39"
+//Jump down there!
+"Producer_MiscDirectional44"
+//Back through the field!
+"Producer_MiscDirectional45"
+//We can take the elevator back up!
+"Producer_MiscDirectional47"
+//UP this pipe!
+"Producer_MiscDirectional49"
+//Back down the stairs!
+"Producer_MiscDirectional50"
+//We can cross on that tank!
+"Producer_MiscDirectional52"
+//Cross here!
+"Producer_MiscDirectional55"
+//This flooded fast.
+"Producer_MiscDirectional58"
+//It's all flooded.
+"Producer_MiscDirectional59"
+//STORM!
+"Producer_MiscDirectional60"
+//STORM'S COMING!
+"Producer_MiscDirectional62"
+//OH, STORM'S STARTING!
+"Producer_MiscDirectional63"
+//STAY CLOSE!
+"Producer_MiscDirectional64"
+//I can't see a damn thing.
+"Producer_MiscDirectional65"
+//There's the sign! We're almost outta here!
+"Producer_MiscDirectional66"
+//Can we get going?
+"Producer_MoveOn01"
+//Time to get going.
+"Producer_MoveOn02"
+//Come on, lets go!
+"Producer_MoveOn03"
+//We need  to get going.
+"Producer_MoveOn04"
+//Let's go.
+"Producer_MoveOn05"
+//Coach!
+"Producer_NameCoach01"
+//Coach!
+"Producer_NameCoach03"
+//Coach!
+"Producer_NameCoach04"
+//Coach!
+"Producer_NameCoach05"
+//Coach!
+"Producer_NameCoach06"
+//Coach!
+"Producer_NameCoach10"
+//Hey Big Guy!
+"Producer_NameCoach12"
+//Big Guy!
+"Producer_NameCoach16"
+//Big Guy!
+"Producer_NameCoach18"
+//Big Guy!
+"Producer_NameCoach19"
+//Ellis!
+"Producer_NameEllis01"
+//Yo, Ellis!
+"Producer_NameEllis04"
+//Ellis!
+"Producer_NameEllis05"
+//Ellis!
+"Producer_NameEllis06"
+//Hey Hee-Haw!
+"Producer_NameEllis07"
+//Suit.
+"Producer_NameGamblerC101"
+//Fancy man.
+"Producer_NameGamblerC102"
+//Suit.
+"Producer_NameGamblerC105"
+//Suit.
+"Producer_NameGamblerC106"
+//Fancy man.
+"Producer_NameGamblerC107"
+//Hey, fancy man.
+"Producer_NameGamblerC108"
+//Hey sharp dresser.
+"Producer_NameGamblerC111"
+//Hey sharp dresser.
+"Producer_NameGamblerC112"
+//Youngin!
+"Producer_NameMechanicC101"
+//Little Guy.
+"Producer_NameMechanicC102"
+//Dude!
+"Producer_NameMechanicC103"
+//Yo, dude!
+"Producer_NameMechanicC104"
+//Hey, Little Guy.
+"Producer_NameMechanicC105"
+//Hey, Little Guy.
+"Producer_NameMechanicC106"
+//Yo, youngin!
+"Producer_NameMechanicC107"
+//Hey, youngin!
+"Producer_NameMechanicC108"
+//Hey, dude!
+"Producer_NameMechanicC109"
+//Hey, dude!
+"Producer_NameMechanicC110"
+//Hey, Little Guy.
+"Producer_NameMechanicC111"
+//Yo, youngin!
+"Producer_NameMechanicC112"
+//Yo, dude!
+"Producer_NameMechanicC113"
+//Nick!
+"Producer_NameNick01"
+//Hey suit!
+"Producer_NameNick02"
+//Nicolas!
+"Producer_NameNick03"
+//Hey, Nick!
+"Producer_NameNick04"
+//Nick!
+"Producer_NameNick05"
+//Yo, Nick!
+"Producer_NameNick06"
+//Nick!
+"Producer_NameNick09"
+//Nick!
+"Producer_NameNick10"
+//Yeah!
+"Producer_NiceJob01"
+//Kick ass!
+"Producer_NiceJob02"
+//Helllo!
+"Producer_NiceJob03"
+//You're all right!
+"Producer_NiceJob04"
+//Oh shut up.
+"Producer_NiceJob05"
+//Oh no you didn't.
+"Producer_NiceJob06"
+//You're on fire.
+"Producer_NiceJob07"
+//That was cool.
+"Producer_NiceJob08"
+//Alright, kick ass!
+"Producer_NiceJob09"
+//You are on fire today.
+"Producer_NiceJob10"
+//Hey, nice job.
+"Producer_NiceJob11"
+//Oh, Hell yeah.
+"Producer_NiceJob12"
+//Nice work.
+"Producer_NiceJob13"
+//Nice shot.
+"Producer_NiceShot01"
+//Cool.
+"Producer_NiceShot02"
+//Great shot!
+"Producer_NiceShot03"
+//Nice shot!
+"Producer_NiceShot04"
+//Good one!
+"Producer_NiceShot05"
+//Nice shot coach.
+"Producer_NiceShotCoach01"
+//Ugh, smells like a dirty old white suit that hasn't been drycleaned in a month.
+"Producer_NickOcd05"
+//Oh no.
+"Producer_No01"
+//I don't think so.
+"Producer_No02"
+//Uh, no.
+"Producer_No03"
+//Oh please.
+"Producer_No04"
+//Oh please.
+"Producer_No05"
+//Boy, no way.
+"Producer_No06"
+//NO!
+"Producer_No07"
+//Seriously, no.
+"Producer_No08"
+//No, no, no no.
+"Producer_No09"
+//No, no, no no.
+"Producer_No10"
+//No thank you.
+"Producer_No11"
+//No.
+"Producer_No12"
+//Ohhhhh.
+"Producer_PainRelieftFirstAid01"
+//Oh yeah.
+"Producer_PainRelieftFirstAid02"
+//Now I'm feelin' right!
+"Producer_PainRelieftFirstAid03"
+//Oh yeah, that's what I'm talkin' about!
+"Producer_PainRelieftFirstAid04"
+//Whoo! Alll better now!
+"Producer_PainRelieftFirstAid05"
+//That's better!
+"Producer_PainRelieftPills01"
+//Yeah, that'll help.
+"Producer_PainRelieftPills02"
+//Ahhh. Ooohh.
+"Producer_PainRelieftPills03"
+//Oh yeah!
+"Producer_PainRelieftPills04"
+//Better!
+"Producer_PainRelieftPills05"
+//[Improv non-verbal pleasure & interest sounds]
+"Producer_PositiveNoise01"
+//[Improv non-verbal pleasure & interest sounds]
+"Producer_PositiveNoise04"
+//Nooooo oo ooo ohhhhh.
+"Producer_ReactionNegative01"
+//Damnn...
+"Producer_ReactionNegative02"
+//Oh this is bad...
+"Producer_ReactionNegative03"
+//Oh shit!
+"Producer_ReactionNegative04"
+//Sweet Jesus!
+"Producer_ReactionNegative05"
+//Sweet Lincoln's mullet!
+"Producer_ReactionNegative06"
+//Mother of Mercy.
+"Producer_ReactionNegative08"
+//Well this just sucks.
+"Producer_ReactionNegative09"
+//Blarg!
+"Producer_ReactionNegative10"
+//Can just one goddamn thing go right?
+"Producer_ReactionNegative11"
+//We are in some deep shit!
+"Producer_ReactionNegative12"
+//Holy shit!
+"Producer_ReactionNegative13"
+//We are in some deep shit!
+"Producer_ReactionNegative14"
+//Could this really get any worse?  I don't think so.
+"Producer_ReactionNegative15"
+//We do not have time for this shit.
+"Producer_ReactionNegative16"
+//We don't have time for this shit.
+"Producer_ReactionNegative17"
+//Goddamnit!
+"Producer_ReactionNegative18"
+//Can just one more goddamn thing go wrong?
+"Producer_ReactionNegative19"
+//Argghh! (disgusted)
+"Producer_ReactionNegative20"
+//Jesus Christ!
+"Producer_ReactionNegative21"
+//Reloading!
+"Producer_Reloading01"
+//Reloading!
+"Producer_Reloading02"
+//I'm Reloading!
+"Producer_Reloading03"
+//Reloading!
+"Producer_Reloading04"
+//Reloading.
+"Producer_ReloadingQuiet01"
+//Reloading.
+"Producer_ReloadingQuiet02"
+//Wait, reloading.
+"Producer_ReloadingQuiet03"
+//I'm reloading.
+"Producer_ReloadingQuiet04"
+//Reloading.
+"Producer_ReloadingQuiet05"
+//Reloading!
+"Producer_ReloadIntense01"
+//Reloading!
+"Producer_ReloadIntense02"
+//Reloading here!
+"Producer_ReloadIntense03"
+//I'm no nurse, but you look pretty messed up. Go down again and that's it.
+"Producer_ReviveCriticalFriend01"
+//You scared the shit out of me. Thought that was it for you. One more time down and it will be.
+"Producer_ReviveCriticalFriend02"
+//Do you know what that is? I think it used to be inside you. Go down again and it won't matter.
+"Producer_ReviveCriticalFriend03"
+//You're scaring the shit out of me. You go down one more time and that's it for you.
+"Producer_ReviveCriticalFriend04"
+//I'm going to get you on your feet, but we need to get you fixed up or you aren't going to make it.
+"Producer_ReviveCriticalFriend05"
+//You gotta stop ending up down here.  This is no way to stay alive.
+"Producer_ReviveFriend01"
+//What in the hell have you gone and done now? Get up.
+"Producer_ReviveFriend02"
+//Oh please, get up, you are going to be fine, come on come on.
+"Producer_ReviveFriend03"
+//The big guy upstairs isn't ready to take you yet. Lets get you on your feet.
+"Producer_ReviveFriend04"
+//You're gonna have to suck it up.  We need you for a little bit longer.
+"Producer_ReviveFriend05"
+//Ah baby, can't have you down there, let me help you up on your feet.
+"Producer_ReviveFriend06"
+//No time for this now, we have to keep moving.  Let's get you up.
+"Producer_ReviveFriend07"
+//Can't stay down there forever. Let me get you up on your feet.
+"Producer_ReviveFriend08"
+//If I didn't know any better, I would think you were trying to kill yourself.  Get up now!
+"Producer_ReviveFriend09"
+//Don't worry, you'll be fine.  Let's get you back up on your feet.
+"Producer_ReviveFriend10"
+//What's up with you down there?  Come on, let's get you up.
+"Producer_ReviveFriend11"
+//OH MAN! I mean, uh,  I mean you look fine.  Don't worry.  Let's get you up.
+"Producer_ReviveFriend12"
+//Come on now, we don't have time for all this laying around.
+"Producer_ReviveFriend13"
+//You coming or you just gonna lay there all day?  Let's get you up.
+"Producer_ReviveFriend14"
+//You okay?
+"Producer_ReviveFriendA01"
+//How are you feeling?
+"Producer_ReviveFriendA02"
+//Can you make it?
+"Producer_ReviveFriendA03"
+//How bad is it?
+"Producer_ReviveFriendA04"
+//What's up?
+"Producer_ReviveFriendA05"
+//Are you done laying around now?
+"Producer_ReviveFriendA07"
+//Ready to get up?
+"Producer_ReviveFriendA08"
+//What's up with that?
+"Producer_ReviveFriendA09"
+//So what is wrong with you?
+"Producer_ReviveFriendA10"
+//Can you make it?
+"Producer_ReviveFriendA11"
+//Oh come on. You can make it.
+"Producer_ReviveFriendA12"
+//Can't you suck it up?
+"Producer_ReviveFriendA13"
+//Does it hurt as bad as it looks?
+"Producer_ReviveFriendA14"
+//What's up with you?
+"Producer_ReviveFriendA15"
+//Are you crying?
+"Producer_ReviveFriendA16"
+//Alright, you cool?
+"Producer_ReviveFriendA17"
+//You good?
+"Producer_ReviveFriendA18"
+//Ah, you going to be okay.
+"Producer_ReviveFriendA19"
+//You going to be okay?
+"Producer_ReviveFriendA20"
+//What ya doin' down there?
+"Producer_ReviveFriendA21"
+//Can you man up?
+"Producer_ReviveFriendA22"
+//Well let's go.
+"Producer_ReviveFriendB01"
+//Up and at 'em.
+"Producer_ReviveFriendB02"
+//Come on get up.
+"Producer_ReviveFriendB03"
+//Up we go.
+"Producer_ReviveFriendB04"
+//See you're fine.
+"Producer_ReviveFriendB05"
+//Yeah, you look fine now.
+"Producer_ReviveFriendB06"
+//Nothing to worry about.
+"Producer_ReviveFriendB07"
+//You had me worried there.
+"Producer_ReviveFriendB08"
+//Come on, we can't lose you.
+"Producer_ReviveFriendB09"
+//Oh, I knew you'd be okay.
+"Producer_ReviveFriendB10"
+//The picture of health.
+"Producer_ReviveFriendB11"
+//Good as new.
+"Producer_ReviveFriendB12"
+//You're good, you're good.
+"Producer_ReviveFriendB13"
+//Come on, Come on, GET YOUR ASS UP!
+"Producer_ReviveFriendLoud01"
+//Get up, NOW!
+"Producer_ReviveFriendLoud02"
+//Look, we have to get going, come on.
+"Producer_ReviveFriendLoud03"
+//Hell if I am carrying you, GET UP!
+"Producer_ReviveFriendLoud04"
+//Oh shit! Just get up, get up!
+"Producer_ReviveFriendLoud05"
+//Come on! Come on! On your feet!
+"Producer_ReviveFriendLoud06"
+//Get up! Get up! Get up!
+"Producer_ReviveFriendLoud07"
+//Get up! Get up! Get up!
+"Producer_ReviveFriendLoud08"
+//Safe house ahead.
+"Producer_SafeSpotAhead01"
+//Safe house up here.
+"Producer_SafeSpotAhead02"
+//Safe house this way!
+"Producer_SafeSpotAhead03"
+//I see a safe house this way!
+"Producer_SafeSpotAhead04"
+//Safe house up ahead!
+"Producer_SafeSpotAhead05"
+//Oh, a safe house up ahead!
+"Producer_SafeSpotAhead06"
+//AGH! GET IT...
+"Producer_ScreamWhilePounced01"
+//OFF OF ME!
+"Producer_ScreamWhilePounced01a"
+//GET IT OFF!
+"Producer_ScreamWhilePounced02"
+//Agh!
+"Producer_ScreamWhilePounced02a"
+//GET IT OFF OF ME!
+"Producer_ScreamWhilePounced02b"
+//Agh!
+"Producer_ScreamWhilePounced03"
+//GET OFF!
+"Producer_ScreamWhilePounced03a"
+//GET OFF! GET OFF!
+"Producer_ScreamWhilePounced03b"
+//GET OFF!
+"Producer_ScreamWhilePounced03c"
+//AHH, GET IT...
+"Producer_ScreamWhilePounced04"
+//GET IT... GET OFF!
+"Producer_ScreamWhilePounced04a"
+//GET OFF!  GET OFF!
+"Producer_ScreamWhilePounced04b"
+//GET IT OFF ME!  GET IT OFF ME!
+"Producer_ScreamWhilePounced05"
+//Are these things bulletproof?
+"Producer_SeeArmored01"
+//Spin them around and shoot them in the back!
+"Producer_SeeArmored02"
+//That clown's attracting a horde!
+"Producer_SeeClowns01"
+//Somebody shut up that clown!
+"Producer_SeeClowns04"
+//Kill the clown!
+"Producer_SeeClowns05"
+//Kill the clown!
+"Producer_SeeClowns06"
+//The clown's attracting a horde!
+"Producer_SeeClowns07"
+//Great. Infected in hazmat suits.
+"Producer_SeeHazmat01"
+//Fireproof zombies. Hooray!
+"Producer_SeeHazmat02"
+//Shit. I think these guys are fireproof.
+"Producer_SeeHazmat03"
+//Okay, now what the hell are these things?
+"Producer_SeeMudmen02"
+//Shoot the Mudmen!
+"Producer_SeeMudmen03"
+//Shoot the Mudmen!
+"Producer_SeeMudmen04"
+//Mudmen!
+"Producer_SeeMudmen05"
+//Sorry.
+"Producer_Sorry01"
+//You can blame that one on me.
+"Producer_Sorry02"
+//Sorry about that.
+"Producer_Sorry03"
+//Okay that was a mistake.
+"Producer_Sorry04"
+//Sorry.
+"Producer_Sorry05"
+//Guilty, sorry!
+"Producer_Sorry06"
+//Oh I'm sorry.
+"Producer_Sorry07"
+//Sorry.
+"Producer_Sorry08"
+//Ammo!
+"Producer_SpotAmmo01"
+//Ammo here!
+"Producer_SpotAmmo02"
+//Ammo here!
+"Producer_SpotAmmo03"
+//Ammo here!
+"Producer_SpotAmmo04"
+//Ammunition!
+"Producer_SpotAmmo05"
+//First Aid Kit here!
+"Producer_SpotFirstAid01"
+//First Aid Kit!
+"Producer_SpotFirstAid02"
+//First Aid here!
+"Producer_SpotFirstAid03"
+//First Aid!
+"Producer_SpotFirstAid04"
+//There's a first aid kit here.
+"Producer_SpotFirstAid05"
+//Pipebomb here.
+"Producer_SpotGrenades01"
+//There's a pipebomb here.
+"Producer_SpotGrenades02"
+//Pipe bomb.
+"Producer_SpotGrenades03"
+//Pills for me.
+"Producer_SpotPills01"
+//Pills here!
+"Producer_SpotPills02"
+//Pills here!
+"Producer_SpotPills03"
+//Pills!
+"Producer_SpotPills04"
+//Weapons over here!
+"Producer_SpotWeapons01"
+//Weapons over here!
+"Producer_SpotWeapons02"
+//All right weapons!
+"Producer_SpotWeapons03"
+//We have guns here!
+"Producer_SpotWeapons04"
+//Stay close!
+"Producer_StayTogether01"
+//Let's try to stay together.
+"Producer_StayTogether02"
+//Stay together everyone.
+"Producer_StayTogether03"
+//Stick together!
+"Producer_StayTogether04"
+//Stick together!
+"Producer_StayTogether05"
+//Get your asses inside.
+"Producer_StayTogetherInside01"
+//What in the hell are you doing out there?  Get inside!
+"Producer_StayTogetherInside02"
+//Get inside!
+"Producer_StayTogetherInside03"
+//Everyone inside!
+"Producer_StayTogetherInside04"
+//Everyone, in here!
+"Producer_StayTogetherInside05"
+//You should heal up.
+"Producer_SuggestHealth02"
+//Heal up!
+"Producer_SuggestHealth04"
+//We should heal.
+"Producer_SuggestHealth05"
+//Heal if you need to!
+"Producer_SuggestHealth06"
+//Heal up!
+"Producer_SuggestHealth07"
+//We should heal.
+"Producer_SuggestHealth08"
+//Hey old man, heal up.
+"Producer_SuggestHealthCoach01"
+//Hey coach, you should use that health kit.
+"Producer_SuggestHealthCoach02"
+//Time to heal up coach.
+"Producer_SuggestHealthCoach03"
+//Ellis baby, time to heal up.
+"Producer_SuggestHealthEllis01"
+//Ellis honey, you should use your first aid.
+"Producer_SuggestHealthEllis02"
+//Ellis, come on heal up already.
+"Producer_SuggestHealthEllis03"
+//Nick, you might want to heal now.
+"Producer_SuggestHealthNick01"
+//Smoke 'em if you got 'em Nick.
+"Producer_SuggestHealthNick02"
+//Nick, you might want to heal now.
+"Producer_SuggestHealthNick03"
+//Nick.  Healing time.
+"Producer_SuggestHealthNick04"
+//Gonna miss you Coach.
+"Producer_SurvivorMournCoach01"
+//Do you think Coach was his first or last name?
+"Producer_SurvivorMournCoach02"
+//Goodbye coach?
+"Producer_SurvivorMournCoach03"
+//Damn, didn't even get to know you coach.
+"Producer_SurvivorMournCoach04"
+//Ellis, what did you go and do?
+"Producer_SurvivorMournEllis01"
+//Oh Ellis, Ellis, Ellis....
+"Producer_SurvivorMournEllis02"
+//Oh Ellis, I am going to miss you.
+"Producer_SurvivorMournEllis03"
+//Not much to say my friend, goodbye.
+"Producer_SurvivorMournGamblerC101"
+//Gonna miss our little mechanic.
+"Producer_SurvivorMournMechanicC101"
+//Ahh Nick, at least you are dressed for a funeral.
+"Producer_SurvivorMournNick01"
+//Goodbye Nick, going to miss you.
+"Producer_SurvivorMournNick02"
+//I'll try this rifle.
+"Producer_TakeAssaultRifle01"
+//Taking the rifle.
+"Producer_TakeAssaultRifle02"
+//Rifle for me.
+"Producer_TakeAssaultRifle03"
+//Taking the shotgun.
+"Producer_TakeAutoShotgun01"
+//Going with the shotgun.
+"Producer_TakeAutoShotgun02"
+//Shotgun for me.
+"Producer_TakeAutoShotgun03"
+//Grabbing first aid.
+"Producer_TakeFirstAid01"
+//First Aid Kit.
+"Producer_TakeFirstAid02"
+//Nothing to see - no health kit here.
+"Producer_TakeFirstAid03"
+//Axe me a question, I dare you? (laughingly)
+"Producer_TakeFryingAxe01"
+//Axe!
+"Producer_TakeFryingAxe02"
+//No one better make a crack about me in the kitchen.
+"Producer_TakeFryingPan01"
+//This will work.
+"Producer_TakeFryingPan02"
+//Frying pan!
+"Producer_TakeFryingPan03"
+//Gonna wack something with this.
+"Producer_TakeMelee01"
+//I know what to do with this.
+"Producer_TakeMelee02"
+//Oh yeah, gonna wack some heads.
+"Producer_TakeMelee03"
+//Yeah, this is what I'm talking about.
+"Producer_TakeMelee04"
+//Oh, I know what to do with this.
+"Producer_TakeMelee05"
+//Oh yeah, gonna wack some heads.
+"Producer_TakeMelee06"
+//This is what I'm talking about.
+"Producer_TakeMelee07"
+//Gonna wack something with this.
+"Producer_TakeMelee08"
+//Momma told me not to play with fire, but...
+"Producer_TakeMolotov01"
+//I'm grabbing a Molotov.
+"Producer_TakeMolotov02"
+//Molotov!
+"Producer_TakeMolotov03"
+//Fire time.
+"Producer_TakeMolotov04"
+//I can use these pills.
+"Producer_TakePills01"
+//We're going to need these.
+"Producer_TakePills02"
+//We might need these. (inward)
+"Producer_TakePills03"
+//I got these pills.
+"Producer_TakePills04"
+//Grabbing a pipe bomb.
+"Producer_TakePipeBomb01"
+//Pipe bomb!
+"Producer_TakePipeBomb02"
+//Grabbing the pistol!
+"Producer_TakePistol01"
+//Pistol!
+"Producer_TakePistol02"
+//Double pistols.
+"Producer_TakePistol03"
+//Grabbing a pistol.
+"Producer_TakePistol04"
+//I'll try this shotgun.
+"Producer_TakeShotgun01"
+//Shotgun.
+"Producer_TakeShotgun02"
+//I'll take the shotgun.
+"Producer_TakeShotgun03"
+//I'm going to try this scope out..
+"Producer_TakeSniper01"
+//I'll snipe.
+"Producer_TakeSniper02"
+//A machinegun.
+"Producer_TakeSubMachineGun01"
+//I'll take this one.
+"Producer_TakeSubMachineGun02"
+//Oh, Jesus, sweet Jesus get this thing off me!
+"Producer_TankPound01"
+//Get him off me! Get him off me!
+"Producer_TankPound02"
+//Kill him! KILL HIM! KILL HIM!  KILL HIM!  KILL HIM!  KILL HIM!  OH GOD KILL HIM!
+"Producer_TankPound03"
+//Kill him! KILL HIM!
+"Producer_TankPound04"
+//Can't you see he is crushing me?!?!
+"Producer_TankPound05"
+//Who's barking now?
+"Producer_Taunt01"
+//Oh hell yes!
+"Producer_Taunt02"
+//What's up with that?
+"Producer_Taunt03"
+//Yeah right.
+"Producer_Taunt05"
+//Yeah, thats right. [grim, determined]
+"Producer_Taunt06"
+//Forget about it.
+"Producer_Taunt07"
+//Ohhh shut up!
+"Producer_Taunt08"
+//Did you seriously think that was a good idea?
+"Producer_TeamKillAccident01"
+//What is going on inside that head of yours?
+"Producer_TeamKillAccident02"
+//JESUS! We are on the same team here!
+"Producer_TeamKillAccident03"
+//What the?
+"Producer_TeamKillAccident04"
+//Thanks for that.
+"Producer_Thanks01"
+//Hey, thanks!
+"Producer_Thanks02"
+//Thanks!
+"Producer_Thanks03"
+//Thanks I owe you one.
+"Producer_Thanks04"
+//Thanks.
+"Producer_Thanks05"
+//Thanks Ellis, I guess I will keep you.
+"Producer_ThanksEllis01"
+//Look at you Nick, you have a heart, A HEART OF GOLD!
+"Producer_ThanksNick01"
+//Help is coming, hang on!
+"Producer_ToTheRescue01"
+//Hold on, I'm coming!
+"Producer_ToTheRescue02"
+//I'm on the way!
+"Producer_ToTheRescue03"
+//Hang in there, I'm coming!
+"Producer_ToTheRescue04"
+//I'm coming!
+"Producer_ToTheRescue05"
+//Hang in there a few more seconds.
+"Producer_ToTheRescue06"
+//Woah, that was close!
+"Producer_TransitionClose01"
+//Okay, that was a little too close.
+"Producer_TransitionClose02"
+//Did we all make it, OH YES WE DID!
+"Producer_TransitionClose03"
+//Woah, that was close!
+"Producer_TransitionClose04"
+//That was close.
+"Producer_TransitionClose05"
+//Live and in the flesh!
+"Producer_TransitionClose06"
+//All bark, no bite!
+"Producer_TransitionClose07"
+//We made it uh huh. We made it oh yeah (sung)
+"Producer_TransitionClose08"
+//Whoa, that's about as close as I like to cut itÖ
+"Producer_TransitionClose10"
+//We're going to have to do better.
+"Producer_TransitionClose11"
+//We almost didn't make itÖ
+"Producer_TransitionClose12"
+//I KNOW we can do better than that.
+"Producer_TransitionClose13"
+//What happened to us?
+"Producer_TransitionClose15"
+//Wait here!
+"Producer_WaitHere01"
+//Okay, wait here!
+"Producer_WaitHere02"
+//Let's stop.
+"Producer_WaitHere03"
+//Break time.
+"Producer_WaitHere04"
+//BOOMER!
+"Producer_WarnBoomer01"
+//BOOMER!
+"Producer_WarnBoomer02"
+//BOOMER!
+"Producer_WarnBoomer03"
+//OH SHIT, FAT GUY!
+"Producer_WarnBoomerC101"
+//BIG GUY!
+"Producer_WarnBoomerC102"
+//FAT GUY!
+"Producer_WarnBoomerC103"
+//BIG GUY!
+"Producer_WarnBoomerC104"
+//OH, THERE'S A FAT GUY!
+"Producer_WarnBoomerC105"
+//BARF BAG!
+"Producer_WarnBoomerC106"
+//BARF BAG!
+"Producer_WarnBoomerC107"
+//Be Careful.
+"Producer_WarnCareful01"
+//Careful.
+"Producer_WarnCareful02"
+//Careful, guys.
+"Producer_WarnCareful03"
+//CHARGER!
+"Producer_WarnCharger01"
+//CHARGER!
+"Producer_WarnCharger02"
+//CHARGER!
+"Producer_WarnCharger03"
+//ONE OF THOSE CHARGING THNGS!
+"Producer_WarnChargerC101"
+//ONE OF THOSE CHARGING THNGS!
+"Producer_WarnChargerC102"
+//ONE OF THOSE CHARGING THNGS!
+"Producer_WarnChargerC103"
+//HUNTER!
+"Producer_WarnHunter01"
+//HUNTER!
+"Producer_WarnHunter02"
+//HUNTER!
+"Producer_WarnHunter03"
+//ONE OF THOSE POUNCING THINGS!
+"Producer_WarnHunterC101"
+//HOODIE!
+"Producer_WarnHunterC102"
+//HOODIE BASTARD!
+"Producer_WarnHunterC103"
+//JUMPER!
+"Producer_WarnHunterC104"
+//LEAPER!
+"Producer_WarnHunterC105"
+//They call them Hunters.
+"Producer_WarnHunterC1P02"
+//Just never saw one before.
+"Producer_WarnHunterC1P03"
+//JOCKEY!
+"Producer_WarnJockey01"
+//JOCKEY!
+"Producer_WarnJockey03"
+//SMOKER!
+"Producer_WarnSmoker01"
+//SMOKER!
+"Producer_WarnSmoker02"
+//SMOKER!
+"Producer_WarnSmoker03"
+//TONGUE GUY!
+"Producer_WarnSmokerC101"
+//TONGUE!
+"Producer_WarnSmokerC102"
+//ONE OF THOSE SMOKNG GUYS!
+"Producer_WarnSmokerC103"
+//ONE OF THOSE SMOKNG GUYS!
+"Producer_WarnSmokerC104"
+//TONGUE GUY!
+"Producer_WarnSmokerC105"
+//TONGUE!
+"Producer_WarnSmokerC106"
+//SPITTER!
+"Producer_WarnSpitter01"
+//SPITTER!
+"Producer_WarnSpitter02"
+//SPITTER!
+"Producer_WarnSpitter03"
+//GREEN GUY!
+"Producer_WarnSpitterC101"
+//CRAZY NECK!
+"Producer_WarnSpitterC102"
+//GREEN GUY!
+"Producer_WarnSpitterC103"
+//Incoming!
+"Producer_WarnSpitterIncoming01"
+//Goooooo!!!!!!
+"Producer_WarnSpitterIncoming02"
+//Heads up! Goo!
+"Producer_WarnSpitterIncoming03"
+//Heads up! Goo!
+"Producer_WarnSpitterIncoming04"
+//Goooooo incoming!!!!!
+"Producer_WarnSpitterIncoming05"
+//TANK!
+"Producer_WarnTank01"
+//TANK!
+"Producer_WarnTank02"
+//TANK!
+"Producer_WarnTank03"
+//TANK!
+"Producer_WarnTank04"
+//Why can't that thing be on our side?
+"Producer_WarnTankC101"
+//HOLY SHIT WHAT'S THAT?!?!
+"Producer_WarnTankC102"
+//OH GODDAMN that things big!
+"Producer_WarnTankC103"
+//HOLY SHIT WHAT'S THAT?!?!
+"Producer_WarnTankC104"
+//WITCH!
+"Producer_WarnWitch01"
+//WITCH!
+"Producer_WarnWitch02"
+//WITCH!
+"Producer_WarnWitch03"
+//WITCH!
+"Producer_WarnWitch04"
+//They're behind us!
+"Producer_WatchOutBehind01"
+//Behind us!
+"Producer_WatchOutBehind02"
+//Behind us guys!
+"Producer_WatchOutBehind03"
+//My bad, my bad, my bad!
+"Producer_WitchChasing01"
+//Out of my way!
+"Producer_WitchChasing02"
+//Out of my way!
+"Producer_WitchChasing03"
+//Kill the damn thing!
+"Producer_WitchChasing04"
+//Kill the damn thing!
+"Producer_WitchChasing05"
+//Shoot her! Shoot her!
+"Producer_WitchChasing06"
+//Shit! She's on my ass!
+"Producer_WitchChasing07"
+//My bad!
+"Producer_WitchChasing08"
+//My bad, my bad, my bad!
+"Producer_WitchChasing09"
+//Ummm guys, that witch is getting mad.
+"Producer_WitchGettingAngry01"
+//Who's pissing off the witch?
+"Producer_WitchGettingAngry02"
+//Leave that witch alone!
+"Producer_WitchGettingAngry03"
+//Get away from the witch.
+"Producer_WitchGettingAngry04"
+//Leave that witch alone!
+"Producer_WitchGettingAngry05"
+//There's the bridge You sure they're going to be there?
+"Producer_World01"
+//I'm just happy to be off the boat.
+"Producer_World02"
+//With our luck that is actually just a bridge monster.
+"Producer_World03"
+//We're here. Crescent City,. I'll tell you now.  I 'm not showing anyone my tits.
+"Producer_World04"
+//What's that smell?
+"Producer_World05"
+//There's the freeway!
+"Producer_World07"
+//Looks like they were routing people through here.
+"Producer_World08"
+//Down here.
+"Producer_World10"
+//Through here.
+"Producer_World12"
+//Over here.
+"Producer_World13"
+//HEYYYYY! COME BACK!
+"Producer_WorldC1M1B01"
+//COME BACK! WE'RE STILL HERE!
+"Producer_WorldC1M1B02"
+//OVER HERE! COME BACK!
+"Producer_WorldC1M1B04"
+//THERE'S STILL PEOPLE HERE! COME BACK! PLEASE!
+"Producer_WorldC1M1B05"
+//Guys, now's not the time for a pissing contest. The building's on fire. Let's get off this roof while we still can
+"Producer_WorldC1M1B09"
+//Good enough for me. Let's grab some weapons and get out of here.
+"Producer_WorldC1M1B10"
+//Mall it is. But first, let's grab something to defend ourselves with.
+"Producer_WorldC1M1B11"
+//I can't believe I'm stranded in Savannah.
+"Producer_WorldC1M1B13"
+//Oh shit, they did NOT just leave us on this roof!
+"Producer_WorldC1M1B15"
+//Oh, I think there's an evac station in the mall.
+"Producer_WorldC1M1B17"
+//I been hearing aboutÖthings. You know what, nevermind. But grab a weapon, trust me.
+"Producer_WorldC1M1B19"
+//I think those things are down there, grab a weapon.
+"Producer_WorldC1M1B20"
+//If we stay together and keep our heads, we can get out of this.
+"Producer_WorldC1M1B21"
+//We should take some weapons. I work in the news and the news says we should definitely take some weapons.
+"Producer_WorldC1M1B27"
+//I don't know, since this all seems to be true, trust me, when I say we should grab any weapon we can find.
+"Producer_WorldC1M1B28"
+//Alright, sounds like a plan.
+"Producer_WorldC1M1B30"
+//I'm gonna have to agree.
+"Producer_WorldC1M1B34"
+//Okay, this man's talking some sense. Let's get out of here.
+"Producer_WorldC1M1B35"
+//TheseÖ don't look like people.
+"Producer_WorldC1M1B39"
+//Zombies. Holy shit. They're real.
+"Producer_WorldC1M1B40"
+//You hear about them, but until you see themÖ
+"Producer_WorldC1M1B41"
+//What the hell is this thing?
+"Producer_WorldC1M1B43"
+//Okay. Now I'm killing zombies.
+"Producer_WorldC1M1B46"
+//I heard Atlanta already fell.
+"Producer_WorldC1M1B48"
+//I work for a news station, we'd HEARD about the east coast, butÖ Jesus. I didn't know it was this bad.
+"Producer_WorldC1M1B49"
+//Hey, look at this map. We need to get to New Orleans, FAST.
+"Producer_WorldC1M1B50"
+//New Orleans is all that's left.
+"Producer_WorldC1M1B51"
+//Reports were really fragmented, CEDA never told anyone it was this bad.
+"Producer_WorldC1M1B52"
+//I think CEDA should have been telling us do more than wash our hands.
+"Producer_WorldC1M1B53"
+//A gun STORE? For the first time in my life, that sounds good.
+"Producer_WorldC1M2B01"
+//A whole store full of guns? You're talking MY language, Coach.
+"Producer_WorldC1M2B02"
+//A whole store? Full of guns? You are talking MY language, Ellis.
+"Producer_WorldC1M2B03"
+//So long as there's zombies trying to kill me he is.
+"Producer_WorldC1M2B04"
+//Well, no, not usually. But for now? Yes.
+"Producer_WorldC1M2B05"
+//Ehum not normally, it's complicated.
+"Producer_WorldC1M2B06"
+//Okay, no, normally I hate guns. But IÖ think I hate zombies more.
+"Producer_WorldC1M2B07"
+//Great, we're heading the right way to the mall.
+"Producer_WorldC1M2B08"
+//Jump onto the truck!
+"Producer_WorldC1M2B11"
+//Over the dumpster!
+"Producer_WorldC1M2B12"
+//This whole city looks abandoned.
+"Producer_WorldC1M2B15"
+//CEDA'd better be at that mallÖ
+"Producer_WorldC1M2B16"
+//OhÖ myÖ GOD.
+"Producer_WorldC1M2B18"
+//Oh sweet jesus look at all of these guns.
+"Producer_WorldC1M2B19"
+//Would you LOOK at all these guns?
+"Producer_WorldC1M2B21"
+//Now, this one can kill some zombies.
+"Producer_WorldC1M2B29"
+//Yeah, you are going to kill some zombies with me.
+"Producer_WorldC1M2B30"
+//Are all these free?
+"Producer_WorldC1M2B31"
+//Woo! I LOVE this gun!
+"Producer_WorldC1M2B45"
+//I am in love with this gun.
+"Producer_WorldC1M2B46"
+//Oh, this is my new favorite.
+"Producer_WorldC1M2B50"
+//Alright, sir. We'll go get you your snacks. But you better not try to weasel out of this.
+"Producer_WorldC1M2B56"
+//Sir, if you let me keep this gun? I'll go get you anything you need.
+"Producer_WorldC1M2B62"
+//Grab the cola!
+"Producer_WorldC1M2B63"
+//I got the cola, let's get back!
+"Producer_WorldC1M2B64"
+//Alright, I got Whitaker's cola! Let's go!
+"Producer_WorldC1M2B65"
+//I got the cola!
+"Producer_WorldC1M2B66"
+//Grabbing the cola!
+"Producer_WorldC1M2B67"
+//Barrier's down! Let's get to the mall.
+"Producer_WorldC1M2B68"
+//There goes the barrier! Let's get out of here.
+"Producer_WorldC1M2B69"
+//[whisper] Shit, I think I accidentally grabbed diet cola. We should go. Hey, thanks Whitaker!
+"Producer_WorldC1M2B70"
+//Damn. That man knows how to clear a path.
+"Producer_WorldC1M2B71"
+//Oh, thank god, the mall!
+"Producer_WorldC1M2B72"
+//Okay. Evacuation centers aren't usually this quiet.
+"Producer_WorldC1M2B73"
+//Alright. SoÖ it's a bit quiet. I still say we should check it out.
+"Producer_WorldC1M3B01"
+//Okay, so-it's a little deserted. There might still be an evac deeper in.
+"Producer_WorldC1M3B02"
+//Amen.
+"Producer_WorldC1M3B03"
+//Lord, have mercy on Coach and spare the food court.
+"Producer_WorldC1M3B05"
+//Up this escalator!
+"Producer_WorldC1M3B06"
+//Down that escalator!
+"Producer_WorldC1M3B09"
+//Anybody know who the race car guy is?
+"Producer_WorldC1M3B14"
+//Jimmy Gibbs JrÖ. Yay.
+"Producer_WorldC1M3B16"
+//Get ready! The alarm is gonna sound.
+"Producer_WorldC1M3B19"
+//Keep going!
+"Producer_WorldC1M3B20"
+//We have to turn off that alarm!
+"Producer_WorldC1M3B21"
+//Someone turn off the alarm!
+"Producer_WorldC1M3B22"
+//Got it!
+"Producer_WorldC1M3B23"
+//Holy SHIT, was that annoying!
+"Producer_WorldC1M3B24"
+//Unngh. There's nobody here.
+"Producer_WorldC1M3B27"
+//Oh, damn it, I knew it.
+"Producer_WorldC1M3B28"
+//We're not getting rescued here, are we?
+"Producer_WorldC1M3B29"
+//I'm not getting a strong "we're getting rescued" vibe here.
+"Producer_WorldC1M3B30"
+//Guys? This does NOT look good.
+"Producer_WorldC1M3B31"
+//No one is going to be rescuing us today.
+"Producer_WorldC1M3B32"
+//It's all on us. No one is going to be rescuing us today.
+"Producer_WorldC1M3B33"
+//Looks like a safe room up ahead!
+"Producer_WorldC1M3B34"
+//Okay. Anybody got any ideas?
+"Producer_WorldC1M4B01"
+//What's on your mind, Ellis?
+"Producer_WorldC1M4B03"
+//Are we talking about this Jimmy Gibbs guy? His car's here?
+"Producer_WorldC1M4B04"
+//Are we talking about Jimmy Gibbs Jr?
+"Producer_WorldC1M4B05"
+//Well, it's a plan. I don't know if it's a GOOD plan. But it IS a plan.
+"Producer_WorldC1M4B06"
+//Any other ideas?
+"Producer_WorldC1M4B08"
+//OK, so plan A is we go find this car. Plan b is weÖ wait here in this mall and die.
+"Producer_WorldC1M4B09"
+//I had that idea first.
+"Producer_WorldC1M4B10"
+//Dibs on Gibbs!
+"Producer_WorldC1M4B12"
+//Find some gas, guys!
+"Producer_WorldC1M4B13"
+//As soon as these doors open, get ready to run.
+"Producer_WorldC1M4B14"
+//Comeoncomeoncomeon come onÖ
+"Producer_WorldC1M4B15"
+//Please get in the tank, please please pleaseÖ
+"Producer_WorldC1M4B16"
+//Hurry up, hurrrry uppppÖ
+"Producer_WorldC1M4B17"
+//Come onnnn, come onnnnnnÖ
+"Producer_WorldC1M4B19"
+//Filling it up here!
+"Producer_WorldC1M4B20"
+//Filling it up here!
+"Producer_WorldC1M4B21"
+//I got this one!
+"Producer_WorldC1M4B22"
+//Come on, let's go! Find a gas can!
+"Producer_WorldC1M4B23"
+//Let's get this car gassed up!
+"Producer_WorldC1M4B24"
+//We need more gas!
+"Producer_WorldC1M4B25"
+//We still need more gas!
+"Producer_WorldC1M4B26"
+//Halfway there!
+"Producer_WorldC1M4B27"
+//Almost there!
+"Producer_WorldC1M4B28"
+//We still need ten more!
+"Producer_WorldC1M4B30"
+//We still need five more!
+"Producer_WorldC1M4B31"
+//Just three more!
+"Producer_WorldC1M4B32"
+//Just two more!
+"Producer_WorldC1M4B33"
+//One more can to go!
+"Producer_WorldC1M4B34"
+//We're all filled up, let's go!
+"Producer_WorldC1M4B35"
+//Car's full let's go!
+"Producer_WorldC1M4B36"
+//Hit it, Ellis!
+"Producer_WorldC1M4B37"
+//Woooo!
+"Producer_WorldC1M4B38"
+//Punch it! Punch it!
+"Producer_WorldC1M4B39"
+//Well, the ride was nice while it lasted.
+"Producer_WorldC2M101"
+//Oh man... they were attacked in their cars.
+"Producer_WorldC2M106"
+//Down here!
+"Producer_WorldC2M108"
+//Search the rooms.
+"Producer_WorldC2M116"
+//Through this room.
+"Producer_WorldC2M117"
+//Woohoo! Hang on!
+"Producer_WorldC2M122"
+//That was almost fun.
+"Producer_WorldC2M124"
+//Climbing back up this hill is not near as much fun as sliding down.
+"Producer_WorldC2M125"
+//Maybe someone is still here?
+"Producer_WorldC2M129"
+//These abandoned cars go on for MILES.
+"Producer_WorldC2M1B09"
+//You guys see those searchlights? I say we head there.
+"Producer_WorldC2M1B14"
+//Down this off ramp!
+"Producer_WorldC2M1B16"
+//I'm guessing that's Whispering Oaks.
+"Producer_WorldC2M1B18"
+//Highway's blocked! We can cut through this motel!
+"Producer_WorldC2M1B20"
+//Don't forget to search the rooms.
+"Producer_WorldC2M1B22"
+//Watch, it guys. This hill looks pretty steep.
+"Producer_WorldC2M1B24"
+//Whispering Oaks! We made it!
+"Producer_WorldC2M1B25"
+//Umm.. guys, this is the lady's room.
+"Producer_WorldC2M202"
+//We should head towards those searchlights.
+"Producer_WorldC2M2B03"
+//I wish I could be that happy.
+"Producer_WorldC2M2B22"
+//He is making the best of a bad situation.
+"Producer_WorldC2M2B23"
+//Ah, to hell with it. Woo! KIDDIE LAND!
+"Producer_WorldC2M2B24"
+//Woo!
+"Producer_WorldC2M2B28"
+//Gate's open!
+"Producer_WorldC2M2B29"
+//Agh! Too loud! Somebody shut it down!
+"Producer_WorldC2M2B30"
+//TURN IT OFF!!
+"Producer_WorldC2M2B31"
+//Whew! It's off.
+"Producer_WorldC2M2B32"
+//This is the most RELAXING safe room I've ever been in.
+"Producer_WorldC2M2B33"
+//Gee, my bedroom was painted like this when I was a kid. [beat] Baby blue. I think my dad wanted a boy.
+"Producer_WorldC2M2B34"
+//The air duct of love.
+"Producer_WorldC2M3B06"
+//Down that hole!
+"Producer_WorldC2M3B08"
+//We'll have to get this gate opened up!
+"Producer_WorldC2M3B13"
+//We gotta turn that alarm off!
+"Producer_WorldC2M3B14"
+//Somebody turn off that alarm!
+"Producer_WorldC2M3B15"
+//Follow the tracks, guys!
+"Producer_WorldC2M3B17"
+//Alarm's off!
+"Producer_WorldC2M3B18"
+//I'm starting it!
+"Producer_WorldC2M3B30"
+//A helicopter!
+"Producer_WorldC2M4B01"
+//Huh. That's pretty smart, Coach.
+"Producer_WorldC2M5B01"
+//And that'll signal the chopper pilot! Coach, that's brilliant! I'm sorry about all the bad stuff I said about your crappy band.
+"Producer_WorldC2M5B02"
+//When I hit this tape deck, it's all gonna start. Get ready, guys!
+"Producer_WorldC2M5B08"
+//Hit the lights!
+"Producer_WorldC2M5B12"
+//Lights!
+"Producer_WorldC2M5B14"
+//Turn on the lights!
+"Producer_WorldC2M5B22"
+//Woo! Yes! There's the chopper!
+"Producer_WorldC2M5B34"
+//There's the chopper!
+"Producer_WorldC2M5B35"
+//It worked! The chopper is here!
+"Producer_WorldC2M5B36"
+//He sees us!
+"Producer_WorldC2M5B38"
+//Coach, you are the smartest man ALIVE!
+"Producer_WorldC2M5B41"
+//It worked! God BLESS your bad taste in music, Coach!
+"Producer_WorldC2M5B42"
+//Coach's crazy idea worked!
+"Producer_WorldC2M5B43"
+//Let's go! Get to the helicopter!
+"Producer_WorldC2M5B48"
+//Everybody get to the chopper!
+"Producer_WorldC2M5B49"
+//Well, we aren't CEDA or the military, so I guess we're welcome.
+"Producer_WorldC3M101"
+//When they say stay out, I'm sure they mean someone else.
+"Producer_WorldC3M102"
+//Do you think they put this sign up before or after the infection?
+"Producer_WorldC3M103"
+//Hope the swamp people don't mind us visiting.
+"Producer_WorldC3M105"
+//Hm. Friendly bunch.
+"Producer_WorldC3M106"
+//Let's visit, they seem nice.
+"Producer_WorldC3M107"
+//Earl's Gator Village?  This just keeps getting better.
+"Producer_WorldC3M108"
+//Yeah, let's just cut through the gator park and visit the crazy militants in the swamp.  Sound good?
+"Producer_WorldC3M109"
+//I'm just askin' but are we sure this is the best route?
+"Producer_WorldC3M110"
+//We should search the houses for supplies.
+"Producer_WorldC3M111"
+//Looks like they all headed to the village - deeper in the swamp.  Great.
+"Producer_WorldC3M113"
+//Activate the ferry.
+"Producer_WorldC3M115"
+//Okay, let's get ready and then call the ferry.
+"Producer_WorldC3M116"
+//I'm calling the ferry.
+"Producer_WorldC3M117"
+//Ferry's coming.
+"Producer_WorldC3M118"
+//Ferry's almost here!
+"Producer_WorldC3M119"
+//Okay, get on the ferry!
+"Producer_WorldC3M120"
+//Everyone on the ferry!
+"Producer_WorldC3M121"
+//Time to ride the ferry!
+"Producer_WorldC3M122"
+//Everyone, get on the ferry!
+"Producer_WorldC3M124"
+//Get on the boat!
+"Producer_WorldC3M125"
+//Everyone, get on the boat!
+"Producer_WorldC3M126"
+//Alright, get on the boat!
+"Producer_WorldC3M127"
+//Everyone on the boat!
+"Producer_WorldC3M128"
+//Okay, get on the boat! Time to ride the boat!
+"Producer_WorldC3M129"
+//So, umm... Do you guys know anything about the swamps?
+"Producer_WorldC3M130"
+//So what do you think is going to kill us?  Zombies, gators, snakes, bugs or the swamp people?
+"Producer_WorldC3M131"
+//Yeah, I forgot about that.
+"Producer_WorldC3M132"
+//What? Blood farmers?  Boy, what in the hell are you talking about?
+"Producer_WorldC3M133"
+//Sorry I asked...
+"Producer_WorldC3M134"
+//Ellis, does your tattoo mean anything?
+"Producer_WorldC3M135"
+//You had real forsight to get that tattooed.
+"Producer_WorldC3M136"
+//Well if anyone could survive this, it would be people who live like this.
+"Producer_WorldC3M137"
+//Nick, what do you think the odds are that the swamp people are still alive?
+"Producer_WorldC3M139"
+//Not zombies.
+"Producer_WorldC3M140"
+//Sound about right.
+"Producer_WorldC3M141"
+//Does anyone have any bug spray?
+"Producer_WorldC3M142"
+//We have to find the main river.
+"Producer_WorldC3M143"
+//Okay, stay on the walkway.
+"Producer_WorldC3M144"
+//Careful this doesn't look safe.
+"Producer_WorldC3M146"
+//Should we go right or left?
+"Producer_WorldC3M147"
+//Should we go right or straight?
+"Producer_WorldC3M148"
+//Does anyone know which way we should go?
+"Producer_WorldC3M149"
+//Should we go right or left?
+"Producer_WorldC3M150"
+//Hey Ellis, that's a bathtub.  You ever seen one before?
+"Producer_WorldC3M151"
+//Fair enough.
+"Producer_WorldC3M152"
+//Get back on the walkway!
+"Producer_WorldC3M153"
+//Shit! The walkway collapsed.
+"Producer_WorldC3M154"
+//Let's get up the ladder!
+"Producer_WorldC3M155"
+//Come on, up on the walkway!
+"Producer_WorldC3M156"
+//Get on the walkway!
+"Producer_WorldC3M157"
+//We can go to the right.
+"Producer_WorldC3M158"
+//They have planks down over here.
+"Producer_WorldC3M159"
+//To the drainage pipe!
+"Producer_WorldC3M161"
+//Safehouse in the drainage ditch!
+"Producer_WorldC3M162"
+//I can see a light!
+"Producer_WorldC3M163"
+//That's an encouraging sign, they have power.
+"Producer_WorldC3M164"
+//Hey, I can see a light!
+"Producer_WorldC3M165"
+//HE WAS FLYING THE HELICOPTER
+"Producer_WorldC3M1B01"
+//That's true. If I had a pick a low point in the flight, it was probably when he stopped flying the chopper and attacked us.
+"Producer_WorldC3M1B02"
+//Anyone know where we are?
+"Producer_WorldC3M1B04"
+//They actually have to put a sign up to stop people from swimming in the gator park? All right...
+"Producer_WorldC3M1B06"
+//No swimming in the gator park. Fair enough.
+"Producer_WorldC3M1B07"
+//The white suit with zombie brains all over it? That one?
+"Producer_WorldC3M1B08"
+//I dunno. Maybe?
+"Producer_WorldC3M1B09"
+//No indoor plumbing
+"Producer_WorldC3M1B10"
+//WOW! Gate's open!
+"Producer_WorldC3M1B11"
+//Holy shit, there really are mud people!
+"Producer_WorldC3M201"
+//Watch out for the mudders!
+"Producer_WorldC3M202"
+//Mud people!
+"Producer_WorldC3M203"
+//Mud people!
+"Producer_WorldC3M204"
+//I am sick to death of this mud!
+"Producer_WorldC3M205"
+//Okay, enough with the mud already.
+"Producer_WorldC3M206"
+//I guess this is where the drain pipe drained....
+"Producer_WorldC3M209"
+//Okay, this is creepy.
+"Producer_WorldC3M210"
+//It's dry over here.
+"Producer_WorldC3M211"
+//Holy shit, a downed plane!
+"Producer_WorldC3M216"
+//Zombies hit mid-flight I guess.
+"Producer_WorldC3M217"
+//You are kidding me, the only way forward is through an emergency door.
+"Producer_WorldC3M218"
+//I've always wanted to do this.
+"Producer_WorldC3M219"
+//Do you think the slides will activate?
+"Producer_WorldC3M220"
+//Okay, I'm opening the door!
+"Producer_WorldC3M221"
+//Okay, get ready, once we open the door this alarm will sound!
+"Producer_WorldC3M222"
+//Open the door.
+"Producer_WorldC3M223"
+//Only way is through this door.
+"Producer_WorldC3M224"
+//Screw it, why not, open the door.
+"Producer_WorldC3M225"
+//What the hell, open the door.
+"Producer_WorldC3M226"
+//I am sick of the swamp.
+"Producer_WorldC3M227"
+//Oh, my feet are never gonna dry.
+"Producer_WorldC3M228"
+//Good thing I'm wearing boots.
+"Producer_WorldC3M229"
+//Dry land ahead!
+"Producer_WorldC3M233"
+//Hey, lights ahead!
+"Producer_WorldC3M234"
+//This way!
+"Producer_WorldC3M235"
+//Hey, the village is this way!
+"Producer_WorldC3M236"
+//Lights are on!  Hello!!??!?!
+"Producer_WorldC3M237"
+//Maybe people are here!
+"Producer_WorldC3M238"
+//More lights!
+"Producer_WorldC3M240"
+//Okay, if they have power...
+"Producer_WorldC3M241"
+//Hellooo!!!  Helloooo!!!  We aren't CEDA!!
+"Producer_WorldC3M242"
+//They really walled themselves off!
+"Producer_WorldC3M243"
+//They look dug in, maybe they're alive!
+"Producer_WorldC3M244"
+//Hello, hello - swamp people are you there?
+"Producer_WorldC3M245"
+//Anyone there!  Help!
+"Producer_WorldC3M246"
+//Hello!
+"Producer_WorldC3M248"
+//Hey!  Help!
+"Producer_WorldC3M249"
+//I don't see anyone.
+"Producer_WorldC3M250"
+//We can get through up here.
+"Producer_WorldC3M251"
+//There's a safe house in that shack!
+"Producer_WorldC3M252"
+//Through this house!
+"Producer_WorldC3M253"
+//Ahh shit, they didn't make it.
+"Producer_WorldC3M303"
+//Goddamnit, the swamp people are zombies.
+"Producer_WorldC3M304"
+//Oh zombie swamp people, I'm sorry I gotta shoot you.
+"Producer_WorldC3M305"
+//We should look around and see if they left supplies.
+"Producer_WorldC3M308"
+//We need to head to the river.
+"Producer_WorldC3M310"
+//Time to leave this village.
+"Producer_WorldC3M312"
+//We heard reports the virus spread through mammals but...
+"Producer_WorldC3M313"
+//Better safe than sorry I guess.
+"Producer_WorldC3M315"
+//We aren't going to find anyone here.
+"Producer_WorldC3M317"
+//There's stairs!
+"Producer_WorldC3M319"
+//See the stairs?
+"Producer_WorldC3M320"
+//Stay on the walkway!
+"Producer_WorldC3M322"
+//Back here!
+"Producer_WorldC3M323"
+//The path continues through here.
+"Producer_WorldC3M324"
+//There's  a path.
+"Producer_WorldC3M325"
+//Use the planks.
+"Producer_WorldC3M326"
+//Okay, we need to lower this bridge.
+"Producer_WorldC3M330"
+//Only way over is this bridge.
+"Producer_WorldC3M331"
+//Only way over is this walkway.
+"Producer_WorldC3M332"
+//Someone lower this walkway.
+"Producer_WorldC3M333"
+//Lower the walkway.
+"Producer_WorldC3M334"
+//Lower the bridge!
+"Producer_WorldC3M335"
+//Get ready, I'm lowering the bridge.
+"Producer_WorldC3M336"
+//Get ready, I'm lowering the bridge.
+"Producer_WorldC3M337"
+//Okay, bridge coming down!
+"Producer_WorldC3M338"
+//Bridge coming down!
+"Producer_WorldC3M340"
+//We can cross.
+"Producer_WorldC3M341"
+//It's down, let's go!
+"Producer_WorldC3M342"
+//Okay, try and keep out of the water.
+"Producer_WorldC3M343"
+//Stay up here where it's dry.
+"Producer_WorldC3M344"
+//Through this house.
+"Producer_WorldC3M345"
+//Plantation is right up here!
+"Producer_WorldC3M346"
+//There's the grounds!
+"Producer_WorldC3M347"
+//We just need to get in here!
+"Producer_WorldC3M348"
+//Let's head down this road.
+"Producer_WorldC3M402"
+//Down here.
+"Producer_WorldC3M403"
+//There's the plantation house!
+"Producer_WorldC3M404"
+//Go up the scaffolding.
+"Producer_WorldC3M410"
+//Let's try the radio.
+"Producer_WorldC3M420"
+//Run to the boat!
+"Producer_WorldC3M423"
+//To the boat! To the boat!
+"Producer_WorldC3M424"
+//We're at the plantation house.
+"Producer_WorldC3M429"
+//This should be easy.
+"Producer_WorldC4M101"
+//We just need to grab some diesel.
+"Producer_WorldC4M103"
+//Next gas: two miles. Well, shit.
+"Producer_WorldC4M1B03"
+//Uh oh. It's raining.
+"Producer_WorldC4M1B07"
+//We're gonna be coming back through here, so keep an eye out for the landmarks.
+"Producer_WorldC4M1B09"
+//Through this playground!
+"Producer_WorldC4M1B10"
+//Through that playground!
+"Producer_WorldC4M1B11"
+//We can cut through this garage sale!
+"Producer_WorldC4M1B12"
+//Now that is nasty wreck.
+"Producer_WorldC4M1B13"
+//We're not going any farther on this road.
+"Producer_WorldC4M2B01"
+//We can head through the sugar mill.
+"Producer_WorldC4M2B02"
+//Rain's really comin' down.
+"Producer_WorldC4M2B03"
+//It's really starting to pour.
+"Producer_WorldC4M2B04"
+//The water's starting to pool.
+"Producer_WorldC4M2B05"
+//Uh, does it flood around here?
+"Producer_WorldC4M2B06"
+//How many goddamn witches are there?
+"Producer_WorldC4M2B08"
+//Up that ramp!
+"Producer_WorldC4M2B11"
+//Hey! There's the gas station!
+"Producer_WorldC4M2B13"
+//We can take that elevator down to the field.
+"Producer_WorldC4M2B16"
+//ELEVATOR'S HERE!
+"Producer_WorldC4M2B18"
+//COME ON! INTO THE ELEVATOR!
+"Producer_WorldC4M2B20"
+//KEEP MOVING! JUST HEAD FOR THE SIGN!
+"Producer_WorldC4M2B23"
+//HEAD FOR THE SIGN!
+"Producer_WorldC4M2B24"
+//KEEP MOVING!
+"Producer_WorldC4M2B25"
+//Says here the gas is inside.
+"Producer_WorldC4M2B26"
+//Let's go get it.
+"Producer_WorldC4M2B27"
+//There's gas in the safe room!
+"Producer_WorldC4M2B28"
+//Close the door and lets get the gas.
+"Producer_WorldC4M2B29"
+//Alright. Everybody got a gas can? I do not want to make this trip twice.
+"Producer_WorldC4M3B01"
+//How bad do these storms get?
+"Producer_WorldC4M3B03"
+//Stick to high ground!
+"Producer_WorldC4M4B01"
+//We can get across on the rooftops!
+"Producer_WorldC4M4B03"
+//There's that porch light we passed on the way in.
+"Producer_WorldC4M4B04"
+//There's that garage sale!
+"Producer_WorldC4M4B06"
+//The playground! We're almost outta here!
+"Producer_WorldC4M4B07"
+//Yeah, that might work.
+"Producer_WorldC4M4B10"
+//Sign is on!
+"Producer_WorldC4M4B15"
+//Virgil better be watching!
+"Producer_WorldC4M4B16"
+//LET'S GET TO THE BOAT!
+"Producer_WorldC4M4B22"
+//GET TO THE BOAT!
+"Producer_WorldC4M4B23"
+//And let's go!
+"Producer_WorldC5M2B05"
+//TURN OFF THE ALARM!
+"Producer_WorldC5M2B06"
+//KEEP RUNNING!
+"Producer_WorldC5M2B07"
+//GET TO THE ALARM!
+"Producer_WorldC5M2B08"
+//TURN IT OFF!
+"Producer_WorldC5M2B09"
+//Got it!
+"Producer_WorldC5M2B12"
+//Careful, alarm cars everywhere.
+"Producer_WorldC5M3B03"
+//Everyone, just watch where you shoot.
+"Producer_WorldC5M3B05"
+//There's the bridge!
+"Producer_WorldC5M3B08"
+//What are they doing!?
+"Producer_WorldC5M3B11"
+//We need to keep moving.
+"Producer_WorldC5M4B01"
+//That was close.
+"Producer_WorldC5M4B03"
+//Something tells me they're not checking for survivors anymore.
+"Producer_WorldC5M4B04"
+//Let's move.
+"Producer_WorldC5M5B01"
+//Somebody want to grab that radio?
+"Producer_WorldC5M5B02"
+//Hello?
+"Producer_WorldC5M5B04"
+//Sorry for using the radio, but we are four survivors on the bridge.
+"Producer_WorldC5M5B05"
+//Four survivors on the bridge.
+"Producer_WorldC5M5B06"
+//This is someone who could use some help.
+"Producer_WorldC5M5B07"
+//We are not infected.
+"Producer_WorldC5M5B09"
+//Yeah, yes, yes we are immune.
+"Producer_WorldC5M5B11"
+//We're on our way. Thank you.
+"Producer_WorldC5M5B12"
+//We'll be there. Wait for us.
+"Producer_WorldC5M5B14"
+//Get to the chopper!
+"Producer_WorldC5M5B19"
+//Get to the chopper!
+"Producer_WorldC5M5B22"
+//Shit! This way's blocked!
+"Producer_WorldGenericProducer10"
+//We've gotta get around this fire!
+"Producer_WorldGenericProducer11"
+//The fire's spreading!
+"Producer_WorldGenericProducer12"
+//The fire's spreading!
+"Producer_WorldGenericProducer13"
+//Elevator's out!
+"Producer_WorldGenericProducer14"
+//We need to find the stairs!
+"Producer_WorldGenericProducer15"
+//Out here on the ledge!
+"Producer_WorldGenericProducer17"
+//Get out to the ledge!
+"Producer_WorldGenericProducer18"
+//It's safe on the ledges.
+"Producer_WorldGenericProducer19"
+//Thank god, I was getting tired.
+"Producer_WorldGenericProducer20"
+//Got a magnum!
+"Producer_WorldGenericProducer35"
+//Magnum here!
+"Producer_WorldGenericProducer36"
+//Search those rooms. Might be something we can use.
+"Producer_WorldGenericProducer41"
+//This elevator works!
+"Producer_WorldGenericProducer42"
+//Push the button!
+"Producer_WorldGenericProducer44"
+//I don't like this. Get readyÖ
+"Producer_WorldGenericProducer45"
+//My name's Rochelle. I produce a news show.
+"Producer_WorldGenericProducer46"
+//Cool.
+"Producer_WorldGenericProducer47"
+//Rochelle.
+"Producer_WorldGenericProducer48"
+//My name's Rochelle. You?
+"Producer_WorldGenericProducer49"
+//Hey. Name's Rochelle, you?
+"Producer_WorldGenericProducer50"
+//And I'm Rochelle. I admit, these are pretty crappy circumstances to meet in, but, well, you watch my back and I'll watch yours. Maybe we'll get out of this alive.
+"Producer_WorldGenericProducer52"
+//And I'm Rochelle. I haven't known you guys long but, well, it looks like I'm going to be trusting you with my life. SoÖ hi. And thanks.
+"Producer_WorldGenericProducer53"
+//Rochelle. I work in television. WORKED in television.
+"Producer_WorldGenericProducer54"
+//IÖ guess my boss never thought of that.
+"Producer_WorldGenericProducer55"
+//Rochelle. I was down here covering a news story. I'm from Cleveland.
+"Producer_WorldGenericProducer56"
+//Uh. No, hard news. I've been producing segments on CEDA evacuating people.
+"Producer_WorldGenericProducer57"
+//My name's Rochelle. Give me a break, this is the first time I've shot a gun.
+"Producer_WorldGenericProducer61"
+//Rochelle. And I hear you.
+"Producer_WorldGenericProducer62"
+//Rochelle.
+"Producer_WorldGenericProducer63"
+//Thanks, youÖ tooÖ
+"Producer_WorldGenericProducer65"
+//Hey, it's okay, man. We're gonna be fine. Tell me, what's your name?
+"Producer_WorldGenericProducer66"
+//How about You?
+"Producer_WorldGenericProducer67"
+//And our guns.
+"Producer_WorldGenericProducer69"
+//If we're all getting to know each other, my name's Rochelle.
+"Producer_WorldGenericProducer70"
+//I don't know, I think we should stick together, you cool with that? I'm Rochelle, what's your names?
+"Producer_WorldGenericProducer71"
+//Who'd we lose?
+"Producer_WorldGenericProducer74"
+//I think it was Ellis.
+"Producer_WorldGenericProducer77"
+//I think it was Nick.
+"Producer_WorldGenericProducer78"
+//I think he just said it was Coach.
+"Producer_WorldGenericProducer79"
+//They've been calling those boomers. For obvious reasons.
+"Producer_WorldGenericProducer81"
+//Good question, where is CEDA? I just see the military. (where is CEDA)
+"Producer_WorldSigns01"
+//Don't worry Ellis, they mean the flu, not in the head.   (report the sick)
+"Producer_WorldSigns03"
+//Run!
+"Producer_YellRun01"
+//Just run!
+"Producer_YellRun02"
+//Run! Run! Run!
+"Producer_YellRun03"
+//Just run!
+"Producer_YellRun04"
+//Yes.
+"Producer_Yes01"
+//Why yes.
+"Producer_Yes02"
+//Yeah.
+"Producer_Yes03"
+//Yeah.
+"Producer_Yes04"
+//Of course.
+"Producer_Yes05"
+//Okay.
+"Producer_Yes06"
+//Yep.
+"Producer_Yes07"
+//Sure.
+"Producer_Yes08"
+//Sure.
+"Producer_Yes09"
+//You are welcome.
+"Producer_YouAreWelcome01"
+//You are welcome.
+"Producer_YouAreWelcome02"
+//You're welcome.
+"Producer_YouAreWelcome03"
+//We're cool.
+"Producer_YouAreWelcome04"
+//No problem.
+"Producer_YouAreWelcome05"
+//Anytime.
+"Producer_YouAreWelcome06"
+//Don't worry about it.
+"Producer_YouAreWelcome07"
+//Don't even start.
+"Producer_YouAreWelcome08"
+//That's okay.
+"Producer_YouAreWelcome09"
+//That's okay.
+"Producer_YouAreWelcome10"
+//Anything for a brother.
+"Producer_YouAreWelcomeCoach01"
+//Anything for a brother.
+"Producer_YouAreWelcomeCoach02"
+//No problem shorty.
+"Producer_YouAreWelcomeEllis01"
+//No problem suit.
+"Producer_YouAreWelcomeNick01"

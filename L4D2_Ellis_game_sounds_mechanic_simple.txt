@@ -1,0 +1,3954 @@
+//--------------------------------------------------------------------------------------------------------------
+// Mechanic Game Sound Text File
+//--------------------------------------------------------------------------------------------------------------
+//--------------------------------------------------------------------------------------------------------------
+// This file is auto generated do not hand edit!
+//--------------------------------------------------------------------------------------------------------------
+//--------------------------------------------------------------------------------------------------------------
+// Last Updated: 10/01/09
+// Cleaned by darkid
+//--------------------------------------------------------------------------------------------------------------
+//Adrenaline shot here!
+"Mechanic_Adrenaline01"
+//Grabbin' a shot!
+"Mechanic_Adrenaline02"
+//[shaking self awake]
+"Mechanic_Adrenaline03"
+//I got this for ya, man.
+"Mechanic_AlertGiveItem01"
+//I want you to have this.
+"Mechanic_AlertGiveItem02"
+//Here ya go, I got this for ya.
+"Mechanic_AlertGiveItem03"
+//Here ya go, man.
+"Mechanic_AlertGiveItem04"
+//Here ya go, man, I want ya to have this.
+"Mechanic_AlertGiveItem05"
+//You can have this.
+"Mechanic_AlertGiveItem06"
+//Hey, I want you to have this.
+"Mechanic_AlertGiveItem07"
+//Hold on now, hold on now, here ya go.
+"Mechanic_AlertGiveItem08"
+//Take this!
+"Mechanic_AlertGiveItemCombat01"
+//Just take this!
+"Mechanic_AlertGiveItemCombat02"
+//Here!, here!
+"Mechanic_AlertGiveItemCombat03"
+//Grab this here!
+"Mechanic_AlertGiveItemCombat04"
+//Wait up, now! I got somethin' for ya.
+"Mechanic_AlertGiveItemStop01"
+//Hey! Hey! Got something for ya.
+"Mechanic_AlertGiveItemStop02"
+//Hey, stop movin', now! I got somethin' for you right here.
+"Mechanic_AlertGiveItemStop03"
+//Wait up! I got somethin' for ya.
+"Mechanic_AlertGiveItemStop04"
+//Hey! Hey! Got something for ya.
+"Mechanic_AlertGiveItemStop05"
+//Hey, stop movin' I got somethin' for ya
+"Mechanic_AlertGiveItemStop06"
+//Dude, dude, hold up.
+"Mechanic_AlertGiveItemStopC101"
+//Hey umm...  you! Hold up!
+"Mechanic_AlertGiveItemStopC102"
+//Yeah, I'm ready, y'all ready?
+"Mechanic_AskReady01"
+//Ready?
+"Mechanic_AskReady02"
+//Y'all ready?
+"Mechanic_AskReady03"
+//Whoa, back it up!
+"Mechanic_BackUp01"
+//Come on, back up!
+"Mechanic_BackUp02"
+//Move back! Move back!
+"Mechanic_BackUp03"
+//Back it up!
+"Mechanic_BackUp04"
+//Back up!
+"Mechanic_BackUp05"
+//Come on, move back!
+"Mechanic_BackUp06"
+//Move back! Move back!
+"Mechanic_BackUp07"
+//Hey, back it up!
+"Mechanic_BackUp08"
+//Back up.
+"Mechanic_BackUpQuiet01"
+//Move back.
+"Mechanic_BackUpQuiet02"
+//Get back.
+"Mechanic_BackUpQuiet03"
+//Get back.
+"Mechanic_BackUpQuiet04"
+//Hey, move back.
+"Mechanic_BackUpQuiet05"
+//Back up.
+"Mechanic_BackUpQuiet06"
+//YEAH!!
+"Mechanic_BattleCry01"
+//DIE!!
+"Mechanic_BattleCry02"
+//WOO! GET SOME, BABY GET SOME!
+"Mechanic_BattleCry03"
+//DIE, DIE MY DARLINS! DIE, DIE, DIE!!
+"Mechanic_BattleCry04"
+//Shoot it!
+"Mechanic_BattleCryTank01"
+//Keep shooting!
+"Mechanic_BattleCryTank02"
+//Kill it, man! Kill it!
+"Mechanic_BattleCryTank03"
+//Hey, keep shooting, keep shooting!
+"Mechanic_BattleCryTank04"
+//Light that mother up!
+"Mechanic_BattleCryTank05"
+//Kill it, man! Kill it!
+"Mechanic_BattleCryTank06"
+//Just keep shooting!
+"Mechanic_BattleCryTank07"
+//Kill him!
+"Mechanic_BattleCryTank08"
+//Blank
+"Mechanic_Blank"
+//Here's a bottle of... looks like puke.
+"Mechanic_BoomerJar01"
+//Bottle of puke here.
+"Mechanic_BoomerJar02"
+//Bile bomb here!
+"Mechanic_BoomerJar03"
+//Boomer puke right here.
+"Mechanic_BoomerJar04"
+//Oh, man, a jar's no place for bodily functions.
+"Mechanic_BoomerJar05"
+//Grabbin' a bile bomb!
+"Mechanic_BoomerJar06"
+//Grabbin' a bile jar!
+"Mechanic_BoomerJar07"
+//Heads up! Bile bomb!
+"Mechanic_BoomerJar08"
+//Here comes some puke!
+"Mechanic_BoomerJar09"
+//Bile bomb incoming!
+"Mechanic_BoomerJar10"
+//Throwing a bile bomb!
+"Mechanic_BoomerJar12"
+//Tossin' a bile bomb!
+"Mechanic_BoomerJar13"
+//Here comes the bile, you sons of bitches!
+"Mechanic_BoomerJar14"
+//Bottle of puke here.
+"Mechanic_BoomerJar22"
+//I got a bile bomb here!
+"Mechanic_BoomerJar23"
+//There's a bile bomb right there!
+"Mechanic_BoomerJar24"
+//Grabbin' a bile bomb!
+"Mechanic_BoomerJar25"
+//Oh.. ah.. this stuff sucks!
+"Mechanic_BoomerReaction01"
+//I can't see shit!
+"Mechanic_BoomerReaction02"
+//Oh, Christ! I'm all gooed.
+"Mechanic_BoomerReaction03"
+//Christ in a hand basket!  I'm gooed!
+"Mechanic_BoomerReaction04"
+//Oh.. ah.. this stuff sucks!
+"Mechanic_BoomerReaction05"
+//Christ in a hand basket!  I'm gooed!
+"Mechanic_BoomerReaction06"
+//Hey y'all, quit playin' man! Get me out of here!
+"Mechanic_CallForRescue01"
+//Somebody's gotta get me out of here!
+"Mechanic_CallForRescue02"
+//Help, man! Anybody out there?
+"Mechanic_CallForRescue03"
+//I need some help, man!
+"Mechanic_CallForRescue04"
+//Can somebody get me out of here, please?
+"Mechanic_CallForRescue05"
+//Can somebody lend me a hand in here, please?
+"Mechanic_CallForRescue06"
+//Okay, I could use some help here! Serious.
+"Mechanic_CallForRescue07"
+//Ah come on, man, I'm gettin' bored!  Get me out of here.
+"Mechanic_CallForRescue08"
+//Hey everybody! Don't forget about me in here!
+"Mechanic_CallForRescue09"
+//Alright, I'd  really appreciate it if somebody'd get me out of here!
+"Mechanic_CallForRescue10"
+//I'm trapped in here!
+"Mechanic_CallForRescue11"
+//Help! Help! Hellllppp!
+"Mechanic_CallForRescue12"
+//Can somebody lend me a hand in here?
+"Mechanic_CallForRescue13"
+//I could use some help here!
+"Mechanic_CallForRescue14"
+//Ah come on, man, I'm gettin' bored!  Get me out of here.
+"Mechanic_CallForRescue15"
+//Hey, you guys have'in fun out there without me?
+"Mechanic_CallForRescue16"
+//Can one of y'all get me out of here?
+"Mechanic_CallForRescue17"
+//I triple dog dare ya to rescue me!
+"Mechanic_CallForRescue18"
+//Now hold on, you're not thinking of leavin' me in here are ya?
+"Mechanic_CallForRescue19"
+//[Choking]
+"Mechanic_Choke01"
+//Shoot the tongue! Shoot the tongue!
+"Mechanic_Choke02"
+//Smoker's GOT ME!!!
+"Mechanic_Choke03"
+//[Choking]
+"Mechanic_Choke04"
+//[Choking]
+"Mechanic_Choke05"
+//[Choking]
+"Mechanic_Choke06"
+//Shit! Smoker's got me!
+"Mechanic_Choke07"
+//Y'all gonna close the door?
+"Mechanic_CloseTheDoor01"
+//Come on,  close the door.
+"Mechanic_CloseTheDoor02"
+//Close the door.
+"Mechanic_CloseTheDoor03"
+//I'm thinking we should close the door.
+"Mechanic_CloseTheDoorC101"
+//Why don't we just , uh, close that door?
+"Mechanic_CloseTheDoorC102"
+//[Coughing from smoke]
+"Mechanic_Cough01"
+//[Coughing from smoke]
+"Mechanic_Cough02"
+//[Coughing from smoke]
+"Mechanic_Cough03"
+//[Coughing from smoke]
+"Mechanic_Cough04"
+//Can someone watch my back, I'm gonna heal.
+"Mechanic_CoverMe01"
+//Can y'all cover me? I gotta heal!
+"Mechanic_CoverMe02"
+//Wait a second, I'm gonna heal!
+"Mechanic_CoverMe03"
+//Wait a second, I'm gonna heal!
+"Mechanic_CoverMe04"
+//Can somebody wait up, I gotta heal.
+"Mechanic_CoverMe05"
+//Can somebody wait up, I gotta heal.
+"Mechanic_CoverMe06"
+//Healing! Cover me please!
+"Mechanic_CoverMe07"
+//Healing! Cover me please!
+"Mechanic_CoverMe08"
+//Hey, can somebody cover me? I'm gonna try to heal.
+"Mechanic_CoverMeC101"
+//Ah hell, gonna try and heal myself.
+"Mechanic_CoverMeC102"
+//Hope to hell I'm doing this right. (to self)
+"Mechanic_CoverMeC103"
+//So that's how ya do it.
+"Mechanic_CoverMeC1R01"
+//Okay, okay, I see what you're doin' there.
+"Mechanic_CoverMeC1R02"
+//Oh, now, Coach, you like you've done this before.
+"Mechanic_CoverMeC1RCoach01"
+//[Loud painful death scream]
+"Mechanic_DeathScream01"
+//[Loud painful death scream]
+"Mechanic_DeathScream02"
+//[Loud painful death scream]
+"Mechanic_DeathScream03"
+//[Short quick death scream]
+"Mechanic_DeathScream04"
+//[Short quick death scream]
+"Mechanic_DeathScream05"
+//[Short quick death scream]
+"Mechanic_DeathScream06"
+//Chest paddles here.
+"Mechanic_Defibrillator01"
+//Defibrillator here.
+"Mechanic_Defibrillator02"
+//Defib unit here.
+"Mechanic_Defibrillator03"
+//Hey, defib unit here.
+"Mechanic_Defibrillator04"
+//Got some chest paddles.
+"Mechanic_Defibrillator05"
+//Got a defib unit.
+"Mechanic_Defibrillator06"
+//Clear!
+"Mechanic_Defibrillator07"
+//Come on!
+"Mechanic_Defibrillator08"
+//Come ON!
+"Mechanic_Defibrillator09"
+//Come back, come back!
+"Mechanic_Defibrillator10"
+//Work, damn it...
+"Mechanic_Defibrillator11"
+//Work, damn it...
+"Mechanic_Defibrillator12"
+//[gasp for breath]
+"Mechanic_Defibrillator13"
+//[gasp for breath]
+"Mechanic_Defibrillator14"
+//[being shocked]
+"Mechanic_Defibrillator15"
+//Whoa, man...
+"Mechanic_Defibrillator16"
+//Agggh what the hell are you shockin' me for?
+"Mechanic_Defibrillator17"
+//Whoa. Good thing I headed away from the light.
+"Mechanic_Defibrillator18"
+//Was I just dead there? Oh man...
+"Mechanic_Defibrillator19"
+//Oh shit man! Oh shit man.  Oh SHIT...
+"Mechanic_DoubleDeathResponse01"
+//This is gettin' as serious as a heart attack!
+"Mechanic_DoubleDeathResponse02"
+//Oh shit man! Oh shit man.  Oh SHIT...
+"Mechanic_DoubleDeathResponse03"
+//Ohhh... don't you leave me now!
+"Mechanic_DoubleDeathResponse04"
+//Man I love malls.  I do.  Once we were in a mall, up in Atlanta, and these guys were dancing for like money and stuff and my friend Dave was all like... okay.
+"Mechanic_EllisStoriesA01"
+//Jimmy Gibbs Jr is the man, I mean I don't know anyone like that.  But there's this guy I know, he raced dirt tracks, not stock cars but open wheeled cars you know, and he was racing once and a goat...
+"Mechanic_EllisStoriesB01"
+//okay but there was a goat.
+"Mechanic_EllisStoriesB02"
+//I knew this guy who was trying to set the world record on staying on a Ferris wheel.  He had been up there like 2 days or somethin' and he wanted some beer, but they weren't givin' him any so he got this rope, don't ask me where he got the rope from and
+"Mechanic_EllisStoriesC01"
+//All this mud reminds me of my friend Keith.  He was goin' to build a shack once, to live in and all, I know most of these here people build houses and they become shacks, but keith was about jumpin' right to the shack stage, but he had no wood.
+"Mechanic_EllisStoriesD01"
+//I ain't ever been in a sugar cane field before, I mean I see 'em and all, but no real reason to go into one, but now you go into a peach grove, you can find all kinds of cool shit.  One time I was...
+"Mechanic_EllisStoriesE01"
+//Do you know what suck the heads means?  Because I came down here with Keith once and he didn't know andÖ It ain't nothin' bad.  It's about eatin'.
+"Mechanic_EllisStoriesF01"
+//I ever tell you about the time Keith and I made fireworks? Now, I didn't know shit about chemistry, but Keith figured,  "Gasoline burns, don't it?" Third degree burns on 95% percent of his body.
+"Mechanic_EllisStoriesG01"
+//I ever tell you about the time Keith tried to deep fry a turkey? Third degree burns over ninety percent of his body. His doctor called up, like, other doctors to look at him cause they'd never seen burns on top of existing burns-
+"Mechanic_EllisStoriesH01"
+//I ever tell you about the time my buddy Keith drove his car off a cliff and broke both his legs? It's not a funny ha-ha story so much as a make you think story.  For instance: windshields look pretty durable, right? Not the case, according to Keith.
+"Mechanic_EllisStoriesI01"
+//Okay.
+"Mechanic_EllisStoriesInterrupt05"
+//Cool.
+"Mechanic_EllisStoriesInterrupt12"
+//Okay.
+"Mechanic_EllisStoriesInterrupt14"
+//My buddy Keith lived in a grave yard once, for a whole year. It wasn't on a dare or nothing, he just got kicked out of his house.
+"Mechanic_EllisStoriesJ01"
+//My buddy Keith tried camping out on top of a building once. He was just shooting crows, but the police were too busy tear gassing him to ask what he was doing up there. He screamed for an entire YEAR every single time he opened his eyes.
+"Mechanic_EllisStoriesK01"
+//I ever tell you guys about the time my buddy Keith got rolled by a gator in a swamp? He didn't antagonize it or nothing, we were just trying to grab two so we could piss them off and get 'em to fight.
+"Mechanic_EllisStoriesL01"
+//I ever tell you about the time my buddy Keith drowned in a tunnel of love? You wouldn't think it could happen cause the water's so shallow, but that's how it gets you: Over confidence.
+"Mechanic_EllisStoriesM01"
+//I ever tell you about the time me and Keith snuck paintball guns on a roller coaster? I never heard of nobody else doing it, so I think we might have invented a sport. Keith called the patent office but-
+"Mechanic_EllisStoriesP01"
+//I ever tell you about the time me and Keith made a homemade bumper car ride with riding mowers in Keith's back yard? Mower blade wounds over 90% of his body. I didn't run him over, either, he somehow managed to fall under his own -
+"Mechanic_EllisStoriesQ01"
+//I ever tell you about the time me and Keith filled up water balloons with own p-
+"Mechanic_EllisStoriesR01"
+//One the time the army bombed my buddy Keith. He went camping and didn't bother reading the signs, and I guess they were testing bombs that day-all sorts of stuff too, not just regular bombs.
+"Mechanic_EllisStoriesS01"
+//I ever tell you about the time my buddy Keith fell down an open manhole? He was unconscious down there for a week, and during that time, unbeknownst to Keith, they paved over the hole. Keith had to-
+"Mechanic_EllisStoriesT01"
+//I ever tell you about the time my buddy Keith and I were on top of a burning building and we had to fight our way down like five floors of zombies? We-no wait, I guess that was you guys. Shit, wait'll I tell Keith about that one.
+"Mechanic_EllisStoriesU01"
+//I ever tell you about the time my buddy Keith fell out of a roller coaster? He didn't drop far, mind you, just onto the tracks, but the carnival people wouldn't stop the ride cause all the other people'd paid good money,
+"Mechanic_EllisStoriesV01"
+//Let's  go!
+"Mechanic_EmphaticGo01"
+//Go!
+"Mechanic_EmphaticGo02"
+//Go go go!
+"Mechanic_EmphaticGo03"
+//Hey man, we gotta go!
+"Mechanic_EmphaticGo04"
+//Just run!
+"Mechanic_EmphaticGo05"
+//Let's go.
+"Mechanic_EmphaticGoQuiet01"
+//Move out.
+"Mechanic_EmphaticGoQuiet02"
+//Keep going.
+"Mechanic_EmphaticGoQuiet03"
+//Just run, dammit.
+"Mechanic_EmphaticGoQuiet04"
+//Explosive rounds here!
+"Mechanic_ExplosiveAmmo01"
+//Got some explosive rounds right here!
+"Mechanic_ExplosiveAmmo02"
+//Frag rounds here!
+"Mechanic_ExplosiveAmmo03"
+//Got some frag rounds here!
+"Mechanic_ExplosiveAmmo04"
+//Grabbin' some frag rounds!
+"Mechanic_ExplosiveAmmo05"
+//I'm gonna grab some of these frag rounds!
+"Mechanic_ExplosiveAmmo06"
+//Deploying frag rounds!
+"Mechanic_ExplosiveAmmo07"
+//Deploying frag rounds!
+"Mechanic_ExplosiveAmmo08"
+//Follow me.
+"Mechanic_FollowMe01"
+//Come on, stick with me y'all.
+"Mechanic_FollowMe02"
+//Follow me this way.
+"Mechanic_FollowMe03"
+//This way, guys!
+"Mechanic_FollowMe04"
+//Why in the hell y'all keep shooting me?
+"Mechanic_FriendlyFire01"
+//I'm not a zombie.  Shoot the zombies!
+"Mechanic_FriendlyFire02"
+//Come on, its not funny anymore!
+"Mechanic_FriendlyFire03"
+//I know you shot me.
+"Mechanic_FriendlyFire04"
+//That's not cool.  Seriously.
+"Mechanic_FriendlyFire05"
+//Why in the hell y'all keep shooting me?
+"Mechanic_FriendlyFire06"
+//I'm not a zombie, man.  Shoot the zombies!
+"Mechanic_FriendlyFire07"
+//Stop shooting me.
+"Mechanic_FriendlyFire08"
+//What was that for?
+"Mechanic_FriendlyFire09"
+//Those bullets hurt ya know!
+"Mechanic_FriendlyFire10"
+//Come on, watch it! Damn.
+"Mechanic_FriendlyFire11"
+//Would ya mind not shooting me, please?
+"Mechanic_FriendlyFire12"
+//Ya know, shooting me ain't gonna help nothin'.
+"Mechanic_FriendlyFire13"
+//Damn, man. Ain't got but no reason to be shootin' me.
+"Mechanic_FriendlyFire14"
+//You ain't right in the head shootin' me like that.
+"Mechanic_FriendlyFire15"
+//I'm gettin' so mad I could shit a squealin' worm.
+"Mechanic_FriendlyFire16"
+//Did y'all take leave of your senses?
+"Mechanic_FriendlyFire17"
+//Damn man, quit shootin' me!
+"Mechanic_FriendlyFire18"
+//You shootin' me! Well that just dills my pickle!
+"Mechanic_FriendlyFire19"
+//You're shootin' me!
+"Mechanic_FriendlyFire20"
+//Do that again and I'll knock you into next week.
+"Mechanic_FriendlyFire21"
+//I'm gettin' so mad I could shit a squealin' worm, man.
+"Mechanic_FriendlyFire22"
+//Y'all know you shot me right?
+"Mechanic_FriendlyFire23"
+//Man, y'all are shootin' me.
+"Mechanic_FriendlyFire24"
+//Hey, man! That hit me!
+"Mechanic_FriendlyFire25"
+//Woah, woah that hurts!
+"Mechanic_FriendlyFire26"
+//Okay, stop shooting me!
+"Mechanic_FriendlyFire27"
+//Quit shooting me, man!
+"Mechanic_FriendlyFire28"
+//Quit shooting me!
+"Mechanic_FriendlyFire29"
+//Don't be shootin' me!
+"Mechanic_FriendlyFire30"
+//Hey, let's stop shooting each other, please!
+"Mechanic_FriendlyFire31"
+//Let's not shoot each other!
+"Mechanic_FriendlyFire32"
+//We're on the same team!
+"Mechanic_FriendlyFire33"
+//In case y'all didn't know - it hurts to get shot!
+"Mechanic_FriendlyFireC101"
+//Why don't we save those bullets for the zombies.
+"Mechanic_FriendlyFireC102"
+//I can see you weren't the shootin' coach.
+"Mechanic_FriendlyFireC1Coach01"
+//Yo Coach! Stop shootin' me!
+"Mechanic_FriendlyFireC1Coach02"
+//Nick! Did you mean to do that?
+"Mechanic_FriendlyFireC1Gambler01"
+//Nick! I know that was you shootin' me.
+"Mechanic_FriendlyFireC1Gambler02"
+//Ma'am you want me to show you how to work that thing?
+"Mechanic_FriendlyFireC1Producer01"
+//Rochelle, STOP GIRL!
+"Mechanic_FriendlyFireC1Producer02"
+//Okay, Rochelle, I know that was you shootin' me.
+"Mechanic_FriendlyFireC1Producer03"
+//Come on girl, I thought we were closer than that.
+"Mechanic_FriendlyFireFemale01"
+//Whoa, whoa, WHOA! Shoot the Tank, man!
+"Mechanic_FriendlyFireTank01"
+//HEY! Shoot the Tank!
+"Mechanic_FriendlyFireTank05"
+//Hey come on y'all, shoot the tank not me!
+"Mechanic_FriendlyFireTank07"
+//Shootin' me ain't gonna help us kill that tank!
+"Mechanic_FriendlyFireTank08"
+//Bleedin'.
+"Mechanic_GettingRevived01"
+//Think I'm okay.
+"Mechanic_GettingRevived02"
+//I hurt aplenty
+"Mechanic_GettingRevived03"
+//I hurt.
+"Mechanic_GettingRevived04"
+//I'm pretty torn up.
+"Mechanic_GettingRevived05"
+//Reckon I'm okay.
+"Mechanic_GettingRevived06"
+//Reckon I been better.
+"Mechanic_GettingRevived07"
+//I'm okay.
+"Mechanic_GettingRevived08"
+//I'm alright.
+"Mechanic_GettingRevived09"
+//Good... I think.
+"Mechanic_GettingRevived10"
+//Good... I think.
+"Mechanic_GettingRevived11"
+//I could be better.
+"Mechanic_GettingRevived12"
+//Hell, I don't know.
+"Mechanic_GettingRevived13"
+//Do I look all right?
+"Mechanic_GettingRevived14"
+//Hurtin'.
+"Mechanic_GettingRevived15"
+//Been better.
+"Mechanic_GettingRevived16"
+//Cool.
+"Mechanic_GettingRevived17"
+//Good, how're you?
+"Mechanic_GettingRevived18"
+//I'm just great, thanks.
+"Mechanic_GettingRevived19"
+//Sorry, don't mean to put you out none.
+"Mechanic_GettingRevived20"
+//Hell no, I ain't cryin'.
+"Mechanic_GettingRevived21"
+//I still got some fight in me.
+"Mechanic_GettingRevived22"
+//I'll live.
+"Mechanic_GettingRevived23"
+//Little sore.
+"Mechanic_GettingRevived24"
+//Pissed at myself.
+"Mechanic_GettingRevived25"
+//This was not in my plan.
+"Mechanic_GoingToDie01"
+//I'm hurtin' real bad.
+"Mechanic_GoingToDie02"
+//I hurt aplenty.
+"Mechanic_GoingToDie03"
+//I'm all torn up.
+"Mechanic_GoingToDie04"
+//This ain't right.
+"Mechanic_GoingToDie05"
+//They knocked the piss out of me.
+"Mechanic_GoingToDie06"
+//Ohh.....
+"Mechanic_GoingToDie07"
+//I've got a misery in my bones.
+"Mechanic_GoingToDie08"
+//I ain't lyin', this hurts!
+"Mechanic_GoingToDie09"
+//I don't feel right.
+"Mechanic_GoingToDie10"
+//I think I really hurt something.
+"Mechanic_GoingToDie11"
+//Oh man, oh man, oh man.
+"Mechanic_GoingToDie12"
+//Best be findin' me a health kit.
+"Mechanic_GoingToDie13"
+//I ain't just goin' on, I'm really hurt.
+"Mechanic_GoingToDie14"
+//Y'all , y'all I'm hurt!
+"Mechanic_GoingToDie15"
+//Ah hell no, ah hell no.
+"Mechanic_GoingToDie16"
+//These here zombies are tryin' to kill me.
+"Mechanic_GoingToDie17"
+//Ahh shit this hurts.
+"Mechanic_GoingToDie18"
+//Man, I ain't doin' too good.
+"Mechanic_GoingToDie19"
+//Oh, man, I'm hurtin'.
+"Mechanic_GoingToDie20"
+//Com come on. I gotta keep up, gotta keep up.
+"Mechanic_GoingToDie21"
+//Sorry, man, I'm trying to keep up.
+"Mechanic_GoingToDie22"
+//Sorry, I can't go any faster.
+"Mechanic_GoingToDie23"
+//I'm goin' as fast as I can.
+"Mechanic_GoingToDie24"
+//I am all tuckered out.
+"Mechanic_GoingToDie25"
+//Goddamn I hurt!
+"Mechanic_GoingToDie26"
+//I could go for a nap, right now.
+"Mechanic_GoingToDie27"
+//Well screw me.  I'm not gonna make it.
+"Mechanic_GoingToDie301"
+//I reckon if this keeps up, I'm gonna die.
+"Mechanic_GoingToDie302"
+//I don't mean to be cursing myself, but I think I'm gonna die.
+"Mechanic_GoingToDie303"
+//I hurt so bad, I don't see right.
+"Mechanic_GoingToDie304"
+//I got spitter shit on me!
+"Mechanic_GooedBySpitter01"
+//Spitter goo!
+"Mechanic_GooedBySpitter02"
+//Get out of the spitter goo!
+"Mechanic_GooedBySpitter03"
+//Ahh hell, man, spitter goo.
+"Mechanic_GooedBySpitter04"
+//Move, move, I'm in spitter shit.
+"Mechanic_GooedBySpitter05"
+//GODDAMN! GOO!
+"Mechanic_GooedBySpitter06"
+//This stuff burns, man!
+"Mechanic_GooedBySpitter07"
+//Ah this shit burns!!?!?
+"Mechanic_GooedBySpitterC101"
+//What the hell!?!? Spittin' fire?
+"Mechanic_GooedBySpitterC102"
+//Hey run, man! This is some crazy shit.
+"Mechanic_GooedBySpitterC103"
+//Ahh great, now their spittin' shit at us.
+"Mechanic_GooedBySpitterC1R01"
+//Yo, somebody's gotta kill that zombie spittin' shit.
+"Mechanic_GooedBySpitterC1R02"
+//Charger's got me!
+"Mechanic_GrabbedByCharger01"
+//Shoot the charger, man! Shoot the charger!
+"Mechanic_GrabbedByCharger02"
+//It's killing me!
+"Mechanic_GrabbedByCharger03"
+//He's bashing me into shit!
+"Mechanic_GrabbedByCharger04"
+//Ahhh hell it's pounding me to death!
+"Mechanic_GrabbedByCharger05"
+//Charger's ripping me up!
+"Mechanic_GrabbedByCharger06"
+//Kill this thing!
+"Mechanic_GrabbedByCharger07"
+//Shoot the damn thing!
+"Mechanic_GrabbedByCharger08"
+//Just shoot it! SHOOT IT!
+"Mechanic_GrabbedByCharger09"
+//GET THIS OFF MY BACK!
+"Mechanic_GrabbedByJockey01"
+//I GOT A JOCKEY ON ME!
+"Mechanic_GrabbedByJockey02"
+//SUMBITCH IS ON MY BACK!
+"Mechanic_GrabbedByJockey03"
+//THIS AIN'T RIGHT HAVING THIS THING ON ME!
+"Mechanic_GrabbedByJockey04"
+//GET THIS THING OFF ME!
+"Mechanic_GrabbedByJockey05"
+//THIS THINGS RIDING ME!
+"Mechanic_GrabbedByJockey06"
+//IS THIS THING HUMPING ME!??!
+"Mechanic_GrabbedByJockey07"
+//It's like a monkey on a mule.
+"Mechanic_GrabbedByJockeyR01"
+//Where's that thing goin' with 'em?
+"Mechanic_GrabbedByJockeyR02"
+//That's just humiliating.
+"Mechanic_GrabbedByJockeyR03"
+//That don't look dignified.
+"Mechanic_GrabbedByJockeyR04"
+//NO!
+"Mechanic_GrabbedBySmoker01"
+//Ugh!
+"Mechanic_GrabbedBySmoker01a"
+//Agh!
+"Mechanic_GrabbedBySmoker01b"
+//NO!
+"Mechanic_GrabbedBySmoker01c"
+//Daaa-ugh!!
+"Mechanic_GrabbedBySmoker01d"
+//No!
+"Mechanic_GrabbedBySmoker02"
+//NO!
+"Mechanic_GrabbedBySmoker02a"
+//NOOOOOOO!!!!
+"Mechanic_GrabbedBySmoker02b"
+//NO!
+"Mechanic_GrabbedBySmoker03"
+//Ah, NO!
+"Mechanic_GrabbedBySmoker03a"
+//NO!
+"Mechanic_GrabbedBySmoker03b"
+//AAGH!
+"Mechanic_GrabbedBySmoker03c"
+//Ngahhh!
+"Mechanic_GrabbedBySmoker03d"
+//SMOKER'S GOT ME!!
+"Mechanic_GrabbedBySmoker04"
+//SMOKER'S GOT ME!!
+"Mechanic_GrabbedBySmoker05"
+//No!
+"Mechanic_GrabbedBySmoker06"
+//Agh!
+"Mechanic_GrabbedBySmoker06a"
+//D'OH, OH!
+"Mechanic_GrabbedBySmoker06b"
+//DAAAAH!!
+"Mechanic_GrabbedBySmoker06c"
+//What the hell's got me?!?!
+"Mechanic_GrabbedBySmokerC101"
+//Oh! I've been lassoed!
+"Mechanic_GrabbedBySmokerC102"
+//I can't move help!
+"Mechanic_GrabbedBySmokerC103"
+//I'm getting dragged away!
+"Mechanic_GrabbedBySmokerC104"
+//Where's this thing draggin' me?!?!?
+"Mechanic_GrabbedBySmokerC105"
+//Mother f... TONGUE!!!
+"Mechanic_GrabbedBySmokerC106"
+//GRENADE!
+"Mechanic_Grenade01"
+//GRENADE!
+"Mechanic_Grenade02"
+//Throwing a pipe bomb.
+"Mechanic_Grenade03"
+//Throwing a pipe bomb.
+"Mechanic_Grenade04"
+//Throwing a Molotov.
+"Mechanic_Grenade05"
+//MOLOTOV COMING!
+"Mechanic_Grenade06"
+//PIPE BOMB OUT!
+"Mechanic_Grenade07"
+//Hey, fire's comin'!
+"Mechanic_Grenade08"
+//Fire in the hole!
+"Mechanic_Grenade09"
+//Fire is a comin'!
+"Mechanic_Grenade10"
+//Chase this!
+"Mechanic_Grenade11"
+//Pipe bomb on the way!
+"Mechanic_Grenade12"
+//Hey! Chase this!
+"Mechanic_Grenade13"
+//Grenade Launcher!
+"Mechanic_GrenadeLauncher01"
+//Grenade Launcher here!
+"Mechanic_GrenadeLauncher02"
+//Taking the Grenade Launcher!
+"Mechanic_GrenadeLauncher03"
+//Hey, I gotta take the Grenade Launcher!
+"Mechanic_GrenadeLauncher04"
+//Oh hell yeah, I gotta take the Grenade Launcher!
+"Mechanic_GrenadeLauncher05"
+//Hold on let me heal ya!
+"Mechanic_HealOther01"
+//Let me patch ya up,
+"Mechanic_HealOther02"
+//Let me use this health kit on ya.
+"Mechanic_HealOther03"
+//Hear ya go, had no use for this anyhow.
+"Mechanic_HealOther04"
+//Hear ya go, had no use for this anyhow. I ain't gonna get shot.
+"Mechanic_HealOther05"
+//Let me heal ya, this what friends are for!
+"Mechanic_HealOther06"
+//Let me heal ya up now, this what friends are for!
+"Mechanic_HealOther07"
+//Here ya go now. You'll probably put this to better use than me.
+"Mechanic_HealOther08"
+//You'll probably put this to better use than me anyhow.
+"Mechanic_HealOther09"
+//I don't know what I'm doin, so hold on a minute.
+"Mechanic_HealOtherC101"
+//I don't know what I'm doin, so just hold on.
+"Mechanic_HealOtherC102"
+//Let me try and fix you up.
+"Mechanic_HealOtherC103"
+//I better practice on you before I do this on myself.
+"Mechanic_HealOtherC104"
+//Hang on a minute, I think it goes somethin' like this.
+"Mechanic_HealOtherC105"
+//Hold on! Hold on!
+"Mechanic_HealOtherCombat01"
+//Stay still, I'm healin' ya!
+"Mechanic_HealOtherCombat02"
+//Don't stop shootin'!
+"Mechanic_HealOtherCombat03"
+//Keep shootin', man, Keep shootin!
+"Mechanic_HealOtherCombat04"
+//I hear a boomer.
+"Mechanic_HeardBoomer01"
+//Hey, think I heard a boomer.
+"Mechanic_HeardBoomer02"
+//Careful, boomer 'round.
+"Mechanic_HeardBoomer03"
+//Careful, boomer 'round.
+"Mechanic_HeardBoomer04"
+//Think I heard a boomer.
+"Mechanic_HeardBoomer05"
+//I hear a boomer.
+"Mechanic_HeardBoomer06"
+//Charger around.
+"Mechanic_HeardCharger01"
+//I hear a charger.
+"Mechanic_HeardCharger02"
+//Hear that charger?
+"Mechanic_HeardCharger03"
+//Tank! Tank!
+"Mechanic_HeardHulk01"
+//HOLY SHIT! SHIT TANK!!!
+"Mechanic_HeardHulk02"
+//TANK! Run no, don't run! SHOOOOOT!
+"Mechanic_HeardHulk03"
+//TANK!
+"Mechanic_HeardHulk04"
+//TANK!
+"Mechanic_HeardHulk05"
+//HOLY SHIT! SHIT TANK!!!
+"Mechanic_HeardHulk06"
+//I hear a hunter around.
+"Mechanic_HeardHunter01"
+//Careful.  Hunter.
+"Mechanic_HeardHunter02"
+//I hear a hunter.
+"Mechanic_HeardHunter03"
+//I hear one of those back humpers around here.
+"Mechanic_HeardJockey01"
+//A freaking jockey's around.
+"Mechanic_HeardJockey02"
+//Hey, watch your back, jockey's around here.
+"Mechanic_HeardJockey03"
+//I hate them things
+"Mechanic_HeardJockey04"
+//I hate those jockeys.
+"Mechanic_HeardJockey05"
+//That is just offensive what they do.
+"Mechanic_HeardJockey06"
+//Dude,I hear one of those back humpers around.
+"Mechanic_HeardJockey07"
+//There's a freaking jockey's around here.
+"Mechanic_HeardJockey08"
+//I think that's one of them little things.
+"Mechanic_HeardJockeyC101"
+//Smoker around these parts.
+"Mechanic_HeardSmoker01"
+//Careful, Smoker.
+"Mechanic_HeardSmoker02"
+//Hey, I hear a smoker.
+"Mechanic_HeardSmoker03"
+//I hear one of those strange ones.
+"Mechanic_HeardSpecialC101"
+//What in the hell is making that noise?
+"Mechanic_HeardSpecialC102"
+//Dude, I do not like the sound of that.
+"Mechanic_HeardSpecialC103"
+//That is not a happy noise.
+"Mechanic_HeardSpecialC104"
+//I hope we don't meet whatever's making that noise.
+"Mechanic_HeardSpecialC105"
+//Worse than zombies?
+"Mechanic_HeardSpecialC106"
+//What in the hell is making that noise?
+"Mechanic_HeardSpecialC107"
+//I do not like the sound of that.
+"Mechanic_HeardSpecialC108"
+//That ain't a happy noise.
+"Mechanic_HeardSpecialC109"
+//I hear a spitter.
+"Mechanic_HeardSpitter01"
+//Spitting thing's around.
+"Mechanic_HeardSpitter02"
+//I hear one of them spitters.
+"Mechanic_HeardSpitter03"
+//Holy shit, look at that big thing!
+"Mechanic_HeardTanklC101"
+//Are guns even gonna work against that thing?
+"Mechanic_HeardTanklC102"
+//That is a big ass zombie.
+"Mechanic_HeardTanklC103"
+//That crying girl's around.
+"Mechanic_HeardWitch01"
+//Hey, I hear a witch.
+"Mechanic_HeardWitch02"
+//I hear a witch crying.
+"Mechanic_HeardWitch03"
+//Hey, do you hear that crying?
+"Mechanic_HeardWitchC101"
+//Dude, she don't sound happy.
+"Mechanic_HeardWitchC102"
+//Let's not go by the crying girl.
+"Mechanic_HeardWitchC103"
+//Seriously, I'm thinkin' we should just leave the crying girl alone.
+"Mechanic_HeardWitchC104"
+//I don't like the sound of that crying.
+"Mechanic_HeardWitchC105"
+//I'm not - I'm not going near the crying gril.
+"Mechanic_HeardWitchC106"
+//Help! Help!
+"Mechanic_Help01"
+//Hey, I need some help over here!
+"Mechanic_Help02"
+//Help me out!
+"Mechanic_Help03"
+//Help!
+"Mechanic_Help04"
+//Oh shit! Help!
+"Mechanic_Help05"
+//I need some help!
+"Mechanic_Help06"
+//Hunter's got Coach!
+"Mechanic_HunterCoachPounced01"
+//Hey, hunter on  Coach!
+"Mechanic_HunterCoachPounced02"
+//Hunter's got Nick!
+"Mechanic_HunterNickPounced01"
+//Hey hunter's on Nick!
+"Mechanic_HunterNickPounced02"
+//A zombie's got him!
+"Mechanic_HunterPouncedC101"
+//One of those things got him!
+"Mechanic_HunterPouncedC102"
+//Shit, a zombies got her!
+"Mechanic_HunterPouncedC1Producer01"
+//Hey, one of those things got her!
+"Mechanic_HunterPouncedC1Producer02"
+//Hunter's got Rochelle!
+"Mechanic_HunterRochellePounced01"
+//Hunter on  Rochelle!
+"Mechanic_HunterRochellePounced02"
+//We opened up a can of whup ass on them!
+"Mechanic_Hurrah01"
+//I'm thinkin' we can take on anything!
+"Mechanic_Hurrah02"
+//We are kings of the world!
+"Mechanic_Hurrah03"
+//I am proud to be part of this team!
+"Mechanic_Hurrah04"
+//We are a right damn good team!
+"Mechanic_Hurrah05"
+//Hey, let me tell ya something. Y'all are the best!
+"Mechanic_Hurrah06"
+//Well, slap my head and call me silly we are kickin' some ass!
+"Mechanic_Hurrah07"
+//Ahh HELL YEAH!
+"Mechanic_Hurrah08"
+//All right then!
+"Mechanic_Hurrah09"
+//I ain't no god damn son of a bitch, yeah ya better think about that baby.
+"Mechanic_Hurrah10"
+//That's how it's done RIGHT!
+"Mechanic_Hurrah11"
+//We're kickin' more ass than a boot in an ass factory!
+"Mechanic_Hurrah12"
+//DAMN, we are good.
+"Mechanic_Hurrah13"
+//Load, lock, and cut the talk! That's how it's done!
+"Mechanic_Hurrah14"
+//We in the ZOMBIE-killin' bidness!
+"Mechanic_Hurrah15"
+//Hoohoo! Apocalypse, my ass! We're livin' in the best shooting range of ALL TIME!
+"Mechanic_Hurrah18"
+//We gotta make this fair for the zombies! I'm-a tie an arm around my back.
+"Mechanic_Hurrah20"
+//Come on y'all hurry up!
+"Mechanic_HurryUp01"
+//Hurry up!
+"Mechanic_HurryUp02"
+//Let's go, let's go!
+"Mechanic_HurryUp03"
+//Come on y'all hurry up!
+"Mechanic_HurryUp04"
+//Hurry it! Hurry it!
+"Mechanic_HurryUp05"
+//Hurry up!
+"Mechanic_HurryUp06"
+//Let's go, let's go!
+"Mechanic_HurryUp07"
+//[pain noise - loud major pain]
+"Mechanic_HurtCritical01"
+//[pain noise - loud major pain]
+"Mechanic_HurtCritical02"
+//[pain noise - loud major pain]
+"Mechanic_HurtCritical03"
+//[pain noise - loud major pain]
+"Mechanic_HurtCritical04"
+//[pain noise - loud major pain]
+"Mechanic_HurtCritical05"
+//[pain noise - loud major pain]
+"Mechanic_HurtCritical06"
+//[pain noise - huh]
+"Mechanic_HurtMajor01"
+//[pain noise - ahh]
+"Mechanic_HurtMajor02"
+//[pain noise - oy]
+"Mechanic_HurtMajor03"
+//[pain noise - ugh]
+"Mechanic_HurtMajor04"
+//[pain noise - ugh]
+"Mechanic_HurtMajor05"
+//[pain noise - ugh]
+"Mechanic_HurtMajor06"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor01"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor02"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor03"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor05"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor06"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor07"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor08"
+//[pain noise - short minor pain]
+"Mechanic_HurtMinor09"
+//Sure, I'm with ya.
+"Mechanic_ImWithYou01"
+//Yeah, let's do this.
+"Mechanic_ImWithYou02"
+//Yeah, let's go.
+"Mechanic_ImWithYou03"
+//Hell yeah, I'm with ya.
+"Mechanic_ImWithYou04"
+//I'm down!
+"Mechanic_IncapacitatedInitial01"
+//Shit, I'm down.
+"Mechanic_IncapacitatedInitial02"
+//Ahh, shit, I'm down.
+"Mechanic_IncapacitatedInitial03"
+//AHHHHH [terrified yell]
+"Mechanic_IncapacitatedInjury01"
+//AHHHHH [terrified yell]
+"Mechanic_IncapacitatedInjury02"
+//AHHHHH [terrified yell]
+"Mechanic_IncapacitatedInjury03"
+//AHHHHH [terrified yell]
+"Mechanic_IncapacitatedInjury04"
+//AHHHHH [terrified yell]
+"Mechanic_IncapacitatedInjury05"
+//AHHHHH [terrified yell]
+"Mechanic_IncapacitatedInjury06"
+//Fire bullets here!
+"Mechanic_IncendAmmo01"
+//Hey, fire bullets right here!
+"Mechanic_IncendAmmo02"
+//Fire bullets here!
+"Mechanic_IncendAmmo03"
+//Grabbin' fire bullets!
+"Mechanic_IncendAmmo04"
+//I'm grabbin' some fire bullets!
+"Mechanic_IncendAmmo05"
+//Time to start some fires.
+"Mechanic_IncendAmmo06"
+//Time to start some fires.
+"Mechanic_IncendAmmo07"
+//Time to start some fires. Who's with me?
+"Mechanic_IncendAmmo08"
+//Deploying fire bullets!
+"Mechanic_IncendAmmo09"
+//Deploying fire bullets!
+"Mechanic_IncendAmmo10"
+//I'm deploying some fire bullets!
+"Mechanic_IncendAmmo11"
+//Everybody grab some incendiary ammo!
+"Mechanic_IncendAmmo12"
+//Hey, everybody grab some incendiary ammo!
+"Mechanic_IncendAmmo13"
+//Hey, everybody let's grab some incendiary ammo!
+"Mechanic_IncendAmmo14"
+//They're coming!
+"Mechanic_Incoming01"
+//Get ready!
+"Mechanic_Incoming02"
+//Here they come!
+"Mechanic_Incoming03"
+//Y'all get ready!
+"Mechanic_Incoming04"
+//Killed it.
+"Mechanic_KillConfirmation01"
+//Hit it.
+"Mechanic_KillConfirmation02"
+//I got it.
+"Mechanic_KillConfirmation03"
+//Dead!
+"Mechanic_KillConfirmation04"
+//Got 'em.
+"Mechanic_KillConfirmation05"
+//Hit!
+"Mechanic_KillConfirmation06"
+//Mine!
+"Mechanic_KillConfirmation07"
+//Y'all better kill ya lights.
+"Mechanic_KillThatLight01"
+//Lights off.
+"Mechanic_KillThatLight02"
+//Kill your damn lights.
+"Mechanic_KillThatLight03"
+//Hey, lights off y'all.
+"Mechanic_KillThatLight04"
+//Laser sights here.
+"Mechanic_LaserSights01"
+//Laser sights right here.
+"Mechanic_LaserSights02"
+//Hey, laser sights here.
+"Mechanic_LaserSights03"
+//<Hearty Laugh>
+"Mechanic_Laughter04"
+//<Hearty Laugh>
+"Mechanic_Laughter05"
+//<Hearty Laugh>
+"Mechanic_Laughter06"
+//<Short laugh> Hell yeah!
+"Mechanic_Laughter07"
+//<Short laugh>
+"Mechanic_Laughter09"
+//<Hearty Laugh>
+"Mechanic_Laughter13b"
+//<Hearty Laugh>
+"Mechanic_Laughter13c"
+//<Hearty Laugh>
+"Mechanic_Laughter13d"
+//<Hearty Laugh>
+"Mechanic_Laughter13e"
+//<Short laugh>
+"Mechanic_Laughter14"
+//I'm game.
+"Mechanic_LeadOn01"
+//Hell yeah, where we going?
+"Mechanic_LeadOn02"
+//I'll follow you.
+"Mechanic_LeadOn03"
+//I'm right behind you.
+"Mechanic_LeadOn04"
+//You're in charge.
+"Mechanic_LeadOn05"
+//AHH SHIIIITTTT!!  HELP ME OUT!
+"Mechanic_LedgeHangEnd01"
+//THIS IS NOT  HOW I WANT TO DIE, MAN - HELP!
+"Mechanic_LedgeHangEnd02"
+//HEY Y'ALL I CAN'T HANG HERE ANYMORE!
+"Mechanic_LedgeHangEnd03"
+//PLEASE MAN, COME ON NOW!
+"Mechanic_LedgeHangEnd04"
+//HEEEEEEEELLLLLPPPPP!!!!!
+"Mechanic_LedgeHangFall01"
+//NOOOOOOOOOOOOOOOO!!!!
+"Mechanic_LedgeHangFall02"
+//WOOOOOAAAAAHHHHHH!!!!
+"Mechanic_LedgeHangFall03"
+//GOOD-BYYYYYYYYYYYE!!
+"Mechanic_LedgeHangFall04"
+//SORRY Y'AAAAAAAAAALLL!!
+"Mechanic_LedgeHangFall05"
+//Come on y'all I can't hang on all day!
+"Mechanic_LedgeHangMiddle01"
+//I could still use a hand over here!
+"Mechanic_LedgeHangMiddle02"
+//This here is gettin' scary! I need some help, guys!
+"Mechanic_LedgeHangMiddle03"
+//Don't mean to be no bother, but i need some help!
+"Mechanic_LedgeHangMiddle04"
+//Don't mean to be no bother guys, but i need some help over here!
+"Mechanic_LedgeHangMiddle05"
+//Woah woah woah
+"Mechanic_LedgeHangSlip01"
+//Woah
+"Mechanic_LedgeHangSlip02"
+//Woah
+"Mechanic_LedgeHangSlip03"
+//Hey! I seem to have fallen and yeah, I can't get up.
+"Mechanic_LedgeHangStart01"
+//Hey If anyone don't mind none, could use a hand!
+"Mechanic_LedgeHangStart02"
+//I'm on this here ledge!
+"Mechanic_LedgeHangStart03"
+//Ah hell, I'm hangin'.  Over here!
+"Mechanic_LedgeHangStart04"
+//If y'all miss me, I'm over here hangin' on the ledge. Over here.
+"Mechanic_LedgeHangStart05"
+//I gotcha, I gotcha.  Try not to look down.
+"Mechanic_LedgeSave01"
+//Hey, Ellis got ya.  Ain't nothin' gonna happen to ya now.
+"Mechanic_LedgeSave02"
+//Hey, we gonna make this right, let's get ya up.
+"Mechanic_LedgeSave03"
+//Oh hang on there, let's get ya up on your feet.
+"Mechanic_LedgeSave04"
+//Look!
+"Mechanic_Look01"
+//Look.
+"Mechanic_Look02"
+//Over there!
+"Mechanic_Look03"
+//Looky looky.
+"Mechanic_Look04"
+//Look right there.
+"Mechanic_Look05"
+//Hey look over there!
+"Mechanic_Look06"
+//Over there!
+"Mechanic_Look07"
+//Look!
+"Mechanic_Look08"
+//Look here!
+"Mechanic_Look09"
+//Look.
+"Mechanic_Look10"
+//Hey look over here!
+"Mechanic_LookHere01"
+//Look here.
+"Mechanic_LookHere02"
+//Hey look at this here.
+"Mechanic_LookHere03"
+//Well looky over here.
+"Mechanic_LookHere04"
+//Well look what we got right here.
+"Mechanic_LookHere05"
+//Yeah, look at this here right now, ah ha!
+"Mechanic_LookHere06"
+//Hey look out!
+"Mechanic_LookOut01"
+//Hey watch out!
+"Mechanic_LookOut02"
+//Look out now!
+"Mechanic_LookOut03"
+//Anyone?
+"Mechanic_LostCall01"
+//Where is everyone?!
+"Mechanic_LostCall02"
+//Not funny man, where are you guys?
+"Mechanic_LostCall03"
+//Anyone?
+"Mechanic_LostCall04"
+//Machete here.
+"Mechanic_MeleeWeapons01"
+//Got a machete.
+"Mechanic_MeleeWeapons02"
+//Machete here.
+"Mechanic_MeleeWeapons03"
+//Chainsaw here.
+"Mechanic_MeleeWeapons04"
+//Chainsaw here.
+"Mechanic_MeleeWeapons05"
+//I got a chainsaw.
+"Mechanic_MeleeWeapons06"
+//Chainsaw here.
+"Mechanic_MeleeWeapons07"
+//Man, if I lose my hand, I'm stitchin' this thing onto the stump.
+"Mechanic_MeleeWeapons08"
+//Ain't a problem in the world can't be solved with a chainsaw.
+"Mechanic_MeleeWeapons09"
+//nightstick here...
+"Mechanic_MeleeWeapons10"
+//Grabbing a nightstick.
+"Mechanic_MeleeWeapons11"
+//nightstick here...
+"Mechanic_MeleeWeapons12"
+//[humming] Gonna beat me a zombie to death... with a nightstick...
+"Mechanic_MeleeWeapons13"
+//Guitar here.
+"Mechanic_MeleeWeapons14"
+//Grabbing a guitar.
+"Mechanic_MeleeWeapons15"
+//Guitar here.
+"Mechanic_MeleeWeapons16"
+//Hey, grabbing an axe.
+"Mechanic_MeleeWeapons17"
+//Katana here.
+"Mechanic_MeleeWeapons18"
+//Katana here.
+"Mechanic_MeleeWeapons19"
+//I'm gonna grab this katana.
+"Mechanic_MeleeWeapons20"
+//Grabbing a katana.
+"Mechanic_MeleeWeapons21"
+//Grabbing the cool-ass ninja sword.
+"Mechanic_MeleeWeapons22"
+//Grabbing the ninja sword.
+"Mechanic_MeleeWeapons23"
+//Grabbing the ninja sword. Wish I'd brought my throwing stars.
+"Mechanic_MeleeWeapons24"
+//Grabbing the ninja sword. Anybody sees some nunchuks, gimme a holler.
+"Mechanic_MeleeWeapons25"
+//Grabbing a crowbar.
+"Mechanic_MeleeWeapons27"
+//Crowbar right here.
+"Mechanic_MeleeWeapons29"
+//Man, I'm gonna beat these sons of bitches till I lose my watch.
+"Mechanic_MeleeWeapons30"
+//Time to beat on some sons of bitches.
+"Mechanic_MeleeWeapons31"
+//Gonna beat me a zombie till there ain't a chunk big enough to hit.
+"Mechanic_MeleeWeapons32"
+//Paddle bat here.
+"Mechanic_MeleeWeapons35"
+//I don't know, some sort of bat here.
+"Mechanic_MeleeWeapons36"
+//Bat thing here.
+"Mechanic_MeleeWeapons37"
+//Paddle bat here.
+"Mechanic_MeleeWeapons38"
+//Paddle here.
+"Mechanic_MeleeWeapons39"
+//Grabbin' a problem solver.
+"Mechanic_MeleeWeapons41"
+//Through here!
+"Mechanic_MiscDirectional01"
+//This way!
+"Mechanic_MiscDirectional03"
+//In here!
+"Mechanic_MiscDirectional04"
+//Down here!
+"Mechanic_MiscDirectional05"
+//C'mon, this way!
+"Mechanic_MiscDirectional06"
+//Hey, through this window!
+"Mechanic_MiscDirectional07"
+//Let's go through here!
+"Mechanic_MiscDirectional11"
+//Through this door!
+"Mechanic_MiscDirectional13"
+//Through that door!
+"Mechanic_MiscDirectional14"
+//Through that gate!
+"Mechanic_MiscDirectional16"
+//Up this ladder!
+"Mechanic_MiscDirectional19"
+//Over the fence!
+"Mechanic_MiscDirectional22"
+//We can get up here!
+"Mechanic_MiscDirectional28"
+//Hey, there's a safe room right up there!
+"Mechanic_MiscDirectional33"
+//Hit it!
+"Mechanic_MiscDirectional34"
+//Press the button!
+"Mechanic_MiscDirectional35"
+//I hit it!
+"Mechanic_MiscDirectional38"
+//Over this door!
+"Mechanic_MiscDirectional40"
+//Jump down there!
+"Mechanic_MiscDirectional46"
+//We gotta go back through the field!
+"Mechanic_MiscDirectional47"
+//Hey, we can take the elevator back up!
+"Mechanic_MiscDirectional49"
+//UP this pipe!
+"Mechanic_MiscDirectional51"
+//Everybody back down the stairs!
+"Mechanic_MiscDirectional52"
+//We can cross on that tank!
+"Mechanic_MiscDirectional54"
+//Cross here!
+"Mechanic_MiscDirectional55"
+//We can get across the water here!
+"Mechanic_MiscDirectional56"
+//Man, the whole place is underwater.
+"Mechanic_MiscDirectional60"
+//It's like a fabled city of Atlantis.
+"Mechanic_MiscDirectional61"
+//STORM!
+"Mechanic_MiscDirectional62"
+//STORM COMIN'!
+"Mechanic_MiscDirectional63"
+//DON'T WANDER OFF!
+"Mechanic_MiscDirectional64"
+//DON'T NOBODY WANDER OFF!
+"Mechanic_MiscDirectional65"
+//I can't see a damn thing.
+"Mechanic_MiscDirectional66"
+//There's the entrance! We're almost outta here!
+"Mechanic_MiscDirectional67"
+//Let's go.
+"Mechanic_MoveOn01"
+//Let's roll.
+"Mechanic_MoveOn02"
+//C'mon, keep a move on!
+"Mechanic_MoveOn03"
+//Hey man, we should get goin'.
+"Mechanic_MoveOn04"
+//Don't you reckon we should move on now?
+"Mechanic_MoveOn05"
+//You reckon we should move out now?
+"Mechanic_MoveOn06"
+//Hey, we should get goin', man.
+"Mechanic_MoveOn07"
+//Hey Coach!
+"Mechanic_NameCoach01"
+//Coach.
+"Mechanic_NameCoach02"
+//Coach!
+"Mechanic_NameCoach04"
+//Coach, Coach, Coach.
+"Mechanic_NameCoach05"
+//Coach!
+"Mechanic_NameCoach07"
+//Coach.
+"Mechanic_NameCoach09"
+//Coach.
+"Mechanic_NameCoach10"
+//Coach.
+"Mechanic_NameCoach12"
+//Sir.
+"Mechanic_NameGamblerC101"
+//Excuse me sir.
+"Mechanic_NameGamblerC102"
+//Excuse me sir.
+"Mechanic_NameGamblerC103"
+//Excuse me sir.
+"Mechanic_NameGamblerC104"
+//Mr Gambling Man.
+"Mechanic_NameGamblerC105"
+//You in the suit.
+"Mechanic_NameGamblerC106"
+//Hey you in the suit.
+"Mechanic_NameGamblerC107"
+//Mr Gambling Man.
+"Mechanic_NameGamblerC108"
+//Excuse me sir.
+"Mechanic_NameGamblerC110"
+//Hey sir.
+"Mechanic_NameGamblerC111"
+//Nick!
+"Mechanic_NameNick01"
+//Hey, Nick!
+"Mechanic_NameNick02"
+//Nick.
+"Mechanic_NameNick06"
+//Nick.
+"Mechanic_NameNick07"
+//Nick.
+"Mechanic_NameNick08"
+//Nick.
+"Mechanic_NameNick09"
+//That's not cool, Nick.
+"Mechanic_NameNick12"
+//Nick.
+"Mechanic_NameNick13"
+//Nick.
+"Mechanic_NameNick15"
+//Ma'am.
+"Mechanic_NameProducerC101"
+//Ma'am.
+"Mechanic_NameProducerC102"
+//Ma'am.
+"Mechanic_NameProducerC103"
+//Ma'am.
+"Mechanic_NameProducerC104"
+//Miss.
+"Mechanic_NameProducerC105"
+//Excuse me, miss.
+"Mechanic_NameProducerC106"
+//Miss.
+"Mechanic_NameProducerC107"
+//Miss.
+"Mechanic_NameProducerC108"
+//Miss.
+"Mechanic_NameProducerC109"
+//Rochelle!
+"Mechanic_NameRochelle02"
+//Hey, Ro!
+"Mechanic_NameRochelle03"
+//Rochelle.
+"Mechanic_NameRochelle05"
+//Rochelle!
+"Mechanic_NameRochelle06"
+//Rochelle.
+"Mechanic_NameRochelle08"
+//Ro.
+"Mechanic_NameRochelle09"
+//Rochelle.
+"Mechanic_NameRochelle10"
+//Hey Rochelle!
+"Mechanic_NameRochelle11"
+//Rochelle!
+"Mechanic_NameRochelle12"
+//Rochelle!
+"Mechanic_NameRochelle13"
+//Ro!
+"Mechanic_NameRochelle15"
+//Nice, man!
+"Mechanic_NiceJob01"
+//Hey, y'all done good!
+"Mechanic_NiceJob02"
+//You're all right!
+"Mechanic_NiceJob03"
+//That's the ticket!
+"Mechanic_NiceJob04"
+//Hey, you're takin' charge, man.
+"Mechanic_NiceJob05"
+//Nice job, man!
+"Mechanic_NiceJob06"
+//All right!
+"Mechanic_NiceJob07"
+//See?  Don't that feel good?
+"Mechanic_NiceJob08"
+//Hey, don't that feel good?
+"Mechanic_NiceJob09"
+//You did a good job.
+"Mechanic_NiceJob10"
+//I told ya it'd feel good!
+"Mechanic_NiceJob11"
+//You are takin' charge.
+"Mechanic_NiceJob12"
+//Well, Nice.
+"Mechanic_NiceShot01"
+//Nice shot.
+"Mechanic_NiceShot02"
+//Cool.
+"Mechanic_NiceShot03"
+//Yeah, nice!
+"Mechanic_NiceShot04"
+//Good shootin', Tex!
+"Mechanic_NiceShot05"
+//Nice.
+"Mechanic_NiceShot06"
+//Goddamn your good.
+"Mechanic_NiceShot07"
+//Goddamn your good.
+"Mechanic_NiceShot08"
+//Hey good shootin'!
+"Mechanic_NiceShot09"
+//Yeah, nice!
+"Mechanic_NiceShot10"
+//Nice shot.
+"Mechanic_NiceShot11"
+//You nailed it coach!
+"Mechanic_NiceShotCoach01"
+//Nice shot, coach! Nailed it.
+"Mechanic_NiceShotCoach02"
+//Whoa, Nick! Well... why doesn't it surpise me you're good with a gun?
+"Mechanic_NiceShotGambler01"
+//Well, goddamn Annie Oakley.
+"Mechanic_NiceShotRochelle01"
+//Smells like a raccoon died in a diaper factory.
+"Mechanic_NickOcd01"
+//Smells like dead zombies to me. Everything smellin' like that lately.
+"Mechanic_NickOcd03"
+//Is that what that is? Smelled like a raccoon died an abandoned refrigerator.
+"Mechanic_NickOcd06"
+//[sniffs] Smells like dead zombies to me. I got no quarrels with that smell.
+"Mechanic_NickOcd08"
+//No.
+"Mechanic_No01"
+//Uh, uh.
+"Mechanic_No02"
+//Nope.
+"Mechanic_No03"
+//Nah man.
+"Mechanic_No04"
+//Nah.
+"Mechanic_No05"
+//Yeah no.
+"Mechanic_No06"
+//Nah man.
+"Mechanic_No07"
+//Uh, uh.
+"Mechanic_No08"
+//No.
+"Mechanic_No09"
+//Yeah no.
+"Mechanic_No10"
+//Sorry, no.
+"Mechanic_No11"
+//Can't do it, man.
+"Mechanic_No12"
+//Oooh yeah.
+"Mechanic_PainRelieftFirstAid01"
+//Oooh yeah.
+"Mechanic_PainRelieftFirstAid02"
+//Much, much better now.
+"Mechanic_PainRelieftFirstAid03"
+//Oooh, yeah. Oh yeah, oh yeah.
+"Mechanic_PainRelieftFirstAid04"
+//Oh yeah, oh yeah.
+"Mechanic_PainRelieftFirstAid05"
+//That fixed me up good.
+"Mechanic_PainRelieftFirstAid06"
+//Good to go.
+"Mechanic_PainRelieftPills01"
+//Good to go.
+"Mechanic_PainRelieftPills02"
+//That hit the spot.
+"Mechanic_PainRelieftPills03"
+//That'll hold me.
+"Mechanic_PainRelieftPills04"
+//Alright, that's better.
+"Mechanic_PainRelieftPills05"
+//That'll keep me for a bit.
+"Mechanic_PainRelieftPills06"
+//That'll keep me for a bit.
+"Mechanic_PainRelieftPills07"
+//Yeah, that hit the spot.
+"Mechanic_PainRelieftPills08"
+//Alright!
+"Mechanic_PositiveNoise08"
+//Yeah.
+"Mechanic_PositiveNoise09"
+//Alright, alright.
+"Mechanic_PositiveNoise10"
+//No!
+"Mechanic_ReactionNegative01"
+//Ahh SHIT!
+"Mechanic_ReactionNegative02"
+//God DAMN!
+"Mechanic_ReactionNegative03"
+//Ah Lord!
+"Mechanic_ReactionNegative04"
+//Jesus NO, man!
+"Mechanic_ReactionNegative05"
+//That ain't right!
+"Mechanic_ReactionNegative06"
+//Oh SHIT!
+"Mechanic_ReactionNegative07"
+//God DAMN!
+"Mechanic_ReactionNegative08"
+//Jesus NO!
+"Mechanic_ReactionNegative09"
+//No thank you!
+"Mechanic_ReactionNegative10"
+//Shit, that ain't right!
+"Mechanic_ReactionNegative11"
+//BULLSHIT!
+"Mechanic_ReactionNegative12"
+//Oh, hogwash, man!
+"Mechanic_ReactionNegative13"
+//Well piss!
+"Mechanic_ReactionNegative14"
+//Hogwash!
+"Mechanic_ReactionNegative15"
+//Ain't that a load of shit.
+"Mechanic_ReactionNegative16"
+//That's bullshit!
+"Mechanic_ReactionNegative17"
+//Hogwash!
+"Mechanic_ReactionNegative18"
+//Well piss!
+"Mechanic_ReactionNegative19"
+//Ain't that a load of shit.
+"Mechanic_ReactionNegative20"
+//Reloading!
+"Mechanic_Reloading01"
+//Reloading!
+"Mechanic_Reloading02"
+//Hey, I'm Reloading!
+"Mechanic_Reloading03"
+//Reloading!
+"Mechanic_Reloading04"
+//Reloading!
+"Mechanic_Reloading05"
+//I'm a reload!
+"Mechanic_Reloading06"
+//I need to reload.
+"Mechanic_ReloadingQuiet01"
+//Hey, I'm a reload.
+"Mechanic_ReloadingQuiet02"
+//Reloading!
+"Mechanic_ReloadIntense01"
+//Reloading here!
+"Mechanic_ReloadIntense02"
+//Gotta reload!
+"Mechanic_ReloadIntense03"
+//Reloading!
+"Mechanic_ReloadIntense04"
+//Reloading!
+"Mechanic_ReloadIntense05"
+//Hey, I don't mean to be scarin' ya none. But you go down like that again and that's it.
+"Mechanic_ReviveCriticalFriend01"
+//Alright, I'm 'onna get ya up. But if you don't heal yourself right quick, that's it for ya.
+"Mechanic_ReviveCriticalFriend02"
+//I know your tough. But we gotta get you healed up quick like. You understand me?
+"Mechanic_ReviveCriticalFriend03"
+//Dude, you don't look so good.  Let me get you up.
+"Mechanic_ReviveFriend01"
+//Ah man, I don't like to see ya like this.  Come on now, let me help ya up.
+"Mechanic_ReviveFriend02"
+//You ain't no good to us down there. We gotta get you back on your feet.
+"Mechanic_ReviveFriend03"
+//Ain't no harm in going down. Let Ellis help you up.
+"Mechanic_ReviveFriend04"
+//Don't worry.  We all go down.  You'll be fine once we get you up on your feet.
+"Mechanic_ReviveFriend05"
+//Don't worry, don't worry.  This ain't nothin but a scratch.
+"Mechanic_ReviveFriend06"
+//You know I'd never leave ya down there. Let me help ya up.
+"Mechanic_ReviveFriend07"
+//Ahh come on, you can't just stay down there. We got zombies to kill and shit.
+"Mechanic_ReviveFriend08"
+//Ahh come on, you can't just stay down there. We got zombies to kill and shit.
+"Mechanic_ReviveFriend09"
+//Hey don't worry.  We all go down.  It's fine lemme just get you up.
+"Mechanic_ReviveFriend10"
+//Hey you all right?
+"Mechanic_ReviveFriendA01"
+//Y'all okay?
+"Mechanic_ReviveFriendA02"
+//Hey you gonna be right?
+"Mechanic_ReviveFriendA03"
+//Can you make it?
+"Mechanic_ReviveFriendA04"
+//Does it hurt?
+"Mechanic_ReviveFriendA05"
+//Can I halp?
+"Mechanic_ReviveFriendA06"
+//You good?
+"Mechanic_ReviveFriendA07"
+//You okay?
+"Mechanic_ReviveFriendA08"
+//You okay?
+"Mechanic_ReviveFriendA09"
+//How ya doin'?
+"Mechanic_ReviveFriendA10"
+//Hey, you all right?
+"Mechanic_ReviveFriendA11"
+//You all right?
+"Mechanic_ReviveFriendA12"
+//You gonna be alright?
+"Mechanic_ReviveFriendA13"
+//You gonna be okay?
+"Mechanic_ReviveFriendA14"
+//Look at me. You gonna be okay.
+"Mechanic_ReviveFriendA15"
+//Hey, you gonna be all right.
+"Mechanic_ReviveFriendA16"
+//Alright, well let's go now.
+"Mechanic_ReviveFriendB01"
+//Okay, on your feet.
+"Mechanic_ReviveFriendB02"
+//Up we go!
+"Mechanic_ReviveFriendB03"
+//Alright, upsy daisy!
+"Mechanic_ReviveFriendB04"
+//See you're all good.
+"Mechanic_ReviveFriendB05"
+//I knew you'd be okay.
+"Mechanic_ReviveFriendB06"
+//There you go. Right back to normal.
+"Mechanic_ReviveFriendB07"
+//Good as new. Let's go kill some zombies.
+"Mechanic_ReviveFriendB08"
+//On your feet now
+"Mechanic_ReviveFriendB09"
+//Well let's get you up.
+"Mechanic_ReviveFriendB10"
+//Alright now, you gonna be all right.
+"Mechanic_ReviveFriendB11"
+//There ya go. Good as new.
+"Mechanic_ReviveFriendB12"
+//You'll be good.
+"Mechanic_ReviveFriendB13"
+//Ah come on now, you'll be all right.
+"Mechanic_ReviveFriendB14"
+//Shake it off and let's go.
+"Mechanic_ReviveFriendB15"
+//Oh shit, we ain't got time for this.  GET UP, GET UP!
+"Mechanic_ReviveFriendLoud01"
+//Get your ass up, NOW! C'MON!
+"Mechanic_ReviveFriendLoud02"
+//Well... GET UP! GET UP!
+"Mechanic_ReviveFriendLoud03"
+//I ain't leavin' ya, But you better GET UP!
+"Mechanic_ReviveFriendLoud04"
+//Safe house ahead!
+"Mechanic_SafeSpotAhead01"
+//Yeah, safehouse y'all!
+"Mechanic_SafeSpotAhead02"
+//Hey, we got a safe room ahead!
+"Mechanic_SafeSpotAhead03"
+//Hey, we got a safe room right ahead!
+"Mechanic_SafeSpotAhead04"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced01"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced01a"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced01b"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced02"
+//GET HIM...
+"Mechanic_ScreamWhilePounced03"
+//OFF!
+"Mechanic_ScreamWhilePounced03a"
+//GET HIM OFF ME DAMMIT!
+"Mechanic_ScreamWhilePounced04"
+//AH, OW!!
+"Mechanic_ScreamWhilePounced04a"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced05"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced05a"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced05b"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced05c"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced06"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced06a"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced06b"
+//OW! GET...!
+"Mechanic_ScreamWhilePounced07"
+//...GET
+"Mechanic_ScreamWhilePounced07a"
+//...GET
+"Mechanic_ScreamWhilePounced07b"
+//GET HIM OFF!
+"Mechanic_ScreamWhilePounced07c"
+//OFF!!
+"Mechanic_ScreamWhilePounced07d"
+//Aw, hell, now they're bulletproof?
+"Mechanic_SeeArmored01"
+//Aw, hell, they're bulletproof!
+"Mechanic_SeeArmored02"
+//Hey, you gotta spin 'em around if you want 'em dead!
+"Mechanic_SeeArmored03"
+//Their backs ain't bulletproof!
+"Mechanic_SeeArmored04"
+//Shoot that son of a bitch in the back!
+"Mechanic_SeeArmored05"
+//That clown's bringing friends! Take him down!
+"Mechanic_SeeClowns01"
+//We gotta shut that clown up!
+"Mechanic_SeeClowns02"
+//Hey, take that clown down!
+"Mechanic_SeeClowns03"
+//Take that clown down!
+"Mechanic_SeeClowns04"
+//Take the clown down!
+"Mechanic_SeeClowns05"
+//Take down that clown!
+"Mechanic_SeeClowns06"
+//Man, I've never been so scared of clowns.
+"Mechanic_SeeClowns07"
+//Clowns!
+"Mechanic_SeeClowns08"
+//Clowns? Clowns. Oh, you have got to be kidding me.
+"Mechanic_SeeClowns09"
+//What the hell. These things fireproof?
+"Mechanic_SeeHazmat01"
+//Watch out for the ones in the hazmat suits.
+"Mechanic_SeeHazmat02"
+//Well, I'll be damned. Fireproof zombies.
+"Mechanic_SeeHazmat03"
+//Mudmen!
+"Mechanic_SeeMudmen01"
+//Hey, watch out! Mudmen!
+"Mechanic_SeeMudmen02"
+//Hey, look out! Mudmen, right there!
+"Mechanic_SeeMudmen03"
+//Look out! Mudmen!
+"Mechanic_SeeMudmen04"
+//Sorry.
+"Mechanic_Sorry01"
+//Sorry 'bout that.
+"Mechanic_Sorry02"
+//You can lay that blame on me.
+"Mechanic_Sorry03"
+//That coulda happened to anyone.
+"Mechanic_Sorry04"
+//Yeah, I'm sorry about that one.
+"Mechanic_Sorry05"
+//Sorry, sun was in my eyes.
+"Mechanic_Sorry06"
+//Sorry 'bout that.
+"Mechanic_Sorry07"
+//My bad on that one.
+"Mechanic_Sorry08"
+//Sorry!
+"Mechanic_Sorry09"
+//Sorry over there.
+"Mechanic_Sorry10"
+//Ammo here!
+"Mechanic_SpotAmmo01"
+//Got some ammo right here!
+"Mechanic_SpotAmmo02"
+//Ammo here!
+"Mechanic_SpotAmmo03"
+//Ammo!
+"Mechanic_SpotAmmo04"
+//Ammo here!
+"Mechanic_SpotAmmo05"
+//First Aid Kit here!
+"Mechanic_SpotFirstAid01"
+//First Aid here!
+"Mechanic_SpotFirstAid02"
+//First Aid!
+"Mechanic_SpotFirstAid03"
+//First Aid Kit here!
+"Mechanic_SpotFirstAid04"
+//Pipebomb here.
+"Mechanic_SpotGrenades01"
+//Hey, there's a pipebomb right here.
+"Mechanic_SpotGrenades02"
+//Pipe bomb.
+"Mechanic_SpotGrenades03"
+//Molotov.
+"Mechanic_SpotGrenades04"
+//Molotov here.
+"Mechanic_SpotGrenades05"
+//Molotov.
+"Mechanic_SpotGrenades06"
+//Pills here!
+"Mechanic_SpotPills01"
+//Pills!
+"Mechanic_SpotPills02"
+//Pills here!
+"Mechanic_SpotPills03"
+//Weapons over here!
+"Mechanic_SpotWeapons01"
+//Weapons!
+"Mechanic_SpotWeapons02"
+//Hey, some guns here!
+"Mechanic_SpotWeapons03"
+//Guns right here!
+"Mechanic_SpotWeapons04"
+//Stay close!
+"Mechanic_StayTogether01"
+//Y'all stay close.
+"Mechanic_StayTogether02"
+//Y'all stick together, now.
+"Mechanic_StayTogether03"
+//Alrright y'all stay close, now.
+"Mechanic_StayTogether04"
+//Stay close!
+"Mechanic_StayTogether05"
+//Y'all, now stick together.
+"Mechanic_StayTogether06"
+//Now stay close. Ain't nobody wander off.
+"Mechanic_StayTogether07"
+//Nobody wander off.
+"Mechanic_StayTogether08"
+//I need every one of you inside now!
+"Mechanic_StayTogetherInside01"
+//Shit! Get inside!
+"Mechanic_StayTogetherInside02"
+//Y'all inside, now!
+"Mechanic_StayTogetherInside03"
+//Get inside y'all!
+"Mechanic_StayTogetherInside04"
+//C'mon y'all get inside now!
+"Mechanic_StayTogetherInside05"
+//C'mon y'all get inside!
+"Mechanic_StayTogetherInside06"
+//Hey I need everybody inside now!
+"Mechanic_StayTogetherInside07"
+//Heal up!
+"Mechanic_SuggestHealth01"
+//Hey, y'all should heal now.
+"Mechanic_SuggestHealth02"
+//It's a good time to heal up everybody.
+"Mechanic_SuggestHealth03"
+//Everybody take a minute and get yourself healed
+"Mechanic_SuggestHealth04"
+//Don't forget your health kits.
+"Mechanic_SuggestHealthC101"
+//Anybody want to heal now?
+"Mechanic_SuggestHealthC102"
+//Good time to heal.
+"Mechanic_SuggestHealthC103"
+//Coach, don't forget about that health pack!
+"Mechanic_SuggestHealthCoach01"
+//Coach, don't forget about that heal pack, now!
+"Mechanic_SuggestHealthCoach02"
+//Coach, now don't forget none about healin'.
+"Mechanic_SuggestHealthCoach03"
+//Coach, don't mean to speak out of turn but you should probably heal.
+"Mechanic_SuggestHealthCoach04"
+//Coach, don't mean to speak out of turn but you should probably well heal when you get a minute. You know.
+"Mechanic_SuggestHealthCoach05"
+//Coach, now don't forget none about healin'.
+"Mechanic_SuggestHealthCoach06"
+//Coach, don't forget about that health pack.
+"Mechanic_SuggestHealthCoach07"
+//Excuse me Nick, but you might wanna heal.
+"Mechanic_SuggestHealthNick01"
+//Nick.  Um.. Nick!  Don't forget about that health pack.
+"Mechanic_SuggestHealthNick02"
+//Nick, don't forget none about that health pack.
+"Mechanic_SuggestHealthNick03"
+//Hey Ro girl, heal up now.
+"Mechanic_SuggestHealthRochelle01"
+//Ro, you think about healin?
+"Mechanic_SuggestHealthRochelle02"
+//Rochelle, you ought to heal now.
+"Mechanic_SuggestHealthRochelle03"
+//I'll help ya if you need me to.
+"Mechanic_SuggestHealthRochelle04"
+//Ah man Coach.
+"Mechanic_SurvivorMournCoach01"
+//Well, Coach, thanks for all you done, man.
+"Mechanic_SurvivorMournCoach02"
+//Goodbye Coach.
+"Mechanic_SurvivorMournCoach03"
+//You were a hell of a man, Coach.
+"Mechanic_SurvivorMournCoach04"
+//Thanks Coach.
+"Mechanic_SurvivorMournCoach05"
+//Man, I was hoping me and coach were gonna be friends.
+"Mechanic_SurvivorMournCoachC101"
+//Bet he didn't think he'd die before me.
+"Mechanic_SurvivorMournGamblerC101"
+//Ahh Nick.
+"Mechanic_SurvivorMournNick01"
+//Nick, you were cool.
+"Mechanic_SurvivorMournNick02"
+//Miss ya, brother.
+"Mechanic_SurvivorMournNick03"
+//Damn, Nick. We was just gettin' to be friends.
+"Mechanic_SurvivorMournNick04"
+//She was the last one I wanted to see go.
+"Mechanic_SurvivorMournProducerC101"
+//She was the last one I wanted to see go.
+"Mechanic_SurvivorMournProducerC102"
+//Be good Rochelle.
+"Mechanic_SurvivorMournRochelle01"
+//Ro, I'm gonna miss ya.
+"Mechanic_SurvivorMournRochelle02"
+//I'll remember you in my prayers Ro.
+"Mechanic_SurvivorMournRochelle03"
+//Hell of a girl, Ro.
+"Mechanic_SurvivorMournRochelle04"
+//Goin' with the rifle.
+"Mechanic_TakeAssaultRifle01"
+//Goin' with the rifle.
+"Mechanic_TakeAssaultRifle02"
+//Taking the rifle.
+"Mechanic_TakeAssaultRifle03"
+//This rifle right here got my name all over it.
+"Mechanic_TakeAssaultRifle04"
+//Man, I wanted this rifle since I was nine.
+"Mechanic_TakeAssaultRifle05"
+//Going with the shotgun.
+"Mechanic_TakeAutoShotgun01"
+//Yeah, I'm taking the shotgun.
+"Mechanic_TakeAutoShotgun02"
+//This shotgun feels right. It feels real right.
+"Mechanic_TakeAutoShotgun03"
+//Hope you don't mind, I'm a take this first aid kit here.
+"Mechanic_TakeFirstAid01"
+//Grabbing first aid.
+"Mechanic_TakeFirstAid02"
+//First Aid Kit.
+"Mechanic_TakeFirstAid03"
+//Hey I got a first aid kit if somebody needs it.
+"Mechanic_TakeFirstAid04"
+//Yeah, always wanted to be an Axe murderer.
+"Mechanic_TakeFryingAxe01"
+//An axe!
+"Mechanic_TakeFryingAxe02"
+//Axe!
+"Mechanic_TakeFryingAxe03"
+//Oh yeah! Look who has an axe.
+"Mechanic_TakeFryingAxe04"
+//Well, somebody just got themselves an axe.
+"Mechanic_TakeFryingAxe05"
+//I got myself an axe!
+"Mechanic_TakeFryingAxe06"
+//Spang!
+"Mechanic_TakeFryingPan01"
+//Man, some zombie's gonna have a headache after this.
+"Mechanic_TakeFryingPan02"
+//Well somebody's gonna make them some zombie grits!
+"Mechanic_TakeFryingPan03"
+//Frying pan, yeah!
+"Mechanic_TakeFryingPan04"
+//Frying pan!
+"Mechanic_TakeFryingPan05"
+//Let's make some grits.
+"Mechanic_TakeFryingPan06"
+//Yeah, this'll work.
+"Mechanic_TakeMelee01"
+//This feels right.
+"Mechanic_TakeMelee02"
+//This'll be fun.
+"Mechanic_TakeMelee03"
+//Oh, now, this just might be better than a gun.
+"Mechanic_TakeMelee04"
+//Step back everybody!
+"Mechanic_TakeMelee05"
+//Ohh... I am gonna bash some heads with this.
+"Mechanic_TakeMelee06"
+//I'm gonna mess some zombies up now.
+"Mechanic_TakeMelee07"
+//I'm gonna beat 'em like rented mules with this.
+"Mechanic_TakeMelee08"
+//This shit'll knock some heads.
+"Mechanic_TakeMelee09"
+//Gonna play with fire.
+"Mechanic_TakeMolotov01"
+//Gonna play with fire.
+"Mechanic_TakeMolotov02"
+//Grabbin' fire in a bottle, baby.
+"Mechanic_TakeMolotov03"
+//I got the Molotov!
+"Mechanic_TakeMolotov04"
+//Grabbin' fire in a bottle.
+"Mechanic_TakeMolotov05"
+//I'm grabbing the Mollie.
+"Mechanic_TakeMolotov06"
+//Mollie's mine.
+"Mechanic_TakeMolotov07"
+//Grabbin' a Molotov!
+"Mechanic_TakeMolotov08"
+//Grabbing pills.
+"Mechanic_TakePills01"
+//Somebody gonna need these. (inward)
+"Mechanic_TakePills02"
+//Hey we might need these.
+"Mechanic_TakePills03"
+//Grabbing a pipe bomb.
+"Mechanic_TakePipeBomb01"
+//Pipe bomb, baby!
+"Mechanic_TakePipeBomb02"
+//I got a pipebomb!
+"Mechanic_TakePipeBomb03"
+//Grabbing a pistol!
+"Mechanic_TakePistol01"
+//Pistol!
+"Mechanic_TakePistol02"
+//Goin' with double pistols.
+"Mechanic_TakePistol03"
+//Heck yeah. Goin' with two pistols.
+"Mechanic_TakePistol04"
+//I'll grab that pistol!
+"Mechanic_TakePistol05"
+//I'll try this shotgun.
+"Mechanic_TakeShotgun01"
+//Shotgun.
+"Mechanic_TakeShotgun02"
+//Yeah, I'll take the shotgun.
+"Mechanic_TakeShotgun03"
+//I'm gonna snipe.
+"Mechanic_TakeSniper01"
+//I'm gonna be a sniper like in the movies.
+"Mechanic_TakeSniper02"
+//Grabbing this here sniper rifle.
+"Mechanic_TakeSniper03"
+//Machinegun.
+"Mechanic_TakeSubMachineGun01"
+//Yeah, I'll take it.
+"Mechanic_TakeSubMachineGun02"
+//This'll have to do.
+"Mechanic_TakeSubMachineGun03"
+//I guess it'll do. Yeah, whatever, it's a machinegun.
+"Mechanic_TakeSubMachineGun04"
+//JESUS CHRIST SHOOT THIS MOTHER!
+"Mechanic_TankPound01"
+//KILL THE BASTARD WILL YA!
+"Mechanic_TankPound02"
+//This thing's crushin' the shit outa me!
+"Mechanic_TankPound03"
+//KILL THIS THING!
+"Mechanic_TankPound04"
+//Why don't you remember that for next time you son's of a bitches.
+"Mechanic_Taunt01"
+//They ain't takin' us alive!
+"Mechanic_Taunt02"
+//We knocked the piss out of them
+"Mechanic_Taunt03"
+//Haha! We whipped the dogshit out of them!
+"Mechanic_Taunt04"
+//That's right, you can't kill us!
+"Mechanic_Taunt05"
+//Yo! Whose your daddy!?!?
+"Mechanic_Taunt07"
+//Uh oh. My trigger finger got tired!
+"Mechanic_Taunt08"
+//Woah! I didn't do that! Man, that ain't right!
+"Mechanic_TeamKillAccident01"
+//That's just straight messed up, man.
+"Mechanic_TeamKillAccident02"
+//Jumpin' Jesus! What are you doin'!?!?!
+"Mechanic_TeamKillAccident03"
+//Yo we're on the same team aren't we?
+"Mechanic_TeamKillAccident04"
+//Jesus Christ, man!
+"Mechanic_TeamKillAccident05"
+//Hey thanks, man!
+"Mechanic_Thanks01"
+//Much obliged
+"Mechanic_Thanks02"
+//Thank you kindly, ma'm.
+"Mechanic_Thanks03"
+//I owe you one.
+"Mechanic_Thanks04"
+//Hey, thanks a lot.
+"Mechanic_Thanks05"
+//Thanks man.
+"Mechanic_Thanks06"
+//Keep your britches on, I'm a comin'.
+"Mechanic_ToTheRescue01"
+//I'm a comin!
+"Mechanic_ToTheRescue02"
+//Hold on now, I'm coming!
+"Mechanic_ToTheRescue03"
+//Ellis on the way!
+"Mechanic_ToTheRescue04"
+//Hang on, I'm coming!
+"Mechanic_ToTheRescue05"
+//I'm comin', I'm comin'!
+"Mechanic_ToTheRescue06"
+//Makin' a beeline for ya!
+"Mechanic_ToTheRescue07"
+//YEAH!
+"Mechanic_TransitionClose01"
+//I can't hardly believe we made that!
+"Mechanic_TransitionClose02"
+//That was closer than a... well shit man that was just straight up close!
+"Mechanic_TransitionClose03"
+//Who here didn't think we were gonna make that?
+"Mechanic_TransitionClose04"
+//That there was some crazy shit, man!
+"Mechanic_TransitionClose05"
+//Oh shit yeah! Oh shit yeah!
+"Mechanic_TransitionClose06"
+//Elvis has left the building!
+"Mechanic_TransitionClose07"
+//Oh man! Alright. You might want to clean your drawers after that one! I know I do.
+"Mechanic_TransitionClose08"
+//We gonna need to do better than THAT.
+"Mechanic_TransitionClose09"
+//Dude, we just got our asses handed to us.
+"Mechanic_TransitionClose10"
+//[whistles] That was BRUTAL!
+"Mechanic_TransitionClose11"
+//THAT... was a pretty poor display.
+"Mechanic_TransitionClose12"
+//We'll call that one a tie.
+"Mechanic_TransitionClose13"
+//You know what? We'll call that one a tie.
+"Mechanic_TransitionClose14"
+//We're still standin'!
+"Mechanic_TransitionClose15"
+//Woooow!
+"Mechanic_TransitionClose16"
+//Wow, man!
+"Mechanic_TransitionClose17"
+//Freeze
+"Mechanic_WaitHere01"
+//Wait right here.
+"Mechanic_WaitHere02"
+//Hey, stop a minute.
+"Mechanic_WaitHere03"
+//Hold up real quick.
+"Mechanic_WaitHere04"
+//BOOMER!
+"Mechanic_WarnBoomer02"
+//BOOMER!
+"Mechanic_WarnBoomer03"
+//BOOMER!
+"Mechanic_WarnBoomer04"
+//BOOMER!
+"Mechanic_WarnBoomer05"
+//BOOMER!
+"Mechanic_WarnBoomer06"
+//BOOMER! BOOMER!
+"Mechanic_WarnBoomer07"
+//PUKER!
+"Mechanic_WarnBoomerC101"
+//IT'S EXPLODING GUY!
+"Mechanic_WarnBoomerC102"
+//BOOMER!  YEAH - BOOMER!
+"Mechanic_WarnBoomerC103"
+//Y'all be careful, now.
+"Mechanic_WarnCareful01"
+//Ain't tellin ya somethin' you don't know, but be careful.
+"Mechanic_WarnCareful02"
+//Careful, y'all.
+"Mechanic_WarnCareful03"
+//Careful, y'all.
+"Mechanic_WarnCareful04"
+//Be careful!
+"Mechanic_WarnCareful05"
+//CHARGER!
+"Mechanic_WarnCharger01"
+//CHARGER!
+"Mechanic_WarnCharger02"
+//CHARGER!
+"Mechanic_WarnCharger03"
+//CHARGER!
+"Mechanic_WarnCharger04"
+//Watch out, man, that thing charges!
+"Mechanic_WarnChargerC101"
+//ONE ARM!
+"Mechanic_WarnChargerC102"
+//BIG ARM!
+"Mechanic_WarnChargerC103"
+//HUNTER!
+"Mechanic_WarnHunter01"
+//HUNTER!
+"Mechanic_WarnHunter02"
+//HUNTER!
+"Mechanic_WarnHunter03"
+//HUNTER, HUNTER, HUNTER!
+"Mechanic_WarnHunter04"
+//LEAPER!
+"Mechanic_WarnHunterC101"
+//JUMPER!
+"Mechanic_WarnHunterC102"
+//HOODED DUDE!
+"Mechanic_WarnHunterC103"
+//Good as any other name.
+"Mechanic_WarnHunterC1P01"
+//Hunter it is then!
+"Mechanic_WarnHunterC1P02"
+//Yeah, Hunter fits em.
+"Mechanic_WarnHunterC1P03"
+//JOCKEY!
+"Mechanic_WarnJockey01"
+//JOCKEY!   JOCKEY!
+"Mechanic_WarnJockey02"
+//JOCKEY!
+"Mechanic_WarnJockey03"
+//JOCKEY!
+"Mechanic_WarnJockey04"
+//HUMPER!
+"Mechanic_WarnJockeyC101"
+//HUMPER!
+"Mechanic_WarnJockeyC102"
+//LITTLE GUY! LITTLE GUY!
+"Mechanic_WarnJockeyC103"
+//SMOKER!
+"Mechanic_WarnSmoker01"
+//SMOKER!
+"Mechanic_WarnSmoker02"
+//SMOKER!
+"Mechanic_WarnSmoker03"
+//SMOKER, SMOKER!
+"Mechanic_WarnSmoker04"
+//SMOKER!
+"Mechanic_WarnSmoker05"
+//SMOKER!
+"Mechanic_WarnSmoker06"
+//SMOKER! SMOKER!
+"Mechanic_WarnSmoker07"
+//It's that nasty tongue thing!
+"Mechanic_WarnSmokerC101"
+//YO, IT'S THAT SMOKING DUDE WITH THE TONGUE!
+"Mechanic_WarnSmokerC102"
+//THAT'S A TONGUE GUY!
+"Mechanic_WarnSmokerC103"
+//SMOKING DUDE!
+"Mechanic_WarnSmokerC104"
+//TONGUER!
+"Mechanic_WarnSmokerC105"
+//YO, SPITTER!
+"Mechanic_WarnSpitter01"
+//IT'S A SPITTER DUDE!
+"Mechanic_WarnSpitter02"
+//HEY IT'S A SPITTER!
+"Mechanic_WarnSpitter03"
+//SPITTER!
+"Mechanic_WarnSpitter04"
+//SPITTING THING!
+"Mechanic_WarnSpitterC101"
+//SPITTING NASTY THING!
+"Mechanic_WarnSpitterC102"
+//THAT LOOGIE DUDE!
+"Mechanic_WarnSpitterC103"
+//IT'S THAT GOO GUY!
+"Mechanic_WarnSpitterC104"
+//HEY, THAT BIG NECK THING!
+"Mechanic_WarnSpitterC105"
+//GOO!
+"Mechanic_WarnSpitterIncoming01"
+//GOO INBOUND!
+"Mechanic_WarnSpitterIncoming02"
+//SPIT COMING!
+"Mechanic_WarnSpitterIncoming03"
+//HEADS UP!
+"Mechanic_WarnSpitterIncoming04"
+//TANK!
+"Mechanic_WarnTank01"
+//TANK!
+"Mechanic_WarnTank02"
+//TANK, TANK, TANK!
+"Mechanic_WarnTank03"
+//HOLY SHIT TANK!
+"Mechanic_WarnTankC101"
+//GIANT THING!
+"Mechanic_WarnTankC102"
+//Oh lordy! Big ass thing!
+"Mechanic_WarnTankC103"
+//Aw a witch.
+"Mechanic_WarnWitch01"
+//Witch.
+"Mechanic_WarnWitch02"
+//Witch.
+"Mechanic_WarnWitch03"
+//Witch.
+"Mechanic_WarnWitch05"
+//Witch, witch, witch.
+"Mechanic_WarnWitch06"
+//They're behind us!
+"Mechanic_WatchOutBehind01"
+//Behind us!
+"Mechanic_WatchOutBehind02"
+//Hey, behind us y'all, behind us!
+"Mechanic_WatchOutBehind03"
+//Check behind!
+"Mechanic_WatchOutBehind04"
+//They're behind us!
+"Mechanic_WatchOutBehind05"
+//Behind us, y'all!
+"Mechanic_WatchOutBehind06"
+//Out of my way, man, witch coming!!
+"Mechanic_WitchChasing01"
+//COMING THROUGH! WITCH ON MY ASS!!
+"Mechanic_WitchChasing02"
+//Run I pissed her off!
+"Mechanic_WitchChasing03"
+//SHOOT HER! SHOOT HER!
+"Mechanic_WitchChasing04"
+//WITCH WITCH WITCH!
+"Mechanic_WitchChasing05"
+//That witch is having a hissy fit.
+"Mechanic_WitchGettingAngry01"
+//Oh shit man, that witch is a spaz!
+"Mechanic_WitchGettingAngry02"
+//Tell ya man, y'all playin' with fire when you messin' with that damn witch.
+"Mechanic_WitchGettingAngry03"
+//Back away from that witch.
+"Mechanic_WitchGettingAngry04"
+//Don't mess with the damn witch.
+"Mechanic_WitchGettingAngry05"
+//They better be. (There's the bridge You sure they're going to be there?)
+"Mechanic_World101"
+//Ain't we supposed to be on that side of the river?
+"Mechanic_World102"
+//Y'all better not shoot that car.
+"Mechanic_World108"
+//Hey, don't shoot the car.
+"Mechanic_World109"
+//I don't know.  I kinda like that smell. (What's that smell?)
+"Mechanic_World110"
+//I wouldn't say that.  I think it smells kinda nice. (It stinks like piss.)
+"Mechanic_World111"
+//I don't know.  Smells nice though don't it. (What's that smell?)
+"Mechanic_World112"
+//I don't know.  Smells nice though don't it. (What's that smell?)
+"Mechanic_World113"
+//Man, I wish we had a horse.  I love horses.
+"Mechanic_World116"
+//I wish we had a horse.  I loooove horses.
+"Mechanic_World117"
+//Who ain't right in the head now? (You ever eat horse?  Tasty. )
+"Mechanic_World119"
+//Horses are for ridin' not eatin', Nick.
+"Mechanic_World122"
+//But we should stick together right?  (As soon as that door opens, get ready to run for the tower.)
+"Mechanic_World123"
+//Whoa, wait, why we headin' to the tower? (As soon as that door opens, get ready to run for the tower.)
+"Mechanic_World125"
+//Okay, okay I get it.
+"Mechanic_World126"
+//Yeah, I agree. That's a good plan.
+"Mechanic_World128"
+//Ain't none of the bodes zombies.
+"Mechanic_World132"
+//Run!
+"Mechanic_World133"
+//Hey, turn it off! Turn it off!
+"Mechanic_World134"
+//Turn off that alarm!
+"Mechanic_World135"
+//Hey, get up there and turn it off!
+"Mechanic_World136"
+//Get to the alarm!
+"Mechanic_World137"
+//Whew, it's off all right!
+"Mechanic_World138"
+//Dang. Thanks for turning it off, it was givin' me a headache.
+"Mechanic_World139"
+//Whew! Way to turn it off!
+"Mechanic_World140"
+//Did I ever tell you the time me and my grandpa took the bus the Memphis to go visit Graceland and...
+"Mechanic_World142"
+//Man, y'all shoulda came it was fun.
+"Mechanic_World143"
+//All right Nick.  But how about this,  did ya know Graceland ain't nothin' but a little house in the ghetto.
+"Mechanic_World144"
+//Okay. But I do love goin' on bus rides.
+"Mechanic_World145"
+//Nick, you ever even been to Graceland?
+"Mechanic_World146"
+//Man, look at that helicopter.
+"Mechanic_World202"
+//People shootin' people, that shit ain't right, man.
+"Mechanic_World204"
+//Man, this is givin' me the creeps more than them zombies.
+"Mechanic_World207"
+//Hey Nick, I don't like the way how this smells.
+"Mechanic_World208"
+//Shit.  They all got alarms.
+"Mechanic_World210"
+//Hey, I swear that wasn't me!
+"Mechanic_World213"
+//It's a little city of graves.
+"Mechanic_World220"
+//Do you know why they bury them above ground?
+"Mechanic_World223"
+//They bury them like this cause they're under sea level.
+"Mechanic_World224"
+//Man, If these were real zombies going into this graveyard would be like death.
+"Mechanic_World225"
+//Safehouse down this street!
+"Mechanic_World229"
+//Let's get down the street to the safehouse!
+"Mechanic_World230"
+//Safehouse, in there.
+"Mechanic_World231"
+//I don't own a tractor, man.  (Look Ellis!  A tractor!)
+"Mechanic_World305"
+//You know what? Whatever Nick, you should see my truck.  It's bad ass. (Look Ellis!  A tractor!)
+"Mechanic_World306"
+//We gotta start that there tractor!
+"Mechanic_World307"
+//Somebody start the tractor!
+"Mechanic_World308"
+//Hey, we can get across now.
+"Mechanic_World309"
+//Never been through so many back alley's in my life.
+"Mechanic_World312"
+//Oh, I could go for a cold one right about now..
+"Mechanic_World314"
+//There's the bridge!
+"Mechanic_World315"
+//We're gonna make it out of here!
+"Mechanic_World317"
+//Check one...
+"Mechanic_World406"
+//Check one two...
+"Mechanic_World407"
+//They just said we oughta lower the bridge to get across to it.
+"Mechanic_World410"
+//Once we lower it we all gotta be careful because there's zombies on the bridge.
+"Mechanic_World411"
+//I guess he didn't know we been like  fighting zombies all through the city.
+"Mechanic_World412"
+//And the swamps.
+"Mechanic_World413"
+//And the river.
+"Mechanic_World414"
+//And shit.  Everywhere.
+"Mechanic_World415"
+//Man, we're like fightin' zombie machines and shit.
+"Mechanic_World416"
+//I'll hit it.  Get ready.
+"Mechanic_World420"
+//Careful where ya' walking.
+"Mechanic_World425"
+//Man, look at all these cars!
+"Mechanic_World426"
+//Hey Nick, what kind of car did you drive?
+"Mechanic_World427"
+//We'll see that was just uncalled for.  Seriously. (Your mom's car. )
+"Mechanic_World428"
+//Hey, watch out for the cars.
+"Mechanic_World429"
+//Shit! You guys ever seen something like this?
+"Mechanic_World433"
+//Me neither.
+"Mechanic_World434"
+//It's cool to see new shit.
+"Mechanic_World435"
+//To the'copter!
+"Mechanic_World439"
+//Head to the helicopter!
+"Mechanic_World440"
+//Just get inside the helicopter, man!
+"Mechanic_World443"
+//I tell ya what would be real bad right now?  A tank.
+"Mechanic_World449"
+//HEYYYYY! COME BACK!
+"Mechanic_WorldC1M1B01"
+//COME BACK! WE'RE STILL HERE!
+"Mechanic_WorldC1M1B02"
+//HEY, WE'RE STILL HERE! HEYYY!
+"Mechanic_WorldC1M1B03"
+//HEY! OVER HERE! OVER HERE!
+"Mechanic_WorldC1M1B04"
+//HEY! COME BACK! THERE'S STILL PEOPLE HERE!
+"Mechanic_WorldC1M1B05"
+//WE'RE ON THE ROOF! GET BACK HERE!
+"Mechanic_WorldC1M1B06"
+//HEY!! WE'RE STILL HERE!
+"Mechanic_WorldC1M1B07"
+//HEY!! COME BACK! WE'RE STILL HERE!
+"Mechanic_WorldC1M1B08"
+//Damn it! We just missed 'em!
+"Mechanic_WorldC1M1B09"
+//Damn it! Five minutes too late!
+"Mechanic_WorldC1M1B10"
+//Oh shit man, I ain't ever seen anyone die before.
+"Mechanic_WorldC1M1B100"
+//We gotta watch each other's backs. My name's Ellis, you?
+"Mechanic_WorldC1M1B101"
+//You don't say? Wrestlin' and such?
+"Mechanic_WorldC1M1B103"
+//We can jump down here!
+"Mechanic_WorldC1M1B104"
+//We can get right through here!
+"Mechanic_WorldC1M1B106"
+//Damn it! Man, we just missed 'em!
+"Mechanic_WorldC1M1B11"
+//Well it looked like it was headin' to the mall across town.
+"Mechanic_WorldC1M1B113"
+//Let's go then.
+"Mechanic_WorldC1M1B115"
+//Search these rooms, yall. Might be some useful shit in some of em.
+"Mechanic_WorldC1M1B119"
+//Alright, everybody calm down! That chopper looks like it's headin' to the evac center over at the mall.
+"Mechanic_WorldC1M1B12"
+//This elevator's still workin!
+"Mechanic_WorldC1M1B120"
+//Thank the lord, this one's still workin.
+"Mechanic_WorldC1M1B121"
+//Hey, everybody, in the elevator!
+"Mechanic_WorldC1M1B122"
+//Let's go, push the button! Push the button!
+"Mechanic_WorldC1M1B123"
+//Ellis.
+"Mechanic_WorldC1M1B124"
+//Might be a welcomin' committee when these doors open. Get readyÖ
+"Mechanic_WorldC1M1B126"
+//Ellis. Pleased to meet you, Coach.
+"Mechanic_WorldC1M1B127"
+//Ellis. It's a pleasure to meet you, Rochelle.
+"Mechanic_WorldC1M1B128"
+//Ellis. Nice to meet you, Nick.
+"Mechanic_WorldC1M1B129"
+//That chopper looks like it's headin' to the evac center over at the mall.
+"Mechanic_WorldC1M1B13"
+//Folks call me Ellis. How 'bout you?
+"Mechanic_WorldC1M1B130"
+//People call me Ellis. You?
+"Mechanic_WorldC1M1B131"
+//Folks call me Ellis. I run an auto shop with a couple of my buddies. We're also in a band. I play bass.
+"Mechanic_WorldC1M1B132"
+//Folks call me Ellis. I run an auto shop around here. Instead of evacuatin, I armored up a truck to drive myself out of here. Built that thing to be zombie proof.
+"Mechanic_WorldC1M1B133"
+//Turns out it was only 99% zombie proof. The last 1% tore that truck to SHIT.
+"Mechanic_WorldC1M1B134"
+//You don't say? Wrestlin' and such?
+"Mechanic_WorldC1M1B135"
+//Huh. If everybody's evacuatin', who's watchin the news?
+"Mechanic_WorldC1M1B136"
+//Folks call me Ellis. And I learned how to shoot a gun before I learned how to walk.
+"Mechanic_WorldC1M1B137"
+//Folks call me Ellis. And I learned how to shoot a gun before I learned how to walk, white suit Nick.
+"Mechanic_WorldC1M1B138"
+//Figures. Bosses are shitheads. My name's Ellis.
+"Mechanic_WorldC1M1B139"
+//I bet that chopper's headin' to the evac station at the mall. We can still catch up to it if we hurry.
+"Mechanic_WorldC1M1B14"
+//That's right! My name's Ellis, and I've lived here all my life. And there's tons of places here that ain't pieces of shit.
+"Mechanic_WorldC1M1B140"
+//Who'd we lose?
+"Mechanic_WorldC1M1B141"
+//Hey, I bet it's headed to the mall. There's an evacuation center there. Grab some weapons and I'll lead the way.
+"Mechanic_WorldC1M1B16"
+//I know that mall. There's an evac center set up there. Grab a weapon and let's go.
+"Mechanic_WorldC1M1B17"
+//Looked like it was headin' to the mall across town.
+"Mechanic_WorldC1M1B19"
+//Looked like it was headin' to the mall across town. And I'll call it what I like, fancy suit.
+"Mechanic_WorldC1M1B21"
+//Man, Savannah's awesome. C'mon, I'll show you the sights on the way to the mall!
+"Mechanic_WorldC1M1B22"
+//Do you think they saw us?
+"Mechanic_WorldC1M1B23"
+//Yeah, they'll be back.
+"Mechanic_WorldC1M1B24"
+//Hey, I think there's another evac station in the mall.
+"Mechanic_WorldC1M1B25"
+//Anybody else noticed the building's on fire?
+"Mechanic_WorldC1M1B26"
+//Anybody else noting the building's on fire?
+"Mechanic_WorldC1M1B27"
+//It may have escaped all y'alls notice, but this building is on fire.
+"Mechanic_WorldC1M1B28"
+//Weapons up and let's go.
+"Mechanic_WorldC1M1B29"
+//You best grab a weapon. I reckon you'll need 'em.
+"Mechanic_WorldC1M1B30"
+//Everybody grab a weapon. It's better to have one and not need it than NEED one and not have it.
+"Mechanic_WorldC1M1B33"
+//Did anyone else notice this building is on fire?
+"Mechanic_WorldC1M1B34"
+//Ah hell, this is just messed up.
+"Mechanic_WorldC1M1B35"
+//I ain't going back downstairs unarmed.
+"Mechanic_WorldC1M1B36"
+//Don't know what's down there, but I'm grabbin' somethin' just in case.
+"Mechanic_WorldC1M1B37"
+//Hey, we should all grab something.
+"Mechanic_WorldC1M1B38"
+//hey, everybody grab somethin' I think we got some killin to do.
+"Mechanic_WorldC1M1B39"
+//Holy shit, zombies are real. I KNEW it!
+"Mechanic_WorldC1M1B40"
+//Zombies are REAL. I knew them movies were true.
+"Mechanic_WorldC1M1B41"
+//Dude those zombies are REAL. I knew them books were non-fiction.
+"Mechanic_WorldC1M1B42"
+//That what I think it is?
+"Mechanic_WorldC1M1B44"
+//Those what I think they are?
+"Mechanic_WorldC1M1B45"
+//Those don't look like no Savannahites I ever seen.
+"Mechanic_WorldC1M1B47"
+//HOLY SHIT!!! KILL IT!
+"Mechanic_WorldC1M1B48"
+//Whoa - is that a zombie? Like a, like a ZOMBIE zombie?
+"Mechanic_WorldC1M1B49"
+//[whistles] Check out all them X's, man. Looks like New Orleans is the last city standing.
+"Mechanic_WorldC1M1B57"
+//If this map's right, New Orleans is the last city standing.
+"Mechanic_WorldC1M1B58"
+//I dunno about you folks, but after lookin' at that map, I wouldn't mind heading to, I dunno, New Orleans?
+"Mechanic_WorldC1M1B59"
+//Hope you guys like New Orleans, cause that's where we're headed if we wanna live.
+"Mechanic_WorldC1M1B62"
+//Shit! This way's blocked!
+"Mechanic_WorldC1M1B65"
+//We've gotta get around this fire!
+"Mechanic_WorldC1M1B66"
+//The fire's spreading!
+"Mechanic_WorldC1M1B67"
+//The fire's spreading, man, it's spreading!
+"Mechanic_WorldC1M1B68"
+//Goddamn elevator's out!
+"Mechanic_WorldC1M1B69"
+//This elevator's broke, we better find the stairs!
+"Mechanic_WorldC1M1B70"
+//Hey, we gotta find the stairs!
+"Mechanic_WorldC1M1B71"
+//Heh heh. Zombie apocalypse ain't all bad.
+"Mechanic_WorldC1M1B72"
+//Out here on the ledge!
+"Mechanic_WorldC1M1B79"
+//Get out to the ledge!
+"Mechanic_WorldC1M1B80"
+//Hey, out here on the ledge!
+"Mechanic_WorldC1M1B81"
+//I ain't never been so happy to see a gun.
+"Mechanic_WorldC1M1B82"
+//Guns! Now there's a sight for sore eyes.
+"Mechanic_WorldC1M1B83"
+//Guns here! This'll help clear a path.
+"Mechanic_WorldC1M1B84"
+//Search these rooms, y'all. Might be something we can use.
+"Mechanic_WorldC1M1B87"
+//You don't say? Wrestlin' and such?
+"Mechanic_WorldC1M1B88"
+//Yeah? How you like our city so far?
+"Mechanic_WorldC1M1B89"
+//Yeah, well it's normally a lot nicer when we don't have the zombies. I'm Ellis, by the way.
+"Mechanic_WorldC1M1B90"
+//You can call me Ellis.
+"Mechanic_WorldC1M1B91"
+//Holy shit! This is some kind of nightmare. Goddamn Zombie Apocalypse and shit. Shit, shit, shit. What in the hell are we going to do?
+"Mechanic_WorldC1M1B92"
+//Ellis, my name is Ellis.
+"Mechanic_WorldC1M1B93"
+//My name is Ellis, but some people call me El. I really prefer Ellis as El sounds like a girl's name. But if you prefer to call me El you can.
+"Mechanic_WorldC1M1B94"
+//Ellis.
+"Mechanic_WorldC1M1B96"
+//Ellis. How 'bout you, big man?
+"Mechanic_WorldC1M1B97"
+//Ooh, I know a gun store we can stop at along the way. Get ourselves some REAL weapons.
+"Mechanic_WorldC1M2B01"
+//He is?
+"Mechanic_WorldC1M2B02"
+//I am?
+"Mechanic_WorldC1M2B03"
+//We're heading the right way to the mall.
+"Mechanic_WorldC1M2B04"
+//We're heading the right way.
+"Mechanic_WorldC1M2B05"
+//Hey, jump onto the truck!
+"Mechanic_WorldC1M2B09"
+//Over the dumpster!
+"Mechanic_WorldC1M2B10"
+//The mall's JUST up ahead!
+"Mechanic_WorldC1M2B11"
+//Okay, I think we're getting close to the mall!
+"Mechanic_WorldC1M2B12"
+//Man, this place is quieter than a graveyard.
+"Mechanic_WorldC1M2B13"
+//Hope we're making the right call going to that mall...
+"Mechanic_WorldC1M2B14"
+//Hey, I recognize this! That gun store's just up ahead!
+"Mechanic_WorldC1M2B15"
+//I think that gun store's just up ahead!
+"Mechanic_WorldC1M2B16"
+//I'm grabbin a gun, should we leave some money for these?
+"Mechanic_WorldC1M2B18"
+//I can understand that, man needs his snacks. Man this guy's weird.
+"Mechanic_WorldC1M2B25"
+//So we get you some snacks and you clear the way? Shit, that sound fair.
+"Mechanic_WorldC1M2B27"
+//Cola for guns, I think this is like the reverse of what my school did.
+"Mechanic_WorldC1M2B28"
+//Hey, grab that cola!
+"Mechanic_WorldC1M2B31"
+//Alright, man, I got that dudes cola! Let's go! Let's go! Let's go!
+"Mechanic_WorldC1M2B33"
+//Hey I got the cola!
+"Mechanic_WorldC1M2B34"
+//Grabbin' cola!
+"Mechanic_WorldC1M2B35"
+//Barrier's down! Let's get outta here.
+"Mechanic_WorldC1M2B36"
+//Woohoo! There she goes! Let's get outta here.
+"Mechanic_WorldC1M2B37"
+//Now, that is how you clear a path.
+"Mechanic_WorldC1M2B38"
+//Hey, there's the mall! We MADE it!
+"Mechanic_WorldC1M2B43"
+//I ain't never been so happy to see a damn shopping center!
+"Mechanic_WorldC1M2B44"
+//We made it! CEDA still better be here!
+"Mechanic_WorldC1M2B45"
+//I swear to god, CEDA better be at that mallÖ
+"Mechanic_WorldC1M2B46"
+//CEDA better be around here somewhere.
+"Mechanic_WorldC1M3B01"
+//Maybe the evac's further in the mall.
+"Mechanic_WorldC1M3B02"
+//Amen!
+"Mechanic_WorldC1M3B03"
+//Amen!
+"Mechanic_WorldC1M3B04"
+//Up this escalator!
+"Mechanic_WorldC1M3B05"
+//Down that escalator!
+"Mechanic_WorldC1M3B08"
+//Evac's this way!
+"Mechanic_WorldC1M3B09"
+//Check it out, man! Jimmy Gibbs, Jr!
+"Mechanic_WorldC1M3B12"
+//Check it out, man! That's Jimmy Gibbs, Jr!
+"Mechanic_WorldC1M3B13"
+//[laughs] Just the best stock car racer of all time. Try reading a book sometime.
+"Mechanic_WorldC1M3B17"
+//That man is the pride of Georgia.
+"Mechanic_WorldC1M3B20"
+//That man is America's greatest natural resource.
+"Mechanic_WorldC1M3B21"
+//I would take a bullet for that man.
+"Mechanic_WorldC1M3B22"
+//If the laws of nature allowed it, I would bear that man's children.
+"Mechanic_WorldC1M3B23"
+//That man is an American hero.
+"Mechanic_WorldC1M3B24"
+//That's Jimmy Gibbs, Jr. The greatest driver ever to climb into a stock car.
+"Mechanic_WorldC1M3B25"
+//Aw, shit, we missed him! This apocalypse is startin' to piss me off..
+"Mechanic_WorldC1M3B26"
+//Aw, shit, we missed him? That is the last straw-these zombies have just made an enemy.
+"Mechanic_WorldC1M3B27"
+//Aw, hell. I coulda got my picture taken with Jimmy Gibbs' stock car? I HATE this apocalypse.
+"Mechanic_WorldC1M3B28"
+//God damn it. I coulda got my picture taken with Jimmy Gibbs' stock car.
+"Mechanic_WorldC1M3B29"
+//Check it, y'all! Jimmy Gibbs Jr.!
+"Mechanic_WorldC1M3B30"
+//I got a feelin' this alarm ain't gonna go unnoticed.
+"Mechanic_WorldC1M3B32"
+//Get ready! The alarm is gonna sound.
+"Mechanic_WorldC1M3B33"
+//Keep going!
+"Mechanic_WorldC1M3B34"
+//UP, UP! Keep goin' UP!
+"Mechanic_WorldC1M3B35"
+//We have to turn that alarm off!
+"Mechanic_WorldC1M3B36"
+//Somebody turn off the alarm!
+"Mechanic_WorldC1M3B37"
+//Someone turn off the alarm!
+"Mechanic_WorldC1M3B38"
+//I Got it!
+"Mechanic_WorldC1M3B39"
+//My ears aint never gonna stop ringing.
+"Mechanic_WorldC1M3B41"
+//Looks like we'll have to get out of the city on our own.
+"Mechanic_WorldC1M3B42"
+//Doesn't look like we're getting rescued.
+"Mechanic_WorldC1M3B43"
+//Looks like a slaughterhouse in here...
+"Mechanic_WorldC1M3B44"
+//Man, this is... this is awful.
+"Mechanic_WorldC1M3B45"
+//The only folks gonna save us is ourselves.
+"Mechanic_WorldC1M3B46"
+//If we're gonna get out of here, we're gonna have to do it ourselves.
+"Mechanic_WorldC1M3B47"
+//Hey, right up here! Some of the refugees built a safe room!
+"Mechanic_WorldC1M3B48"
+//Actually, I been thinking...
+"Mechanic_WorldC1M4B01"
+//I might have an idea.
+"Mechanic_WorldC1M4B02"
+//If you're looking for ideas, look no further. Because I have a good one.
+"Mechanic_WorldC1M4B04"
+//Let's go find Jimmy Gibbs' stock car. We get that thing gassed up, we can drive out of here.
+"Mechanic_WorldC1M4B05"
+//So I been thinking. Jimmy Gibbs' stock car's around here somewhere. We just gotta find it, gas it up, and I'll drive that thing to New Orleans my damn self.
+"Mechanic_WorldC1M4B06"
+//I've got an idea. You know them posters we been seein? Get your picture taken with Jimmy Gibbs' stock car? That means it's HERE. We just need to appropriate it, and we got ourselves an escape vehicle.
+"Mechanic_WorldC1M4B07"
+//Listen up. See that poster! Says here you can get your picture taken with Jimmy Gibbs stock car. All we gotta do is find it, gas it up, and drive out of here ourselves!
+"Mechanic_WorldC1M4B08"
+//I've got an idea. Jimmy Gibbs, Jr. ain't gonna mind if we borrow his stock car. He's a very generous man.
+"Mechanic_WorldC1M4B09"
+//Yeah, yeah, yeah. All we gotta do is find it and gas it up, and I'll drive us out of here my damn self.
+"Mechanic_WorldC1M4B10"
+//Y'all remember those ads we saw on the way in? I think I got an idea how to get us some wheels.
+"Mechanic_WorldC1M4B11"
+//That's Jimmy Gibbs, Jr, and yes. We find his stock car, get it gassed up? I'll drive us out of here myself.
+"Mechanic_WorldC1M4B12"
+//Only if I get kilt. Otherwise you better kill me, cause I'M driving.
+"Mechanic_WorldC1M4B13"
+//I actuallly think the guy who came up with the idea should get to drive the stock car.
+"Mechanic_WorldC1M4B14"
+//It was my idea!
+"Mechanic_WorldC1M4B15"
+//Now remember: They don't fill up the tanks at car shows, so we'll have to find some gas.
+"Mechanic_WorldC1M4B17"
+//Alright, I'm bettin' the gas tank'll probably be empty. We'll have to gas it up before we can haul ass.
+"Mechanic_WorldC1M4B18"
+//Now, this ain't the first time I've tried to peel out of a car show. Turns out they usually leave the tanks empty for just such an eventuality. We gonna have to gas it up.
+"Mechanic_WorldC1M4B19"
+//Wherever he is, Coach-he's proud of you.
+"Mechanic_WorldC1M4B20"
+//Remember the plan. Grab gas, fill up the tank, and let's get out of here.
+"Mechanic_WorldC1M4B23"
+//Soon as these doors open... get ready to run.
+"Mechanic_WorldC1M4B24"
+//Go! Go! Go! Find some gas!
+"Mechanic_WorldC1M4B25"
+//Come comeoncomeoncomeon...
+"Mechanic_WorldC1M4B30"
+//Please get in the tank, please please please...
+"Mechanic_WorldC1M4B31"
+//C'mon, hurrrry up up up up up...
+"Mechanic_WorldC1M4B32"
+//Man I feel like I'm gassin' up royalty.
+"Mechanic_WorldC1M4B33"
+//This is... such an honor.
+"Mechanic_WorldC1M4B34"
+//Man, never in my wildest dreams did I think I'd be gassin' up Jimmy Gibb's car.
+"Mechanic_WorldC1M4B35"
+//I'll be drivin' you REALLLL soon, girl.
+"Mechanic_WorldC1M4B37"
+//I can't wait to get behind your wheel, darlin'.
+"Mechanic_WorldC1M4B38"
+//Come onnnn, come onnnnnn...Fill it up here!
+"Mechanic_WorldC1M4B39"
+//Grab a gas can and fill 'er up!
+"Mechanic_WorldC1M4B40"
+//Find a gas can!
+"Mechanic_WorldC1M4B41"
+//Find a gas can!
+"Mechanic_WorldC1M4B42"
+//I got this one!
+"Mechanic_WorldC1M4B43"
+//Let's go! Let'sget this car gassed up!
+"Mechanic_WorldC1M4B44"
+//Let'sget this car gassed up!
+"Mechanic_WorldC1M4B45"
+//We need more gas!
+"Mechanic_WorldC1M4B46"
+//We still need more gas!
+"Mechanic_WorldC1M4B47"
+//Halfway there!
+"Mechanic_WorldC1M4B48"
+//Almost there!
+"Mechanic_WorldC1M4B49"
+//We still need ten more!
+"Mechanic_WorldC1M4B51"
+//We still need five more!
+"Mechanic_WorldC1M4B52"
+//we need five more!
+"Mechanic_WorldC1M4B53"
+//Alright, just three more!
+"Mechanic_WorldC1M4B54"
+//Just two more!
+"Mechanic_WorldC1M4B55"
+//One more can do it!
+"Mechanic_WorldC1M4B56"
+//We're all filled up, let's go!
+"Mechanic_WorldC1M4B57"
+//Let's get outta here!
+"Mechanic_WorldC1M4B58"
+//Let's go! I'm driving! WOOO!
+"Mechanic_WorldC1M4B59"
+//Everybody get in the damn car!
+"Mechanic_WorldC1M4B60"
+//Get in the car! We're ready!
+"Mechanic_WorldC1M4B61"
+//Come on, let's GO!
+"Mechanic_WorldC1M4B62"
+//Woooohoooo!
+"Mechanic_WorldC1M4B63"
+//Next stop: New Orleans!
+"Mechanic_WorldC1M4B64"
+//Buckle up, folks! I aim to see what this car can DO!
+"Mechanic_WorldC1M4B65"
+//Jimmy Gibbs Jr. I will do this for you.
+"Mechanic_WorldC1M4B66"
+//Here we go folks! Buckle up, I aim to see what this car can DO!
+"Mechanic_WorldC1M4B67"
+//Bus is blocking the way.
+"Mechanic_WorldC2M105"
+//Hey, down this off ramp.
+"Mechanic_WorldC2M106"
+//Ain't nobody been swimmin' in this pool for a while.
+"Mechanic_WorldC2M110"
+//We can get around back through here.
+"Mechanic_WorldC2M112"
+//Hey, search the rooms.
+"Mechanic_WorldC2M113"
+//Check the rooms.
+"Mechanic_WorldC2M114"
+//Whoa hey!
+"Mechanic_WorldC2M119"
+//WHOOOAA!
+"Mechanic_WorldC2M120"
+//That's a righteous ride down that hill.
+"Mechanic_WorldC2M121"
+//Anybody wanna go back up and do that again?
+"Mechanic_WorldC2M122"
+//Coach, you're breathin a little hard, you okay?
+"Mechanic_WorldC2M123"
+//Sorry, folks. This car's capable of miracles, but it can't drive over twenty miles of parked cars. I think we're walkin'.
+"Mechanic_WorldC2M1B01"
+//Hey guys, can I have a second? Alone with the car? I just... I got some things that need saying.
+"Mechanic_WorldC2M1B03"
+//We had a good time.
+"Mechanic_WorldC2M1B05"
+//You are the most beautiful thing I have ever sat between.
+"Mechanic_WorldC2M1B07"
+//Man. This was the best day of my life.
+"Mechanic_WorldC2M1B08"
+//I love you.
+"Mechanic_WorldC2M1B09"
+//Thank you. We couldn't have done it without you.
+"Mechanic_WorldC2M1B10"
+//Thank you.
+"Mechanic_WorldC2M1B11"
+//Well, this is it. Let's not make it harder than it needs to be.
+"Mechanic_WorldC2M1B12"
+//Well, this isn't the way I saw it, but I'm sorry I'm gonna have to leave you here.
+"Mechanic_WorldC2M1B13"
+//You did good.
+"Mechanic_WorldC2M1B14"
+//Sorry, guys. Guess it wasn't such a hot idea after all.
+"Mechanic_WorldC2M1B17"
+//Searchlights. That's the first sign of life we've seen in a hundred miles.
+"Mechanic_WorldC2M1B18"
+//We should head towards those searchlights.
+"Mechanic_WorldC2M1B19"
+//Down this off ramp!
+"Mechanic_WorldC2M1B20"
+//That'd be Whispering Oaks Amusement Park, right there.
+"Mechanic_WorldC2M1B22"
+//Highway's blocked! Let's cut through the motel!
+"Mechanic_WorldC2M1B25"
+//Look at those poor people. All they wanted to do was go for a swim.
+"Mechanic_WorldC2M1B26"
+//Look at all those poor people.
+"Mechanic_WorldC2M1B27"
+//Search the rooms.
+"Mechanic_WorldC2M1B28"
+//Check the rooms! Might be crap in em!
+"Mechanic_WorldC2M1B29"
+//Hey watch your footing. This gully looks steep.
+"Mechanic_WorldC2M1B31"
+//If we're gonna get to the bottom of this gully, we gotta be careful.
+"Mechanic_WorldC2M1B32"
+//Whispering Oaks! We made it!
+"Mechanic_WorldC2M1B33"
+//Whoa! Sorry Rochel!e!
+"Mechanic_WorldC2M201"
+//I never once thought a merry-go-round would turn on me.
+"Mechanic_WorldC2M203"
+//I mean, what is this world coming to when you dread a merry-go-round?
+"Mechanic_WorldC2M204"
+//Can we stop and make some cotton candy? Seriously.
+"Mechanic_WorldC2M208"
+//Man, what are y'all in a hurry for? This is awesome.
+"Mechanic_WorldC2M211"
+//I'll back you up on that. Hell of a show.
+"Mechanic_WorldC2M2B02"
+//I saw 'em in '07. Front row center. Lost my eyebrows.
+"Mechanic_WorldC2M2B03"
+//Hey, check it out man! That's theThe Midnight Riders!
+"Mechanic_WorldC2M2B04"
+//[singing] ...Gotta reach for the top, stay on that mountainnnn...
+"Mechanic_WorldC2M2B05"
+//[singing] ...Every lady's crazy when her daddy's not around...
+"Mechanic_WorldC2M2B06"
+//Uh, yeah, they're a pretty big deal, alright.
+"Mechanic_WorldC2M2B09"
+//I heard when they play? You can see the show from SPACE.
+"Mechanic_WorldC2M2B10"
+//I heard they gotta cancel the concert if there's a breeze, cause any town downwind'll catch on FIRE.
+"Mechanic_WorldC2M2B11"
+//Man, would you look at all these rides? And no LINES! Wish we weren't in such a hurry.
+"Mechanic_WorldC2M2B12"
+//It's like we bought the park and got every ride to ourselves! That's the third thing I was gonna do if I ever won the lottery.
+"Mechanic_WorldC2M2B13"
+//I wanna ride one! Just one! Just lemme ride the Screaming Oak once. Man, when we ever gonna be here again?
+"Mechanic_WorldC2M2B14"
+//Man, how can you not like Lil Peanut? I love this little guy!
+"Mechanic_WorldC2M2B15"
+//You guys are jaded. I used to have his toys when I was bite-sized. That little stuffed peanut was the best friend a boy could have.
+"Mechanic_WorldC2M2B16"
+//Holy shit, guys! Kiddie Land!
+"Mechanic_WorldC2M2B18"
+//Check it out! Kiddie Land!
+"Mechanic_WorldC2M2B20"
+//You're a real comedian, Nick.
+"Mechanic_WorldC2M2B22"
+//Ha ha ha.
+"Mechanic_WorldC2M2B23"
+//Well, aren't you a real comedian.
+"Mechanic_WorldC2M2B24"
+//Turn that damn thing off!
+"Mechanic_WorldC2M2B26"
+//It's off!
+"Mechanic_WorldC2M2B27"
+//It's off!
+"Mechanic_WorldC2M2B28"
+//Everybody into the tunnel of love!
+"Mechanic_WorldC2M2B29"
+//Hey, there's a saferoom in the tunnel of love!
+"Mechanic_WorldC2M2B30"
+//Tunnel of love?
+"Mechanic_WorldC2M301"
+//Dang, look at Nick's jacket.
+"Mechanic_WorldC2M302"
+//This is cool.
+"Mechanic_WorldC2M303"
+//This is awesome, man!
+"Mechanic_WorldC2M306"
+//Through here.
+"Mechanic_WorldC2M310"
+//Up here.
+"Mechanic_WorldC2M311"
+//A little vent crawling.
+"Mechanic_WorldC2M313"
+//One thing videogames have taught me, good shit is always in vents.
+"Mechanic_WorldC2M314"
+//We gotta run the coaster?
+"Mechanic_WorldC2M317"
+//Aw, man, this is gonna be cool.
+"Mechanic_WorldC2M319"
+//Start it up.
+"Mechanic_WorldC2M323"
+//I'm gonna fly down these hills.
+"Mechanic_WorldC2M324"
+//Click-click-click-click
+"Mechanic_WorldC2M325"
+//Oh, shit, man, run!
+"Mechanic_WorldC2M326"
+//Oh, shit, run, man, run!
+"Mechanic_WorldC2M327"
+//Run to the door!
+"Mechanic_WorldC2M328"
+//These things ain't never gonna stop!
+"Mechanic_WorldC2M330"
+//Shit, run, man!
+"Mechanic_WorldC2M331"
+//This ain't that kinda ride, Nick. [whisper] This is where you make out with your girlfriend.
+"Mechanic_WorldC2M3B01"
+//Cool looking water.
+"Mechanic_WorldC2M3B03"
+//Into the swan maintenance room of love!
+"Mechanic_WorldC2M3B04"
+//Into the maintenance tunnel of love!
+"Mechanic_WorldC2M3B05"
+//Incendiary ammo of love here!
+"Mechanic_WorldC2M3B06"
+//Katana sword of love here!
+"Mechanic_WorldC2M3B07"
+//Down that hole!
+"Mechanic_WorldC2M3B09"
+//Through the blasted-out hole of love!
+"Mechanic_WorldC2M3B10"
+//Aw, MAN, that's the Screamin' Oak!
+"Mechanic_WorldC2M3B12"
+//Oh, cool!
+"Mechanic_WorldC2M3B13"
+//Ohmigod!
+"Mechanic_WorldC2M3B14"
+//Ohmigod, it's Christmas.
+"Mechanic_WorldC2M3B15"
+//Holy shit, it's Christmas.
+"Mechanic_WorldC2M3B16"
+//Hey, we need to clear these tracks.
+"Mechanic_WorldC2M3B17"
+//Let's clear the tracks.
+"Mechanic_WorldC2M3B18"
+//I'm clearing the tracks
+"Mechanic_WorldC2M3B19"
+//Hey we gotta turn that alarm off!
+"Mechanic_WorldC2M3B21"
+//Somebody turn off that alarm!
+"Mechanic_WorldC2M3B22"
+//That alarm is getting on my nerves!
+"Mechanic_WorldC2M3B23"
+//Follow the tracks!
+"Mechanic_WorldC2M3B24"
+//Keep followin the tracks!
+"Mechanic_WorldC2M3B25"
+//Okay, come on, how cool is this?
+"Mechanic_WorldC2M3B26"
+//Alarm's off!
+"Mechanic_WorldC2M3B27"
+//It's off!
+"Mechanic_WorldC2M3B28"
+//OFF!
+"Mechanic_WorldC2M3B29"
+//Through the bumper cars!
+"Mechanic_WorldC2M3B31"
+//We gotta open this gate.
+"Mechanic_WorldC2M3B35"
+//Let's start it up!
+"Mechanic_WorldC2M3B42"
+//I'm starting it!
+"Mechanic_WorldC2M3B46"
+//I'm opening it!
+"Mechanic_WorldC2M3B47"
+//So we gotta setup to rock, then fight zombies?
+"Mechanic_WorldC2M404"
+//What next? Dinosaurs flying down from the sky and shooting lasers out of their eyes?
+"Mechanic_WorldC2M405"
+//I was born ready. So... yes.
+"Mechanic_WorldC2M4B02"
+//It's a helicopter!
+"Mechanic_WorldC2M4B03"
+//A chopper!
+"Mechanic_WorldC2M4B04"
+//Hey, we need to signal that chopper.
+"Mechanic_WorldC2M4B07"
+//Coach, I hate to break it to you, but I don't think they're actually HERE.
+"Mechanic_WorldC2M5B01"
+//Coach, you are a brilliant man.
+"Mechanic_WorldC2M5B02"
+//I always wanted to run to a helicopter during a guitar solo. Just like in a music video.
+"Mechanic_WorldC2M5B03"
+//And that'll signal the chopper pilot! This is gonna be like the FOURTH time the Midnight Riders have saved my life.
+"Mechanic_WorldC2M5B04"
+//I'm in. Let's rock and roll.
+"Mechanic_WorldC2M5B05"
+//I'm in. This arena's about to get rocked.
+"Mechanic_WorldC2M5B06"
+//A Midnight Riders show aint about the MUSIC, Nick. It's about the explosions.
+"Mechanic_WorldC2M5B12"
+//That don't matter. I could never hear the music over the protechnics anyway.
+"Mechanic_WorldC2M5B13"
+//Lots of bands lip sync. Aint nothing wrong with saving your vocal cords for the studio.
+"Mechanic_WorldC2M5B14"
+//Ooh, here's a tape deck marked finale!
+"Mechanic_WorldC2M5B15"
+//When I hit this tape deck, it's all gonna start. Get ready, guys!
+"Mechanic_WorldC2M5B17"
+//Get ready to rock! I'm about to start this baby.
+"Mechanic_WorldC2M5B20"
+//Hit the lights!
+"Mechanic_WorldC2M5B21"
+//Lights!
+"Mechanic_WorldC2M5B23"
+//Turn it up! Turn it WAYY UP!
+"Mechanic_WorldC2M5B25"
+//I love this song!
+"Mechanic_WorldC2M5B26"
+//This is the best day of my life!
+"Mechanic_WorldC2M5B27"
+//It's like we're roadies for the Midnight Riders!
+"Mechanic_WorldC2M5B28"
+//This song is AWESOME!
+"Mechanic_WorldC2M5B29"
+//Turn on the lights!
+"Mechanic_WorldC2M5B34"
+//We need crank this shit up, baby!
+"Mechanic_WorldC2M5B46"
+//ROCK 'N' ROLL!!
+"Mechanic_WorldC2M5B47"
+//The chopper saw us!
+"Mechanic_WorldC2M5B48"
+//See? The Midnight Riders' music saves lives!
+"Mechanic_WorldC2M5B50"
+//Thank you, Whispering Oaks and goodnight! You've been a GREAT AUDIENCE!
+"Mechanic_WorldC2M5B52"
+//Let's go! Get to the chopper!
+"Mechanic_WorldC2M5B57"
+//Everybody get to the chopper!
+"Mechanic_WorldC2M5B58"
+//Let's go, guys! Get to the chopper!
+"Mechanic_WorldC2M5B59"
+//Chopper's leaving, let's go! Let's go!
+"Mechanic_WorldC2M5B60"
+//Let's go, let's go! Chopper's here!
+"Mechanic_WorldC2M5B61"
+//Well that ain't very friendly.
+"Mechanic_WorldC3M101"
+//Well that ain't very friendly.
+"Mechanic_WorldC3M102"
+//I'm just gonna say it. I don't like the swamp.
+"Mechanic_WorldC3M103"
+//Search the houses.
+"Mechanic_WorldC3M107"
+//Bet you we can find supplies in these houses.
+"Mechanic_WorldC3M108"
+//Man, it looks like people left in a rush.
+"Mechanic_WorldC3M109"
+//Anybody find anything?
+"Mechanic_WorldC3M110"
+//All this litter is shameful.
+"Mechanic_WorldC3M111"
+//Oh, that's smart,. see, zombies can't operate a ferry.
+"Mechanic_WorldC3M112"
+//Pontoon boat's on the other side of the bayou.
+"Mechanic_WorldC3M113"
+//We gotta call it over to this side.
+"Mechanic_WorldC3M114"
+//We just gotta call that pontoon boat over.
+"Mechanic_WorldC3M115"
+//Ain't no thing,  just  call the pontoon boat over.
+"Mechanic_WorldC3M116"
+//Let's get ready and then call the boat.
+"Mechanic_WorldC3M118"
+//Somebody hit that button.
+"Mechanic_WorldC3M119"
+//Whose gonna call the boat?
+"Mechanic_WorldC3M120"
+//I'll call it.
+"Mechanic_WorldC3M121"
+//Everybody get ammo'd up.
+"Mechanic_WorldC3M122"
+//Alright, the boat's coming!
+"Mechanic_WorldC3M123"
+//Hey, boat's coming!
+"Mechanic_WorldC3M124"
+//Here comes the boat!
+"Mechanic_WorldC3M125"
+//Dang, man, I sure wish that boat would hurry.
+"Mechanic_WorldC3M126"
+//That is the slowest boat ever, man!
+"Mechanic_WorldC3M127"
+//Is that boat ever gonna come?
+"Mechanic_WorldC3M128"
+//Okay, that is the slowest damn pontoon boat, ever!
+"Mechanic_WorldC3M129"
+//That is the slowest damn boat!
+"Mechanic_WorldC3M130"
+//Pontoon boat's here!
+"Mechanic_WorldC3M131"
+//Boat's here!
+"Mechanic_WorldC3M132"
+//Let's get on the boat!
+"Mechanic_WorldC3M133"
+//Let's go! boat's leaving!
+"Mechanic_WorldC3M134"
+//Hit it! Let's go!
+"Mechanic_WorldC3M135"
+//Let's go! Let's GO!
+"Mechanic_WorldC3M136"
+//What we waitin' for? Let's go!
+"Mechanic_WorldC3M137"
+//Let's go! Everybody on the boat!
+"Mechanic_WorldC3M138"
+//Here we go! Everybody on the boat!
+"Mechanic_WorldC3M139"
+//Oh yeah, I know plenty about swarmps. Tthey're full of bugs and gators and snakes and well zombies now!
+"Mechanic_WorldC3M140"
+//The way were shootin'?  Each other.
+"Mechanic_WorldC3M141"
+//Listen up everybody. Be on the lookout for blood farmers. I'm serious.
+"Mechanic_WorldC3M142"
+//Duh?  Farmers that don't grow crops, they grow people.  To eat.
+"Mechanic_WorldC3M143"
+//Yeah, well, you'll be real sorry if we run into them.
+"Mechanic_WorldC3M144"
+//Oh this here?  That says I'm a bad ass zombie killing machine
+"Mechanic_WorldC3M145"
+//Alright, Coach, you got anything inspirational to say as we enter into the swamps?
+"Mechanic_WorldC3M148"
+//Alright, alright, kinda hopin' you wouldn't get all bibical on me.
+"Mechanic_WorldC3M149"
+//Okayt, kinda hopin' you weren't gonna get all fire and brimstone on me.
+"Mechanic_WorldC3M150"
+//Yeah? I'm walking through that valley kickin' some ass.
+"Mechanic_WorldC3M151"
+//Yeah? I'm walking through that valley kickin' ass.
+"Mechanic_WorldC3M152"
+//Man, I wish we were back in the amusement park.
+"Mechanic_WorldC3M153"
+//Nick remember when we ran on that roller coaster?
+"Mechanic_WorldC3M154"
+//Oh come on now, that was fun.
+"Mechanic_WorldC3M155"
+//Oh come on, that was fun.
+"Mechanic_WorldC3M156"
+//Hey Nick, I used to have a suit just like yours.
+"Mechanic_WorldC3M157"
+//Oh yeah, when I had first holy communion in the 2nd grade.
+"Mechanic_WorldC3M158"
+//Oh yeah, when I had first holy communion in the 2nd grade.  I don't think it fits anymore.
+"Mechanic_WorldC3M159"
+//You know what you can do? You could try to cover yourself in mud...   we're definitely not short on that.
+"Mechanic_WorldC3M160"
+//Alright, stay on the walkways.
+"Mechanic_WorldC3M161"
+//Ooh - you could try covering yourself in mud...
+"Mechanic_WorldC3M162"
+//We should be all right if we stay on the walkways.
+"Mechanic_WorldC3M163"
+//Alright, careful, careful, that looks pretty rickety.
+"Mechanic_WorldC3M164"
+//Anyone wanna pick a way to go?
+"Mechanic_WorldC3M165"
+//Left or right my friends?
+"Mechanic_WorldC3M166"
+//Hey, we gotta get back to the walkway!
+"Mechanic_WorldC3M167"
+//Stairs!
+"Mechanic_WorldC3M168"
+//Hey, get back up there!
+"Mechanic_WorldC3M169"
+//Hey, Let's get back up there!
+"Mechanic_WorldC3M170"
+//Let's just stay on the walkway.
+"Mechanic_WorldC3M171"
+//Hey, don't get off the walkway, okay?
+"Mechanic_WorldC3M172"
+//I don't like not being on the walkway.
+"Mechanic_WorldC3M173"
+//Have you smelled yourself recently?
+"Mechanic_WorldC3M174"
+//Alright, let's all try to the right.
+"Mechanic_WorldC3M177"
+//Dude, they must have gone this way.
+"Mechanic_WorldC3M178"
+//Tour ended here.   I think we gotta keep moving.
+"Mechanic_WorldC3M179"
+//Planks this way.
+"Mechanic_WorldC3M180"
+//Hey, path to the right.
+"Mechanic_WorldC3M181"
+//I had no plans on feeding the gators.
+"Mechanic_WorldC3M182"
+//Hey, lights on over here!
+"Mechanic_WorldC3M184"
+//Lights by the drainage ditch!
+"Mechanic_WorldC3M185"
+//Safehouse, we gotta be going the right way!
+"Mechanic_WorldC3M186"
+//Nick does have a point.
+"Mechanic_WorldC3M1B01"
+//Nick, what the hell you shot the pilot!
+"Mechanic_WorldC3M1B02"
+//True. True. He was a zombie. But he was also the only pilot.
+"Mechanic_WorldC3M1B03"
+//OOOH man, that was some crazy shit. Nick, you are a man of action! ... Where the hell are we?
+"Mechanic_WorldC3M1B04"
+//Guess our crash was so soft cause we landed in the
+"Mechanic_WorldC3M1B06"
+//Swimming with gators? Why no thank you.
+"Mechanic_WorldC3M1B07"
+//Hey, guys. Be honest. Are my muscles gettin' bigger?
+"Mechanic_WorldC3M1B08"
+//I knew it. All this runnin' around climbin' up on stuff's makin' me buff as hell.
+"Mechanic_WorldC3M1B09"
+//Y'all ask me? These swamp people got it all figured out, man. No cops, no rules...
+"Mechanic_WorldC3M1B11"
+//They figured out how to stop going to the bathroom? That's AMAZING. Ohhhh. No, wait, I just got it. Shit, that's gross as hell.
+"Mechanic_WorldC3M1B12"
+//Time to get wet.
+"Mechanic_WorldC3M204"
+//Dry land up here.
+"Mechanic_WorldC3M205"
+//It's quicker on the dry land.
+"Mechanic_WorldC3M206"
+//Yeah, very funny.
+"Mechanic_WorldC3M212"
+//What's a parachutist doing out here?
+"Mechanic_WorldC3M213"
+//Why would he parachute out here?
+"Mechanic_WorldC3M214"
+//Holy shit. Well this explains our parachutist.
+"Mechanic_WorldC3M215"
+//Goddamn a whole plane!
+"Mechanic_WorldC3M217"
+//Had to be scary to be on this flight.
+"Mechanic_WorldC3M218"
+//Yo, we got to go through this emergency door.
+"Mechanic_WorldC3M219"
+//Looks like this emergency door is the only way.
+"Mechanic_WorldC3M220"
+//I just know an alarm is gonna sound when we open that door.
+"Mechanic_WorldC3M221"
+//Get ready and lets open the door.
+"Mechanic_WorldC3M222"
+//Alright, we ready to open the door?
+"Mechanic_WorldC3M223"
+//Somebody has to open this door.
+"Mechanic_WorldC3M224"
+//All hell, I'm opening it.
+"Mechanic_WorldC3M225"
+//Alright, get ready y'all, I'm openin' the door!
+"Mechanic_WorldC3M226"
+//Jesus Christ, did they really build these houses underwater?
+"Mechanic_WorldC3M227"
+//Man, there is just garbage everywhere.
+"Mechanic_WorldC3M228"
+//Wow, this here is some real shacks.
+"Mechanic_WorldC3M229"
+//Hey, there's a road!
+"Mechanic_WorldC3M230"
+//Hey man, lights on!
+"Mechanic_WorldC3M231"
+//Hey you see those lights?
+"Mechanic_WorldC3M232"
+//Hey, there's a truck!
+"Mechanic_WorldC3M233"
+//Mud people!
+"Mechanic_WorldC3M234"
+//Are you shittin' me now? Mud people?
+"Mechanic_WorldC3M235"
+//I got a new thing I hate: mud people.
+"Mechanic_WorldC3M236"
+//Tell you what, mud people take all the fun out of the mud.
+"Mechanic_WorldC3M237"
+//There's the village!
+"Mechanic_WorldC3M238"
+//They have lights on in the village!
+"Mechanic_WorldC3M239"
+//They could have held out!
+"Mechanic_WorldC3M241"
+//Hey Y'all!
+"Mechanic_WorldC3M242"
+//Anyone home?!
+"Mechanic_WorldC3M243"
+//Hello?!
+"Mechanic_WorldC3M244"
+//Hey, anybody there?!
+"Mechanic_WorldC3M245"
+//Hey, we can get to them through here!
+"Mechanic_WorldC3M246"
+//Safe house is right past that fence!
+"Mechanic_WorldC3M247"
+//Hello! Anyone there?!
+"Mechanic_WorldC3M248"
+//Hello! Anyone here?!
+"Mechanic_WorldC3M249"
+//Let's go to the house!
+"Mechanic_WorldC3M250"
+//Don't make no sense for him to parachute here.
+"Mechanic_WorldC3M251"
+//Shit, man. They didn't make it.
+"Mechanic_WorldC3M301"
+//Zombies got here too.
+"Mechanic_WorldC3M302"
+//Man, I don't think we're ever gonna get good news again.
+"Mechanic_WorldC3M303"
+//Well.. let's look for supplies.
+"Mechanic_WorldC3M304"
+//Maybe they left some around here.
+"Mechanic_WorldC3M305"
+//Looks like they all headed off to a plantation.
+"Mechanic_WorldC3M306"
+//No sense hanging out here.
+"Mechanic_WorldC3M308"
+//Hey, is there a way out of the village?
+"Mechanic_WorldC3M309"
+//So they just killed them?
+"Mechanic_WorldC3M310"
+//Let's get up on the walkway.
+"Mechanic_WorldC3M312"
+//Hey, there's a walkway.
+"Mechanic_WorldC3M313"
+//Man, let's get out of this muck.
+"Mechanic_WorldC3M314"
+//Hey, we can use these planks.
+"Mechanic_WorldC3M316"
+//Let's get up on the deck.
+"Mechanic_WorldC3M317"
+//What the hell?  The only way is over this bridge?
+"Mechanic_WorldC3M319"
+//Hey, somebody lower the walkway.
+"Mechanic_WorldC3M320"
+//Yeah, just hit that lever.
+"Mechanic_WorldC3M321"
+//Somebody hit the lever.
+"Mechanic_WorldC3M322"
+//Lower the bridge.
+"Mechanic_WorldC3M323"
+//You just know this is gonna be some shit.
+"Mechanic_WorldC3M324"
+//Hey, lower that bridge.
+"Mechanic_WorldC3M325"
+//Hit it!
+"Mechanic_WorldC3M326"
+//Bridge comin' down!
+"Mechanic_WorldC3M327"
+//Hey, bridge comin' down!
+"Mechanic_WorldC3M328"
+//We can cross!
+"Mechanic_WorldC3M330"
+//Hey, it's down, let's go! Let's go!
+"Mechanic_WorldC3M331"
+//Alright everybody, stay on the deck!
+"Mechanic_WorldC3M332"
+//Stay up here!
+"Mechanic_WorldC3M333"
+//Alright, we gotta stay on the deck.
+"Mechanic_WorldC3M334"
+//Alright, let's get out of here!
+"Mechanic_WorldC3M336"
+//Get to the house!
+"Mechanic_WorldC3M338"
+//There's the house!
+"Mechanic_WorldC3M339"
+//Woohoo! That's the house!
+"Mechanic_WorldC3M340"
+//Hey, run to that house!
+"Mechanic_WorldC3M341"
+//There migth be supplies in these houses.
+"Mechanic_WorldC3M401"
+//There's the house.
+"Mechanic_WorldC3M402"
+//See the scaffolding?
+"Mechanic_WorldC3M404"
+//Hey, let's use the radio.
+"Mechanic_WorldC3M408"
+//Hey, run to the boat! Run to the boat!
+"Mechanic_WorldC3M414"
+//Hey, quit fighting and get on the boat!
+"Mechanic_WorldC3M416"
+//Howdy
+"Mechanic_WorldC3M418"
+//We're at a plantation house.
+"Mechanic_WorldC3M421"
+//Okay, this guys askin' alot of questions, does somebody else wanta take this?
+"Mechanic_WorldC3M434"
+//Oh, there's flares in the gun bag.
+"Mechanic_WorldC4M1B01"
+//You didn't grab the guns?
+"Mechanic_WorldC4M1B02"
+//Pretty much everybody.
+"Mechanic_WorldC4M1B04"
+//Outta gas.
+"Mechanic_WorldC4M1B07"
+//Looks like we're gonna have to walk to this Ducatel place.
+"Mechanic_WorldC4M1B08"
+//Is it rainin? Never mind, it is.
+"Mechanic_WorldC4M1B11"
+//Aw what the hell? It's rainin'.
+"Mechanic_WorldC4M1B13"
+//Aw, shit, it's rainin'.
+"Mechanic_WorldC4M1B14"
+//Watch for landmarks. We may be comin' through here in a hurry on the back.
+"Mechanic_WorldC4M1B16"
+//Through this playground!
+"Mechanic_WorldC4M1B17"
+//Through that playground!
+"Mechanic_WorldC4M1B18"
+//We can cut through this garage sale!
+"Mechanic_WorldC4M1B19"
+//Damn. That's quite a wreck.
+"Mechanic_WorldC4M1B20"
+//Hell, I've walked away from a lot worse than that.
+"Mechanic_WorldC4M1B21"
+//Yeah, the ass end of those things'll get real squirrelly in the rain.
+"Mechanic_WorldC4M1B22"
+//Or if there's a zombie ridin' hood.
+"Mechanic_WorldC4M1B23"
+//Hey, we ain't goin' no farther on this road.
+"Mechanic_WorldC4M2B01"
+//Let's head through the mill.
+"Mechanic_WorldC4M2B02"
+//This rain sure ain't lettin' up.
+"Mechanic_WorldC4M2B03"
+//We are in for a nasty damn storm.
+"Mechanic_WorldC4M2B05"
+//Man, this water's startin' to pool. Shit.
+"Mechanic_WorldC4M2B06"
+//Oh hell yes.
+"Mechanic_WorldC4M2B07"
+//Man, that is the most witches I ever saw!
+"Mechanic_WorldC4M2B08"
+//Holy shit that's a lotta witches.
+"Mechanic_WorldC4M2B09"
+//Nick, you ever seen this many witches? Ho-lee shit.
+"Mechanic_WorldC4M2B10"
+//Man, I'm gonna start cryin' in a minute.
+"Mechanic_WorldC4M2B11"
+//Up that ramp!
+"Mechanic_WorldC4M2B13"
+//Allright!! There's the gas station!
+"Mechanic_WorldC4M2B15"
+//It's sugar cane, Nick.
+"Mechanic_WorldC4M2B17"
+//Through the cane field!
+"Mechanic_WorldC4M2B18"
+//We can take that elevator down to the field.
+"Mechanic_WorldC4M2B19"
+//ELEVATOR'S HERE!
+"Mechanic_WorldC4M2B21"
+//HEY EVERYBODY GET IN THE ELEVATOR!
+"Mechanic_WorldC4M2B23"
+//KEEP MOVING! JUST HEAD FOR THE SIGN!
+"Mechanic_WorldC4M2B25"
+//HEAD FOR THE SIGN! HEAD FOR THE SIGN!
+"Mechanic_WorldC4M2B26"
+//KEEP MOVING!
+"Mechanic_WorldC4M2B27"
+//It says here the gas's inside.
+"Mechanic_WorldC4M2B28"
+//Sweet. Let's go get it.
+"Mechanic_WorldC4M2B29"
+//There's gas in the safe room!
+"Mechanic_WorldC4M2B30"
+//Close the door and let's get this gas.
+"Mechanic_WorldC4M2B31"
+//I got one.
+"Mechanic_WorldC4M3B01"
+//Yup. Got one.
+"Mechanic_WorldC4M3B02"
+//Everybody got a can?
+"Mechanic_WorldC4M3B03"
+//Let's get back to the damn boat
+"Mechanic_WorldC4M3B04"
+//Oh shit, it's really stormin'.
+"Mechanic_WorldC4M3B07"
+//A lot worse'n this. We gotta haul ass outta here.
+"Mechanic_WorldC4M3B08"
+//We can climb across the roofs!
+"Mechanic_WorldC4M4B04"
+//There's that porch light we passed on the way in.
+"Mechanic_WorldC4M4B05"
+//There's that garage sale.
+"Mechanic_WorldC4M4B07"
+//We're headed the right way!
+"Mechanic_WorldC4M4B08"
+//The playground, yeah, yeah! We're almost at the dock!
+"Mechanic_WorldC4M4B09"
+//Sounds like a plan.
+"Mechanic_WorldC4M4B14"
+//Hey, what if we turn on the burger tank sign?
+"Mechanic_WorldC4M4B15"
+//Sign's on, baby! Sign is on!
+"Mechanic_WorldC4M4B17"
+//VIRGIL!
+"Mechanic_WorldC4M4B24"
+//VIRGIL, WHAT'S UP BROTHER?!
+"Mechanic_WorldC4M4B25"
+//GET TO THE BOAT!
+"Mechanic_WorldC4M4B26"
+//Y'ALL GET TO THE BOAT!
+"Mechanic_WorldC4M4B27"
+//HEY, STOP WITH THE BOMBING!
+"Mechanic_WorldC5M103"
+//PLEASE DO NOT BOMB US!
+"Mechanic_WorldC5M104"
+//Alright, he says we gotta lower the bridge, be careful of the zombies and they'll be waitin' on the other side.
+"Mechanic_WorldC5M106"
+//Oh yeah, and he wishes us good luck.
+"Mechanic_WorldC5M107"
+//All right, I'm hittin' it.
+"Mechanic_WorldC5M112"
+//Thanks, brother!
+"Mechanic_WorldC5M1B03"
+//[pointing] Horse!
+"Mechanic_WorldC5M2B01"
+//All these alarm cars, it's like a puzzle!
+"Mechanic_WorldC5M2B04"
+//Maybe we ought not to use our guns here.
+"Mechanic_WorldC5M2B05"
+//STOP SHOOTING THE CARS!
+"Mechanic_WorldC5M2B07"
+//WELL ALRIGHT, I CAN SHOOT A CAR TOO!
+"Mechanic_WorldC5M2B08"
+//Well shit, guess we ain't goin' that way.
+"Mechanic_WorldC5M2B11"
+//Woah! That was cool and all but shit!
+"Mechanic_WorldC5M2B12"
+//I guess we're gonna have to visit that graveyard.
+"Mechanic_WorldC5M2B14"
+//Oh man, I hope we don't see no ghosts.
+"Mechanic_WorldC5M2B15"
+//You can't shoot a ghost, Nick. I mean, shit, it ain't rocket science, man.
+"Mechanic_WorldC5M2B16"
+//Woah!
+"Mechanic_WorldC5M4B01"
+//They nailed that.
+"Mechanic_WorldC5M4B02"
+//What are they even aiming at?
+"Mechanic_WorldC5M4B03"
+//We need to get the hell out of here.
+"Mechanic_WorldC5M4B04"
+//They must not see us.
+"Mechanic_WorldC5M4B05"
+//I don't.
+"Mechanic_WorldC5M4B08"
+//Yo, somebody oughta pick up the radio.
+"Mechanic_WorldC5M4B10"
+//Grab that radio.
+"Mechanic_WorldC5M4B11"
+//Hello there!
+"Mechanic_WorldC5M4B12"
+//Name's Ellis, you?
+"Mechanic_WorldC5M4B13"
+//Four people that could use some help sir.
+"Mechanic_WorldC5M4B14"
+//Well shit, I'm Ellis. I got Rochelle here with me, Coach and Nick.
+"Mechanic_WorldC5M4B15"
+//I ain't sick.
+"Mechanic_WorldC5M4B16"
+//I'm feelin' pretty good.
+"Mechanic_WorldC5M4B17"
+//I guess, I think so. What do you mean?
+"Mechanic_WorldC5M4B18"
+//We fought zombies, yeah.
+"Mechanic_WorldC5M4B19"
+//Wll, hell yeah, we fought zombies..
+"Mechanic_WorldC5M4B20"
+//God be with you too sir.
+"Mechanic_WorldC5M4B22"
+//Okay, see ya soon.
+"Mechanic_WorldC5M4B24"
+//Chopper down there!
+"Mechanic_WorldC5M4B29"
+//Over here.
+"Mechanic_WorldMisc02"
+//Right through here.
+"Mechanic_WorldMisc03"
+//Down here.
+"Mechanic_WorldMisc04"
+//Inside here.
+"Mechanic_WorldMisc08"
+//Here we go.
+"Mechanic_WorldMisc09"
+//We should go that there way.
+"Mechanic_WorldMisc10"
+//We should go right through there.
+"Mechanic_WorldMisc11"
+//Down there.
+"Mechanic_WorldMisc12"
+//Back through here.
+"Mechanic_WorldMisc19"
+//Short-cut through here.
+"Mechanic_WorldMisc21"
+//Y'all should come this way.
+"Mechanic_WorldMisc22"
+//Everybody up the ladder!
+"Mechanic_WorldMisc29"
+//Ca Caw Ca Caw Ca Caw!
+"Mechanic_WorldMisc34"
+//Ca Caw Ca Caw Ca Caw Ca Caw!
+"Mechanic_WorldMisc35"
+//Ca Caw Ca Caw!
+"Mechanic_WorldMisc36"
+//What in the hell is a picture gonna do? (photography prohibited)
+"Mechanic_WorldSigns01"
+//Report the sick?   (report the sick)
+"Mechanic_WorldSigns02"
+//Y'all think shootin' zombies would count? (Report unusual behavior.)
+"Mechanic_WorldSigns04"
+//RUN!
+"Mechanic_YellRun01"
+//RUN! RUN! RUN!
+"Mechanic_YellRun02"
+//MAN, DON'T STOP RUNNING!
+"Mechanic_YellRun03"
+//Yes.
+"Mechanic_Yes01"
+//Hell yeah.
+"Mechanic_Yes02"
+//Yep.
+"Mechanic_Yes03"
+//Okay.
+"Mechanic_Yes04"
+//Yeah.
+"Mechanic_Yes05"
+//Sure.
+"Mechanic_Yes06"
+//Yeah, let's do it.
+"Mechanic_Yes07"
+//Alright.
+"Mechanic_Yes08"
+//I'm game.
+"Mechanic_Yes09"
+//You're welcome.
+"Mechanic_YouAreWelcome01"
+//Yeah, you're welcome.
+"Mechanic_YouAreWelcome02"
+//We're cool.
+"Mechanic_YouAreWelcome03"
+//We're good.
+"Mechanic_YouAreWelcome04"
+//Anytime, man.
+"Mechanic_YouAreWelcome05"
+//Hey, you bet!
+"Mechanic_YouAreWelcome06"
+//Hey, you bet!
+"Mechanic_YouAreWelcome07"
+//Always.
+"Mechanic_YouAreWelcome08"
+//You got it, man.
+"Mechanic_YouAreWelcome09"
+//You got it, girl.
+"Mechanic_YouAreWelcome10"
+//Yeah, no problem Coach.
+"Mechanic_YouAreWelcomeCoach01"
+//No big thing, Coach.
+"Mechanic_YouAreWelcomeCoach02"
+//Ah it's all you big guy.
+"Mechanic_YouAreWelcomeCoach03"
+//All good, Coach.
+"Mechanic_YouAreWelcomeCoach04"
+//That's what I do Nick.
+"Mechanic_YouAreWelcomeGambler01"
+//No worries, Nick.
+"Mechanic_YouAreWelcomeGambler02"
+//No problem, Nick.
+"Mechanic_YouAreWelcomeGambler03"
+//Anything for you Ro.
+"Mechanic_YouAreWelcomeProducer01"
+//Anything for you Rochelle.
+"Mechanic_YouAreWelcomeProducer02"
+//You know I got your back Rochelle.
+"Mechanic_YouAreWelcomeProducer03"

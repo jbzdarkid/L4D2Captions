@@ -1,0 +1,3620 @@
+//--------------------------------------------------------------------------------------------------------------
+// Gambler Game Sound Text File
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// This file is auto generated do not hand edit!
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// Last Updated: 10/01/09
+//--------------------------------------------------------------------------------------------------------------
+
+//Adrenaline shot here!
+"Gambler_Adrenaline01"
+//Grabbin' a shot!
+"Gambler_Adrenaline02"
+//[shaking self awake]
+"Gambler_Adrenaline03"
+//It is more blessed to give than to receive.
+"Gambler_AlertGiveItem01"
+//Have this.
+"Gambler_AlertGiveItem02"
+//Just take this.
+"Gambler_AlertGiveItem03"
+//This is for you.
+"Gambler_AlertGiveItem04"
+//Here, I don't need this.
+"Gambler_AlertGiveItem05"
+//Take it, just take it.
+"Gambler_AlertGiveItem06"
+//Hey you, take this.
+"Gambler_AlertGiveItemC101"
+//What's your name, here you go.
+"Gambler_AlertGiveItemC102"
+//Take this.
+"Gambler_AlertGiveItemCombat01"
+//Grab this.
+"Gambler_AlertGiveItemCombat02"
+//Take it.
+"Gambler_AlertGiveItemCombat03"
+//Stop, I have something for you.
+"Gambler_AlertGiveItemStop01"
+//Hang on, you need this more than me.
+"Gambler_AlertGiveItemStop02"
+//Hold up, you can have this.
+"Gambler_AlertGiveItemStop03"
+//Hold up, you can have this.
+"Gambler_AlertGiveItemStop04"
+//Hang on, you need this more than me.
+"Gambler_AlertGiveItemStop05"
+//Stop, I have something for you.
+"Gambler_AlertGiveItemStop06"
+//Okay, we ready?
+"Gambler_AskReady01"
+//We ready?
+"Gambler_AskReady02"
+//Ready?
+"Gambler_AskReady03"
+//Everyone ready?
+"Gambler_AskReady04"
+//We ready?
+"Gambler_AskReady05"
+//We ready?
+"Gambler_AskReady06"
+//We ready?
+"Gambler_AskReady07"
+//Ready?
+"Gambler_AskReady08"
+//Everyone ready?
+"Gambler_AskReady09"
+//We ready?
+"Gambler_AskReady10"
+//Are you guys ready?
+"Gambler_AskReadyC101"
+//Do you think you can handle this?
+"Gambler_AskReadyC102"
+//If you aren't ready, I don't want to hear it.
+"Gambler_AskReadyC103"
+//Back it up!
+"Gambler_BackUp01"
+//Back, back, back!
+"Gambler_BackUp02"
+//Come on back.
+"Gambler_BackUp03"
+//Back it up!
+"Gambler_BackUp04"
+//Back up.
+"Gambler_BackUpQuiet01"
+//Everyone back.
+"Gambler_BackUpQuiet02"
+//Let's get back.
+"Gambler_BackUpQuiet03"
+//Back up, back up.
+"Gambler_BackUpQuiet04"
+//YEEEAAAAH!
+"Gambler_BattleCry01"
+//DIE! DIE!
+"Gambler_BattleCry02"
+//SUCK ON THIS!
+"Gambler_BattleCry03"
+//YEAH! DIE!
+"Gambler_BattleCry04"
+//Kill the tank!
+"Gambler_BattleCryTank01"
+//Shoot the tank!
+"Gambler_BattleCryTank02"
+//Shoot the damn tank!
+"Gambler_BattleCryTank03"
+//Shoot it! Shoot it!
+"Gambler_BattleCryTank04"
+//Everyone shoot the tank!
+"Gambler_BattleCryTank05"
+//You, SHOOT THE TANK!
+"Gambler_BattleCryTank06"
+//KEEP SHOOTING!
+"Gambler_BattleCryTank07"
+//Blank
+"Gambler_Blank"
+//Boomer bile here!
+"Gambler_BoomerJar01"
+//Is that a bottle of puke?
+"Gambler_BoomerJar02"
+//That can't be a bottle of puke, is it?
+"Gambler_BoomerJar03"
+//Grabbin' puke!
+"Gambler_BoomerJar04"
+//Grabbin' a bile jar!
+"Gambler_BoomerJar07"
+//Puke in the hole!
+"Gambler_BoomerJar08"
+//Incoming!
+"Gambler_BoomerJar09"
+//Fight amongst yourselves!
+"Gambler_BoomerJar10"
+//Ohh god damn it!
+"Gambler_BoomerReaction01"
+//Ahhh this is some nasty shit.
+"Gambler_BoomerReaction02"
+//God damn it! I am covered in vomit again.
+"Gambler_BoomerReaction03"
+//I'm blind.
+"Gambler_BoomerReaction04"
+//Goddamn it, I'm stuck in here.  Get me out!
+"Gambler_CallForRescue01"
+//Someone want to come get me out of here?
+"Gambler_CallForRescue02"
+//I'm no use to anyone in here, get me out of here!
+"Gambler_CallForRescue03"
+//You guys out there?  Come get me!
+"Gambler_CallForRescue04"
+//I need someone's help for just five seconds!
+"Gambler_CallForRescue05"
+//Can one of you people come get me, please?
+"Gambler_CallForRescue06"
+//I am trapped in a room!
+"Gambler_CallForRescue07"
+//I cannot get out of here by myself!
+"Gambler_CallForRescue08"
+//Come on guys, get me out of here.
+"Gambler_CallForRescue09"
+//You know I'm going to be a big help.  Just get me out of here!
+"Gambler_CallForRescue10"
+//Alright, who's available to get me out of here?
+"Gambler_CallForRescue11"
+//Just this once I need some help.
+"Gambler_CallForRescue12"
+//Smoker 's got me!
+"Gambler_Choke01"
+//[Choking]
+"Gambler_Choke02"
+//Smoker's GOT ME!!!
+"Gambler_Choke03"
+//Shoot the tongue! Shoot the tongue!
+"Gambler_Choke04"
+//[Choking]
+"Gambler_Choke05"
+//[Choking]
+"Gambler_Choke06"
+//[Choking]
+"Gambler_Choke07"
+//Close the door.
+"Gambler_CloseTheDoor01"
+//Close the door.
+"Gambler_CloseTheDoor02"
+//Don't forget to the close the door.
+"Gambler_CloseTheDoor03"
+//Somebody got the door?
+"Gambler_CloseTheDoor04"
+//Close the door.
+"Gambler_CloseTheDoor05"
+//Don't forget to the close the door.
+"Gambler_CloseTheDoor06"
+//Somebody got the door?
+"Gambler_CloseTheDoor07"
+//Close that door.
+"Gambler_CloseTheDoor08"
+//Close that door.
+"Gambler_CloseTheDoor09"
+//I think we should be closing doors.
+"Gambler_CloseTheDoorC101"
+//Let's try closing doors behind us.
+"Gambler_CloseTheDoorC102"
+//[Coughing from smoke]
+"Gambler_Cough01"
+//[Coughing from smoke]
+"Gambler_Cough02"
+//[Coughing from smoke]
+"Gambler_Cough03"
+//[Coughing from smoke]
+"Gambler_Cough04"
+//Hold up, going to heal.
+"Gambler_CoverMe01"
+//Healing.
+"Gambler_CoverMe02"
+//I'm gonna heal.
+"Gambler_CoverMe03"
+//I gotta heal.
+"Gambler_CoverMe04"
+//Healing!
+"Gambler_CoverMe05"
+//Gonna heal.
+"Gambler_CoverMe06"
+//Healing.
+"Gambler_CoverMe07"
+//Hold up, going to heal.
+"Gambler_CoverMe08"
+//Healing!
+"Gambler_CoverMe09"
+//I'm gonna patch myself up.
+"Gambler_CoverMeC101"
+//Wait up, gonna fix myself up.
+"Gambler_CoverMeC102"
+//Wait! Healing!
+"Gambler_CoverMeC103"
+//Hang on, I'm gonna fix myself up.
+"Gambler_CoverMeC104"
+//Just wait a sec! Healing!
+"Gambler_CoverMeC105"
+//[Loud painful death scream]
+"Gambler_DeathScream01"
+//[Loud painful death scream]
+"Gambler_DeathScream02"
+//[Short quick death scream]
+"Gambler_DeathScream03"
+//[Short quick death scream]
+"Gambler_DeathScream04"
+//[Short quick death scream]
+"Gambler_DeathScream05"
+//[Short quick death scream]
+"Gambler_DeathScream06"
+//[Short quick death scream]
+"Gambler_DeathScream07"
+//Chest paddles here.
+"Gambler_Defibrillator01"
+//Defibrillator here.
+"Gambler_Defibrillator02"
+//Got some chest paddles.
+"Gambler_Defibrillator03"
+//Defib unit here.
+"Gambler_Defibrillator04"
+//Got a defib unit.
+"Gambler_Defibrillator05"
+//Clear!
+"Gambler_Defibrillator06"
+//Come on!
+"Gambler_Defibrillator07"
+//Come ON!
+"Gambler_Defibrillator08"
+//Work, damn it...
+"Gambler_Defibrillator09"
+//[gasp for breath]
+"Gambler_Defibrillator10"
+//[gasp for breath]
+"Gambler_Defibrillator11"
+//[being shocked]
+"Gambler_Defibrillator12"
+//[being shocked]
+"Gambler_Defibrillator13"
+//[gasp for breath]
+"Gambler_Defibrillator14"
+//Agggh stop shocking me!
+"Gambler_Defibrillator15"
+//Alright. That was some serious shit.
+"Gambler_Defibrillator16"
+//Whoa...
+"Gambler_Defibrillator17"
+//Work, damn it...
+"Gambler_Defibrillator18"
+//Well shit. We're a twosome from here on out.
+"Gambler_DoubleDeathResponse01"
+//Looks like it's just you and me.
+"Gambler_DoubleDeathResponse02"
+//Ahhh SHIT!
+"Gambler_DoubleDeathResponse03"
+//I think we just became long shots.
+"Gambler_DoubleDeathResponse04"
+//We just screwed our odds.
+"Gambler_DoubleDeathResponse05"
+//Hey Ellis, don't let me down.
+"Gambler_DoubleDeathResponseMechanic01"
+//Hey, Ellis, you know all that shit I was saying? I was just joking.
+"Gambler_DoubleDeathResponseMechanic02"
+//Uh huh.
+"Gambler_EllisInterrupt03"
+//Ellis. Is now the best time?
+"Gambler_EllisInterrupt08"
+//Go!
+"Gambler_EmphaticGo01"
+//GO!
+"Gambler_EmphaticGo02"
+//GOOO!
+"Gambler_EmphaticGo03"
+//Go go go!
+"Gambler_EmphaticGo04"
+//Let's go. Let's go.
+"Gambler_EmphaticGo05"
+//GO!
+"Gambler_EmphaticGo06"
+//Let's go.
+"Gambler_EmphaticGo07"
+//Everybody keep moving.
+"Gambler_EmphaticGoQuiet01"
+//Just go.
+"Gambler_EmphaticGoQuiet02"
+//Just go. Go.
+"Gambler_EmphaticGoQuiet03"
+//Don't stop, don't stop.
+"Gambler_EmphaticGoQuiet04"
+//Keep moving.
+"Gambler_EmphaticGoQuiet05"
+//Explosive rounds here!
+"Gambler_ExplosiveAmmo01"
+//Frag rounds here!
+"Gambler_ExplosiveAmmo02"
+//Grabbin' some frag rounds!
+"Gambler_ExplosiveAmmo03"
+//Deploying frag rounds!
+"Gambler_ExplosiveAmmo04"
+//This way!
+"Gambler_FollowMe01"
+//Over here.
+"Gambler_FollowMe02"
+//Follow me.
+"Gambler_FollowMe03"
+//Follow me.
+"Gambler_FollowMe04"
+//Come on, this way!
+"Gambler_FollowMe05"
+//Keep up.
+"Gambler_FollowMe06"
+//Keep up.
+"Gambler_FollowMe07"
+//Come on, this way!
+"Gambler_FollowMe08"
+//Okay this way!
+"Gambler_FollowMe09"
+//This way!
+"Gambler_FollowMe10"
+//Over here.
+"Gambler_FollowMe11"
+//Follow me.
+"Gambler_FollowMe12"
+//Keep up.
+"Gambler_FollowMe13"
+//Do that again and I'll bury you alive.
+"Gambler_FriendlyFire01"
+//I don't want to hear any excuses, just stop shooting me.
+"Gambler_FriendlyFire02"
+//STOP SHOOTING ME!
+"Gambler_FriendlyFire03"
+//Can you stop shooting me?
+"Gambler_FriendlyFire04"
+//You know, ot's not all right that you are SHOOTING ME!
+"Gambler_FriendlyFire05"
+//DAMN! You suck at shooting.
+"Gambler_FriendlyFire06"
+//Stop shooting me.
+"Gambler_FriendlyFire07"
+//Well thank you for ventilating my suit.
+"Gambler_FriendlyFire08"
+//You. Are. Shooting. Me.
+"Gambler_FriendlyFire09"
+//You do realize you are shooting me right?
+"Gambler_FriendlyFire10"
+//Shoot me again. Shoot me again, I dare you.
+"Gambler_FriendlyFire11"
+//You want to watch where you're shooting?
+"Gambler_FriendlyFire12"
+//Stop! Shooting me doesn't get us anywhere.
+"Gambler_FriendlyFire13"
+//Let's not mess this up by shooting each other, okay?
+"Gambler_FriendlyFire14"
+//Can we not shoot each other?
+"Gambler_FriendlyFire15"
+//Question: Can we not shoot each other?
+"Gambler_FriendlyFire16"
+//You're shooting me again.
+"Gambler_FriendlyFire17"
+//You shoot me again, and I will drop you.
+"Gambler_FriendlyFire18"
+//Shoot me again, I'll drop you.
+"Gambler_FriendlyFire19"
+//Are you really going to shoot a guy in a $3000 suit?  Come on!
+"Gambler_FriendlyFire21"
+//Stop shooting me.
+"Gambler_FriendlyFire22"
+//Do not shoot me.
+"Gambler_FriendlyFire23"
+//Stop shooting each other.
+"Gambler_FriendlyFire24"
+//Can we stop shooting each other?
+"Gambler_FriendlyFire25"
+//Can we stop shooting each other?
+"Gambler_FriendlyFire26"
+//Don't shoot each other.
+"Gambler_FriendlyFire27"
+//Can we not shoot each other?
+"Gambler_FriendlyFire28"
+//Can we not shoot each other, please?
+"Gambler_FriendlyFire29"
+//You are shooting - ME!
+"Gambler_FriendlyFire30"
+//Unless you want to be picking your teeth up off the floor, stop shooting me!
+"Gambler_FriendlyFire31"
+//I don't know who started this shit, but lets just stop the friendly right now, 'kay?
+"Gambler_FriendlyFireC101"
+//I don't know who started this shit, 'kay? But lets just stop the friendly right now,.
+"Gambler_FriendlyFireC102"
+//Never shoot me again.
+"Gambler_FriendlyFireC103"
+//You do not want to be shooting me!
+"Gambler_FriendlyFireC104"
+//Why would you think shooting me is a good idea?
+"Gambler_FriendlyFireC105"
+//Let's try shooting zombies instead of people, okay?
+"Gambler_FriendlyFireC106"
+//Coach! Don't shoot me.
+"Gambler_FriendlyFireC1Coach01"
+//Coach! Come on.
+"Gambler_FriendlyFireC1Coach02"
+//ROCHELLE!
+"Gambler_FriendlyFireC1Producer01"
+//Ro! Just... just stop okay?
+"Gambler_FriendlyFireC1Producer02"
+//ROCHELLE!
+"Gambler_FriendlyFireC1Producer03"
+//Hey sport, watch where you're shooting!
+"Gambler_FriendlyFireEllis01"
+//Sweetheart? Don't shoot me.
+"Gambler_FriendlyFireFemale01"
+//Ellis, come on man.
+"Gambler_FriendlyFireMechanic01"
+//Y'all wanna stop shootin me?
+"Gambler_FriendlyFireMechanic02"
+//Not ME! Shoot the TANK!
+"Gambler_FriendlyFireTank01"
+//Hey! Shoot the Tank!
+"Gambler_FriendlyFireTank02"
+//The Tank, hotshot! Shoot the TANK!
+"Gambler_FriendlyFireTank04"
+//Come on! Shoot the TANK, not ME.
+"Gambler_FriendlyFireTank07"
+//Well, what do I look like?
+"Gambler_GettingRevived01"
+//I'm fine.
+"Gambler_GettingRevived02"
+//You tell me.
+"Gambler_GettingRevived03"
+//Same as always.
+"Gambler_GettingRevived04"
+//Not exactly great.
+"Gambler_GettingRevived05"
+//I'm cool, I'm cool.
+"Gambler_GettingRevived06"
+//I'm good, I'm good. Get me up.
+"Gambler_GettingRevived07"
+//Don't worry about me.
+"Gambler_GettingRevived08"
+//Good enough.
+"Gambler_GettingRevived09"
+//Fine, I'm fine, fine.
+"Gambler_GettingRevived10"
+//Oh I'm super. (sarcastic)
+"Gambler_GettingRevived11"
+//I been better.
+"Gambler_GettingRevived12"
+//Just get me up.
+"Gambler_GettingRevived13"
+//I'll be fine.
+"Gambler_GettingRevived14"
+//Oh I'm great, (sarcastic)
+"Gambler_GettingRevived15"
+//Fan-freaking-tastic, that's how I am. (sarcastic)
+"Gambler_GettingRevived16"
+//I'll live. Let's go.
+"Gambler_GettingRevived17"
+//Been better.
+"Gambler_GettingRevived18"
+//I've been better.
+"Gambler_GettingRevived19"
+//Don't worry, just get me up.
+"Gambler_GettingRevived20"
+//I really screwed the pooch back there.
+"Gambler_GoingToDie01"
+//I gotta take better care of myself.
+"Gambler_GoingToDie02"
+//Not dead yet, but not exactly healthy.
+"Gambler_GoingToDie03"
+//God damn it! God damn it.  God damn it.
+"Gambler_GoingToDie04"
+//If I go, you guys gonna miss me.
+"Gambler_GoingToDie05"
+//I have seriously felt better.
+"Gambler_GoingToDie06"
+//Pull yourself together man, you're falling apart.
+"Gambler_GoingToDie07"
+//Don't worry about me, I'll be okay.
+"Gambler_GoingToDie08"
+//This is not how it's going to end.
+"Gambler_GoingToDie09"
+//I'm not dead yet!
+"Gambler_GoingToDie10"
+//You're going to have to do better than that to kill me!
+"Gambler_GoingToDie11"
+//Quit being a baby, you've felt worse after a night of drinking.
+"Gambler_GoingToDie12"
+//Ain't this a bitch.
+"Gambler_GoingToDie13"
+//God damn it I can't believe this.
+"Gambler_GoingToDie14"
+//Well at least I didn't catch the flu.
+"Gambler_GoingToDie15"
+//This is some crap
+"Gambler_GoingToDie16"
+//Don't worry.  I'm not done yet.
+"Gambler_GoingToDie17"
+//I am sick and tired of being sick and tired.
+"Gambler_GoingToDie18"
+//Can't you see I'm limping here?
+"Gambler_GoingToDie19"
+//Can you see I'm limping here?
+"Gambler_GoingToDie20"
+//I'm trying to hurry!
+"Gambler_GoingToDie21"
+//I'm going as fast as I can.
+"Gambler_GoingToDie22"
+//What was I thinking coming down here?
+"Gambler_GoingToDie23"
+//Okay, all right, I can do this. I can do this.
+"Gambler_GoingToDie24"
+//I'm not going to die down here.
+"Gambler_GoingToDie25"
+//I am not dying in the middle of nowhere.
+"Gambler_GoingToDie26"
+//I am not going to make it much longer my friends, I am seriously screwed up.
+"Gambler_GoingToDie301"
+//All right, I gotta call uncle here.   I need some help.
+"Gambler_GoingToDie302"
+//Well boys, this looks like its for me.
+"Gambler_GoingToDie303"
+//Doesn't this beat all.  I am about to die.
+"Gambler_GoingToDie304"
+//Man, man... It has been a long time since I have felt this bad.
+"Gambler_GoingToDie305"
+//I got hit by the burning goo shit.
+"Gambler_GooedBySpitter01"
+//I got hit by the burning goo shit.
+"Gambler_GooedBySpitter02"
+//Goddamn it, I'm covered in goo.
+"Gambler_GooedBySpitter03"
+//I got hit by the burning goo shit.
+"Gambler_GooedBySpitter04"
+//Let's get out of the goo!
+"Gambler_GooedBySpitter05"
+//Get out of the goo!
+"Gambler_GooedBySpitter06"
+//Ugh, what in the hell did that thing just do?
+"Gambler_GooedBySpitterC101"
+//What is this shit on me?
+"Gambler_GooedBySpitterC102"
+//What am I covered in?
+"Gambler_GooedBySpitterC103"
+//Charger's got me!
+"Gambler_GrabbedByCharger01"
+//Kill the charger!
+"Gambler_GrabbedByCharger02"
+//Shoot the charger!
+"Gambler_GrabbedByCharger03"
+//Can someone shoot this goddamn thing?!?
+"Gambler_GrabbedByCharger04"
+//Shoot the big guy pounding me into the ground!
+"Gambler_GrabbedByCharger05"
+//Shoot him! Shoot him!
+"Gambler_GrabbedByCharger06"
+//Kill this goddamn thing!
+"Gambler_GrabbedByCharger07"
+//This thing is beating my ass!
+"Gambler_GrabbedByCharger08"
+//Jockey's got me. (disgusted)
+"Gambler_GrabbedByJockey01"
+//Shoot this thing on my back!
+"Gambler_GrabbedByJockey02"
+//Kill this jockey on me!
+"Gambler_GrabbedByJockey03"
+//Jockey on me!
+"Gambler_GrabbedByJockey04"
+//Jockey! Jockey!
+"Gambler_GrabbedByJockey05"
+//Shoot this thing off my back!
+"Gambler_GrabbedByJockey06"
+//Ten bucks says he takes him to the right.
+"Gambler_GrabbedByJockeyR02"
+//No!
+"Gambler_GrabbedBySmoker01"
+//No, No!
+"Gambler_GrabbedBySmoker01a"
+//NOOOOOOO!!!!!!!!!
+"Gambler_GrabbedBySmoker01b"
+//SMOKER'S...
+"Gambler_GrabbedBySmoker02"
+//...GOT ME!!
+"Gambler_GrabbedBySmoker02a"
+//SMOKER'S GOT ME!!
+"Gambler_GrabbedBySmoker03"
+//No,  No, NO!
+"Gambler_GrabbedBySmoker04"
+//NO, NO, NO!!
+"Gambler_GrabbedBySmoker04a"
+//No!
+"Gambler_GrabbedBySmoker05"
+//NO!
+"Gambler_GrabbedBySmoker05a"
+//NO, NO!
+"Gambler_GrabbedBySmoker05b"
+//NO!!!!!!!!
+"Gambler_GrabbedBySmoker05c"
+//What the hell?
+"Gambler_GrabbedBySmokerC101"
+//Something's got me?!?!
+"Gambler_GrabbedBySmokerC102"
+//What's this shit?
+"Gambler_GrabbedBySmokerC103"
+//What the? Ahh gross shit.
+"Gambler_GrabbedBySmokerC104"
+//Freaking tongue!?!?
+"Gambler_GrabbedBySmokerC105"
+//GRENADE!
+"Gambler_Grenade01"
+//Throwing a pipe bomb.
+"Gambler_Grenade02"
+//Throwing a Molotov.
+"Gambler_Grenade03"
+//Fire coming.
+"Gambler_Grenade04"
+//Pipe Bomb!
+"Gambler_Grenade05"
+//Molotov!
+"Gambler_Grenade06"
+//Throwing a pipe bomb.
+"Gambler_Grenade07"
+//Throwing a Molotov.
+"Gambler_Grenade08"
+//Chase this you zombie bastards!
+"Gambler_Grenade09"
+//Lighting  it up!
+"Gambler_Grenade10"
+//Pipe bomb out!
+"Gambler_Grenade11"
+//Lighting  it up!
+"Gambler_Grenade12"
+//Pipe bomb out!
+"Gambler_Grenade13"
+//Grenade launcher here.
+"Gambler_GrenadeLauncher01"
+//Hell yeah. Grenade launcher.
+"Gambler_GrenadeLauncher02"
+//[chuckles] Time to make some zombie soup.
+"Gambler_GrenadeLauncher03"
+//Got a grenade launcher.
+"Gambler_GrenadeLauncher04"
+//I should probably save this for me, but - what the hell.
+"Gambler_HealOther01"
+//Let doctor Nick fix you up.
+"Gambler_HealOther02"
+//Just hang on, let me heal you.
+"Gambler_HealOther03"
+//You're a mess, stand still.
+"Gambler_HealOther04"
+//Now, don't waste this by getting pounced or something.
+"Gambler_HealOther05"
+//Hold still, I've done this before.
+"Gambler_HealOtherC101"
+//Quit moving around.  I've seen worse.
+"Gambler_HealOtherC102"
+//Man up for a minute. I'm going to fix you up.
+"Gambler_HealOtherC103"
+//Hold still.  Probably going to regret this, but let me use this on you.
+"Gambler_HealOtherC104"
+//Alright, don't let the other ones know I am doing this. I'm only doing it for you. (whispered)
+"Gambler_HealOtherC105"
+//Hold on! HOLD. ON.
+"Gambler_HealOtherCombat01"
+//We don't have time, stop moving.
+"Gambler_HealOtherCombat02"
+//Cover us while I heal you.
+"Gambler_HealOtherCombat03"
+//I'm gonna heal you. Keep shooting.
+"Gambler_HealOtherCombat04"
+//Keep 'em off us while I heal you.
+"Gambler_HealOtherCombat05"
+//Keep a lookout. I hear a boomer.
+"Gambler_HeardBoomer01"
+//I hear a boomer.
+"Gambler_HeardBoomer02"
+//You hear that boomer?
+"Gambler_HeardBoomer03"
+//You hear that boomer?
+"Gambler_HeardBoomer04"
+//You hear that boomer? Don't let him spew on you.
+"Gambler_HeardBoomer05"
+//Boomer around.  Don't shoot him if he's near me! OKAY?
+"Gambler_HeardBoomer06"
+//Keep your eyes peeled, I hear a charger.
+"Gambler_HeardCharger01"
+//I hear a charger.
+"Gambler_HeardCharger02"
+//Charger around, get ready.
+"Gambler_HeardCharger03"
+//Charger around, get ready.
+"Gambler_HeardCharger04"
+//Do you hear that charger?
+"Gambler_HeardCharger05"
+//I hear a charger.
+"Gambler_HeardCharger06"
+//You hear that charger?
+"Gambler_HeardCharger07"
+//Tank! Tank!
+"Gambler_HeardHulk01"
+//Tank inbound!
+"Gambler_HeardHulk02"
+//Man up!  We got a Tank!
+"Gambler_HeardHulk03"
+//Get ready,  we got a TANK!
+"Gambler_HeardHulk04"
+//Hold steady, TANK!
+"Gambler_HeardHulk05"
+//Get ready, TANK!
+"Gambler_HeardHulk06"
+//You hear that hunter?
+"Gambler_HeardHunter01"
+//Pay attention, hunter's around.
+"Gambler_HeardHunter02"
+//I hear a hunter.
+"Gambler_HeardHunter03"
+//I can hear a jockey.
+"Gambler_HeardJockey01"
+//Jockey's around.
+"Gambler_HeardJockey02"
+//One of those little jockey bastards is around.
+"Gambler_HeardJockey03"
+//I can hear a jockey.
+"Gambler_HeardJockey04"
+//Jockey's around.
+"Gambler_HeardJockey05"
+//One of those little jockey bastards is around.
+"Gambler_HeardJockey06"
+//There's a Smoker around here.
+"Gambler_HeardSmoker01"
+//Smoker's around.
+"Gambler_HeardSmoker02"
+//I hear a smoker.
+"Gambler_HeardSmoker03"
+//There's a Smoker around here.
+"Gambler_HeardSmoker04"
+//Is someone beating a horse?
+"Gambler_HeardSpecialC101"
+//What is that? Is somebody beating a horse or what?
+"Gambler_HeardSpecialC102"
+//What in the hell is that noise?
+"Gambler_HeardSpecialC103"
+//You hear that? I guess zombies weren't bad enough.
+"Gambler_HeardSpecialC104"
+//You hear that?
+"Gambler_HeardSpecialC105"
+//Can you hear that?
+"Gambler_HeardSpecialC106"
+//What is that noise?
+"Gambler_HeardSpecialC107"
+//I have no idea what that noise is.
+"Gambler_HeardSpecialC108"
+//Something we're gonna have to kill.
+"Gambler_HeardSpecialC109"
+//Spitter around.
+"Gambler_HeardSpitter01"
+//I hear a spitter.
+"Gambler_HeardSpitter02"
+//There's a spitter around.
+"Gambler_HeardSpitter03"
+//There's a spitter around.
+"Gambler_HeardSpitter04"
+//I hear a spitter.
+"Gambler_HeardSpitter05"
+//There's a spitter around.
+"Gambler_HeardSpitter06"
+//I hope that's not bullet proof.
+"Gambler_HeardTanklC101"
+//We are screwed.
+"Gambler_HeardTanklC102"
+//Maybe if we don't move it won't see us.
+"Gambler_HeardTanklC103"
+//Okay, that's reason to panic.
+"Gambler_HeardTanklC104"
+//What in the hell sign of the apocalypse is that?
+"Gambler_HeardTanklC105"
+//I hope that's not bullet proof.
+"Gambler_HeardTanklC106"
+//What in the hell sign of the apocalypse is that?
+"Gambler_HeardTanklC107"
+//Okay, that's reason to panic.
+"Gambler_HeardTanklC108"
+//Maybe if we don't move it won't see us.
+"Gambler_HeardTanklC109"
+//We are screwed.
+"Gambler_HeardTanklC110"
+//Sounds like a witch.
+"Gambler_HeardWitch01"
+//Sounds like a witch.
+"Gambler_HeardWitch02"
+//I think I hear my ex-wife...
+"Gambler_HeardWitch03"
+//Everybody hear that witch?
+"Gambler_HeardWitch04"
+//I hear a witch.
+"Gambler_HeardWitch05"
+//Oh there's a sound that's familiar.
+"Gambler_HeardWitchC101"
+//That sound is familiar.
+"Gambler_HeardWitchC102"
+//I don't like the sound of this crying.
+"Gambler_HeardWitchC103"
+//I don't like the sound of this crying.
+"Gambler_HeardWitchC104"
+//A crying woman, what do you think she's sad the mall's closed?
+"Gambler_HeardWitchC105"
+//A crying woman, you think she's sad the mall's closed?
+"Gambler_HeardWitchC106"
+//I need some help.
+"Gambler_Help01"
+//I can't do this on my own, gimme some help!
+"Gambler_Help02"
+//Somebody want to lend me a hand, here?
+"Gambler_Help03"
+//Help!
+"Gambler_Help04"
+//Hey, over here!
+"Gambler_Help05"
+//Hunter's got Coach!
+"Gambler_HunterCoachPounced01"
+//Hunter on  Coach!
+"Gambler_HunterCoachPounced02"
+//Hunter's got Ellis!
+"Gambler_HunterEllisPounced01"
+//Hunter on  Ellis!
+"Gambler_HunterEllisPounced02"
+//Hunter on  Ellis!
+"Gambler_HunterEllisPounced03"
+//Hunter's got Ellis!
+"Gambler_HunterEllisPounced04"
+//Zombie's got him!
+"Gambler_HunterPouncedC101"
+//Zombie's got him!
+"Gambler_HunterPouncedC102"
+//Zombie on him!
+"Gambler_HunterPouncedC103"
+//Zombie on her!
+"Gambler_HunterPouncedC1Producer01"
+//Get that zombie on her!
+"Gambler_HunterPouncedC1Producer02"
+//Hunter's got Rochelle!
+"Gambler_HunterRochellePounced01"
+//Hunter on Rochelle!
+"Gambler_HunterRochellePounced02"
+//We are walking through the valley of the shadow of death and kicking ass.
+"Gambler_Hurrah01"
+//It may not be pretty, but we're doing this.
+"Gambler_Hurrah02"
+//You guys aren't so damn bad.
+"Gambler_Hurrah03"
+//What do ya know, we're going to make it.
+"Gambler_Hurrah04"
+//You guys are pretty good.
+"Gambler_Hurrah05"
+//Aces!
+"Gambler_Hurrah06"
+//I'm starting to like you guys.
+"Gambler_Hurrah07"
+//We're makin' it look EASY!
+"Gambler_Hurrah08"
+//And THAT is how you do that!
+"Gambler_Hurrah09"
+//We're the four riders of the goddamn apocalypse!
+"Gambler_Hurrah10"
+//And THAT is how you do it!
+"Gambler_Hurrah11"
+//Come on I'm in a hurry,
+"Gambler_HurryUp01"
+//Come on I'm in a hurry,
+"Gambler_HurryUp02"
+//Hurry it up.
+"Gambler_HurryUp03"
+//Lets go, Lets go!
+"Gambler_HurryUp04"
+//Move, move, move.
+"Gambler_HurryUp05"
+//[pain noise - loud major pain]
+"Gambler_HurtCritical01"
+//[pain noise - loud major pain]
+"Gambler_HurtCritical02"
+//[pain noise - loud major pain]
+"Gambler_HurtCritical03"
+//[pain noise - loud major pain]
+"Gambler_HurtCritical04"
+//[pain noise - loud major pain]
+"Gambler_HurtCritical05"
+//[pain noise - loud major pain]
+"Gambler_HurtCritical06"
+//[pain noise - loud major pain]
+"Gambler_HurtCritical07"
+//[pain noise - huh]
+"Gambler_HurtMajor01"
+//[pain noise - ahh]
+"Gambler_HurtMajor02"
+//[pain noise - oy]
+"Gambler_HurtMajor03"
+//[pain noise - ugh]
+"Gambler_HurtMajor04"
+//[pain noise - ugh]
+"Gambler_HurtMajor05"
+//[pain noise - ugh]
+"Gambler_HurtMajor06"
+//[pain noise - ugh]
+"Gambler_HurtMajor07"
+//[pain noise - ugh]
+"Gambler_HurtMajor08"
+//[pain noise - ugh]
+"Gambler_HurtMajor09"
+//[pain noise - ugh]
+"Gambler_HurtMajor10"
+//[pain noise - ugh]
+"Gambler_HurtMajor11"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor01"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor02"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor03"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor04"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor05"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor06"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor07"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor08"
+//[pain noise - short minor pain]
+"Gambler_HurtMinor09"
+//I'm here.
+"Gambler_ImWithYou01"
+//Why not? I follow you.
+"Gambler_ImWithYou02"
+//I'm with you.
+"Gambler_ImWithYou03"
+//Sure thing, let's go.
+"Gambler_ImWithYou04"
+//Sure, let's go.
+"Gambler_ImWithYou05"
+//I'm down!
+"Gambler_IncapacitatedInitial01"
+//I'M DOWN!
+"Gambler_IncapacitatedInitial02"
+//DOWN!
+"Gambler_IncapacitatedInitial03"
+//I'm down!
+"Gambler_IncapacitatedInitial04"
+//AHHHHH [terrified yell]
+"Gambler_IncapacitatedInjury01"
+//AHHHHH [terrified yell]
+"Gambler_IncapacitatedInjury02"
+//AHHHHH [terrified yell]
+"Gambler_IncapacitatedInjury03"
+//AHHHHH [terrified yell]
+"Gambler_IncapacitatedInjury04"
+//AHHHHH [terrified yell]
+"Gambler_IncapacitatedInjury05"
+//Fire bullets here!
+"Gambler_IncendAmmo01"
+//Grabbin' fire bullets!
+"Gambler_IncendAmmo02"
+//Let's start some fires, people!
+"Gambler_IncendAmmo03"
+//Deploying fire bullets!
+"Gambler_IncendAmmo04"
+//Everybody grab some incendiary ammo!
+"Gambler_IncendAmmo05"
+//This is why we've got guns!
+"Gambler_Incoming01"
+//It's about to get serious!
+"Gambler_Incoming02"
+//We got inbound!
+"Gambler_Incoming03"
+//They're coming!
+"Gambler_Incoming04"
+//Here they come!
+"Gambler_Incoming05"
+//God damn, it's gettin' good.
+"Gambler_Incoming06"
+//They're coming!
+"Gambler_Incoming07"
+//Get ready!
+"Gambler_Incoming08"
+//Got it!
+"Gambler_KillConfirmation01"
+//It's dead!
+"Gambler_KillConfirmation02"
+//Got it!
+"Gambler_KillConfirmation03"
+//Dead.
+"Gambler_KillConfirmation04"
+//Got 'em.
+"Gambler_KillConfirmation05"
+//Got 'em.
+"Gambler_KillConfirmation06"
+//Done like dinner!
+"Gambler_KillConfirmation07"
+//Bull's-eye.
+"Gambler_KillConfirmation08"
+//That's a hiit.
+"Gambler_KillConfirmation09"
+//Dead.
+"Gambler_KillConfirmation10"
+//Hiit.
+"Gambler_KillConfirmation11"
+//Bull's-eye.
+"Gambler_KillConfirmation12"
+//Got it!
+"Gambler_KillConfirmation13"
+//Lights off.
+"Gambler_KillThatLight01"
+//Everybody, lights off.
+"Gambler_KillThatLight02"
+//Kill your light.
+"Gambler_KillThatLight03"
+//Laser sights here.
+"Gambler_LaserSights01"
+//Laser sights here.
+"Gambler_LaserSights02"
+//We got some laser sights.
+"Gambler_LaserSights03"
+//<Hearty Laugh>
+"Gambler_Laughter01"
+//<Hearty Laugh>
+"Gambler_Laughter03"
+//<Short laugh>
+"Gambler_Laughter06"
+//<Short laugh>
+"Gambler_Laughter15"
+//<Short laugh>
+"Gambler_Laughter16"
+//<Short laugh>
+"Gambler_Laughter17"
+//Lead on.
+"Gambler_LeadOn01"
+//Lead on, McDuff.
+"Gambler_LeadOn02"
+//Lead on, smart guy.
+"Gambler_LeadOn03"
+//Lead on.
+"Gambler_LeadOn04"
+//I'm right behind you.
+"Gambler_LeadOn05"
+//Right behind you.
+"Gambler_LeadOn06"
+//Yeah, you go first.
+"Gambler_LeadOn07"
+//Lead on.
+"Gambler_LeadOn08"
+//Right behind you.
+"Gambler_LeadOn09"
+//Get your asses over here and HELP ME!
+"Gambler_LedgeHangEnd01"
+//SOMEBODY NEEDS TO HELP ME UP!
+"Gambler_LedgeHangEnd02"
+//Don't be leaving me here DAMNIT!  HELP!
+"Gambler_LedgeHangEnd03"
+//HEEEEEEEELLLLLPPPPP!!!!!
+"Gambler_LedgeHangFall01"
+//NOOOOOOOOOOOOOOOO!!!!
+"Gambler_LedgeHangFall02"
+//WOOOOOAAAAAHHHHHH!!!!
+"Gambler_LedgeHangFall03"
+//I am hanging over here!
+"Gambler_LedgeHangMiddle01"
+//Don't even think of leaving me here!
+"Gambler_LedgeHangMiddle02"
+//Could use a hand over here.
+"Gambler_LedgeHangMiddle03"
+//Could use some help here .
+"Gambler_LedgeHangMiddle04"
+//Woah
+"Gambler_LedgeHangSlip01"
+//Heh!
+"Gambler_LedgeHangSlip02"
+//Woah
+"Gambler_LedgeHangSlip03"
+//Woah
+"Gambler_LedgeHangSlip04"
+//Heh!
+"Gambler_LedgeHangSlip05"
+//Guys, I seem to have slipped!
+"Gambler_LedgeHangStart01"
+//I'm hanging here.
+"Gambler_LedgeHangStart02"
+//Hey! Give me a hand.
+"Gambler_LedgeHangStart03"
+//I need a hand.
+"Gambler_LedgeHangStart04"
+//Easy there fireball.  Let me get you up.
+"Gambler_LedgeSave01"
+//Don't worry.  I'll bail your ass out of this mess.
+"Gambler_LedgeSave02"
+//Did you miss me?  Come on, let's get you up.
+"Gambler_LedgeSave03"
+//I got you, just relax.  Let's get you up.
+"Gambler_LedgeSave04"
+//Over there!
+"Gambler_Look01"
+//Look!
+"Gambler_Look02"
+//Over there!
+"Gambler_Look03"
+//Look!
+"Gambler_Look04"
+//Over there!
+"Gambler_Look05"
+//Look!
+"Gambler_Look06"
+//Look!
+"Gambler_Look07"
+//Check it out.
+"Gambler_LookHere01"
+//Look here.
+"Gambler_LookHere02"
+//Look at this.
+"Gambler_LookHere03"
+//Check it out.
+"Gambler_LookHere04"
+//Look here.
+"Gambler_LookHere05"
+//Look at this.
+"Gambler_LookHere06"
+//Look out!
+"Gambler_LookOut01"
+//Watch out!
+"Gambler_LookOut02"
+//Heads up!
+"Gambler_LookOut03"
+//Helloooo?
+"Gambler_LostCall01"
+//Heyyy ooooo!
+"Gambler_LostCall02"
+//Anybody hear me?
+"Gambler_LostCall03"
+//Can you guys hear me?
+"Gambler_LostCall04"
+//Helloooo?
+"Gambler_LostCall05"
+//Machete here...
+"Gambler_MeleeWeapons01"
+//Got a machete.
+"Gambler_MeleeWeapons02"
+//Chainsaw here...
+"Gambler_MeleeWeapons03"
+//Got a chainsaw.
+"Gambler_MeleeWeapons04"
+//nightstick here...
+"Gambler_MeleeWeapons05"
+//Grabbing a nightstick.
+"Gambler_MeleeWeapons06"
+//Guitar here.
+"Gambler_MeleeWeapons07"
+//Grabbing a guitar.
+"Gambler_MeleeWeapons08"
+//Ninja sword here.
+"Gambler_MeleeWeapons09"
+//Grabbing a sword.
+"Gambler_MeleeWeapons10"
+//Grabbing a crowbar.
+"Gambler_MeleeWeapons11"
+//Crowbar.
+"Gambler_MeleeWeapons12"
+//I cannot WAIT to find a crate.
+"Gambler_MeleeWeapons13"
+//Cricket bat here.
+"Gambler_MeleeWeapons14"
+//Got a cricket bat.
+"Gambler_MeleeWeapons15"
+//Gonna whack the shit outta somethin' with this.
+"Gambler_MeleeWeapons16"
+//I'm gonna whack the shit outta somethin' with this.
+"Gambler_MeleeWeapons17"
+//Niiiiice.
+"Gambler_MeleeWeapons18"
+//Through here!
+"Gambler_MiscDirectional01"
+//This way!
+"Gambler_MiscDirectional03"
+//In here!
+"Gambler_MiscDirectional04"
+//Down here!
+"Gambler_MiscDirectional05"
+//C'mon, this way!
+"Gambler_MiscDirectional06"
+//Through this window!
+"Gambler_MiscDirectional07"
+//Let's go through here!
+"Gambler_MiscDirectional11"
+//Through this door!
+"Gambler_MiscDirectional13"
+//Through this gate!
+"Gambler_MiscDirectional20"
+//Over this fence!
+"Gambler_MiscDirectional22"
+//We can cross here!
+"Gambler_MiscDirectional25"
+//We can get down here!
+"Gambler_MiscDirectional29"
+//Press the button!
+"Gambler_MiscDirectional32"
+//I hit it!
+"Gambler_MiscDirectional35"
+//Over this door!
+"Gambler_MiscDirectional37"
+//There's a safe room up there!
+"Gambler_MiscDirectional44"
+//Back through the field!
+"Gambler_MiscDirectional45"
+//We can take the elevator back up!
+"Gambler_MiscDirectional47"
+//Up this pipe!
+"Gambler_MiscDirectional49"
+//Everyone back down the stairs!
+"Gambler_MiscDirectional50"
+//We can cross over that tank!
+"Gambler_MiscDirectional52"
+//We can get across the water here!
+"Gambler_MiscDirectional53"
+//It's a lake down there.
+"Gambler_MiscDirectional61"
+//Get to higher ground!
+"Gambler_MiscDirectional62"
+//HERE COMES THE RAIN!
+"Gambler_MiscDirectional63"
+//STORM COMING!
+"Gambler_MiscDirectional64"
+//STAY CLOSE!
+"Gambler_MiscDirectional65"
+//I can't see a damn thing...
+"Gambler_MiscDirectional66"
+//There's the Ducatel sign! We're almost outta here!
+"Gambler_MiscDirectional68"
+//Look at ya. What are we waiting for?  Let's go.
+"Gambler_MoveOn01"
+//Let's roll!
+"Gambler_MoveOn02"
+//Time to move.
+"Gambler_MoveOn03"
+//What are we waiting for?  Let's go.
+"Gambler_MoveOn04"
+//Let's go.
+"Gambler_MoveOn05"
+//Coach!
+"Gambler_NameCoach01"
+//Coach!
+"Gambler_NameCoach02"
+//Coach!
+"Gambler_NameCoach03"
+//Coach.
+"Gambler_NameCoach04"
+//Coach.
+"Gambler_NameCoach05"
+//Coach!
+"Gambler_NameCoach06"
+//Coach!
+"Gambler_NameCoach07"
+//Coach.
+"Gambler_NameCoach09"
+//Coach.
+"Gambler_NameCoach11"
+//Coach.
+"Gambler_NameCoach12"
+//Ellis.
+"Gambler_NameEllis02"
+//Ellis!
+"Gambler_NameEllis03"
+//Ellis!
+"Gambler_NameEllis04"
+//Ellis.
+"Gambler_NameEllis05"
+//Ellis!
+"Gambler_NameEllis06"
+//Ellis!
+"Gambler_NameEllis07"
+//Ellis.
+"Gambler_NameEllis08"
+//Ellis.
+"Gambler_NameEllis11"
+//Ellis.
+"Gambler_NameEllis12"
+//Ellis!
+"Gambler_NameEllis13"
+//Overalls.
+"Gambler_NameEllis24"
+//Dude.
+"Gambler_NameMechanicC101"
+//Dude.
+"Gambler_NameMechanicC102"
+//Dude.
+"Gambler_NameMechanicC103"
+//Dude.
+"Gambler_NameMechanicC104"
+//Kid.
+"Gambler_NameMechanicC105"
+//hey kid.
+"Gambler_NameMechanicC106"
+//Kid.
+"Gambler_NameMechanicC107"
+//Kid.
+"Gambler_NameMechanicC108"
+//Kid.
+"Gambler_NameMechanicC109"
+//Kid.
+"Gambler_NameMechanicC110"
+//Kid.
+"Gambler_NameMechanicC111"
+//Hey you.
+"Gambler_NameProducerC101"
+//Hey sweetheart.
+"Gambler_NameProducerC102"
+//Hey sweetie.
+"Gambler_NameProducerC103"
+//Hey honey.
+"Gambler_NameProducerC104"
+//Hey honey.
+"Gambler_NameProducerC105"
+//Hey sweetie.
+"Gambler_NameProducerC107"
+//Sweetie.
+"Gambler_NameProducerC108"
+//Sweetheart.
+"Gambler_NameProducerC109"
+//Hey you.
+"Gambler_NameProducerC110"
+//Hey sweetie.
+"Gambler_NameProducerC111"
+//Hey you.
+"Gambler_NameProducerC112"
+//Sweetie.
+"Gambler_NameProducerC113"
+//Hey honey.
+"Gambler_NameProducerC114"
+//Rochelle!
+"Gambler_NameRochelle01"
+//Ro!
+"Gambler_NameRochelle05"
+//Ro.
+"Gambler_NameRochelle08"
+//Rochelle.
+"Gambler_NameRochelle09"
+//Rochelle.
+"Gambler_NameRochelle10"
+//Rochelle!
+"Gambler_NameRochelle12"
+//Well all right!
+"Gambler_NiceJob01"
+//Well all right!
+"Gambler_NiceJob02"
+//Nice job!
+"Gambler_NiceJob03"
+//Nice job!
+"Gambler_NiceJob04"
+//That was surprisingly good.
+"Gambler_NiceJob05"
+//Nice.
+"Gambler_NiceJob06"
+//Nice.
+"Gambler_NiceJob07"
+//Nice.
+"Gambler_NiceJob08"
+//That's what I like to see.
+"Gambler_NiceJob09"
+//Wow.  Nice.
+"Gambler_NiceJob10"
+//Nice shot.
+"Gambler_NiceShot01"
+//Nice shot.
+"Gambler_NiceShot02"
+//How'dja do that?
+"Gambler_NiceShot03"
+//Nice shot.
+"Gambler_NiceShot04"
+//Good shooting.
+"Gambler_NiceShot05"
+//Nice shooting.
+"Gambler_NiceShot06"
+//Nice shot!
+"Gambler_NiceShot07"
+//Nice shot Ace.
+"Gambler_NiceShot08"
+//Impressive.
+"Gambler_NiceShot09"
+//All right Coach.
+"Gambler_NiceShotCoach01"
+//All right Coach.
+"Gambler_NiceShotCoach02"
+//You're getting the hang of this Ellis.
+"Gambler_NiceShotMechanic01"
+//You're getting the hang of this Ellis.
+"Gambler_NiceShotMechanic02"
+//Damn, Rochelle...
+"Gambler_NiceShotProducer01"
+//Rochelle... damn!
+"Gambler_NiceShotProducer02"
+//Damn, Rochelle. Nice.
+"Gambler_NiceShotProducer03"
+//You know how many germs are on that thing?
+"Gambler_NickOcd01"
+//Ugh. It's like rotten eggs here. Does nobody else SMELL that?
+"Gambler_NickOcd02"
+//Ugh. What's that SMELL?
+"Gambler_NickOcd04"
+//No.
+"Gambler_No01"
+//Nope.
+"Gambler_No02"
+//No.
+"Gambler_No03"
+//No sir-ee Bob.
+"Gambler_No04"
+//Nope.
+"Gambler_No05"
+//Uh uh.
+"Gambler_No06"
+//No.
+"Gambler_No07"
+//Nope.
+"Gambler_No08"
+//Yeah, no.
+"Gambler_No09"
+//NO!
+"Gambler_No10"
+//NO!
+"Gambler_No11"
+//NO!
+"Gambler_No12"
+//Woah yeah.
+"Gambler_PainRelieftFirstAid01"
+//Okay.
+"Gambler_PainRelieftFirstAid02"
+//Ahhh.
+"Gambler_PainRelieftFirstAid03"
+//Better.
+"Gambler_PainRelieftFirstAid04"
+//That worked.
+"Gambler_PainRelieftFirstAid05"
+//Alright, now I'm back.
+"Gambler_PainRelieftFirstAid06"
+//Ahh, better.
+"Gambler_PainRelieftFirstAid07"
+//Bbbbrrrrrrr
+"Gambler_PainRelieftPills01"
+//Okay, that's gonna last for a bit.
+"Gambler_PainRelieftPills02"
+//Ah, a little pick me up.
+"Gambler_PainRelieftPills03"
+//A little pick me up. That's good.
+"Gambler_PainRelieftPills04"
+//Okay, gotta find some real first aid.
+"Gambler_PainRelieftPills05"
+//Hell yeah.
+"Gambler_PositiveNoise14"
+//This is all going to hell!
+"Gambler_ReactionNegative01"
+//Damn...
+"Gambler_ReactionNegative02"
+//Shit!
+"Gambler_ReactionNegative03"
+//God damn it.
+"Gambler_ReactionNegative04"
+//Bullshit!
+"Gambler_ReactionNegative05"
+//Bastards!
+"Gambler_ReactionNegative06"
+//Holy Shit!
+"Gambler_ReactionNegative07"
+//Ah, tits!
+"Gambler_ReactionNegative08"
+//Son of a bitch.
+"Gambler_ReactionNegative09"
+//Son of a bitch.
+"Gambler_ReactionNegative10"
+//Oh bullshit!
+"Gambler_ReactionNegative11"
+//My ass.
+"Gambler_ReactionNegative12"
+//This is all going to hell!
+"Gambler_ReactionNegative13"
+//Damn...
+"Gambler_ReactionNegative14"
+//Shit!
+"Gambler_ReactionNegative15"
+//God damn it.
+"Gambler_ReactionNegative16"
+//Bullshit!
+"Gambler_ReactionNegative17"
+//Bastards!
+"Gambler_ReactionNegative18"
+//Shit!
+"Gambler_ReactionNegative19"
+//Tits!
+"Gambler_ReactionNegative20"
+//Son of a bitch.
+"Gambler_ReactionNegative21"
+//Oh bullshit!
+"Gambler_ReactionNegative22"
+//My ass.
+"Gambler_ReactionNegative23"
+//Is this some kind of sick joke?
+"Gambler_ReactionNegative24"
+//Is this some kind of sick joke?
+"Gambler_ReactionNegative25"
+//I call foul.
+"Gambler_ReactionNegative26"
+//Kiss my ass.
+"Gambler_ReactionNegative27"
+//Ass.
+"Gambler_ReactionNegative28"
+//Asshat.
+"Gambler_ReactionNegative29"
+//Bitch.
+"Gambler_ReactionNegative30"
+//Asshole.
+"Gambler_ReactionNegative31"
+//Assclown.
+"Gambler_ReactionNegative32"
+//Dumbshit.
+"Gambler_ReactionNegative33"
+//Screw this.
+"Gambler_ReactionNegative34"
+//Kiss my ass.
+"Gambler_ReactionNegative35"
+//Kiss my ass.
+"Gambler_ReactionNegative36"
+//What an assclown.
+"Gambler_ReactionNegative37"
+//Dumbshit.
+"Gambler_ReactionNegative38"
+//Reloading!
+"Gambler_Reloading01"
+//Reloading!
+"Gambler_Reloading02"
+//Reloading!
+"Gambler_Reloading03"
+//Reloading!
+"Gambler_Reloading04"
+//Reloading!
+"Gambler_Reloading05"
+//Reloading!
+"Gambler_Reloading06"
+//Reloading!
+"Gambler_Reloading07"
+//Reloading.
+"Gambler_ReloadingQuiet01"
+//Reloading.
+"Gambler_ReloadingQuiet02"
+//Reloading.
+"Gambler_ReloadingQuiet03"
+//Reloading!
+"Gambler_ReloadIntense01"
+//Reloading here!
+"Gambler_ReloadIntense02"
+//Gotta reload!
+"Gambler_ReloadIntense03"
+//Reloading!
+"Gambler_ReloadIntense04"
+//Reloading!
+"Gambler_ReloadIntense05"
+//I can't lie to you.  You are messed up.  If you don't get yourself healed up, that;s it.
+"Gambler_ReviveCriticalFriend01"
+//You seriously cannot go down again.  If you do... you aren't going to make it.
+"Gambler_ReviveCriticalFriend02"
+//You're starting to worry me.  I can get you up, but you go down again and that's it.
+"Gambler_ReviveCriticalFriend03"
+//We can't afford to lose you, yet.  So let's get you up.
+"Gambler_ReviveFriend01"
+//You have to learn to take care of yourself or you'll keep ending up down here.
+"Gambler_ReviveFriend02"
+//Come on get up. You're not dead yet.
+"Gambler_ReviveFriend03"
+//Come on pull yourself together. We gotta get you up.
+"Gambler_ReviveFriend04"
+//You have to take better care of yourself!  Now let's get you up.
+"Gambler_ReviveFriend05"
+//Look at you laying there. Time to get up.
+"Gambler_ReviveFriend06"
+//Come on get up. Get up, you're not dead yet.
+"Gambler_ReviveFriend07"
+//We, I... need you for a little longer. So let's get you back up on your feet.
+"Gambler_ReviveFriend08"
+//If I get you up, you promise not to shoot me anymore?
+"Gambler_ReviveFriend09"
+//Come on, I've seen worse.  Let's get your butt up.
+"Gambler_ReviveFriend10"
+//It seems like every time I turn around you are down on the ground.  Now let's get you up.
+"Gambler_ReviveFriend11"
+//It's a miracle you lasted this long,  Let's get you on your feet.
+"Gambler_ReviveFriend12"
+//Settle down, Settle down.  Everything is going to be okay.
+"Gambler_ReviveFriend13"
+//This is nothing.  You'll be as good as new once I get you up.
+"Gambler_ReviveFriend14"
+//I'm not going to leave you behind.  Let's get you up.
+"Gambler_ReviveFriend15"
+//You're tougher than you look.  Let's get you back on your feet.
+"Gambler_ReviveFriend16"
+//Relax.  You're going to be okay.  I have seen worse.
+"Gambler_ReviveFriend17"
+//Don't worry.  Don't worry.   I can get you back up.
+"Gambler_ReviveFriend18"
+//Don't worry.  Don't worry.   I can get you back up.
+"Gambler_ReviveFriend19"
+//This is nothing.  You'll be as good as new once I get you up.
+"Gambler_ReviveFriend20"
+//Let me look at you..
+"Gambler_ReviveFriendA01"
+//You going to be okay?
+"Gambler_ReviveFriendA02"
+//Are you going to be okay?
+"Gambler_ReviveFriendA03"
+//How you holding up?
+"Gambler_ReviveFriendA04"
+//Easy there fireball, easy.
+"Gambler_ReviveFriendA05"
+//Easy there fireball.
+"Gambler_ReviveFriendA06"
+//You hurt?
+"Gambler_ReviveFriendA07"
+//Everything working?
+"Gambler_ReviveFriendA08"
+//You in one piece?
+"Gambler_ReviveFriendA09"
+//You're not gonna die on me, are ya?
+"Gambler_ReviveFriendA10"
+//Are you going to die?
+"Gambler_ReviveFriendA11"
+//You gonna make it?
+"Gambler_ReviveFriendA12"
+//You okay?
+"Gambler_ReviveFriendA13"
+//Okay?
+"Gambler_ReviveFriendA14"
+//You good?
+"Gambler_ReviveFriendA15"
+//You okay?
+"Gambler_ReviveFriendA16"
+//Okay?
+"Gambler_ReviveFriendA17"
+//You good?
+"Gambler_ReviveFriendA18"
+//Come on,  still lots to be done.
+"Gambler_ReviveFriendB01"
+//Rise and shine!
+"Gambler_ReviveFriendB02"
+//Let's hit the road.
+"Gambler_ReviveFriendB03"
+//Here we go.
+"Gambler_ReviveFriendB04"
+//Up and at 'em.
+"Gambler_ReviveFriendB05"
+//Let's roll.
+"Gambler_ReviveFriendB06"
+//You owe me one.
+"Gambler_ReviveFriendB07"
+//Let's have a look at you.
+"Gambler_ReviveFriendB08"
+//Time to get some revenge.
+"Gambler_ReviveFriendB09"
+//It's time to get some revenge.
+"Gambler_ReviveFriendB10"
+//Let's go.
+"Gambler_ReviveFriendB11"
+//See - all good.
+"Gambler_ReviveFriendB12"
+//Good as new.
+"Gambler_ReviveFriendB13"
+//Let's go kill some zombies.
+"Gambler_ReviveFriendB14"
+//Ah shit, come on, come on. Come on.
+"Gambler_ReviveFriendLoud01"
+//GET UP, GET UP, GET UP!
+"Gambler_ReviveFriendLoud02"
+//TIME TO MOVE, LET'S GO!
+"Gambler_ReviveFriendLoud03"
+//We don't have time for this, GET UP!
+"Gambler_ReviveFriendLoud04"
+//Let's go, ON YOUR FEET! Let's GO!
+"Gambler_ReviveFriendLoud05"
+//Ah shit, come on, come on. Come on.
+"Gambler_ReviveFriendLoud06"
+//Safe house!
+"Gambler_SafeSpotAhead01"
+//We got a safe house!
+"Gambler_SafeSpotAhead02"
+//Safe house ahead!
+"Gambler_SafeSpotAhead03"
+//There's the safe house!
+"Gambler_SafeSpotAhead04"
+//GET IT GET IT!
+"Gambler_ScreamWhilePounced01"
+//GET IT OFF ME!
+"Gambler_ScreamWhilePounced01a"
+//GET IT GET IT!
+"Gambler_ScreamWhilePounced02"
+//GET IT OFF ME!
+"Gambler_ScreamWhilePounced02a"
+//GET IT OFF!
+"Gambler_ScreamWhilePounced03"
+//GET IT OFF!
+"Gambler_ScreamWhilePounced03a"
+//GET IT OFF!
+"Gambler_ScreamWhilePounced04"
+//GET IT OFF!
+"Gambler_ScreamWhilePounced04a"
+//GET IT OFF!
+"Gambler_ScreamWhilePounced04b"
+//GET IT OFF ME!
+"Gambler_ScreamWhilePounced05"
+//GET IT OFF ME!
+"Gambler_ScreamWhilePounced05a"
+//GET IT OFF ME!
+"Gambler_ScreamWhilePounced06"
+//Those zombies are wearing armor?
+"Gambler_SeeArmored01"
+//Those zombies are wearing armor!
+"Gambler_SeeArmored02"
+//Shoot the armored zombies in the back!
+"Gambler_SeeArmored03"
+//That squeaking is driving the zombies crazy!
+"Gambler_SeeClowns01"
+//Kill the clown!
+"Gambler_SeeClowns02"
+//Kill the clown, he's attracting more zombies!
+"Gambler_SeeClowns03"
+//Kill every clown you see!
+"Gambler_SeeClowns04"
+//Shoot the clown!
+"Gambler_SeeClowns05"
+//Hazmat guys!
+"Gambler_SeeHazmat01"
+//Guess those suits don't stop bites.
+"Gambler_SeeHazmat02"
+//Are those guys fireproof?
+"Gambler_SeeHazmat03"
+//Mudders!
+"Gambler_SeeMudmen01"
+//Mudders!
+"Gambler_SeeMudmen02"
+//Watch out, Mudmen!
+"Gambler_SeeMudmen03"
+//Mudders!
+"Gambler_SeeMudmen04"
+//Excuse me.
+"Gambler_Sorry01"
+//Excuse me.
+"Gambler_Sorry02"
+//Forgive me, okay?.
+"Gambler_Sorry03"
+//Well sorry.
+"Gambler_Sorry04"
+//I'm sorry is that what you want me to say?
+"Gambler_Sorry05"
+//I'm sorry, okay?
+"Gambler_Sorry06"
+//Can you forgive me?
+"Gambler_Sorry07"
+//Don't look at me like that.
+"Gambler_Sorry08"
+//Ammo here!
+"Gambler_SpotAmmo01"
+//Ammo here!
+"Gambler_SpotAmmo02"
+//Ammo!
+"Gambler_SpotAmmo03"
+//Ammo here!
+"Gambler_SpotAmmo04"
+//Ammo!
+"Gambler_SpotAmmo05"
+//First Aid Kit here!
+"Gambler_SpotFirstAid01"
+//First Aid here!
+"Gambler_SpotFirstAid02"
+//First Aid!
+"Gambler_SpotFirstAid03"
+//There's a pipebomb here.
+"Gambler_SpotGrenades01"
+//Pipe bomb.
+"Gambler_SpotGrenades02"
+//Pipe bombs!
+"Gambler_SpotGrenades03"
+//Pipebomb here.
+"Gambler_SpotGrenades05"
+//Molotov!
+"Gambler_SpotGrenades06"
+//Molotov here.
+"Gambler_SpotGrenades07"
+//Molotovs!
+"Gambler_SpotGrenades08"
+//Pills here!
+"Gambler_SpotPills01"
+//We got pills here!
+"Gambler_SpotPills02"
+//Pills here!
+"Gambler_SpotPills03"
+//Pills here!
+"Gambler_SpotPills04"
+//We got pills here!
+"Gambler_SpotPills05"
+//Weapons over here!
+"Gambler_SpotWeapons01"
+//Everyone grab a weapon!
+"Gambler_SpotWeapons02"
+//Guns here!
+"Gambler_SpotWeapons03"
+//Stay close!
+"Gambler_StayTogether01"
+//Stay together people.
+"Gambler_StayTogether02"
+//Keep close.
+"Gambler_StayTogether03"
+//Get inside!
+"Gambler_StayTogetherInside01"
+//Everybody INSIDE!
+"Gambler_StayTogetherInside02"
+//Inside NOW!
+"Gambler_StayTogetherInside03"
+//Quit screwing around, get inside!
+"Gambler_StayTogetherInside04"
+//Don't make me come out there for you!
+"Gambler_StayTogetherInside05"
+//Quit screwing around, get inside!
+"Gambler_StayTogetherInside06"
+//Get inside!
+"Gambler_StayTogetherInside07"
+//Heal up!
+"Gambler_SuggestHealth01"
+//Heal up!
+"Gambler_SuggestHealth02"
+//Good time to heal.
+"Gambler_SuggestHealth03"
+//This would be a good time to heal.
+"Gambler_SuggestHealth04"
+//Maybe you could heal up now.
+"Gambler_SuggestHealth05"
+//Heal if you need to.
+"Gambler_SuggestHealth06"
+//This might be a good time to heal.
+"Gambler_SuggestHealthC101"
+//Time for people to heal.
+"Gambler_SuggestHealthC102"
+//Don't forget you can heal yourself.
+"Gambler_SuggestHealthC103"
+//This is a good time to heal.
+"Gambler_SuggestHealthC104"
+//Time for people to heal.
+"Gambler_SuggestHealthC105"
+//Coach, you should heal.
+"Gambler_SuggestHealthCoach01"
+//Coach, don't forget about that health kit.
+"Gambler_SuggestHealthCoach02"
+//Hey Coach, heal.
+"Gambler_SuggestHealthCoach03"
+//Hey Coach, heal.
+"Gambler_SuggestHealthCoach04"
+//Coach, you should maybe heal.
+"Gambler_SuggestHealthCoach05"
+//Coach, you should heal.
+"Gambler_SuggestHealthCoach06"
+//Ellis, heal up.
+"Gambler_SuggestHealthEllis01"
+//Time to heal Ellis.
+"Gambler_SuggestHealthEllis02"
+//Come on Ellis, don't be a hero.  Use your health kit.
+"Gambler_SuggestHealthEllis03"
+//Come on Ellis, don't be a hero.  Use your health kit.
+"Gambler_SuggestHealthEllis04"
+//Rochelle, you don't look so good.
+"Gambler_SuggestHealthRochell01"
+//Rochelle, we need you, heal up.
+"Gambler_SuggestHealthRochell02"
+//Hey Ro, don't forget that health kit.
+"Gambler_SuggestHealthRochell03"
+//Hey Ro, don't forget that health kit.
+"Gambler_SuggestHealthRochell04"
+//Rochelle, you don't look so good.
+"Gambler_SuggestHealthRochell05"
+//Rochelle, we need you, heal up.
+"Gambler_SuggestHealthRochell06"
+//Ahh Coach.
+"Gambler_SurvivorMournCoach01"
+//Later Coach.
+"Gambler_SurvivorMournCoach02"
+//Shit Coach, I'll miss you.
+"Gambler_SurvivorMournCoach03"
+//I am going to miss you big guy.
+"Gambler_SurvivorMournCoachC101"
+//Goddamn it coach, what'd you leave me with?
+"Gambler_SurvivorMournCoachC102"
+//Goddamn it coach, what'd you leave me with?
+"Gambler_SurvivorMournCoachC103"
+//Ellis.
+"Gambler_SurvivorMournEllis01"
+//Ahh Ellis.
+"Gambler_SurvivorMournEllis02"
+//Ellis, I am surprised you lasted as long as you did.
+"Gambler_SurvivorMournEllis03"
+//He was annoying but he could shoot a gun.
+"Gambler_SurvivorMournMechanicC101"
+//No time for mourning, let's go.
+"Gambler_SurvivorMournMechanicC102"
+//He was annoying but he could shoot a gun.
+"Gambler_SurvivorMournMechanicC103"
+//I can think of two other people I would have rather seen go first.
+"Gambler_SurvivorMournProducerC101"
+//Guys, what are we going to do now?
+"Gambler_SurvivorMournProducerC102"
+//Rochelle.
+"Gambler_SurvivorMournRochelle01"
+//Ahh shit Rochelle.
+"Gambler_SurvivorMournRochelle02"
+//Goodnight Rochelle.
+"Gambler_SurvivorMournRochelle03"
+//There goes repopulating the earth.
+"Gambler_SurvivorMournRochelle04"
+//Taking the rifle.
+"Gambler_TakeAssaultRifle01"
+//Grabbing the assault rifle.
+"Gambler_TakeAssaultRifle02"
+//Grabbing the assault rifle.
+"Gambler_TakeAssaultRifle03"
+//Assault rifle.
+"Gambler_TakeAssaultRifle04"
+//Taking the rifle.
+"Gambler_TakeAssaultRifle05"
+//I got the shotgun.
+"Gambler_TakeAutoShotgun01"
+//Shotgun for me.
+"Gambler_TakeAutoShotgun02"
+//Taking the shotgun
+"Gambler_TakeAutoShotgun03"
+//Shotgun.
+"Gambler_TakeAutoShotgun04"
+//This brings back some good memories.
+"Gambler_TakeBat01"
+//This is nice, I'm gonna crack some heads with it.
+"Gambler_TakeBat02"
+//I'm gonna crack some heads with this.
+"Gambler_TakeBat03"
+//Nope. Bouncer at a club.
+"Gambler_TakeBatR01"
+//I need this.
+"Gambler_TakeFirstAid01"
+//I need this.
+"Gambler_TakeFirstAid02"
+//Grabbing the first aid.
+"Gambler_TakeFirstAid03"
+//I'll hold on to the first aid kit.
+"Gambler_TakeFirstAid04"
+//First Aid Kit.
+"Gambler_TakeFirstAid05"
+//A Freaking Axe (to self laughing)
+"Gambler_TakeFryingAxe01"
+//Axe!
+"Gambler_TakeFryingAxe02"
+//Gonna bonk some heads with this!
+"Gambler_TakeFryingPan01"
+//Frying pan!
+"Gambler_TakeFryingPan02"
+//A skillet!
+"Gambler_TakeFryingPan03"
+//This'll work.
+"Gambler_TakeFryingPan04"
+//Hell yeah.
+"Gambler_TakeMelee01"
+//This feels good.
+"Gambler_TakeMelee02"
+//This could be fun.
+"Gambler_TakeMelee03"
+//Can save some bullets with this one.
+"Gambler_TakeMelee04"
+//That'll come in handy.
+"Gambler_TakeMelee05"
+//I am going to beat the shit out of something with this.
+"Gambler_TakeMelee06"
+//Grabbing a Molotov.
+"Gambler_TakeMolotov01"
+//Molotov!
+"Gambler_TakeMolotov02"
+//Pills.
+"Gambler_TakePills01"
+//I got pills.
+"Gambler_TakePills02"
+//I can always use these.
+"Gambler_TakePills03"
+//I'll hold onto these pills.
+"Gambler_TakePills04"
+//Grabbing a pipe bomb.
+"Gambler_TakePipeBomb01"
+//Pipe bomb!
+"Gambler_TakePipeBomb02"
+//Grabbing the pistol!
+"Gambler_TakePistol01"
+//Pistol!
+"Gambler_TakePistol02"
+//Second pistol.
+"Gambler_TakePistol03"
+//Going with the shotgun.
+"Gambler_TakeShotgun01"
+//Shotgun.
+"Gambler_TakeShotgun02"
+//Taking the shotgun.
+"Gambler_TakeShotgun03"
+//Sniper for me.
+"Gambler_TakeSniper01"
+//I'll snipe.
+"Gambler_TakeSniper02"
+//Sniper for me.
+"Gambler_TakeSniper03"
+//I'll snipe.
+"Gambler_TakeSniper04"
+//Taking the machinegun.
+"Gambler_TakeSubMachineGun01"
+//Going with the machinegun.
+"Gambler_TakeSubMachineGun02"
+//Freaking tank is killing me!
+"Gambler_TankPound01"
+//Freaking tank is killing me!
+"Gambler_TankPound02"
+//Do you see this big giant thing on me?!?!
+"Gambler_TankPound03"
+//Do you see this big giant thing on me?!?!
+"Gambler_TankPound04"
+//Mother of Mercy! This thing is killing me!
+"Gambler_TankPound05"
+//Mother of Mercy! This thing is killing me!
+"Gambler_TankPound06"
+//Suck on that
+"Gambler_Taunt01"
+//Stick that where the sun don't shine!
+"Gambler_Taunt02"
+//Take that you mealy-mouthed bastards.
+"Gambler_Taunt03"
+//Stick it up your ass!
+"Gambler_Taunt04"
+//Stick that up your ass!
+"Gambler_Taunt05"
+//We are wiping the floor with you.
+"Gambler_Taunt06"
+//You don't stand a chance.
+"Gambler_Taunt07"
+//Give up now!
+"Gambler_Taunt08"
+//Candyasses!
+"Gambler_Taunt09"
+//Don't you think we should be killing the zombies instead?
+"Gambler_TeamKillAccident01"
+//What in the hell kind of strategy is that?
+"Gambler_TeamKillAccident02"
+//What?!!?  This is hard enough without you helping the freaks!
+"Gambler_TeamKillAccident03"
+//Looks like they're comin' back to finish the job.
+"Gambler_TeaserIntroMovie01"
+//Looks like they're comin' back to finish the job.
+"Gambler_TeaserIntroMovie02"
+//Looks like they're comin' back to finish the job.
+"Gambler_TeaserIntroMovie03"
+//I guess there's been a change of plans.
+"Gambler_TeaserIntroMovie04"
+//I guess there's been a change of plans.
+"Gambler_TeaserIntroMovie05"
+//Looks like they came back to finish the job.
+"Gambler_TeaserIntroMovie06"
+//Looks like there's been a change of plans.
+"Gambler_TeaserIntroMovie07"
+//Looks like their plans have changed.
+"Gambler_TeaserIntroMovie08"
+//There's been a change of plans.
+"Gambler_TeaserIntroMovie09"
+//Looks like there's been a change of plans.
+"Gambler_TeaserIntroMovie10"
+//There's been a change of plans.
+"Gambler_TeaserIntroMovie11"
+//Looks like their plans have changed.
+"Gambler_TeaserIntroMovie12"
+//Looks like we're not part've their new plan.
+"Gambler_TeaserIntroMovie13"
+//Looks like they came back to finish the job.
+"Gambler_TeaserIntroMovie14"
+//Looks like they came back to finish the job.
+"Gambler_TeaserIntroMovie15"
+//Looks like they're comin' back to finish the job.
+"Gambler_TeaserIntroMovie16"
+//Thanks.
+"Gambler_Thanks01"
+//Thanks!
+"Gambler_Thanks03"
+//Thanks, man, I owe you.
+"Gambler_Thanks04"
+//I owe you one.
+"Gambler_Thanks05"
+//Thanks bro.
+"Gambler_ThanksCoach01"
+//Thanks killer.
+"Gambler_ThanksEllis01"
+//Thanks Ro.
+"Gambler_ThanksRochelle01"
+//Relax, Relax I'm coming!
+"Gambler_ToTheRescue01"
+//I'm on my way!
+"Gambler_ToTheRescue02"
+//Hold on, coming!
+"Gambler_ToTheRescue03"
+//I'm on the way!
+"Gambler_ToTheRescue04"
+//That was WAY too close!
+"Gambler_TransitionClose01"
+//That was way, WAY too close!
+"Gambler_TransitionClose02"
+//Man, we got lucky!
+"Gambler_TransitionClose03"
+//That my friends, is how you do it!
+"Gambler_TransitionClose04"
+//Happy New Year!
+"Gambler_TransitionClose05"
+//We got lucky!
+"Gambler_TransitionClose06"
+//God DAMN, that was close!
+"Gambler_TransitionClose07"
+//That was a close one.
+"Gambler_TransitionClose08"
+//At least I made it.
+"Gambler_TransitionClose09"
+//Well, that was unpleasant.
+"Gambler_TransitionClose10"
+//We made that by the skin of our teeth.
+"Gambler_TransitionClose11"
+//That was a little too close.
+"Gambler_TransitionClose12"
+//Wait.
+"Gambler_WaitHere01"
+//Don't move from this spot.
+"Gambler_WaitHere02"
+//Stay here.
+"Gambler_WaitHere03"
+//Just stay here.
+"Gambler_WaitHere04"
+//Wait here.
+"Gambler_WaitHere05"
+//BOOMER!
+"Gambler_WarnBoomer01"
+//WE GOT A BOOMER!
+"Gambler_WarnBoomer02"
+//BOOMER!
+"Gambler_WarnBoomer03"
+//BOOMER!
+"Gambler_WarnBoomer04"
+//BOOMER!
+"Gambler_WarnBoomer05"
+//WE GOT A BOOMER!
+"Gambler_WarnBoomer06"
+//Fat guy!
+"Gambler_WarnBoomerC101"
+//Goiter man!
+"Gambler_WarnBoomerC102"
+//Aunt bee.
+"Gambler_WarnBoomerC103"
+//Fatty!
+"Gambler_WarnBoomerC104"
+//Fat guy!
+"Gambler_WarnBoomerC105"
+//Everybody be careful.
+"Gambler_WarnCareful01"
+//Let's be careful.
+"Gambler_WarnCareful02"
+//Try and be careful.
+"Gambler_WarnCareful03"
+//CHARGER!
+"Gambler_WarnCharger01"
+//WE GOT A CHARGER!
+"Gambler_WarnCharger02"
+//CHARGER!
+"Gambler_WarnCharger03"
+//CHARGER!
+"Gambler_WarnCharger04"
+//One Arm!
+"Gambler_WarnChargerC101"
+//Overalls!
+"Gambler_WarnChargerC102"
+//Hillbilly!
+"Gambler_WarnChargerC103"
+//WE GOT A HUNTER!
+"Gambler_WarnHunter01"
+//HUNTER!
+"Gambler_WarnHunter02"
+//HUNTER!
+"Gambler_WarnHunter03"
+//HUNTER!
+"Gambler_WarnHunter04"
+//WE GOT A HUNTER!
+"Gambler_WarnHunter05"
+//Jumper!
+"Gambler_WarnHunterC101"
+//Leaper!
+"Gambler_WarnHunterC102"
+//Scrawny little bitch I'm gonna kill.
+"Gambler_WarnHunterC103"
+//Jockey!
+"Gambler_WarnJockey01"
+//Jockey!
+"Gambler_WarnJockey02"
+//Jockey!
+"Gambler_WarnJockey03"
+//Little guy!
+"Gambler_WarnJockeyC101"
+//Little freak!
+"Gambler_WarnJockeyC102"
+//Little guy!
+"Gambler_WarnJockeyC103"
+//WE GOT A SMOKER!
+"Gambler_WarnSmoker01"
+//SMOKER!
+"Gambler_WarnSmoker02"
+//SMOKER!
+"Gambler_WarnSmoker03"
+//SMOKER!
+"Gambler_WarnSmoker04"
+//TONGUE!
+"Gambler_WarnSmokerC101"
+//The smoking thing!
+"Gambler_WarnSmokerC102"
+//Spitter
+"Gambler_WarnSpitter01"
+//Spitter
+"Gambler_WarnSpitter02"
+//We got a spitter
+"Gambler_WarnSpitter03"
+//Green thing!
+"Gambler_WarnSpitterC101"
+//Neck!
+"Gambler_WarnSpitterC102"
+//We got goo!!
+"Gambler_WarnSpitterIncoming01"
+//Goo incoming!
+"Gambler_WarnSpitterIncoming02"
+//Hot stuff coming!
+"Gambler_WarnSpitterIncoming03"
+//Fire spit coming!
+"Gambler_WarnSpitterIncoming04"
+//Fire spit coming!
+"Gambler_WarnSpitterIncoming05"
+//We got goo!!
+"Gambler_WarnSpitterIncoming06"
+//We got goo coming!!
+"Gambler_WarnSpitterIncoming07"
+//WE GOT A TANK!
+"Gambler_WarnTank01"
+//TANK!
+"Gambler_WarnTank02"
+//TANK!
+"Gambler_WarnTank03"
+//TANK!
+"Gambler_WarnTank04"
+//We have a problem!
+"Gambler_WarnTankC101"
+//HOLY SHIT! BIG FREAKING ZOMBIE!
+"Gambler_WarnTankC102"
+//We have a problem!
+"Gambler_WarnTankC103"
+//HOLY SHIT! BIG FREAKING ZOMBIE!
+"Gambler_WarnTankC104"
+//We got a witch.
+"Gambler_WarnWitch01"
+//Witch.
+"Gambler_WarnWitch02"
+//Witch.
+"Gambler_WarnWitch03"
+//Witch.
+"Gambler_WarnWitch04"
+//They're behind us!
+"Gambler_WatchOutBehind01"
+//Behind us!
+"Gambler_WatchOutBehind02"
+//Behind!
+"Gambler_WatchOutBehind03"
+//Behind us!
+"Gambler_WatchOutBehind04"
+//AhhhI pissed the witch off!
+"Gambler_WitchChasing01"
+//This bitch is chasing me!
+"Gambler_WitchChasing02"
+//Witch coming! Witch coming!
+"Gambler_WitchChasing03"
+//Shoot the witch! Shoot the witch! Shoot the witch!
+"Gambler_WitchChasing04"
+//Shoot the witch! Shoot the witch! Shoot the witch! What are you doing? Shoot her!
+"Gambler_WitchChasing05"
+//AhhhI pissed the witch off!
+"Gambler_WitchChasing06"
+//Leave the witch alone.
+"Gambler_WitchGettingAngry01"
+//Can we leave that witch alone?
+"Gambler_WitchGettingAngry02"
+//Watch out, that witch is getting angry.
+"Gambler_WitchGettingAngry03"
+//Stay away from the witch.
+"Gambler_WitchGettingAngry04"
+//Things could be worse.
+"Gambler_World102"
+//All we have to do is find the freeway.  It'll take us to the bridge.
+"Gambler_World103"
+//Looks like the Military took over.
+"Gambler_World107"
+//Don't shoot that car!
+"Gambler_World112"
+//From the looks of this park. I'm glad we didn't arrive early.
+"Gambler_World113"
+//We run to the tower and turn off the alarm. (exasperated to Ellis)
+"Gambler_World115"
+//As soon as that door opens, get ready to run for the tower.
+"Gambler_World116"
+//These bodies are not infected.
+"Gambler_World117"
+//You ever eat horse?  Tasty. (Ellis - wish we had horses. )
+"Gambler_World119"
+//Yeah and of course, stay together (Ellis - but we should stick together right?)
+"Gambler_World120"
+//Annnd... Let's go! Let's go!
+"Gambler_World121"
+//Annnd... Let's go! Let's go! Let's go!
+"Gambler_World122"
+//To the tower.
+"Gambler_World123"
+//Run to the tower.
+"Gambler_World124"
+//Somebody's got to turn off the alarm!
+"Gambler_World125"
+//Turn off the alarm!
+"Gambler_World126"
+//Alarm is off!
+"Gambler_World129"
+//Off!
+"Gambler_World130"
+//I got it!
+"Gambler_World131"
+//Ellis! ELLIS!  We don't have time for that right now! (ellis telling story about riding on buses)
+"Gambler_World132"
+//There's the freeway.
+"Gambler_World133"
+//Zombies didn't take down this helicopter.
+"Gambler_World204"
+//Up the ladder!
+"Gambler_World213"
+//Ooohhhhh ho ho ho...  watch where you shoot!
+"Gambler_World214"
+//WHAT THE -  (reaction to bombing)
+"Gambler_World219"
+//WHAT THE HELL ARE THEY DOING?  (reaction to bombing)
+"Gambler_World220"
+//The city of the dead (to self)
+"Gambler_World226"
+//God I love pool.
+"Gambler_World303"
+//Someone start the tractor.
+"Gambler_World305"
+//Look Ellis!  A tractor!
+"Gambler_World306"
+//We can use that float to get across.
+"Gambler_World307"
+//Our rides here.
+"Gambler_World308"
+//The BRIDGE!
+"Gambler_World312"
+//I'm hitting it, get ready!
+"Gambler_World409"
+//Your mom's car. (Hey nick, what kind of car did you drive?)
+"Gambler_World421"
+//Get to the chopper!
+"Gambler_World425"
+//So that's a boomer, huh? You know, it's sad to see an eating disorder get out of control like that.
+"Gambler_WorldC1M1B10"
+//Good, that's decided. Moving on: I think this building's on fire. Sooo... I'd like to leave it.
+"Gambler_WorldC1M1B100"
+//Hey! Get back here!
+"Gambler_WorldC1M1B101"
+//I guess living here's finally paying off.
+"Gambler_WorldC1M1B103"
+//Get me to the mall and I'll make it worth your while.
+"Gambler_WorldC1M1B104"
+//Hey, come back! I'm HERE! There's still someone DOWN here!
+"Gambler_WorldC1M1B105"
+//You could have yelled if you wanted.
+"Gambler_WorldC1M1B107"
+//It's flying away from the burning building we're standing on. Let's follow its lead and get the hell out of here.
+"Gambler_WorldC1M1B109"
+//Okay, we all had a turn yelling at the helicopter. Good. Moving on: I think the building's on fire.
+"Gambler_WorldC1M1B112"
+//Goddamn it they left us!
+"Gambler_WorldC1M1B117"
+//Yeah sure, all for one and one for all. [Sarcastic]
+"Gambler_WorldC1M1B118"
+//I trust you. You look like a man who knows his donuts.
+"Gambler_WorldC1M1B122"
+//They saw us all right, and they're not coming back.
+"Gambler_WorldC1M1B123"
+//Not to burst your bubble, sport, but this building is burning down. They're not coming back.
+"Gambler_WorldC1M1B124"
+//So much for the rescue. Any ideas?
+"Gambler_WorldC1M1B125"
+//Grab something, I got a feeling this isn't going to be easy.
+"Gambler_WorldC1M1B126"
+//We better arm ourselves. I hope you three know how to fight. You don't look it.
+"Gambler_WorldC1M1B128"
+//If the world's going to hell, I'm taking a weapon.
+"Gambler_WorldC1M1B129"
+//Everybody grab a weapon. I get the feeling we're gonna need 'em.
+"Gambler_WorldC1M1B130"
+//Holy shit, it's zombies.
+"Gambler_WorldC1M1B134"
+//Well, this is unexpected.
+"Gambler_WorldC1M1B137"
+//These... don't look like people.
+"Gambler_WorldC1M1B138"
+//Jesus Christ! What are these things?
+"Gambler_WorldC1M1B139"
+//Alright, I'm not walking through THAT. Let's find another way.
+"Gambler_WorldC1M1B14"
+//I don't know about you, but I'm killing these things.
+"Gambler_WorldC1M1B140"
+//If that map's right, New Orleans might be the last place in America that can get us out alive.
+"Gambler_WorldC1M1B143"
+//According to this map, the only place left standing is New Orleans.
+"Gambler_WorldC1M1B146"
+//Jesus, the whole country has fallen.
+"Gambler_WorldC1M1B147"
+//This map is not good news.
+"Gambler_WorldC1M1B148"
+//According to this map, there aren't a whole lot of options.
+"Gambler_WorldC1M1B149"
+//Let's find another way. This suit's flammable.
+"Gambler_WorldC1M1B15"
+//Shit! This place is burnin' up FAST.
+"Gambler_WorldC1M1B16"
+//Damn it! Elevator's out.
+"Gambler_WorldC1M1B17"
+//Get out to the ledge!
+"Gambler_WorldC1M1B21"
+//Out here! Let's try the ledge!
+"Gambler_WorldC1M1B22"
+//We can use this ledge to get around the fire.
+"Gambler_WorldC1M1B23"
+//This shit'll even up the score.
+"Gambler_WorldC1M1B27"
+//Now we're talking.
+"Gambler_WorldC1M1B34"
+//Search these rooms. Might be something we can use.
+"Gambler_WorldC1M1B35"
+//This elevator's still working!
+"Gambler_WorldC1M1B36"
+//Technically... you're not supposed to use an elevator in a fire. But that might not apply during a zombie apocalypse.
+"Gambler_WorldC1M1B37"
+//Everybody get in the elevator!
+"Gambler_WorldC1M1B38"
+//I bet there'll be something waiting for us out there. So let's get ready...
+"Gambler_WorldC1M1B41"
+//Alright, we're all friends now. Get ready...
+"Gambler_WorldC1M1B42"
+//Name's Nick. But don't worry about learning it, 'cause I ain't sticking around long.
+"Gambler_WorldC1M1B44"
+//Nick. That's all you need to know.
+"Gambler_WorldC1M1B45"
+//Nick.
+"Gambler_WorldC1M1B46"
+//Hey, what's your name?
+"Gambler_WorldC1M1B50"
+//You did good out there, Rochelle.
+"Gambler_WorldC1M1B51"
+//Nick, name's Nick. You all did good. What's your names?
+"Gambler_WorldC1M1B52"
+//Okay, let's keep this up.
+"Gambler_WorldC1M1B53"
+//Nick.
+"Gambler_WorldC1M1B54"
+//Nice work out there.
+"Gambler_WorldC1M1B55"
+//Name's Nick.
+"Gambler_WorldC1M1B56"
+//Anyone get bit? Isn't that how this works?
+"Gambler_WorldC1M1B57"
+//Nick.
+"Gambler_WorldC1M1B58"
+//Well, I'm glad we got that out of the way. Now: did anyone get bit?
+"Gambler_WorldC1M1B59"
+//There's blood on me, but it ain't mine.
+"Gambler_WorldC1M1B60"
+//No, I'm good.
+"Gambler_WorldC1M1B62"
+//And then there were three.
+"Gambler_WorldC1M1B64"
+//Nick. Not that it matters, 'cause I think we should split up when this things opens.
+"Gambler_WorldC1M1B65"
+//We're pretty screwed.
+"Gambler_WorldC1M1B66"
+//Was it Ellis? Well, doesn't matter now.
+"Gambler_WorldC1M1B67"
+//I think it was Coach. Don't matter now.
+"Gambler_WorldC1M1B68"
+//I think she just said it was Rochelle.
+"Gambler_WorldC1M1B69"
+//I normally go solo-but under the circumstances, I'm thinkin' we stick together. Call me Nick. You got names?
+"Gambler_WorldC1M1B70"
+//That's what they call a boomer...
+"Gambler_WorldC1M1B73"
+//God DAMN it! We just missed it!
+"Gambler_WorldC1M1B87"
+//God DAMN it! We just missed it!
+"Gambler_WorldC1M1B88"
+//Where the hell's the copter going? We're right here!
+"Gambler_WorldC1M1B89"
+//Okay. Helicopters don't come back when you yell at them. Now we know that.
+"Gambler_WorldC1M1B90"
+//God DAMN it! We just missed it!
+"Gambler_WorldC1M1B91"
+//Good, that's decided. Moving on: I think this building's on fire. Sooo... I'd like to leave this building.
+"Gambler_WorldC1M1B92"
+//Hey! Come back!
+"Gambler_WorldC1M1B96"
+//Damn it! We JUST missed it!
+"Gambler_WorldC1M1B97"
+//Where the hell's the copter going? We're right here!
+"Gambler_WorldC1M1B98"
+//Hey! Get back here!
+"Gambler_WorldC1M1B99"
+//Sounds good to me.
+"Gambler_WorldC1M2B01"
+//A gun store sounds like a fine to stop.
+"Gambler_WorldC1M2B02"
+//Mall must be close...
+"Gambler_WorldC1M2B03"
+//Through the door!
+"Gambler_WorldC1M2B06"
+//Jump onto the truck!
+"Gambler_WorldC1M2B07"
+//Over this dumpster!
+"Gambler_WorldC1M2B08"
+//Are you sure this is the way to the mall?
+"Gambler_WorldC1M2B09"
+//Jesus. This place is a ghost town.
+"Gambler_WorldC1M2B10"
+//It's STARTING to creep you out?
+"Gambler_WorldC1M2B12"
+//I'm not legally allowed to own a gun, hope everybody's okay with that.
+"Gambler_WorldC1M2B13"
+//Candy store for adults.
+"Gambler_WorldC1M2B14"
+//Let's grab some guns, we got shit to shoot.
+"Gambler_WorldC1M2B15"
+//So let me get this straight: we get you your shit and you'll help us get to the mall? Right? Okay. You screw us and I will kill you with your own gun.
+"Gambler_WorldC1M2B16"
+//Thank you for the guns, honestly, we all appreciate it. But you better not be screwing with us.
+"Gambler_WorldC1M2B17"
+//Sure, why not.
+"Gambler_WorldC1M2B19"
+//Sir, for the use of this gun, I am willing to go get you your cola.
+"Gambler_WorldC1M2B20"
+//Get ready, this is going to set off the alarm
+"Gambler_WorldC1M2B21"
+//Get the cola!
+"Gambler_WorldC1M2B24"
+//Grab the cola!
+"Gambler_WorldC1M2B25"
+//Somebody grab the Cola!
+"Gambler_WorldC1M2B26"
+//I got his Cola, let's go!
+"Gambler_WorldC1M2B27"
+//We got it, let's go!
+"Gambler_WorldC1M2B28"
+//Got the cola!
+"Gambler_WorldC1M2B29"
+//Barrier's down! Let's get out of here.
+"Gambler_WorldC1M2B30"
+//There goes the tanker. Let's get out of here.
+"Gambler_WorldC1M2B31"
+//That's one way to open a path.
+"Gambler_WorldC1M2B32"
+//I gotta respect that!
+"Gambler_WorldC1M2B33"
+//That is how you clear a path.
+"Gambler_WorldC1M2B34"
+//I'll be damned-we actually made it to the mall.
+"Gambler_WorldC1M2B35"
+//Well, we made it. Let's hope there's still somebody here.
+"Gambler_WorldC1M2B36"
+//Okay we made it. Let's hope there's still somebody here.
+"Gambler_WorldC1M2B37"
+//Okay, we made it to the mall. BARELY.
+"Gambler_WorldC1M2B38"
+//If anyone sees a men's store let me know. I got blood on this suit.
+"Gambler_WorldC1M3B01"
+//Let's go find this evacuation center. I'm already sick of this place.
+"Gambler_WorldC1M3B02"
+//Ugh. GOD, I hate malls.
+"Gambler_WorldC1M3B03"
+//Up this escalator!
+"Gambler_WorldC1M3B04"
+//Down that escalator!
+"Gambler_WorldC1M3B07"
+//Disco Pants and Haircuts? Man, lots of space in this mall.
+"Gambler_WorldC1M3B08"
+//Evac's this way!
+"Gambler_WorldC1M3B09"
+//Who the hell is Jimmy Gibbs, Jr.?
+"Gambler_WorldC1M3B12"
+//I'm getting sick of looking at this guy's face.
+"Gambler_WorldC1M3B13"
+//Really? 'Cause he looks like an asshole.
+"Gambler_WorldC1M3B14"
+//I got a sinking feeling this alarm's gonna get us some attention...
+"Gambler_WorldC1M3B15"
+//I got a sick feeling this alarm's gonna get us some attention...
+"Gambler_WorldC1M3B16"
+//Keep going up!
+"Gambler_WorldC1M3B17"
+//Up! Up! Keep moving!
+"Gambler_WorldC1M3B18"
+//Turn off THAT ALARM!
+"Gambler_WorldC1M3B19"
+//We gotta turn off this alarm!
+"Gambler_WorldC1M3B20"
+//We need to turn of this alarm!
+"Gambler_WorldC1M3B21"
+//Is there some way to turn off this alarm?
+"Gambler_WorldC1M3B22"
+//Got it!
+"Gambler_WorldC1M3B23"
+//Alarm off!
+"Gambler_WorldC1M3B24"
+//Thanks for turning off that alarm!
+"Gambler_WorldC1M3B25"
+//Man, that was driving me crazy.
+"Gambler_WorldC1M3B26"
+//You know what? I could take the zombies, but not that goddam noise.
+"Gambler_WorldC1M3B27"
+//Jesus. I knew it. There's nothing here!
+"Gambler_WorldC1M3B28"
+//Okay, so the evac station's abandoned, annnnd we're at the center of a zombie-filled building. But on the bright side? We're all probably gonna die.
+"Gambler_WorldC1M3B29"
+//CEDA leaving me twice in one day, lesson learned.
+"Gambler_WorldC1M3B30"
+//No one's alive in here.
+"Gambler_WorldC1M3B31"
+//We aren't getting saved.
+"Gambler_WorldC1M3B33"
+//We are going to have to save ourselves, people.
+"Gambler_WorldC1M3B34"
+//Looks like people headed this way!
+"Gambler_WorldC1M3B35"
+//There's a saferoom up ahead!
+"Gambler_WorldC1M3B36"
+//I think the little guy's onto something. Let's give it a shot.
+"Gambler_WorldC1M4B01"
+//CEDA's not gonna save us, any ideas?
+"Gambler_WorldC1M4B02"
+//I'll agree to the idea, but I'm driving.
+"Gambler_WorldC1M4B03"
+//What a fun road trip this will be.
+"Gambler_WorldC1M4B04"
+//Well, it beats my idea: staying here and dying in the mall.
+"Gambler_WorldC1M4B05"
+//Okay. Let's gas up the car and get the hell out of this mall.
+"Gambler_WorldC1M4B06"
+//Let's get some GAS!
+"Gambler_WorldC1M4B07"
+//Fill 'er up!
+"Gambler_WorldC1M4B08"
+//Come onnnn, come onnnnnn...
+"Gambler_WorldC1M4B09"
+//Come onnnn, come onnnnnn...
+"Gambler_WorldC1M4B10"
+//Come on...
+"Gambler_WorldC1M4B11"
+//Get in the tank, you stupid goddamn gas, get in the tank.
+"Gambler_WorldC1M4B12"
+//Piece of shit gas, GET IN THE CAR!
+"Gambler_WorldC1M4B13"
+//Got another can in the tank!
+"Gambler_WorldC1M4B14"
+//One more for the gas tank!
+"Gambler_WorldC1M4B15"
+//How big is the tank in this thing?
+"Gambler_WorldC1M4B16"
+//Hurry up, hurrrry upppp...
+"Gambler_WorldC1M4B17"
+//Come comeoncomeoncomeoncomeon. Come on!
+"Gambler_WorldC1M4B18"
+//Get! In! The! Tank!
+"Gambler_WorldC1M4B19"
+//Get in there!
+"Gambler_WorldC1M4B20"
+//We still need more gas!
+"Gambler_WorldC1M4B24"
+//Halfway there!
+"Gambler_WorldC1M4B25"
+//Almost there!
+"Gambler_WorldC1M4B26"
+//We still need ten more!
+"Gambler_WorldC1M4B28"
+//We still need five more!
+"Gambler_WorldC1M4B29"
+//Just three more!
+"Gambler_WorldC1M4B30"
+//Just two more!
+"Gambler_WorldC1M4B31"
+//One more can to go!
+"Gambler_WorldC1M4B33"
+//She's all filled up, let's go, get to the car!
+"Gambler_WorldC1M4B34"
+//Thank YOU, Jimmy Gibbs, Jr.
+"Gambler_WorldC1M4B35"
+//Get to the car!
+"Gambler_WorldC1M4B36"
+//Would you get to the goddamn car?
+"Gambler_WorldC1M4B37"
+//HELL YEAH! Next stop: New Orleans...
+"Gambler_WorldC1M4B38"
+//Everyone to the car!
+"Gambler_WorldC1M4B39"
+//I'm not waiting long, get to the car!
+"Gambler_WorldC1M4B40"
+//Time to leave people!
+"Gambler_WorldC1M4B41"
+//Time to go!
+"Gambler_WorldC1M4B42"
+//Let's go people, let's go!
+"Gambler_WorldC1M4B43"
+//Hit it, Ellis!
+"Gambler_WorldC1M4B44"
+//This is just a mess.
+"Gambler_WorldC2M105"
+//Down the off ramp.
+"Gambler_WorldC2M107"
+//There's a motel up there.
+"Gambler_WorldC2M109"
+//Search the rooms.
+"Gambler_WorldC2M114"
+//Let's try upstairs.
+"Gambler_WorldC2M115"
+//In here.
+"Gambler_WorldC2M118"
+//Careful heading down there hill.
+"Gambler_WorldC2M125"
+//Woah shit.
+"Gambler_WorldC2M127"
+//Down the river.
+"Gambler_WorldC2M130"
+//We can get up the hill over here.
+"Gambler_WorldC2M131"
+//Lights are on, where's the people?
+"Gambler_WorldC2M133"
+//Safe house in the trailer.
+"Gambler_WorldC2M135"
+//Breaking my neck is not a fun time, Ellis.
+"Gambler_WorldC2M137"
+//I hate to be the bearer of bad news, guys-but unless Ellis knows how to build a monster truck, we AIN'T drivin' through this.
+"Gambler_WorldC2M1B01"
+//Don't sweat it, Ellis. At least you got us out of that mall.
+"Gambler_WorldC2M1B02"
+//God DAMN you, Jimmy Gibbs, Jr.
+"Gambler_WorldC2M1B03"
+//These abandoned cars go on for MILES.
+"Gambler_WorldC2M1B04"
+//That's... one theory.
+"Gambler_WorldC2M1B05"
+//Oh good. Now we can die there as adults.
+"Gambler_WorldC2M1B06"
+//Searchlights over there. Could be a way out.
+"Gambler_WorldC2M1B07"
+//Down this off ramp!
+"Gambler_WorldC2M1B08"
+//Highway's blocked! Let's cut through this motel!
+"Gambler_WorldC2M1B11"
+//[Whistles] those people SUCKED at high diving.
+"Gambler_WorldC2M1B13"
+//We better search these rooms.
+"Gambler_WorldC2M1B14"
+//Careful, this gully looks pretty steep.
+"Gambler_WorldC2M1B16"
+//Whispering Oaks! We made it.
+"Gambler_WorldC2M1B17"
+//Looks abandoned.
+"Gambler_WorldC2M202"
+//As far as Evac Centers go, this is not the worst place to hole up.
+"Gambler_WorldC2M205"
+//Back here.
+"Gambler_WorldC2M210"
+//Through here.
+"Gambler_WorldC2M217"
+//We need to turn on the power to open this door.
+"Gambler_WorldC2M218"
+//You know what? Somehow I think it will activate everything else around here.
+"Gambler_WorldC2M219"
+//What hell, I'm hitting it.
+"Gambler_WorldC2M220"
+//I'm hitting it.
+"Gambler_WorldC2M223"
+//Get ready to run, I'm hitting it.
+"Gambler_WorldC2M224"
+//Keep running, keep running.
+"Gambler_WorldC2M225"
+//Run into the tunnel of love!
+"Gambler_WorldC2M226"
+//Tunnel of love?  Jesus Christ.
+"Gambler_WorldC2M227"
+//Go go go.  Cut in line.
+"Gambler_WorldC2M228"
+//We'll head towards the searchlights. If there's an evac, it'll be there.
+"Gambler_WorldC2M2B02"
+//Or maybe a corpse fell on the searchlight button. Still, worth checking out.
+"Gambler_WorldC2M2B03"
+//Never heard of 'em. They any good?
+"Gambler_WorldC2M2B04"
+//Now *I* want to ride one.
+"Gambler_WorldC2M2B05"
+//Buddy, if you can me out of this alive? I will deep-fry you an entire goddamn cow.
+"Gambler_WorldC2M2B07"
+//He's like a five year old. With guns. And a comprehensive grasp of every swear word in the English language.
+"Gambler_WorldC2M2B08"
+//You gotta be this tall to get in here, Ellis. Sorry, buddy. You'll be missed.
+"Gambler_WorldC2M2B09"
+//Nope. Just lots and lots of tanks.
+"Gambler_WorldC2M2B11"
+//I do not like that little peanut man.
+"Gambler_WorldC2M2B14"
+//Nice fencing. Looks like a federal carousel penitentiary.
+"Gambler_WorldC2M2B15"
+//A fenced-in carousel? Is this where they took child prisoners on day trips?
+"Gambler_WorldC2M2B16"
+//SHIT, that's loud! Somebody shut it down!
+"Gambler_WorldC2M2B18"
+//Goddamn, that's loud! Somebody shut it down!
+"Gambler_WorldC2M2B19"
+//Okay, it's off!
+"Gambler_WorldC2M2B20"
+//This is the most RELAXING safe room I've ever been in.
+"Gambler_WorldC2M2B22"
+//Why couldn't I have been in Vegas when the infection hit? Or even Atlantic city? Instead I am trapped inside some hillbilly tunnel of love.
+"Gambler_WorldC2M301"
+//Did you see the sign out front?  Cousins only day today.
+"Gambler_WorldC2M303"
+//You could almost call this a cement river, Ellis
+"Gambler_WorldC2M307"
+//This way is blocked.
+"Gambler_WorldC2M312"
+//Let's try the maintenance room.
+"Gambler_WorldC2M313"
+//This isn't very romantic.
+"Gambler_WorldC2M315"
+//Down the hole.
+"Gambler_WorldC2M316"
+//Down the hole.
+"Gambler_WorldC2M317"
+//Let's all do this together.
+"Gambler_WorldC2M318"
+//Everyone at the same time.
+"Gambler_WorldC2M319"
+//Down here.
+"Gambler_WorldC2M320"
+//Down here.
+"Gambler_WorldC2M321"
+//Hmm... okay, we're further down the path.
+"Gambler_WorldC2M322"
+//That got us around the block.
+"Gambler_WorldC2M323"
+//I can feel a breeze, fresh air!
+"Gambler_WorldC2M325"
+//Finally, outside!
+"Gambler_WorldC2M326"
+//I hate roller coasters.
+"Gambler_WorldC2M331"
+//Hit the power to move this crap.
+"Gambler_WorldC2M332"
+//Okay, the only way over is to get on the coaster's track.
+"Gambler_WorldC2M333"
+//We're gonna have to run the coaster.
+"Gambler_WorldC2M334"
+//Stay on the track.
+"Gambler_WorldC2M335"
+//Make sure to call out if you get pulled.
+"Gambler_WorldC2M336"
+//Stay on the track people!
+"Gambler_WorldC2M337"
+//Run on the track!
+"Gambler_WorldC2M339"
+//Thank god this doesn't do a loop.
+"Gambler_WorldC2M340"
+//We need to keep going down the track!
+"Gambler_WorldC2M342"
+//Hit the alarm to stop them!
+"Gambler_WorldC2M344"
+//Shut down the coaster!
+"Gambler_WorldC2M345"
+//We have to shut down the coaster!
+"Gambler_WorldC2M346"
+//Through the bumper cars!
+"Gambler_WorldC2M347"
+//Keep going through the bumper cars.
+"Gambler_WorldC2M348"
+//I think we should clarify what constitutes "close".
+"Gambler_WorldC2M3B01"
+//You got your wish, Ellis. We're in an amusement park ride.
+"Gambler_WorldC2M3B02"
+//Bringing back any memories, Coach? You, a cheeseburger, romance in the air...
+"Gambler_WorldC2M3B03"
+//Psh! Huh. Several. Easily.
+"Gambler_WorldC2M3B04"
+//Yeah. Don't drink it.
+"Gambler_WorldC2M3B07"
+//Into the swan maintenance room of love!
+"Gambler_WorldC2M3B08"
+//This is the LONGEST tunnel of love I've ever seen.
+"Gambler_WorldC2M3B13"
+//You got your wish, Ellis. We're on a ride.
+"Gambler_WorldC2M3B14"
+//And we're gonna have to destroy this rubble pile.
+"Gambler_WorldC2M3B16"
+//We gotta get that alarm off!
+"Gambler_WorldC2M3B18"
+//Somebody turn off that alarm!
+"Gambler_WorldC2M3B19"
+//Just follow the tracks, everybody!
+"Gambler_WorldC2M3B20"
+//Everybody, just follow the tracks!
+"Gambler_WorldC2M3B21"
+//Alarm's off!
+"Gambler_WorldC2M3B22"
+//These infected do NOT respect lines.
+"Gambler_WorldC2M3B23"
+//We're gonna have to destroy this rubble pile.
+"Gambler_WorldC2M3B24"
+//Looks like the H in 4H stands for hell.
+"Gambler_WorldC2M408"
+//Careful on these roofs.
+"Gambler_WorldC2M416"
+//Climb the ladder.
+"Gambler_WorldC2M422"
+//We can climb this scaffolding.
+"Gambler_WorldC2M427"
+//What?
+"Gambler_WorldC2M433"
+//Okay, we'll set off the pyrotechnics, but I'm telling you right now.  I AM NOT GOING TO AIR GUITAR.
+"Gambler_WorldC2M450"
+//Hit the lights.
+"Gambler_WorldC2M461"
+//You guys ready to rock?
+"Gambler_WorldC2M463"
+//Someone needs to hit the lights!
+"Gambler_WorldC2M468"
+//We have to hit the lights!
+"Gambler_WorldC2M470"
+//Gate's open!
+"Gambler_WorldC2M478"
+//We need something big to signal the 'copter.
+"Gambler_WorldC2M4B04"
+//Coach, that is the stupidest idea I have ever agreed with.
+"Gambler_WorldC2M5B02"
+//Unless someone has a better idea, let's rock.
+"Gambler_WorldC2M5B04"
+//Sorry to break it to you Coach, but your heroes lip-sync. There's a tape back here labeled finale.
+"Gambler_WorldC2M5B08"
+//This looks all setup for the finale.
+"Gambler_WorldC2M5B10"
+//When I hit this tape, it's gonna blare some old people's rock music and start the finale. Get ready.
+"Gambler_WorldC2M5B11"
+//Coach, when I start this finale, you aren't gonna start dancing are you? Ahh Screw it, I'm hitting it.
+"Gambler_WorldC2M5B12"
+//If you have taste, cover your ears. I'm starting the finale.
+"Gambler_WorldC2M5B13"
+//Get ready, I'm gonna start the finale.
+"Gambler_WorldC2M5B14"
+//Everyone ready, I'm gonna hit this and start the finale.
+"Gambler_WorldC2M5B15"
+//Hit the lights!
+"Gambler_WorldC2M5B16"
+//Lights!
+"Gambler_WorldC2M5B18"
+//I'm gonna regret this, but turn it up!
+"Gambler_WorldC2M5B21"
+//Turn on the lights!
+"Gambler_WorldC2M5B26"
+//There's the copter!
+"Gambler_WorldC2M5B38"
+//This worked! The copter is here!
+"Gambler_WorldC2M5B39"
+//Holy shit, this worked!
+"Gambler_WorldC2M5B42"
+//Coach, you're a genius this worked!
+"Gambler_WorldC2M5B43"
+//It worked! I love you Coach!
+"Gambler_WorldC2M5B44"
+//The pilot's landed, let's go!
+"Gambler_WorldC2M5B48"
+//Get on the helicopter!
+"Gambler_WorldC2M5B49"
+//Everyone to the copter!
+"Gambler_WorldC2M5B50"
+//Copter's landed, let's go!
+"Gambler_WorldC2M5B52"
+//Let's go, let's go to the copter!
+"Gambler_WorldC2M5B53"
+//Get on the boat!
+"Gambler_WorldC3M101"
+//Get on the boat!
+"Gambler_WorldC3M102"
+//Get to the boat!
+"Gambler_WorldC3M103"
+//What you?  Really?
+"Gambler_WorldC3M105"
+//Pffft.
+"Gambler_WorldC3M106"
+//Yes,
+"Gambler_WorldC3M107"
+//Yes, I remember Ellis.
+"Gambler_WorldC3M108"
+//Yes Ellis, I remember.
+"Gambler_WorldC3M109"
+//Wow, Coach, that was uplifting. (sarcastically)
+"Gambler_WorldC3M110"
+//Well Coach, that was uplifting.  Everybody else motivated now? (sarcastically)
+"Gambler_WorldC3M111"
+//Thanks, Coach, that was uplifting. (sarcastically)
+"Gambler_WorldC3M112"
+//What, alive infected or alive and not zombies?
+"Gambler_WorldC3M113"
+//100 to 1.
+"Gambler_WorldC3M114"
+//Jesus christ Ellis, like the goddamn zombies aren't bad enough.
+"Gambler_WorldC3M116"
+//You forgot one thing, from the way we shoot?  Each other.
+"Gambler_WorldC3M117"
+//I can't believe none of you were going to shoot him.
+"Gambler_WorldC3M1B01"
+//Well, he wasn't doing a very good job once he became a zombie now was he?
+"Gambler_WorldC3M1B02"
+//I shot a zombie. He was a zombie Ellis. He must have gotten bitten before he picked us up.
+"Gambler_WorldC3M1B03"
+//No problem big guy, sorry about the landing.
+"Gambler_WorldC3M1B04"
+//Great, we crash land in front of a village that hates everyone.
+"Gambler_WorldC3M1B05"
+//This looks like a friendly place.
+"Gambler_WorldC3M1B06"
+//They probably should have added no zombies to that sign.
+"Gambler_WorldC3M1B08"
+//We gotta get that boat over here.
+"Gambler_WorldC3M1B09"
+//We need to call that boat over here.
+"Gambler_WorldC3M1B10"
+//I'm calling over the ferry.
+"Gambler_WorldC3M1B11"
+//Get ready, I'm calling the ferry.
+"Gambler_WorldC3M1B12"
+//Shit. This swamp is going to ruin my white suit.
+"Gambler_WorldC3M1B17"
+//Brains come out. Swamp water doesn't. Don't ask me how I know that.
+"Gambler_WorldC3M1B18"
+//Screw these goddamn mud people.
+"Gambler_WorldC3M201"
+//I'm with Ellis, I hate these mud people.
+"Gambler_WorldC3M202"
+//This mud is not doing my suit any favors.
+"Gambler_WorldC3M203"
+//This swamp is just a cesspool for disease.
+"Gambler_WorldC3M2B01"
+//I can feel my feet growing fungus.
+"Gambler_WorldC3M2B02"
+//These swamps don't agree with me.
+"Gambler_WorldC3M2B03"
+//Dry land up ahead.
+"Gambler_WorldC3M2B04"
+//I am not dying in this goddamn swamp.
+"Gambler_WorldC3M2B05"
+//I guess walking isn't so bad (seeing downed plane)
+"Gambler_WorldC3M2B06"
+//We can get through this door.
+"Gambler_WorldC3M2B07"
+//I think it's a safe bet to say an alarm will sound when we open this door.
+"Gambler_WorldC3M2B08"
+//We have to open this door.
+"Gambler_WorldC3M2B09"
+//Someone open the door.
+"Gambler_WorldC3M2B10"
+//The emergency exit is the only way.
+"Gambler_WorldC3M2B11"
+//I think it's a safe bet to say an alarm will sound when we open this door.
+"Gambler_WorldC3M2B12"
+//We have to open this door.
+"Gambler_WorldC3M2B13"
+//Someone open the door.
+"Gambler_WorldC3M2B14"
+//The emergency exit is the only way.
+"Gambler_WorldC3M2B15"
+//I'm opening the door.
+"Gambler_WorldC3M2B16"
+//Get ready, I'm opening the door.
+"Gambler_WorldC3M2B17"
+//Hello!
+"Gambler_WorldC3M2B18"
+//Hello!
+"Gambler_WorldC3M2B19"
+//Holy shit, maybe the swamp people made it!
+"Gambler_WorldC3M2B20"
+//They have power!
+"Gambler_WorldC3M2B21"
+//HELLO!!!
+"Gambler_WorldC3M2B22"
+//HELLO!!!
+"Gambler_WorldC3M2B23"
+//HEY! HELLO!!!
+"Gambler_WorldC3M2B24"
+//ANYBODY HOME?
+"Gambler_WorldC3M2B25"
+//The swamp people didn't make it.
+"Gambler_WorldC3M3B01"
+//This is ugly.
+"Gambler_WorldC3M3B02"
+//That's a shit ton of bodies.
+"Gambler_WorldC3M3B04"
+//Looks like some of them headed to the river.
+"Gambler_WorldC3M3B05"
+//We need to lower this plank.
+"Gambler_WorldC3M3B06"
+//The only way is over this plank.
+"Gambler_WorldC3M3B07"
+//Lower the plank.
+"Gambler_WorldC3M3B08"
+//Lower the bridge.
+"Gambler_WorldC3M3B09"
+//I'm lowering the bridge.
+"Gambler_WorldC3M3B10"
+//Get ready! Lowering the bridge!
+"Gambler_WorldC3M3B11"
+//Did people really live in these shacks?
+"Gambler_WorldC3M3B12"
+//This is just really unsanitary.
+"Gambler_WorldC3M3B13"
+//Where did anyone who lived here wash their hands?
+"Gambler_WorldC3M3B14"
+//We're at a big old house with gate.
+"Gambler_WorldC3M4B02"
+//At a plantation with a big gate.
+"Gambler_WorldC3M4B05"
+//I'm standing by a big gate, in front of a big house.
+"Gambler_WorldC3M4B07"
+//Our Cajun buddy blew open the gate, let's go!
+"Gambler_WorldC3M4B22"
+//Everyone to the boat!
+"Gambler_WorldC3M4B23"
+//Get to the boat!
+"Gambler_WorldC3M4B24"
+//To the boat!
+"Gambler_WorldC3M4B25"
+//That's one way to open that gate.
+"Gambler_WorldC3M4B27"
+//I am not dying in this swamp.
+"Gambler_WorldC3MGoingToDie01"
+//I am not going to be gator food.
+"Gambler_WorldC3MGoingToDie02"
+//Let's do this quick and get back on the damn boat.
+"Gambler_WorldC4M107"
+//Out of gas.
+"Gambler_WorldC4M120"
+//Through this house.
+"Gambler_WorldC4M128"
+//Let's go down this street.
+"Gambler_WorldC4M133"
+//What are we supposed to signal him with?
+"Gambler_WorldC4M1B01"
+//What gun bag?
+"Gambler_WorldC4M1B02"
+//ME? Who died and made me gun monitor?
+"Gambler_WorldC4M1B03"
+//The gas station's right across the street. Let's just get the gas and then we'll figure out how to signal Virgil.
+"Gambler_WorldC4M1B07"
+//You wanna hear a prediction?
+"Gambler_WorldC4M1B09"
+//There's not gonna be any gas. Watch.
+"Gambler_WorldC4M1B10"
+//Looks like our milk run just turned into a marathon.
+"Gambler_WorldC4M1B11"
+//No gas. Terrific. This is just great.
+"Gambler_WorldC4M1B12"
+//No gas. See? What'd I say?
+"Gambler_WorldC4M1B13"
+//What makes you think they have gas?
+"Gambler_WorldC4M1B14"
+//Let's just get this done and get back.
+"Gambler_WorldC4M1B17"
+//Shit. It looks like it's really gonna storm.
+"Gambler_WorldC4M1B20"
+//Look for landmarks. It might be dark on our way back.
+"Gambler_WorldC4M1B22"
+//What, does everybody around here have a boat?
+"Gambler_WorldC4M1B23"
+//If this rain keeps up, we can sail this thing right to Virgil.
+"Gambler_WorldC4M1B24"
+//Through this playground!
+"Gambler_WorldC4M1B25"
+//Through that playground!
+"Gambler_WorldC4M1B26"
+//Let's cut through the garage sale.
+"Gambler_WorldC4M1B27"
+//Now THAT is a nasty wreck.
+"Gambler_WorldC4M1B28"
+//Through this building.
+"Gambler_WorldC4M205"
+//In here!
+"Gambler_WorldC4M208"
+//I have never seen so many witches.
+"Gambler_WorldC4M209"
+//What the hell is with all the witches?
+"Gambler_WorldC4M210"
+//Through the cane field.
+"Gambler_WorldC4M216"
+//The road's blocked.
+"Gambler_WorldC4M2B01"
+//I think we gotta cut through the sugar mill.
+"Gambler_WorldC4M2B02"
+//This rain doesn't look like it's gonna let up.
+"Gambler_WorldC4M2B03"
+//Christ, I hope this rain doesn't get any worse.
+"Gambler_WorldC4M2B04"
+//The water's starting to pool. Shit.
+"Gambler_WorldC4M2B05"
+//Ah shit, this place is already starting to flood.
+"Gambler_WorldC4M2B06"
+//The sky looks bad.
+"Gambler_WorldC4M2B07"
+//It's already starting to flood.
+"Gambler_WorldC4M2B08"
+//Jesus. Welcome to witchville...
+"Gambler_WorldC4M2B09"
+//Man, that's a LOT of witches.
+"Gambler_WorldC4M2B13"
+//Up that ramp!
+"Gambler_WorldC4M2B16"
+//There's the gas station!
+"Gambler_WorldC4M2B18"
+//Through the wheat farm!
+"Gambler_WorldC4M2B20"
+//Whaatever you say, Farmer Joe.
+"Gambler_WorldC4M2B21"
+//We can take that elevator down to the field.
+"Gambler_WorldC4M2B22"
+//ELEVATOR'S HERE!
+"Gambler_WorldC4M2B24"
+//EVERYBODY IN THE ELEVATOR!
+"Gambler_WorldC4M2B26"
+//KEEP MOVING! JUST HEAD FOR THE SIGN!
+"Gambler_WorldC4M2B29"
+//HEAD FOR THE SIGN!
+"Gambler_WorldC4M2B30"
+//KEEP MOVING!
+"Gambler_WorldC4M2B31"
+//Looks like the gas is inside.
+"Gambler_WorldC4M2B33"
+//There's gas in the safe room!
+"Gambler_WorldC4M2B36"
+//Close the door and let's get this gas.
+"Gambler_WorldC4M2B38"
+//Back through the canefield.
+"Gambler_WorldC4M303"
+//Shit, it's really coming down.
+"Gambler_WorldC4M304"
+//Goddamn town is going to be flooded!
+"Gambler_WorldC4M306"
+//Up here!
+"Gambler_WorldC4M314"
+//We gotta to go back through here!
+"Gambler_WorldC4M326"
+//Okay, everybody gassed up and good to go?
+"Gambler_WorldC4M3B01"
+//Let's hit it.
+"Gambler_WorldC4M3B02"
+//Yup.
+"Gambler_WorldC4M3B03"
+//I got mine.
+"Gambler_WorldC4M3B04"
+//Well, at least this shithole'll get CLEANER...
+"Gambler_WorldC4M3B07"
+//Ohhh shit, the storm has arrived.
+"Gambler_WorldC4M3B08"
+//It's pissing down.
+"Gambler_WorldC4M3B09"
+//If this rain keeps up, the boat can come to US.
+"Gambler_WorldC4M3B11"
+//Goddamn town's flooded.
+"Gambler_WorldC4M402"
+//We can use the rooftops.
+"Gambler_WorldC4M405"
+//Across the rooftops.
+"Gambler_WorldC4M406"
+//Come on burger tank, save us!
+"Gambler_WorldC4M422"
+//Fast food is going to save us.
+"Gambler_WorldC4M423"
+//Everyone to the boat!
+"Gambler_WorldC4M442"
+//We can get across the roofs.
+"Gambler_WorldC4M4B04"
+//I remember that porch light.
+"Gambler_WorldC4M4B05"
+//The yard sale! We're going the right way!
+"Gambler_WorldC4M4B07"
+//The playground! We're almost there!
+"Gambler_WorldC4M4B08"
+//Sign's on!
+"Gambler_WorldC4M4B14"
+//Come on, Virgil...
+"Gambler_WorldC4M4B15"
+//YOU SEE THAT? VIRGIL SEES US!
+"Gambler_WorldC4M4B19"
+//THERE'S VIRGIL!
+"Gambler_WorldC4M4B20"
+//GET TO THE BOAT!
+"Gambler_WorldC4M4B22"
+//GET TO THE BOAT!
+"Gambler_WorldC4M4B23"
+//Never get out of the boat. Never get out of the boat. Never get out of the boat.
+"Gambler_WorldC4MGoingToDie01"
+//I cannot believe I am looking forward to getting back on that boat.
+"Gambler_WorldC4MGoingToDie02"
+//Some milk run this turned out to be.
+"Gambler_WorldC4MGoingToDie03"
+//Should have just kept floating down the damn river.
+"Gambler_WorldC4MGoingToDie04"
+//What in the hell were we thinking stopping here?
+"Gambler_WorldC4MGoingToDie05"
+//You mean that blurry line on the horizon? Let's not get ahead of ourselves here.
+"Gambler_WorldC5M1B03"
+//Yeah, well, seeing the bridge and getting to it are two different things.
+"Gambler_WorldC5M1B04"
+//I wonder if that's good news...
+"Gambler_WorldC5M1B05"
+//I got a bad feeling about that...
+"Gambler_WorldC5M1B06"
+//You don't evacuate people in fighter jets...
+"Gambler_WorldC5M1B08"
+//We can cut through this park!
+"Gambler_WorldC5M2B01"
+//Nice observation, Ellis.
+"Gambler_WorldC5M2B02"
+//That freeway looks like it heads to the bridge.
+"Gambler_WorldC5M2B03"
+//Let's follow it.
+"Gambler_WorldC5M2B04"
+//Somebody? Christ, Coach, you know who did this.
+"Gambler_WorldC5M2B06"
+//[pissed, to self] Christ.
+"Gambler_WorldC5M2B07"
+//Jesus. These are people! They were shooting people. I told you I had a bad feeling about this.
+"Gambler_WorldC5M2B08"
+//[contemplative, to self] Not good.
+"Gambler_WorldC5M2B09"
+//RUN!
+"Gambler_WorldC5M2B12"
+//KEEP RUNNING!
+"Gambler_WorldC5M2B13"
+//GO!
+"Gambler_WorldC5M2B14"
+//JUST RUN!
+"Gambler_WorldC5M2B15"
+//MOVE MOVE!
+"Gambler_WorldC5M2B16"
+//WE GOTTA TURN OFF THE ALARM!
+"Gambler_WorldC5M2B17"
+//Through this bus station!
+"Gambler_WorldC5M2B18"
+//We gotta keep following the freeway.
+"Gambler_WorldC5M3B01"
+//The bridge can't be far now.
+"Gambler_WorldC5M3B02"
+//What the hell was going on here?
+"Gambler_WorldC5M3B03"
+//[sarcastic] If that was their idea of safety, I can't wait to see what's out here.
+"Gambler_WorldC5M3B05"
+//What the hell was this guy doing?
+"Gambler_WorldC5M3B07"
+//Does this guy's scorecard mean what I think it means?
+"Gambler_WorldC5M3B08"
+//Jesus, it was open season on everything out here.
+"Gambler_WorldC5M3B09"
+//Oh Christ, not the sewer.
+"Gambler_WorldC5M3B10"
+//[to self] Tell me about it...
+"Gambler_WorldC5M3B11"
+//[reacting terrible smell] Oh my god, the stink's inside my head.
+"Gambler_WorldC5M3B12"
+//I am NOT climbing into... Ah screw it. Let's go.
+"Gambler_WorldC5M3B14"
+//Do you still smell sewer?
+"Gambler_WorldC5M3B16"
+//Because I still smell it.
+"Gambler_WorldC5M3B17"
+//You have GOT to be kidding me.
+"Gambler_WorldC5M3B18"
+//Christ, there's car alarms everywhere.
+"Gambler_WorldC5M3B19"
+//Careful. Carefuuulll.
+"Gambler_WorldC5M3B20"
+//HOW MANY OF THESE CARS ARE YOU GONNA SHOOT?
+"Gambler_WorldC5M3B21"
+//YOU WANNA START SHOOTING CARS, LET'S SHOOT CARS!
+"Gambler_WorldC5M3B22"
+//That's it! We're really here! We're on the bridge! We're here! We're here!
+"Gambler_WorldC5M3B23"
+//OH COME ON!
+"Gambler_WorldC5M3B24"
+//You sure we shouldn't just panic? I mean, I think panic was invented for just this sort of situation.
+"Gambler_WorldC5M3B25"
+//They're blowing this bridge to cover a retreat. If we wanna go with 'em, we better hurry.
+"Gambler_WorldC5M3B26"
+//Ellis, you're carrying like 10 different guns.
+"Gambler_WorldC5M3B27"
+//I guess they ran outta bridges to bomb...
+"Gambler_WorldC5M4B01"
+//STOP BOMBING US!
+"Gambler_WorldC5M4B03"
+//Christ, those guys are such assholes.
+"Gambler_WorldC5M4B05"
+//SHIT!
+"Gambler_WorldC5M4B06"
+//SHIT!
+"Gambler_WorldC5M4B07"
+//Holy shit, I think we actually made it.
+"Gambler_WorldC5M4B08"
+//Well, it's official: They're trying to kill US now.
+"Gambler_WorldC5M4B09"
+//There's a safe room in the bridge!
+"Gambler_WorldC5M4B12"
+//Well, let's cross the brige and finally get out of this hell.
+"Gambler_WorldC5M507"
+//Sure, give us a few minutes.
+"Gambler_WorldC5M508"
+//You heard the man.  Let's get across this goddamn bridge.
+"Gambler_WorldC5M509"
+//Before we run across this bridge right toward the people who've been dropping bombs on us, anyone wanna talk about a plan b?
+"Gambler_WorldC5M5B01"
+//[chuckles] Allright, let's go.
+"Gambler_WorldC5M5B03"
+//[chuckles] Okay, allright, let's go.
+"Gambler_WorldC5M5B04"
+//Or they're gonna line us up against a wall and shoot us.
+"Gambler_WorldC5M5B05"
+//Hey, those are soldiers. Let's let 'em know we're here.
+"Gambler_WorldC5M5B06"
+//Is somebody gonna pick up the radio?
+"Gambler_WorldC5M5B07"
+//Um, hello?
+"Gambler_WorldC5M5B08"
+//We are NOT infected.
+"Gambler_WorldC5M5B09"
+//Yeah, you could say that.
+"Gambler_WorldC5M5B10"
+//Roger that. Here we come.
+"Gambler_WorldC5M5B12"
+//THERE'S THE COPTER!
+"Gambler_WorldC5M5B14"
+//GET TO THE COPTER!
+"Gambler_WorldC5M5B15"
+//My name's Nick. There's four of us on the... on the west  end of the bridge.
+"Gambler_WorldC5M5B16"
+//I am not going to die in this city.
+"Gambler_WorldC5MGoingToDie01"
+//I have not come this far to die now.
+"Gambler_WorldC5MGoingToDie02"
+//Up here.
+"Gambler_WorldMisc01"
+//Through here.
+"Gambler_WorldMisc02"
+//Down here.
+"Gambler_WorldMisc06"
+//Down the alley!
+"Gambler_WorldMisc07"
+//Through here.
+"Gambler_WorldMisc08"
+//It reeks like piss.
+"Gambler_WorldMisc09"
+//God damn you are messed up.
+"Gambler_WorldMisc10"
+//It reeks like piss.
+"Gambler_WorldMisc11"
+//You are messed up.
+"Gambler_WorldMisc12"
+//Restricted area my ass (restricted area)
+"Gambler_WorldSigns01"
+//Really, I haven't seen any.  (Infected detected in this area.)
+"Gambler_WorldSigns02"
+//Run
+"Gambler_YellRun01"
+//Screw it, run!
+"Gambler_YellRun02"
+//Run! Just run!
+"Gambler_YellRun03"
+//Go! Run! GO!
+"Gambler_YellRun04"
+//Yes.
+"Gambler_Yes01"
+//Yep.
+"Gambler_Yes02"
+//Yeah.
+"Gambler_Yes03"
+//Yeppers.
+"Gambler_Yes04"
+//Yes.
+"Gambler_Yes05"
+//Yes.
+"Gambler_Yes06"
+//Yeah.
+"Gambler_Yes07"
+//Yessss.
+"Gambler_Yes08"
+//Yes.
+"Gambler_Yes09"
+//Yessss.
+"Gambler_Yes10"
+//Yeah, yeah, yeah, yeah.
+"Gambler_Yes12"
+//You're welcome.
+"Gambler_YouAreWelcome01"
+//You're welcome.
+"Gambler_YouAreWelcome02"
+//You're welcome.
+"Gambler_YouAreWelcome03"
+//Don't worry about it.
+"Gambler_YouAreWelcome04"
+//You're welcome.
+"Gambler_YouAreWelcome05"
+//Don't worry about it.
+"Gambler_YouAreWelcome06"
+//Don't worry about it.
+"Gambler_YouAreWelcome07"
+//That's what I'm here for.
+"Gambler_YouAreWelcome08"
+//That's what I'm here for.
+"Gambler_YouAreWelcome09"
+//That's what I'm here for.
+"Gambler_YouAreWelcome10"
+//Anytime.
+"Gambler_YouAreWelcome11"
+//Anytime.
+"Gambler_YouAreWelcome12"
+//Anytime.
+"Gambler_YouAreWelcome13"
+//Sure thing.
+"Gambler_YouAreWelcome14"
+//Sure thing.
+"Gambler_YouAreWelcome15"
+//Sure thing.
+"Gambler_YouAreWelcome16"
+//Sure thing.
+"Gambler_YouAreWelcome17"
+//Whatever.
+"Gambler_YouAreWelcomeC101"
+//Um yeah.
+"Gambler_YouAreWelcomeC102"
+//Sure.
+"Gambler_YouAreWelcomeC103"
+//Whatever.
+"Gambler_YouAreWelcomeC104"
+//Sure.
+"Gambler_YouAreWelcomeC105"
+//Um yeah.
+"Gambler_YouAreWelcomeC106"
+//Sure.
+"Gambler_YouAreWelcomeC107"
+//Whatever.
+"Gambler_YouAreWelcomeC108"
+//Um yeah.
+"Gambler_YouAreWelcomeC109"
+//No problem coach.
+"Gambler_YouAreWelcomeCoach01"
+//No problem coach.
+"Gambler_YouAreWelcomeCoach02"
+//You owe me Ellis.
+"Gambler_YouAreWelcomeMechanic01"
+//You owe me Ellis.
+"Gambler_YouAreWelcomeMechanic02"
+//Sure thing Ro.
+"Gambler_YouAreWelcomeProducer01"
+//Sure thing Ro.
+"Gambler_YouAreWelcomeProducer02"

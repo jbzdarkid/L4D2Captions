@@ -1,0 +1,3666 @@
+//--------------------------------------------------------------------------------------------------------------
+// Coach Game Sound Text File
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// This file is auto generated do not hand edit!
+//--------------------------------------------------------------------------------------------------------------
+
+//--------------------------------------------------------------------------------------------------------------
+// Last Updated: 10/01/09
+//--------------------------------------------------------------------------------------------------------------
+
+//Adrenaline shot here!
+"Coach_Adrenaline01"
+//Grabbin' a shot!
+"Coach_Adrenaline02"
+//Take it. Hell, I don't need it.
+"Coach_AlertGiveItem01"
+//You make sure you use this now.
+"Coach_AlertGiveItem02"
+//Ain't no shame in gettin' some help.
+"Coach_AlertGiveItem03"
+//Take this.
+"Coach_AlertGiveItem04"
+//Here ya go.
+"Coach_AlertGiveItem05"
+//You can have this.
+"Coach_AlertGiveItemC101"
+//Excuse me, here ya go.
+"Coach_AlertGiveItemC102"
+//Hey, you can have this.
+"Coach_AlertGiveItemC103"
+//Take it.
+"Coach_AlertGiveItemCombat01"
+//Here.
+"Coach_AlertGiveItemCombat02"
+//Have it.
+"Coach_AlertGiveItemCombat03"
+//Take it.
+"Coach_AlertGiveItemCombat04"
+//Here.
+"Coach_AlertGiveItemCombat05"
+//Hold on, I got something for you.
+"Coach_AlertGiveItemStop01"
+//Hold up now, I got something for you.
+"Coach_AlertGiveItemStop02"
+//Hold up, I got something for you.
+"Coach_AlertGiveItemStop03"
+//Yo! I got somethin' for ya.
+"Coach_AlertGiveItemStopC101"
+//Hey! Hey! Hold up.
+"Coach_AlertGiveItemStopC102"
+//You kids ready?
+"Coach_AskReady01"
+//We ready?
+"Coach_AskReady02"
+//We all ready?
+"Coach_AskReady03"
+//Ready?
+"Coach_AskReady04"
+//Ready?
+"Coach_AskReady05"
+//Everyone ready for this shit?
+"Coach_AskReady06"
+//Everybody ready?
+"Coach_AskReady07"
+//We ready to get it on?
+"Coach_AskReady08"
+//Hey, we ready to get it on?
+"Coach_AskReady09"
+//Oh shit, back it up!
+"Coach_BackUp01"
+//Back it up!
+"Coach_BackUp02"
+//BackBackBack!
+"Coach_BackUp03"
+//Back up, back up!
+"Coach_BackUp04"
+//Back up!
+"Coach_BackUp05"
+//Back Back Back Back Back!
+"Coach_BackUp06"
+//Back up.
+"Coach_BackUpQuiet01"
+//Back up,Back up.
+"Coach_BackUpQuiet02"
+//Back up.
+"Coach_BackUpQuiet03"
+//EAT THAT SHIT!
+"Coach_BattleCry01"
+//How you like that?
+"Coach_BattleCry02"
+//HOW THAT FEEL?
+"Coach_BattleCry03"
+//YEAH!
+"Coach_BattleCry04"
+//CHEW ON THAT!
+"Coach_BattleCry05"
+//ALLRIGHT!
+"Coach_BattleCry06"
+//GYEAHHHHHH!
+"Coach_BattleCry07"
+//GRRRR YEAH!
+"Coach_BattleCry08"
+//WHOOO! YEAH BABY!
+"Coach_BattleCry09"
+//Shoot that big mother!
+"Coach_BattleCryTank01"
+//Keep pouring it on!
+"Coach_BattleCryTank02"
+//Shoot it! Shoot it!
+"Coach_BattleCryTank03"
+//Don't stop now, shoot it!
+"Coach_BattleCryTank04"
+//Hit it! Hit it!
+"Coach_BattleCryTank05"
+//Shoot it!
+"Coach_BattleCryTank06"
+//Blank
+"Coach_Blank"
+//Boomer bile here!
+"Coach_BoomerJar01"
+//Grabbin' puke!
+"Coach_BoomerJar02"
+//Grabbin' a bile jar!
+"Coach_BoomerJar03"
+//Boomer bile here!
+"Coach_BoomerJar04"
+//Bottle of... ugh... puke here.
+"Coach_BoomerJar05"
+//Grabbin' puke!
+"Coach_BoomerJar06"
+//I can not believe I just said that.
+"Coach_BoomerJar07"
+//Grabbin' a bile jar!
+"Coach_BoomerJar08"
+//Heads up!
+"Coach_BoomerJar09"
+//Incoming!
+"Coach_BoomerJar10"
+//Heads up!
+"Coach_BoomerJar11"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction01"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction02"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction03"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction04"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction05"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction06"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction07"
+//[Reaction noise to boomer vomit - gross and bad]
+"Coach_BoomerReaction08"
+//Hey y'all I need some help in here!
+"Coach_CallForRescue01"
+//I'm trapped in here.
+"Coach_CallForRescue02"
+//Anyone out there? I could use some help!
+"Coach_CallForRescue03"
+//Come on people, let me out of here!
+"Coach_CallForRescue04"
+//Hellooo!?!?  Anyone out there?
+"Coach_CallForRescue05"
+//Y'all ain't thinkin of leavin' me behind are ya?
+"Coach_CallForRescue06"
+//Need some help, can't get myself out of here.
+"Coach_CallForRescue07"
+//Can anyone here me?
+"Coach_CallForRescue08"
+//I need some help in here!
+"Coach_CallForRescue09"
+//Come on y'all I need to get out of here.
+"Coach_CallForRescue10"
+//Hey y'all, we're a team! Come get me!
+"Coach_CallForRescue11"
+//Ain't none of my business what y'all doin' out there.  But get me when you're done.
+"Coach_CallForRescue12"
+//Holler back at me when you're ready to get me.
+"Coach_CallForRescue13"
+//Can y'all here me?  I'm trapped in here!
+"Coach_CallForRescue14"
+//Hey, I'm too big of a man for this little closet!
+"Coach_CallForRescue15"
+//Never had no call to ask for help before, but I do now - help!
+"Coach_CallForRescue16"
+//[Choking]
+"Coach_Choke01"
+//[Choking]
+"Coach_Choke02"
+//[Choking]
+"Coach_Choke03"
+//[Choking - yells screaming for help]
+"Coach_Choke04"
+//[Choking - yells screaming for help]
+"Coach_Choke05"
+//[Choking]
+"Coach_Choke06"
+//This bitch is chokin' me! [Choking]
+"Coach_Choke07"
+//[Choking - yells screaming for help]
+"Coach_Choke08"
+//[Choking]
+"Coach_Choke09"
+//[Choking]
+"Coach_Choke10"
+//[Choking]
+"Coach_Choke11"
+//[Choking]
+"Coach_Choke12"
+//[Choking]
+"Coach_Choke13"
+//Close that door.
+"Coach_CloseTheDoor01"
+//Close the door behind us.
+"Coach_CloseTheDoor02"
+//Close that bitch.
+"Coach_CloseTheDoor03"
+//Close the door.
+"Coach_CloseTheDoor04"
+//Quit screwing around, close the door.
+"Coach_CloseTheDoor05"
+//Y'all close that door.
+"Coach_CloseTheDoor06"
+//We oughta be closing doors.
+"Coach_CloseTheDoorC101"
+//Let's close that door.
+"Coach_CloseTheDoorC102"
+//[Coughing from smoke]
+"Coach_Cough01"
+//[Coughing from smoke]
+"Coach_Cough02"
+//[Coughing from smoke]
+"Coach_Cough03"
+//[Coughing from smoke]
+"Coach_Cough04"
+//[Coughing from smoke]
+"Coach_Cough05"
+//[Coughing from smoke]
+"Coach_Cough06"
+//[Coughing from smoke]
+"Coach_Cough07"
+//[Coughing from smoke]
+"Coach_Cough08"
+//Hold on y'all I gotta heal.
+"Coach_CoverMe01"
+//Cover me for a sec, I gotta heal.
+"Coach_CoverMe02"
+//Hold up, healin'.
+"Coach_CoverMe03"
+//Hey man, hold up - healin'.
+"Coach_CoverMe04"
+//Healing! Hold on a sec.
+"Coach_CoverMe05"
+//Give me a minute, gotta heal.
+"Coach_CoverMe06"
+//Shit, gotta heal my ass.
+"Coach_CoverMe07"
+//Hold on y'all I'm healing.
+"Coach_CoverMe08"
+//Hold up, gotta try and heal myself.
+"Coach_CoverMeC101"
+//Wait up, gonna try and use this thing.
+"Coach_CoverMeC102"
+//Man, no idea how this thing works.
+"Coach_CoverMeC103"
+//Hold up, gotta try and heal myself.
+"Coach_CoverMeC104"
+//I ain't never done this before.
+"Coach_CoverMeC1RCoach01"
+//Hell, no, I ain't never done this before.
+"Coach_CoverMeC1RCoach02"
+//[Loud painful death scream]
+"Coach_DeathScream01"
+//[Loud painful death scream]
+"Coach_DeathScream02"
+//[Loud painful death scream]
+"Coach_DeathScream03"
+//[Short quick death scream]
+"Coach_DeathScream04"
+//[Short quick death scream]
+"Coach_DeathScream05"
+//[Short quick death scream]
+"Coach_DeathScream06"
+//[Short quick death scream]
+"Coach_DeathScream07"
+//[Death rattle]
+"Coach_DeathScream08"
+//[Death rattle]
+"Coach_DeathScream09"
+//Chest paddles here.
+"Coach_Defibrillator01"
+//Defib unit here.
+"Coach_Defibrillator02"
+//Got some chest paddles.
+"Coach_Defibrillator03"
+//Got a defib unit.
+"Coach_Defibrillator04"
+//Clear!
+"Coach_Defibrillator05"
+//Come on!
+"Coach_Defibrillator06"
+//Come ON!
+"Coach_Defibrillator07"
+//Don't you die on me...
+"Coach_Defibrillator08"
+//[being shocked]
+"Coach_Defibrillator09"
+//Whoa...
+"Coach_Defibrillator10"
+//Agggh damn it! You're SHOCKIN' me!
+"Coach_Defibrillator11"
+//[being shocked]
+"Coach_Defibrillator12"
+//[being shocked]
+"Coach_Defibrillator13"
+//[being shocked]
+"Coach_Defibrillator14"
+//Aw hell, I'm back here.
+"Coach_Defibrillator16"
+//[spitting] You didn't do mouth to mouth on me, did you?
+"Coach_Defibrillator17"
+//[gasp for breath]
+"Coach_Defibrillator18"
+//[gasp for breath]
+"Coach_Defibrillator19"
+//We can do this, man, we can do this.
+"Coach_DoubleDeathResponse01"
+//Ooooh! We gotta pull our shit together.
+"Coach_DoubleDeathResponse02"
+//Shit! It's just you and me!  Hang tough.
+"Coach_DoubleDeathResponse03"
+//Shit! Just us two left. Stay close!
+"Coach_DoubleDeathResponse04"
+//Stay close, we're a party of two.
+"Coach_DoubleDeathResponse05"
+//Ain't no one else but you and me left.
+"Coach_DoubleDeathResponse06"
+//Damn. This here is all we got.
+"Coach_DoubleDeathResponse07"
+//Shit! It's just you and me!  Hang tough.
+"Coach_DoubleDeathResponseQuiet01"
+//Boy, you are WEARIN' me out.
+"Coach_EllisInterrupt01"
+//We ain't got time for this, Ellis.
+"Coach_EllisInterrupt02"
+//GO!
+"Coach_EmphaticGo01"
+//Let's go people.
+"Coach_EmphaticGo02"
+//Move your ass.
+"Coach_EmphaticGo03"
+//Go go go!
+"Coach_EmphaticGo04"
+//Go go GO!
+"Coach_EmphaticGo05"
+//MOVE IT!
+"Coach_EmphaticGo06"
+//Just keep going.
+"Coach_EmphaticGoQuiet01"
+//Go, go, go!
+"Coach_EmphaticGoQuiet02"
+//Let's keep moving!
+"Coach_EmphaticGoQuiet03"
+//Oh Shit!
+"Coach_Exclamation01"
+//Explosive rounds here!
+"Coach_ExplosiveAmmo01"
+//Frag rounds here!
+"Coach_ExplosiveAmmo02"
+//Grabbin' some frag rounds!
+"Coach_ExplosiveAmmo03"
+//Deploying frag rounds!
+"Coach_ExplosiveAmmo04"
+//Come on y' all this way.
+"Coach_FollowMe01"
+//This way.
+"Coach_FollowMe02"
+//Come on, this way.
+"Coach_FollowMe03"
+//Follow me.
+"Coach_FollowMe04"
+//This way.
+"Coach_FollowMe05"
+//Y'all stay close.
+"Coach_FollowMe06"
+//Ahhh hell no boy, don't you be shootin' me.
+"Coach_FriendlyFire01"
+//Excuse me? EXCUSE ME?!?!
+"Coach_FriendlyFire02"
+//Where in the hell ya think you're shootin?
+"Coach_FriendlyFire03"
+//Watch where you're shooting!
+"Coach_FriendlyFire04"
+//Cut that shit out!
+"Coach_FriendlyFire05"
+//I swear to god you can't shoot worth shit.
+"Coach_FriendlyFire06"
+//There's gonna be some biblical shit happening to you if you do that again.
+"Coach_FriendlyFire07"
+//Shoot me again, and you gonna be meetin' your maker right soon.
+"Coach_FriendlyFire08"
+//Let's not all start shootin' each other now.
+"Coach_FriendlyFire09"
+//Youngin, stop that shit.
+"Coach_FriendlyFire10"
+//Man, I swear to god you can't shoot worth shit.
+"Coach_FriendlyFire11"
+//Shootin' me? That's some crazy shit.
+"Coach_FriendlyFire13"
+//You do know you shootin' me right?
+"Coach_FriendlyFire14"
+//Look, try shootin' some damn zombies instead of me.
+"Coach_FriendlyFire15"
+//Are you outta your mind shootin' at me?
+"Coach_FriendlyFire16"
+//Will you cut that shit out?
+"Coach_FriendlyFire17"
+//Yo! Stop shooting me, all right?
+"Coach_FriendlyFire18"
+//Y'all gotta stop shootin me.
+"Coach_FriendlyFire19"
+//GODDAMNIT STOP SHOOTIN ME!
+"Coach_FriendlyFire20"
+//Ah hell no! Do not shoot me.
+"Coach_FriendlyFire21"
+//Come on now, seriously.
+"Coach_FriendlyFire22"
+//Stop shooting me.
+"Coach_FriendlyFire23"
+//Don't be shooting me.
+"Coach_FriendlyFire24"
+//You are shooting me!
+"Coach_FriendlyFire25"
+//That's some bullshit!
+"Coach_FriendlyFire26"
+//Do that again and I'll come back on you.
+"Coach_FriendlyFire27"
+//You shot me!
+"Coach_FriendlyFire28"
+//Man, you shot me?
+"Coach_FriendlyFire29"
+//Y'all need to focus!
+"Coach_FriendlyFireC101"
+//Listen, y'all, We need to pull together as a team.
+"Coach_FriendlyFireC102"
+//Now come on now, Let's put some effort into this.
+"Coach_FriendlyFireC103"
+//I'm trying to tell you, shooting each other is not helping each other.
+"Coach_FriendlyFireC104"
+//Work as a team people, work as a team.
+"Coach_FriendlyFireC105"
+//Y'all shootin' me.
+"Coach_FriendlyFireC106"
+//Let's not be shootin' each other people.
+"Coach_FriendlyFireC107"
+//Come'on y'all - none of that.
+"Coach_FriendlyFireC108"
+//Come on now, seriously.
+"Coach_FriendlyFireC109"
+//STOP! I am getting pissed off!
+"Coach_FriendlyFireC110"
+//Nicolas, I thought you knew how to use a gun.
+"Coach_FriendlyFireC1Gambler01"
+//Nick! You shot me!
+"Coach_FriendlyFireC1Gambler02"
+//Hey Nick, that was my ass you shot.
+"Coach_FriendlyFireC1Gambler03"
+//Quit shootin' me Nick.
+"Coach_FriendlyFireC1Gambler04"
+//Ellis, settle down boy.  Ya shot me.
+"Coach_FriendlyFireC1Mechanic01"
+//Ellis! I'll take that gun away from ya!
+"Coach_FriendlyFireC1Mechanic02"
+//Ellis you are shooting me!
+"Coach_FriendlyFireC1Mechanic03"
+//Ellis damnit, you shot me!
+"Coach_FriendlyFireC1Mechanic04"
+//Ro! Quit shootin' me.
+"Coach_FriendlyFireC1Producer01"
+//Rochelle girl, you shot me.
+"Coach_FriendlyFireC1Producer02"
+//Ro! What's gotten into you girl?
+"Coach_FriendlyFireC1Producer03"
+//Ro! You know damn well better than that.
+"Coach_FriendlyFireC1Producer04"
+//Little sister, you gotta learn to shoot.
+"Coach_FriendlyFireFemale01"
+//Girl, you gotta learn to shoot.
+"Coach_FriendlyFireFemale02"
+//Boy, quit pointing that thing my way.
+"Coach_FriendlyFireMale01"
+//Don't shoot ME! Shoot the Tank!
+"Coach_FriendlyFireTank01"
+//Do I LOOK like a ten-foot-tall monster?
+"Coach_FriendlyFireTank05"
+//Hey! Shoot the Tank!
+"Coach_FriendlyFireTank06"
+//Aggghh! The TANK!
+"Coach_FriendlyFireTank07"
+//I'm cool.
+"Coach_GettingRevived01"
+//It's all good.
+"Coach_GettingRevived02"
+//Hell yeah it hurts.
+"Coach_GettingRevived03"
+//Yeah it hurts.
+"Coach_GettingRevived04"
+//I'm good, I'm good.
+"Coach_GettingRevived05"
+//What in the hell do you think?
+"Coach_GettingRevived06"
+//Ohhh shit.
+"Coach_GettingRevived07"
+//Hook me up.
+"Coach_GettingRevived08"
+//Hurry it up.
+"Coach_GettingRevived09"
+//[groan]
+"Coach_GettingRevived10"
+//[groan2]
+"Coach_GettingRevived11"
+//[groan2]
+"Coach_GettingRevived12"
+//They better name a school after me for this shit.
+"Coach_GettingRevived13"
+//Help me up and I can walk this off.
+"Coach_GettingRevived14"
+//Ain't gonna be nothing left of me.
+"Coach_GettingRevived15"
+//I'm just screwin with ya.
+"Coach_GettingRevived16"
+//What ya tellin me man?
+"Coach_GettingRevived18"
+//I've been worse.
+"Coach_GettingRevived19"
+//Whata you mean?
+"Coach_GettingRevived20"
+//I'm okay.
+"Coach_GettingRevived21"
+//Ain't nothin'.
+"Coach_GettingRevived22"
+//I can walk it off.
+"Coach_GettingRevived23"
+//Okay.
+"Coach_GettingRevived24"
+//Good enough.
+"Coach_GettingRevived25"
+//Just get me up.
+"Coach_GettingRevived26"
+//Man, been better, been better.
+"Coach_GettingRevived27"
+//Can't lie, been better.
+"Coach_GettingRevived28"
+//Damn, this shit hurts.
+"Coach_GettingRevived29"
+//Don't like bein' on the ground.
+"Coach_GettingRevived30"
+//I'm hurtin down here.
+"Coach_GettingRevived31"
+//Well I ain't on my back for nothin'.
+"Coach_GettingRevived32"
+//Man, how the hell you think I'm doin'?
+"Coach_GettingRevived33"
+//I'm fine, but let's not waste time chit-chattin'.
+"Coach_GettingRevived34"
+//I'm good.
+"Coach_GettingRevived35"
+//I'll live... most likely.
+"Coach_GettingRevived36"
+//Tell you what, ain't my best day.
+"Coach_GettingRevived37"
+//This here is some serious bullshit.
+"Coach_GoingToDie01"
+//This ain't how i thought this would go.
+"Coach_GoingToDie02"
+//I can walk this shit off.
+"Coach_GoingToDie03"
+//Ahhhhhhh.
+"Coach_GoingToDie04"
+//Damn, they messed me up.
+"Coach_GoingToDie05"
+//I'm goin as fast as I can.
+"Coach_GoingToDie06"
+//Man, this shit hurts.
+"Coach_GoingToDie07"
+//Man said there was nothing to worry about, well buullshit.
+"Coach_GoingToDie08"
+//Ya'll crazy if you don't think this hurts.
+"Coach_GoingToDie09"
+//Shit, I'm messed up.
+"Coach_GoingToDie10"
+//It hurts, but ain't nothin.
+"Coach_GoingToDie11"
+//This shit ain't pretty.
+"Coach_GoingToDie12"
+//Ahh damnit. (frustrated)
+"Coach_GoingToDie13"
+//Man, this right here hurts somethin' fierce.
+"Coach_GoingToDie14"
+//This is some outrageous shit.
+"Coach_GoingToDie15"
+//Crazy sons of a bitches messed me up.
+"Coach_GoingToDie16"
+//Damn. They beat me good.
+"Coach_GoingToDie17"
+//They beat my ass fair and square.
+"Coach_GoingToDie18"
+//I shoulda learned to drive a tank or some shit.
+"Coach_GoingToDie19"
+//Ahh damnit now.
+"Coach_GoingToDie20"
+//No pain, no gain. I must be about to gain some serious shit.
+"Coach_GoingToDie21"
+//I ain't ready to lay down yet.
+"Coach_GoingToDie22"
+//Hey. Now this here is some bullshit.
+"Coach_GoingToDie23"
+//I can walk this off.
+"Coach_GoingToDie24"
+//Tryin' to walk this off.
+"Coach_GoingToDie25"
+//Goin' as fast as I can.
+"Coach_GoingToDie26"
+//I'm gotta get right.
+"Coach_GoingToDie27"
+//I ain't dead yet.
+"Coach_GoingToDie28"
+//I hear ya! I'm movin'.
+"Coach_GoingToDie29"
+//Can't go no faster.
+"Coach_GoingToDie30"
+//I'm just gonna admit it, I need some help.
+"Coach_GoingToDie301"
+//I need to get right.
+"Coach_GoingToDie302"
+//Sheeeeeet, I ain't gonna make it.
+"Coach_GoingToDie303"
+//Come on, pull it together man. You can make it through this shit. [to self]
+"Coach_GoingToDie304"
+//I'm hurt too bad to go any faster.
+"Coach_GoingToDie31"
+//Man, those zombies beat my ass.
+"Coach_GoingToDie32"
+//Come on now, put it all out there.
+"Coach_GoingToDieR01"
+//Come on, it's all you.
+"Coach_GoingToDieR02"
+//That's it. Stay focused.
+"Coach_GoingToDieR03"
+//Stay with us.
+"Coach_GoingToDieR04"
+//That's it. Yeah. Fight thru it.
+"Coach_GoingToDieR05"
+//Come on now, walk that shit off.
+"Coach_GoingToDieR06"
+//Keep it up, come on, keep it up, keep it up. You're gonna make it.
+"Coach_GoingToDieR07"
+//Hey. Listen to me, you are gonna make it.
+"Coach_GoingToDieR08"
+//They put a hurtin on ya but ain't no thing.
+"Coach_GoingToDieR09"
+//Come on now, put it behind ya, you good, you good.
+"Coach_GoingToDieR10"
+//Nick, ain't gonna leave ya man.
+"Coach_GoingToDieRGambler01"
+//Nick, ain't gonna leave ya man.
+"Coach_GoingToDieRGambler02"
+//Nick, at least you dressed for a funeral.
+"Coach_GoingToDieRGambler03"
+//Come on Ellis. Ya got it in ya.
+"Coach_GoingToDieRMechanic01"
+//Come on youngin' if I can do it, you can do it.
+"Coach_GoingToDieRMechanic02"
+//Come on girl, we ain't gonna leave you behind.
+"Coach_GoingToDieRProducer01"
+//Come on girl, we ain't gonna leave you behind.
+"Coach_GoingToDieRProducer02"
+//I know you got in ya girl, keep at it.
+"Coach_GoingToDieRProducer03"
+//Spittttt! (disgusted)
+"Coach_GooedBySpitter01"
+//Damn spitter got me.
+"Coach_GooedBySpitter02"
+//Shit! That long necked bitch hit me.
+"Coach_GooedBySpitter03"
+//Burning goo!
+"Coach_GooedBySpitter04"
+//Get out of the goo.
+"Coach_GooedBySpitter05"
+//Goddamn it, goo!
+"Coach_GooedBySpitter06"
+//What's this burning stuff?
+"Coach_GooedBySpitterC101"
+//That female zombie spat somethin' on me!
+"Coach_GooedBySpitterC102"
+//You have got to be kidding me.
+"Coach_GooedBySpitterC103"
+//Charger got me!
+"Coach_GrabbedByCharger01"
+//Charger!  Shoot!
+"Coach_GrabbedByCharger02"
+//Shoot the charger!
+"Coach_GrabbedByCharger03"
+//Shoot this damn charger!
+"Coach_GrabbedByCharger04"
+//One of y'all gonna shoot this thing?
+"Coach_GrabbedByCharger05"
+//This thing is beatin' my ass.
+"Coach_GrabbedByCharger06"
+//Don't stand there, kill this thing!
+"Coach_GrabbedByCharger07"
+//Charger is pounding me into the ground!
+"Coach_GrabbedByCharger08"
+//This charger is pounding me!
+"Coach_GrabbedByCharger09"
+//Jockey on me!
+"Coach_GrabbedByJockey01"
+//JOCKEY ON MY BACK!
+"Coach_GrabbedByJockey02"
+//Oh lord no, that things on me!
+"Coach_GrabbedByJockey03"
+//Agh, that things on me!
+"Coach_GrabbedByJockey04"
+//Kill the thing on my back!
+"Coach_GrabbedByJockey05"
+//Ellis is that you? What the hell!?!?
+"Coach_GrabbedByJockey06"
+//OH SHIT GET THIS THING OFF ME!
+"Coach_GrabbedByJockey07"
+//Gah, get this thing off my back!
+"Coach_GrabbedByJockey08"
+//That ain't right for a man to be ridden like that.
+"Coach_GrabbedByJockeyR01"
+//Damn. That ain't right.
+"Coach_GrabbedByJockeyR02"
+//Agh!
+"Coach_GrabbedBySmoker01"
+//No...
+"Coach_GrabbedBySmoker01a"
+//NO...
+"Coach_GrabbedBySmoker01b"
+//NO...
+"Coach_GrabbedBySmoker01c"
+//NOOOOOOO!!!!!!!!!
+"Coach_GrabbedBySmoker01d"
+//Ugh.
+"Coach_GrabbedBySmoker02"
+//Nah...
+"Coach_GrabbedBySmoker02a"
+//NO!
+"Coach_GrabbedBySmoker02b"
+//NO!
+"Coach_GrabbedBySmoker02c"
+//AUGH!
+"Coach_GrabbedBySmoker02d"
+//Mmnnhh!
+"Coach_GrabbedBySmoker03"
+//No!
+"Coach_GrabbedBySmoker03a"
+//No!
+"Coach_GrabbedBySmoker03b"
+//NO!!!
+"Coach_GrabbedBySmoker03c"
+//No.
+"Coach_GrabbedBySmoker04"
+//No!
+"Coach_GrabbedBySmoker04a"
+//No!
+"Coach_GrabbedBySmoker04b"
+//NO!
+"Coach_GrabbedBySmoker04c"
+//Something's got me!
+"Coach_GrabbedBySmokerC101"
+//What's got me?
+"Coach_GrabbedBySmokerC102"
+//I'm all wrapped up!
+"Coach_GrabbedBySmokerC103"
+//Hey! Where am I gettin' dragged to!?!
+"Coach_GrabbedBySmokerC104"
+//GRENADE!
+"Coach_Grenade01"
+//GRENADE!
+"Coach_Grenade02"
+//FIRE IN THE HOLE!!
+"Coach_Grenade03"
+//FIRE IN THE HOLE!!
+"Coach_Grenade04"
+//GRENADE!
+"Coach_Grenade05"
+//GRENADE! Comin at ya!
+"Coach_Grenade06"
+//FIRE IN THE HOLE!!
+"Coach_Grenade07"
+//Molotov!
+"Coach_Grenade08"
+//Throwin' a molotov!
+"Coach_Grenade09"
+//Molotov out!
+"Coach_Grenade10"
+//Pipe bomb out!
+"Coach_Grenade11"
+//Throwin' a pipe bomb!
+"Coach_Grenade12"
+//Stop squirmin' I'm gonna heal ya.
+"Coach_HealOther01"
+//Hold up, I'm gonna heal your ass.
+"Coach_HealOther02"
+//Hold up now, I'll fix ya.
+"Coach_HealOther03"
+//Shit they beat ya good, let me heal ya'll.
+"Coach_HealOther04"
+//Quit fussin' I'll heal ya.
+"Coach_HealOther05"
+//Goddamit, quit fussin and let me heal ya.
+"Coach_HealOther06"
+//Allright hang on, this might sting a bit.
+"Coach_HealOther07"
+//Quit squirming, or I might mess this up.
+"Coach_HealOtherC101"
+//Stand still now, 'cause I ain't used to doin' this.
+"Coach_HealOtherC102"
+//I hope this makes you feel better ain't sure what I'm doin'.
+"Coach_HealOtherC103"
+//Hold on! Hold on!
+"Coach_HealOtherCombat01"
+//Let me heal your shit.
+"Coach_HealOtherCombat02"
+//Let me heal ya now.
+"Coach_HealOtherCombat03"
+//Lemme heal ya!
+"Coach_HealOtherCombat04"
+//Hold up, I'll fix ya.
+"Coach_HealOtherCombat05"
+//Stand still, I'm healin' ya!
+"Coach_HealOtherCombat06"
+//I hear a Boomer.
+"Coach_HeardBoomer01"
+//Boomer's sneakin 'round.
+"Coach_HeardBoomer02"
+//Careful now, boomer.
+"Coach_HeardBoomer03"
+//Step slow ya' all, boomer round.
+"Coach_HeardBoomer04"
+//We gotta Charger round.
+"Coach_HeardCharger01"
+//Gotta Charger round.
+"Coach_HeardCharger02"
+//I hear a Charger.
+"Coach_HeardCharger03"
+//I hear a charger, don't get charged and shit.
+"Coach_HeardCharger04"
+//Oh SHIT! TANK!
+"Coach_HeardHulk01"
+//TANK!
+"Coach_HeardHulk02"
+//I'm gonna beat that tank's ass.
+"Coach_HeardHulk03"
+//We all gotta shoot the tank, ya hear me?
+"Coach_HeardHulk04"
+//I hear a hunter.
+"Coach_HeardHunter01"
+//Punk ass hunter around.
+"Coach_HeardHunter02"
+//Sounds like a hunter.
+"Coach_HeardHunter03"
+//I hear a jockey.
+"Coach_HeardJockey01"
+//One of those little jockeys is around.
+"Coach_HeardJockey02"
+//That sounds like a little jockey.
+"Coach_HeardJockey03"
+//One of those leapin' on your back bitches is around.
+"Coach_HeardJockey04"
+//One of those leapin' on your back bitches is around.
+"Coach_HeardJockey05"
+//I hear one of those jockeys.  If I see it, I'm gonna shoot the shit out of it.
+"Coach_HeardJockey06"
+//What is that noise?
+"Coach_HeardJockeyC101"
+//What is that noise?
+"Coach_HeardJockeyC102"
+//Is that one of those little things?
+"Coach_HeardJockeyC103"
+//Sounds like a Smoker.
+"Coach_HeardSmoker01"
+//I hear a smoker.
+"Coach_HeardSmoker02"
+//Sounds like one of them smoker bitches.
+"Coach_HeardSmoker03"
+//Ahh what the heck is that?!
+"Coach_HeardSpecialC101"
+//I don't like the sound of that one bit.
+"Coach_HeardSpecialC102"
+//Anyone know what that is?
+"Coach_HeardSpecialC103"
+//From the sounds of it, its about to get a whole lot worse.
+"Coach_HeardSpecialC104"
+//I hear a spitter.
+"Coach_HeardSpitter01"
+//That sounds like a spitter.
+"Coach_HeardSpitter02"
+//Spitter's around.
+"Coach_HeardSpitter03"
+//That fat spittin' bitch is around.
+"Coach_HeardSpitter04"
+//I hear that fat woman.
+"Coach_HeardSpitter05"
+//We are going to have to focus on that thing.
+"Coach_HeardTanklC101"
+//Ahhh nooooo.
+"Coach_HeardTanklC102"
+//That thing is too dang big.
+"Coach_HeardTanklC103"
+//Ohhh.. that ain't fair.
+"Coach_HeardTanklC104"
+//Ya'all hear her?,Get ready to toss that bitch.
+"Coach_HeardWitch01"
+//Quiet everybody I hear a bitch.
+"Coach_HeardWitch02"
+//That there sounds like a witch.
+"Coach_HeardWitch03"
+//Quiet y'all, I hear a witch.
+"Coach_HeardWitch04"
+//Rochelle, that ain't you is it girl?
+"Coach_HeardWitchC101"
+//Rochelle, that ain't you is it girl?
+"Coach_HeardWitchC102"
+//What is that crying?
+"Coach_HeardWitchC103"
+//What's doing that crying?
+"Coach_HeardWitchC104"
+//Man, that crying don't sound right.
+"Coach_HeardWitchC105"
+//[panting, small]
+"Coach_HeavyBreathing01"
+//[panting, small]
+"Coach_HeavyBreathing02"
+//[panting, small]
+"Coach_HeavyBreathing03"
+//[panting, medium]
+"Coach_HeavyBreathing04"
+//[panting, medium]
+"Coach_HeavyBreathing05"
+//[panting, big]
+"Coach_HeavyBreathing06"
+//[panting, big]
+"Coach_HeavyBreathing07"
+//[panting, gasping]
+"Coach_HeavyBreathing08"
+//[panting, big]
+"Coach_HeavyBreathing09"
+//[panting, gasping]
+"Coach_HeavyBreathing10"
+//I need some help!
+"Coach_Help01"
+//Help! [Screamed angrily]
+"Coach_Help02"
+//Hey y'all I need some help.
+"Coach_Help03"
+//Could use some help over here.
+"Coach_Help04"
+//Get ya ass over here and help me!
+"Coach_Help05"
+//Help!
+"Coach_Help06"
+//Hunter's got Ellis!
+"Coach_HunterEllisPounced01"
+//Hunter on Ellis!
+"Coach_HunterEllisPounced02"
+//Hunter's got Nick!
+"Coach_HunterNickPounced01"
+//Hunter's on Nick!
+"Coach_HunterNickPounced02"
+//That thing's ripping him up!
+"Coach_HunterPouncedC101"
+//Zombie's ripping him up!
+"Coach_HunterPouncedC102"
+//Zombie's on RO!
+"Coach_HunterPouncedC1Producer01"
+//Ro's getting ripped up!
+"Coach_HunterPouncedC1Producer02"
+//Hunter's got Ro!
+"Coach_HunterRochellePounced01"
+//Hunter on  Rochelle!
+"Coach_HunterRochellePounced02"
+//We cool.
+"Coach_Hurrah01"
+//We gonna be all right.
+"Coach_Hurrah02"
+//We good, this ain't shit.
+"Coach_Hurrah03"
+//We gonna do this.
+"Coach_Hurrah04"
+//We got this.
+"Coach_Hurrah05"
+//Those things ain't shit.
+"Coach_Hurrah06"
+//Oh hell yeah!
+"Coach_Hurrah07"
+//We're gonna be okay.
+"Coach_Hurrah08"
+//We got up in their shit.
+"Coach_Hurrah09"
+//We are kicking their ass.
+"Coach_Hurrah10"
+//Oh hell yeah!
+"Coach_Hurrah11"
+//mmm. Allright.
+"Coach_Hurrah12"
+//Woo! Haha! That's how we do it.
+"Coach_Hurrah13"
+//Alright! Way to go! Way to go!
+"Coach_Hurrah14"
+//Yeah! You are a great bunch.
+"Coach_Hurrah15"
+//That was outstanding.
+"Coach_Hurrah16"
+//Alright! Good effort.
+"Coach_Hurrah17"
+//Alright, alright! Way to put it all out there!
+"Coach_Hurrah18"
+//Ya boy!
+"Coach_Hurrah19"
+//That is how you kick some ASS, baby!
+"Coach_Hurrah20"
+//Baby, that is how that's DONE!
+"Coach_Hurrah21"
+//We are kickin' some zombie ASS!
+"Coach_Hurrah23"
+//THAT is how you kick zombie ASS!
+"Coach_Hurrah24"
+//You made me proud out there, people...
+"Coach_Hurrah26"
+//Come on, we gotta go.
+"Coach_HurryUp01"
+//Haul some ass y'all.
+"Coach_HurryUp02"
+//Hurry up!
+"Coach_HurryUp03"
+//Hurry up!
+"Coach_HurryUp04"
+//Hurry!
+"Coach_HurryUp05"
+//Move your damn ass!
+"Coach_HurryUp06"
+//Haul some ass y'all.
+"Coach_HurryUp07"
+//Alright, people, you best hop to it.
+"Coach_HurryUp08"
+//Let's go, let's go all right?
+"Coach_HurryUp09"
+//You best hop to it.
+"Coach_HurryUp10"
+//Let's go, let's go all right?
+"Coach_HurryUp11"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical01"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical02"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical03"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical04"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical05"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical06"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical07"
+//[Pain noise - loud major pain]
+"Coach_HurtCritical08"
+//[Pain noise - huh]
+"Coach_HurtMajor01"
+//[Pain noise - huh]
+"Coach_HurtMajor02"
+//[Pain noise - ahh]
+"Coach_HurtMajor03"
+//[Pain noise - oy]
+"Coach_HurtMajor04"
+//[Pain noise - ugh]
+"Coach_HurtMajor05"
+//[Pain noise - ugh]
+"Coach_HurtMajor06"
+//[Pain noise - ugh]
+"Coach_HurtMajor07"
+//[Pain noise - ugh]
+"Coach_HurtMajor08"
+//[Pain noise - ugh]
+"Coach_HurtMajor09"
+//[Pain noise - ugh]
+"Coach_HurtMajor10"
+//[Pain noise - ugh]
+"Coach_HurtMajor11"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor01"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor02"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor03"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor04"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor05"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor06"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor07"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor08"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor09"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor10"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor11"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor12"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor13"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor14"
+//[Pain noise - short minor pain]
+"Coach_HurtMinor15"
+//I've got ya.
+"Coach_ImWithYou01"
+//I'm right behind ya.
+"Coach_ImWithYou02"
+//I'm with ya.
+"Coach_ImWithYou03"
+//I got yer back.
+"Coach_ImWithYou04"
+//We tight.
+"Coach_ImWithYou05"
+//We tight.
+"Coach_ImWithYou06"
+//Ahh shit, I'm down!
+"Coach_IncapacitatedInitial01"
+//Damnit, I'm down.
+"Coach_IncapacitatedInitial02"
+//Shit, need some help.
+"Coach_IncapacitatedInitial03"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury01"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury02"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury03"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury04"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury05"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury06"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury07"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury08"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury09"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury10"
+//[Ahhhh - terrified yell]
+"Coach_IncapacitatedInjury11"
+//Fire bullets here!
+"Coach_IncendAmmo01"
+//Grabbin' fire bullets!
+"Coach_IncendAmmo02"
+//Let's burn some shit UP!
+"Coach_IncendAmmo03"
+//Deploying fire bullets!
+"Coach_IncendAmmo04"
+//Everyone, grab some incendiary ammo!
+"Coach_IncendAmmo05"
+//Here they come!
+"Coach_Incoming01"
+//Here they come!
+"Coach_Incoming02"
+//Ah shit, this ain't gonna be good.
+"Coach_Incoming03"
+//Shit, Get ready!
+"Coach_Incoming04"
+//Allright now, they comin'.
+"Coach_Incoming05"
+//It's on.
+"Coach_Incoming06"
+//Game on, baby!
+"Coach_Incoming07"
+//INCOMING!
+"Coach_Incoming08"
+//Alright, let's put on our game faces, they're comin!
+"Coach_Incoming09"
+//Y'all stay close, it's on!
+"Coach_Incoming10"
+//Got it!
+"Coach_KillConfirmation01"
+//Hit it.
+"Coach_KillConfirmation02"
+//I got it.
+"Coach_KillConfirmation03"
+//Dead!
+"Coach_KillConfirmation04"
+//Pow! Got it!
+"Coach_KillConfirmation05"
+//It's down.
+"Coach_KillConfirmation06"
+//Got it! [calmer]
+"Coach_KillConfirmation07"
+//I got it. [calmer]
+"Coach_KillConfirmation08"
+//That one's mine.
+"Coach_KillConfirmation09"
+//Turn off ya light.
+"Coach_KillThatLight01"
+//Kill that light.
+"Coach_KillThatLight02"
+//Hey, kill that light.
+"Coach_KillThatLight03"
+//Ya all need to kill your lights.
+"Coach_KillThatLight04"
+//No lights.
+"Coach_KillThatLight05"
+//Lights out.
+"Coach_KillThatLight06"
+//Laser sights here.
+"Coach_LaserSights01"
+//Laser sights here.
+"Coach_LaserSights02"
+//Laser sights here.
+"Coach_LaserSights03"
+//<Short laugh>
+"Coach_Laughter01"
+//<Hearty Laugh>
+"Coach_Laughter04"
+//<Short laugh>
+"Coach_Laughter06"
+//<Short laugh>
+"Coach_Laughter07"
+//<Hearty Laugh>
+"Coach_Laughter13"
+//<Hearty Laugh>
+"Coach_Laughter14"
+//<Hearty Laugh>
+"Coach_Laughter22"
+//I'll follow ya.
+"Coach_LeadOn01"
+//I'm followin ya.
+"Coach_LeadOn02"
+//All right, I with ya.
+"Coach_LeadOn03"
+//Lead on man.
+"Coach_LeadOn04"
+//Allright, SHIT...I'M GONNA FALL!
+"Coach_LedgeHangEnd01"
+//HEY! I CAN'T HOLD ON ANYMORE!
+"Coach_LedgeHangEnd02"
+//HELP ME UP ALREADY!
+"Coach_LedgeHangEnd03"
+//God dammit, I knew I shoulda lost some weight.
+"Coach_LedgeHangMiddle01"
+//Man, shit's gettin' old, help!
+"Coach_LedgeHangMiddle02"
+//Look, somebody wanna pull me up?
+"Coach_LedgeHangMiddle03"
+//Hey! I'm still hanging here!
+"Coach_LedgeHangMiddle04"
+//Whoah!
+"Coach_LedgeHangSlip05"
+//Whoah!
+"Coach_LedgeHangSlip06"
+//Whoah!
+"Coach_LedgeHangSlip07"
+//Whoah!
+"Coach_LedgeHangSlip08"
+//Whoah!
+"Coach_LedgeHangSlip09"
+//Ahh shit, need a hand.
+"Coach_LedgeHangStart01"
+//This is screwed up ya' all, I need some help.
+"Coach_LedgeHangStart02"
+//Shit, I f'd this up, can you help me out?
+"Coach_LedgeHangStart03"
+//Hey ya'all I fell off the damn ledge.
+"Coach_LedgeHangStart04"
+//Oh shit, look at ya. Let me help you up.
+"Coach_LedgeSave01"
+//I got ya, I got ya.
+"Coach_LedgeSave02"
+//Damn, this shit's messed up, you gonna hurt yourself hangin there.
+"Coach_LedgeSave03"
+//What do you say we get your ass up off this here ledge?
+"Coach_LedgeSave04"
+//Easy, let me help ya up now, cause I ain't gonna go get your ass if you fall.
+"Coach_LedgeSave05"
+//Over there!
+"Coach_Look01"
+//Look!
+"Coach_Look02"
+//Look!
+"Coach_Look03"
+//Look at this.
+"Coach_LookHere01"
+//What do ya'all make of this?
+"Coach_LookHere02"
+//Check this shit out.
+"Coach_LookHere03"
+//Look at this.
+"Coach_LookHere04"
+//Look out!
+"Coach_LookOut01"
+//Look out!
+"Coach_LookOut02"
+//Oh shit, watch out!
+"Coach_LookOut03"
+//Watch out!
+"Coach_LookOut04"
+//Where you all at?
+"Coach_LostCall01"
+//Hey! Anyone out there?
+"Coach_LostCall02"
+//Holler back at me folks!
+"Coach_LostCall03"
+//Machete here...
+"Coach_MeleeWeapons01"
+//Got a machete.
+"Coach_MeleeWeapons02"
+//Chainsaw here...
+"Coach_MeleeWeapons03"
+//Got a chainsaw.
+"Coach_MeleeWeapons04"
+//nightstick here...
+"Coach_MeleeWeapons05"
+//Grabbing a nightstick.
+"Coach_MeleeWeapons06"
+//Guitar here.
+"Coach_MeleeWeapons07"
+//Grabbing a guitar.
+"Coach_MeleeWeapons08"
+//Ninja sword here.
+"Coach_MeleeWeapons09"
+//Grabbing a sword.
+"Coach_MeleeWeapons10"
+//Grabbing a crowbar.
+"Coach_MeleeWeapons11"
+//Crowbar.
+"Coach_MeleeWeapons12"
+//Paddle bat here.
+"Coach_MeleeWeapons14"
+//Got a paddle bat.
+"Coach_MeleeWeapons15"
+//I am gonna paddle the SHIT outta somethin'.
+"Coach_MeleeWeapons16"
+//Jump down here!
+"Coach_MiscDirectional01"
+//Over this door!
+"Coach_MiscDirectional05"
+//Through here!
+"Coach_MiscDirectional07"
+//This way!
+"Coach_MiscDirectional09"
+//In here!
+"Coach_MiscDirectional10"
+//Down here!
+"Coach_MiscDirectional11"
+//C'mon, this way!
+"Coach_MiscDirectional12"
+//Through this window!
+"Coach_MiscDirectional13"
+//Let's go through here!
+"Coach_MiscDirectional17"
+//Through this door!
+"Coach_MiscDirectional19"
+//Through that gate!
+"Coach_MiscDirectional22"
+//Up that ladder!
+"Coach_MiscDirectional23"
+//Over this fence!
+"Coach_MiscDirectional27"
+//We can cross here!
+"Coach_MiscDirectional30"
+//We can get down here!
+"Coach_MiscDirectional34"
+//There's a safe room up there!
+"Coach_MiscDirectional37"
+//Press the button!
+"Coach_MiscDirectional39"
+//I hit it!
+"Coach_MiscDirectional42"
+//Retrace our steps! Head through the field!
+"Coach_MiscDirectional45"
+//We can take the elevator back up!
+"Coach_MiscDirectional47"
+//Back down the stairs!
+"Coach_MiscDirectional49"
+//We can cross on that tank!
+"Coach_MiscDirectional51"
+//Cross here!
+"Coach_MiscDirectional54"
+//Up this pipe!
+"Coach_MiscDirectional55"
+//This place is under water.
+"Coach_MiscDirectional59"
+//All that sugar... It's a damn shame.
+"Coach_MiscDirectional60"
+//All that sugar... it's a goddamn tragedy, is what it is.
+"Coach_MiscDirectional61"
+//SQUALL'S STARTIN', PEOPLE!
+"Coach_MiscDirectional63"
+//STORM COMIN'!
+"Coach_MiscDirectional64"
+//STICK TOGETHER!
+"Coach_MiscDirectional65"
+//Can't see two feet. Shit.
+"Coach_MiscDirectional66"
+//Can't see a goddamn thing.
+"Coach_MiscDirectional67"
+//Can't see a goddamn thing.
+"Coach_MiscDirectional68"
+//Can't see two feet. Shit.
+"Coach_MiscDirectional69"
+//There's the sign. We're almost outta the mill.
+"Coach_MiscDirectional70"
+//Allright, let's go.
+"Coach_MoveOn01"
+//Come on, people, let's get with it.
+"Coach_MoveOn02"
+//Allright allright, gotta keep movin'.
+"Coach_MoveOn03"
+//We gonna put up tents and shit or keep movin'?
+"Coach_MoveOn04"
+//We should get movin', ya hear me?
+"Coach_MoveOn05"
+//Alright, let's get it on.
+"Coach_MoveOn06"
+//All right, let's roll.
+"Coach_MoveOn07"
+//Let's get it on.
+"Coach_MoveOn08"
+//Alright people, let's get it on.
+"Coach_MoveOn09"
+//All right, let's roll.
+"Coach_MoveOn10"
+//Damn. Ellis!
+"Coach_NameEllis01"
+//Ellis!
+"Coach_NameEllis02"
+//Ellis.
+"Coach_NameEllis03"
+//Ellis!
+"Coach_NameEllis04"
+//Ellis.
+"Coach_NameEllis05"
+//ELLIS!
+"Coach_NameEllis06"
+//Boyyy!
+"Coach_NameEllis07"
+//ellis
+"Coach_NameEllis08"
+//ellis
+"Coach_NameEllis09"
+//Youngin.
+"Coach_NameEllis10"
+//Boy.
+"Coach_NameEllis11"
+//Youngin.
+"Coach_NameEllis12"
+//Hey suit.
+"Coach_NameGamblerC101"
+//Sir.
+"Coach_NameGamblerC102"
+//Sir.
+"Coach_NameGamblerC103"
+//Hey suit.
+"Coach_NameGamblerC104"
+//Hey suit.
+"Coach_NameGamblerC105"
+//Hey suit.
+"Coach_NameGamblerC106"
+//Sir.
+"Coach_NameGamblerC107"
+//Sir.
+"Coach_NameGamblerC108"
+//Nick!
+"Coach_NameNick01"
+//Nick.
+"Coach_NameNick02"
+//Nicolas.
+"Coach_NameNick03"
+//Nicky.
+"Coach_NameNick04"
+//Nick!
+"Coach_NameNick05"
+//Niiick.
+"Coach_NameNick06"
+//Nick!
+"Coach_NameNick07"
+//Nicolas!
+"Coach_NameNick08"
+//NI-colas!
+"Coach_NameNick09"
+//NI-colas!
+"Coach_NameNick10"
+//NI-colas!
+"Coach_NameNick11"
+//Girl.
+"Coach_NameProducerC101"
+//Girl.
+"Coach_NameProducerC102"
+//Sweety.
+"Coach_NameProducerC103"
+//Excuse me, sweety.
+"Coach_NameProducerC104"
+//Girl.
+"Coach_NameProducerC105"
+//Hey, girl.
+"Coach_NameProducerC106"
+//Uh, girl.
+"Coach_NameProducerC107"
+//Sweetheart
+"Coach_NameProducerC108"
+//Excuse me, sweety.
+"Coach_NameProducerC109"
+//Miss.
+"Coach_NameProducerC110"
+//Sweety.
+"Coach_NameProducerC111"
+//Ro!
+"Coach_NameRochelle01"
+//Rochelle.
+"Coach_NameRochelle02"
+//Girl.
+"Coach_NameRochelle04"
+//Girl.
+"Coach_NameRochelle05"
+//Ro!
+"Coach_NameRochelle07"
+//ROCHELLE!
+"Coach_NameRochelle08"
+//rochelle
+"Coach_NameRochelle10"
+//ro
+"Coach_NameRochelle11"
+//Nice.
+"Coach_NiceJob01"
+//Nice work.
+"Coach_NiceJob02"
+//Allright, you doin' good.
+"Coach_NiceJob03"
+//You're on that shit.
+"Coach_NiceJob04"
+//Way to go.
+"Coach_NiceJob05"
+//Allright now, you done good,.
+"Coach_NiceJob06"
+//Nice, keep goin at em like that.
+"Coach_NiceJob07"
+//That there was nice work.
+"Coach_NiceJob08"
+//Allright. You beat their ass good.
+"Coach_NiceJob09"
+//You done good.
+"Coach_NiceJob10"
+//Alright, alright. Not bad, not bad.
+"Coach_NiceJob11"
+//Come one now, keep it up, keep it up.
+"Coach_NiceJob12"
+//Alright, way to go, way to go.
+"Coach_NiceJob13"
+//Way to stick it to 'em.
+"Coach_NiceJob14"
+//Alright everybody, you are giving 110%.
+"Coach_NiceJob15"
+//Nice shot..
+"Coach_NiceShot01"
+//Damn. Good one.
+"Coach_NiceShot02"
+//Good one!
+"Coach_NiceShot03"
+//You on it.
+"Coach_NiceShot04"
+//You got it.
+"Coach_NiceShot05"
+//ohh hoo hoo, allright!
+"Coach_NiceShot06"
+//Damn. I'm impressed.
+"Coach_NiceShot07"
+//You nailed it.
+"Coach_NiceShot08"
+//You beat 'em.
+"Coach_NiceShot09"
+//Well alright now, you're in charge.
+"Coach_NiceShot10"
+//Alright now, yeah!  You got it, boy!
+"Coach_NiceShot11"
+//Nice shot, youngin'.
+"Coach_NiceShotEllis01"
+//All right girl.
+"Coach_NiceShotFemale01"
+//NIce kill Nick.
+"Coach_NiceShotGambler01"
+//Ellis, nice shot.
+"Coach_NiceShotMechanic01"
+//Ro that was a nice shot.
+"Coach_NiceShotProducer01"
+//No.
+"Coach_No01"
+//Oh hell no.
+"Coach_No02"
+//Excuse me?
+"Coach_No03"
+//enh. Oh.
+"Coach_No04"
+//No thank you.
+"Coach_No05"
+//Nope.
+"Coach_No06"
+//Uh uh.
+"Coach_No07"
+//Ain't gonna happen.
+"Coach_No08"
+//hell no.
+"Coach_No09"
+//Shit no.
+"Coach_No10"
+//No.
+"Coach_No11"
+//You crazy?
+"Coach_No12"
+//Aahhh...
+"Coach_PainRelieftFirstAid01"
+//Ooh. That's what I'm talkin' about.
+"Coach_PainRelieftFirstAid02"
+//Ohhh yeahhh. Yeah.
+"Coach_PainRelieftFirstAid03"
+//That's what I'm talkin' about.
+"Coach_PainRelieftFirstAid04"
+//All good now.
+"Coach_PainRelieftFirstAid05"
+//Ohhh yeahhh.
+"Coach_PainRelieftFirstAid06"
+//That's what I'm talkin' about.
+"Coach_PainRelieftFirstAid07"
+//All good now.
+"Coach_PainRelieftFirstAid08"
+//Yesss!
+"Coach_PainRelieftFirstAid09"
+//Ooff, ahh.
+"Coach_PainRelieftPills01"
+//Alright, that hit the spot.
+"Coach_PainRelieftPills02"
+//That hit the spot.
+"Coach_PainRelieftPills03"
+//Yeah, that'll hold me.
+"Coach_PainRelieftPills04"
+//Alright, that'll keep me tight.
+"Coach_PainRelieftPills05"
+//Woo, thatíll keep me tight.
+"Coach_PainRelieftPills06"
+//[Improv non-verbal pleasure & interest sounds]
+"Coach_PositiveNoise03"
+//[Improv non-verbal pleasure & interest sounds]
+"Coach_PositiveNoise10"
+//Shit.
+"Coach_ReactionNegative01"
+//What the f-
+"Coach_ReactionNegative02"
+//Damn!
+"Coach_ReactionNegative03"
+//Man this is about to get all baghdad and shit..
+"Coach_ReactionNegative04"
+//Oh hell, this about to get bad.
+"Coach_ReactionNegative05"
+//Hell no.
+"Coach_ReactionNegative06"
+//hhhhhhh [frustrated]
+"Coach_ReactionNegative07"
+//Goddamnit!
+"Coach_ReactionNegative08"
+//Shiiit.
+"Coach_ReactionNegative09"
+//Shiiit.
+"Coach_ReactionNegative10"
+//What the? hhhhhhh [frustrated]
+"Coach_ReactionNegative11"
+//Bullshit.
+"Coach_ReactionNegative12"
+//Well, I'll be a monkey's uncle.
+"Coach_ReactionNegative13"
+//Bullshit.
+"Coach_ReactionNegative14"
+//Goddamn!
+"Coach_ReactionNegative15"
+//Son of a bitch.
+"Coach_ReactionNegative16"
+//Son of a bitch.
+"Coach_ReactionNegative17"
+//Goddamn!
+"Coach_ReactionNegative18"
+//Well, I'll be a monkey's uncle.
+"Coach_ReactionNegative19"
+//Bullshit.
+"Coach_ReactionNegative20"
+//Reloading!
+"Coach_Reloading01"
+//Reloading!
+"Coach_Reloading02"
+//Reloading!
+"Coach_Reloading03"
+//Reloading!
+"Coach_Reloading04"
+//Reloading!
+"Coach_Reloading05"
+//Reloading!
+"Coach_Reloading06"
+//Reloading!
+"Coach_Reloading07"
+//Reloading...
+"Coach_ReloadingQuiet01"
+//Reloading...
+"Coach_ReloadingQuiet02"
+//Reloading...
+"Coach_ReloadingQuiet03"
+//Reloading...
+"Coach_ReloadingQuiet04"
+//Reloading...
+"Coach_ReloadingQuiet05"
+//Reloading...
+"Coach_ReloadingQuiet06"
+//Reloading!
+"Coach_ReloadIntense01"
+//Re-god-damn-loading!
+"Coach_ReloadIntense02"
+//Gotta reload!
+"Coach_ReloadIntense03"
+//Reloading!
+"Coach_ReloadIntense04"
+//Reloading!
+"Coach_ReloadIntense05"
+//Reloading!
+"Coach_ReloadIntense06"
+//Reloading!
+"Coach_ReloadIntense07"
+//Reloading!
+"Coach_ReloadIntense08"
+//You might want to make your peace. You hurt bad. One more time and that is it for ya.
+"Coach_ReviveCriticalFriend01"
+//They keep jumpin your shit and you keep goin' down... One more time and that's it.
+"Coach_ReviveCriticalFriend02"
+//You gonna be okay... ah nah, nah, I can't lie to ya. Go down again and that's it for ya.
+"Coach_ReviveCriticalFriend03"
+//You look like one of those dudes in a drivin school film, this may be it for ya.
+"Coach_ReviveCriticalFriend04"
+//I ain't clownin' when I say this, but you better not go down again, cause that be it for ya.
+"Coach_ReviveCriticalFriend05"
+//I gotta be straight with ya, you gonna die if you go down again, you understand?
+"Coach_ReviveCriticalFriend06"
+//You gonna want to make peace my man, you go down again and you ain't gettin back up.
+"Coach_ReviveCriticalFriend07"
+//Don't mean to be pickin on ya, but y'all look like shit.
+"Coach_ReviveFriend01"
+//What we got here?  Ain't nothin'. Ya good.
+"Coach_ReviveFriend02"
+//You ain't right, but lets get ya up and movin'.
+"Coach_ReviveFriend03"
+//Let's get ya up and take a look at ya, yeah yeah you good.
+"Coach_ReviveFriend04"
+//Damn, they beat ya ass good didn't they?  I get ya up though.
+"Coach_ReviveFriend05"
+//You for real?  You gonna stay down with a little scratch like that?  Get up!
+"Coach_ReviveFriend06"
+//Let's get ya ass up, a little nick ain't no reason to give up.
+"Coach_ReviveFriend07"
+//Come on man, don't shit yourself over this. You gonna be okay. Let me get ya up.
+"Coach_ReviveFriend08"
+//Down and give me 20.  Just foolin', let's get ya back up on your feet.
+"Coach_ReviveFriend09"
+//Where that put you at?
+"Coach_ReviveFriend10"
+//They put a hurtin on ya.
+"Coach_ReviveFriend11"
+//What we got here?
+"Coach_ReviveFriend12"
+//No time to be gentle.  Let's get you up on your feet.
+"Coach_ReviveFriend13"
+//Come on now, what you goin' on about? You're gonna make it.  Let's get you up.
+"Coach_ReviveFriend14"
+//You dead?
+"Coach_ReviveFriendA01"
+//You good?
+"Coach_ReviveFriendA02"
+//Gonna lay there all day?
+"Coach_ReviveFriendA03"
+//So what happened?
+"Coach_ReviveFriendA04"
+//They end you?
+"Coach_ReviveFriendA05"
+//This it for you?
+"Coach_ReviveFriendA06"
+//You right?
+"Coach_ReviveFriendA07"
+//You wanna stay down?
+"Coach_ReviveFriendA08"
+//You okay?
+"Coach_ReviveFriendA09"
+//You gonna make it?
+"Coach_ReviveFriendA10"
+//Everything okay?
+"Coach_ReviveFriendA11"
+//How you feel?
+"Coach_ReviveFriendA12"
+//You straight?
+"Coach_ReviveFriendA13"
+//What we got here?
+"Coach_ReviveFriendA14"
+//Talk to me. You cool?
+"Coach_ReviveFriendA15"
+//You all right?
+"Coach_ReviveFriendA16"
+//Allright good.
+"Coach_ReviveFriendB01"
+//Walk it off.
+"Coach_ReviveFriendB02"
+//You okay.
+"Coach_ReviveFriendB03"
+//You look good.
+"Coach_ReviveFriendB04"
+//Come on now.
+"Coach_ReviveFriendB05"
+//Now you're back in business.
+"Coach_ReviveFriendB06"
+//Up we go.
+"Coach_ReviveFriendB07"
+//You good.
+"Coach_ReviveFriendB08"
+//You're doin fine.
+"Coach_ReviveFriendB09"
+//This don't look bad.
+"Coach_ReviveFriendB10"
+//Can't lose you now can we?
+"Coach_ReviveFriendB11"
+//See you're gonna make it.
+"Coach_ReviveFriendB12"
+//Told ya. Wasn't nothing.
+"Coach_ReviveFriendB13"
+//All right, let's finish what we started.
+"Coach_ReviveFriendB14"
+//Alright now, we're back in business.
+"Coach_ReviveFriendB15"
+//Come on now! Get ya ass up.
+"Coach_ReviveFriendLoud01"
+//We ain't got time for this, get up.
+"Coach_ReviveFriendLoud02"
+//Let's get you ass up.
+"Coach_ReviveFriendLoud03"
+//Oh shit, come on, get up.
+"Coach_ReviveFriendLoud04"
+//Come on now, ain't got time for this, get up.
+"Coach_ReviveFriendLoud05"
+//Get your ass up! Get up!
+"Coach_ReviveFriendLoud06"
+//Getup! Come on now. Get. Up!
+"Coach_ReviveFriendLoud07"
+//Safe house up ahead!
+"Coach_SafeSpotAhead01"
+//Safe house!
+"Coach_SafeSpotAhead02"
+//Safe house, let's go!
+"Coach_SafeSpotAhead03"
+//GET IT OFF! [angry]
+"Coach_ScreamWhilePounced01"
+//GET IT OFF.
+"Coach_ScreamWhilePounced02"
+//GET IT OFF!
+"Coach_ScreamWhilePounced02a"
+//GET IT OFF!
+"Coach_ScreamWhilePounced03"
+//GET IT OFF!
+"Coach_ScreamWhilePounced04"
+//GET IT OFF!
+"Coach_ScreamWhilePounced05"
+//That zombie's got armor. I want armor!
+"Coach_SeeArmored01"
+//Well I'll be damned, that zombie's wearin' armor!
+"Coach_SeeArmored02"
+//Shoot that zombie in the back!
+"Coach_SeeArmored03"
+//Shoot that zombie in the back!
+"Coach_SeeArmored04"
+//Those zombies are goddamn bullet proof!
+"Coach_SeeArmored05"
+//CLOWNS!?!??
+"Coach_SeeClowns01"
+//CLOWNS!? Give me a break.
+"Coach_SeeClowns02"
+//CLOWNS!?!??
+"Coach_SeeClowns03"
+//Clowns?
+"Coach_SeeClowns04"
+//Shoot the clown!
+"Coach_SeeClowns05"
+//That clown's attracting zombies!
+"Coach_SeeClowns06"
+//Shoot the clown!
+"Coach_SeeClowns07"
+//What are those guys doing in those suits?
+"Coach_SeeHazmat01"
+//What's with those suits?
+"Coach_SeeHazmat02"
+//Mudmen!
+"Coach_SeeMudmen01"
+//Shoot the mudmen!
+"Coach_SeeMudmen02"
+//Shit, my bad.
+"Coach_Sorry01"
+//That right there was my fault.
+"Coach_Sorry02"
+//My bad.
+"Coach_Sorry03"
+//Sorry.
+"Coach_Sorry04"
+//Hey, sorry.
+"Coach_Sorry05"
+//Ha, you know what? My bad.
+"Coach_Sorry06"
+//Oh shit, sorry.
+"Coach_Sorry07"
+//Ammo here!
+"Coach_SpotAmmo01"
+//Ammo here!
+"Coach_SpotAmmo02"
+//Ammo up here!
+"Coach_SpotAmmo03"
+//Hey, ammo here!
+"Coach_SpotAmmo04"
+//First Aid Kit here!
+"Coach_SpotFirstAid01"
+//First Aid kit here!
+"Coach_SpotFirstAid02"
+//First Aid here!
+"Coach_SpotFirstAid03"
+//Grenade launcher.
+"Coach_SpotGrenadeLauncher01"
+//Goddamn grenade launcher.
+"Coach_SpotGrenadeLauncher02"
+//Grenade launcher up here.
+"Coach_SpotGrenadeLauncher03"
+//Got a pipe bomb here.
+"Coach_SpotGrenades01"
+//Pipe bomb!
+"Coach_SpotGrenades02"
+//Pipe bomb for me.
+"Coach_SpotGrenades03"
+//Molotov's over here.
+"Coach_SpotGrenades04"
+//Pipe bombs!
+"Coach_SpotGrenades06"
+//Molotovs!
+"Coach_SpotGrenades07"
+//Grabbin a pipe bomb.
+"Coach_SpotGrenades09"
+//Pipe bombs here!
+"Coach_SpotGrenades10"
+//Molotovs here!
+"Coach_SpotGrenades11"
+//Pills here!
+"Coach_SpotPills01"
+//We got pills!
+"Coach_SpotPills02"
+//Anyone need some pills?
+"Coach_SpotPills03"
+//Weapons here!
+"Coach_SpotWeapons01"
+//Weapon's over here!
+"Coach_SpotWeapons02"
+//Weapons!
+"Coach_SpotWeapons03"
+//Guns!
+"Coach_SpotWeapons04"
+//We got guns!
+"Coach_SpotWeapons05"
+//All right, guns!
+"Coach_SpotWeapons06"
+//Stay close people!
+"Coach_StayTogether01"
+//Y'all stay close.
+"Coach_StayTogether02"
+//Keep tight.
+"Coach_StayTogether03"
+//No one wander off.
+"Coach_StayTogether04"
+//Come on people, get you asses in here!
+"Coach_StayTogetherInside01"
+//Get you asses in here!
+"Coach_StayTogetherInside02"
+//Ain't got time for this shit, get in here.
+"Coach_StayTogetherInside03"
+//Come on people, come on, get in here!
+"Coach_StayTogetherInside04"
+//Hey! Get in here!
+"Coach_StayTogetherInside05"
+//Get you asses in here right now!
+"Coach_StayTogetherInside06"
+//Heal if ya got em.
+"Coach_SuggestHealth02"
+//This ain't about me people, let's heal up.
+"Coach_SuggestHealth03"
+//This would be the time to heal up.
+"Coach_SuggestHealthC101"
+//Now's a good time to heal if you can.
+"Coach_SuggestHealthC102"
+//If you got a health kit you should use it.
+"Coach_SuggestHealthC103"
+//Ellis, time for you to heal boy.
+"Coach_SuggestHealthEllis01"
+//Allright Ellis, come on now, get yourself right.
+"Coach_SuggestHealthEllis02"
+//Hey Ellis, that health kit ain't gonna use itself.
+"Coach_SuggestHealthEllis03"
+//Nick, don't be stupid, heal up.
+"Coach_SuggestHealthGambler01"
+//Nicolas I think it is time for you to heal.
+"Coach_SuggestHealthNick01"
+//Nick, you should use that kit on your self.
+"Coach_SuggestHealthNick02"
+//Nick, its all right, we all gotta heal sometime.
+"Coach_SuggestHealthNick03"
+//Ro, time to heal.
+"Coach_SuggestHealthRochell01"
+//Ro, heal up, hear me girl?
+"Coach_SuggestHealthRochell02"
+//Girl, time for you to heal up.
+"Coach_SuggestHealthRochell03"
+//Hey girl, why don't you heal up?
+"Coach_SuggestHealthRochell04"
+//Boy, I'm going to miss your goofy ass.
+"Coach_SurvivorMournEllis01"
+//Bye Ellis.
+"Coach_SurvivorMournEllis02"
+//NIck, we're gonna miss your gun.
+"Coach_SurvivorMournGamblerC101"
+//Damn. Nick, this just got a whole lot harder.
+"Coach_SurvivorMournGamblerC102"
+//Ahh damnit, I can't take losing anymore people.
+"Coach_SurvivorMournMechanicC101"
+//Little man, we are goin' to miss you.
+"Coach_SurvivorMournMechanicC102"
+//NIck, you gonna be missed.
+"Coach_SurvivorMournNick01"
+//Bye Nick.
+"Coach_SurvivorMournNick02"
+//Gentlemen, we just lost the best thing in our little group.
+"Coach_SurvivorMournProducerC101"
+//Damn. Baby, I should have tried to protect you more.
+"Coach_SurvivorMournProducerC102"
+//Ahh baby girl, goodbye.
+"Coach_SurvivorMournRochelle01"
+//Oh Ro, oh Ro man...
+"Coach_SurvivorMournRochelle02"
+//Ahh baby girl, mmm.
+"Coach_SurvivorMournRochelle03"
+//Shit. Shoulda taught this class.
+"Coach_TakeAssaultRifle01"
+//This right here'll mess some shit up.
+"Coach_TakeAssaultRifle02"
+//Ah hell. Gonna set some things right with this shit.
+"Coach_TakeAssaultRifle03"
+//I got the assault rifle.
+"Coach_TakeAssaultRifle04"
+//Gonna take the assault rifle.
+"Coach_TakeAssaultRifle05"
+//This shotgun will put the hurt on them zombies.
+"Coach_TakeAutoShotgun01"
+//Autoshottie is mine.
+"Coach_TakeAutoShotgun02"
+//Oh hell yeah, I'm takin an autoshotgun.
+"Coach_TakeAutoShotgun03"
+//I'm grabbin' some first aid.
+"Coach_TakeFirstAid01"
+//Look here, this here first aid is mine.
+"Coach_TakeFirstAid02"
+//I got the first aid.
+"Coach_TakeFirstAid03"
+//Damn, this shit looks dangerous.
+"Coach_TakeGrenadeLauncher01"
+//Alright now this is gonna blow some shit up.
+"Coach_TakeGrenadeLauncher02"
+//Man, it's gonna be raining zombie parts.
+"Coach_TakeGrenadeLauncher03"
+//Alright now, let's blow some shit up.
+"Coach_TakeGrenadeLauncher04"
+//I tell ya, it's gonna be raining zombie pieces.
+"Coach_TakeGrenadeLauncher05"
+//Oh yeah.
+"Coach_TakeMelee01"
+//Alright now, mm-hm. This is gonna work.
+"Coach_TakeMelee02"
+//I am gonna smack some shit with this.
+"Coach_TakeMelee03"
+//I am gonna set some zombies straight with this.
+"Coach_TakeMelee04"
+//Yeah. This is my kind of weapon.
+"Coach_TakeMelee05"
+//Shit. I'd pay cash money for this.
+"Coach_TakeMelee06"
+//Alright. Now I am ready.
+"Coach_TakeMelee07"
+//You play ball Nick?
+"Coach_TakeMeleeR01"
+//Grabbing a Molotov. [to self]
+"Coach_TakeMolotov01"
+//Grabbing me a Molotov. [to self]
+"Coach_TakeMolotov02"
+//Damn right. Gonna take everything I can.
+"Coach_TakePills01"
+//This shit'll help.
+"Coach_TakePills02"
+//I'm grabbing pills.
+"Coach_TakePills03"
+//I'm grabbing pills.
+"Coach_TakePills04"
+//I know one thing, I'm grabbing pills.
+"Coach_TakePills05"
+//I got the pills!
+"Coach_TakePills06"
+//Grabbin a pipe bomb.
+"Coach_TakePipeBomb01"
+//Ya boy!
+"Coach_TakePipeBomb02"
+//Oh shit yeah.
+"Coach_TakePipeBomb03"
+//Takin an extra pistol.
+"Coach_TakePistol01"
+//Gonna go all Akimbo and shit.
+"Coach_TakePistol02"
+//Yeah, I'm goin two for one here.
+"Coach_TakePistol03"
+//Grabbing a shotgun.
+"Coach_TakeShotgun01"
+//This shotgun 'll work.
+"Coach_TakeShotgun02"
+//Grabbing a shotgun.
+"Coach_TakeShotgun03"
+//Gonna scope some smoker ass with this.
+"Coach_TakeSniper01"
+//Pow! I'm gonna snipe some bitches.
+"Coach_TakeSniper02"
+//Hey boy. Pow! Some bitches gonna get sniped.
+"Coach_TakeSniper03"
+//Guess I'll take this here machine gun.
+"Coach_TakeSubMachineGun01"
+//Grabbing a machinegun.
+"Coach_TakeSubMachineGun02"
+//Pat at tat tat [to self]
+"Coach_TakeSubMachineGun03"
+//Oh shit get this thing off me!
+"Coach_TankPound01"
+//Can't y'all see this thing is beatin' the shit out of me!!?!?!!?
+"Coach_TankPound02"
+//Hey! in case ya'll didn't see it, I got a tank on me!
+"Coach_TankPound03"
+//I got a tank on me!
+"Coach_TankPound04"
+//Get it off - ah - Get it off me!
+"Coach_TankPound05"
+//Get this damn thing off!
+"Coach_TankPound06"
+//Hell yeah!
+"Coach_Taunt01"
+//Goddamn right!
+"Coach_Taunt02"
+//Goddamn right!
+"Coach_Taunt03"
+//Aw riiiight.
+"Coach_Taunt04"
+//Oh hell yeah!
+"Coach_Taunt05"
+//Ooh. How ya like me now? Mmm.
+"Coach_Taunt06"
+//[Loud, evil laugh]
+"Coach_Taunt07"
+//[Loud, evil laugh]
+"Coach_Taunt08"
+//Woah, that there is some screwed up shit.
+"Coach_TeamKillAccident01"
+//You gotta watch where you aimin' that thing.
+"Coach_TeamKillAccident02"
+//Man, are you wrong in the head shootin like that?
+"Coach_TeamKillAccident03"
+//What the hell are you on shootin' like that.
+"Coach_TeamKillAccident04"
+//What the f'...  don't be doin that.
+"Coach_TeamKillAccident05"
+//Hey! Don't be doin that.
+"Coach_TeamKillAccident06"
+//You try that shit on me and you'll be wishin' your momma never met ya father.
+"Coach_TeamKillAccident07"
+//Keep goin at em like that and you gonna be the last man on earth.
+"Coach_TeamKillAccident08"
+//This used to be a NICE NEIGHBORHOOD!
+"Coach_TeaserIntroMovie01"
+//This used to be a NICE NEIGHBORHOOD!
+"Coach_TeaserIntroMovie02"
+//This used to be a NICE NEIGHBORHOOD!
+"Coach_TeaserIntroMovie03"
+//This used to be a NICE NEIGHBORHOOD!
+"Coach_TeaserIntroMovie04"
+//This used to be a NICE NEIGHBORHOOD!
+"Coach_TeaserIntroMovie05"
+//This used to be a NICE NEIGHBORHOOD!
+"Coach_TeaserIntroMovie06"
+//[angry] They left us here to DIE.
+"Coach_TeaserIntroMovie07"
+//[angry] They were supposed to RESCUE us.
+"Coach_TeaserIntroMovie08"
+//[angry] Thought they're supposed t'be gettin' us outa this shit!
+"Coach_TeaserIntroMovie09"
+//[angry] Thought they're supposed t'be savin' our asses!
+"Coach_TeaserIntroMovie10"
+//Thanks.
+"Coach_Thanks01"
+//Thanks.
+"Coach_Thanks02"
+//Thanks.
+"Coach_Thanks04"
+//Thanks, we straight?
+"Coach_Thanks05"
+//Allrighht thanks.
+"Coach_Thanks06"
+//THANKS!
+"Coach_Thanks07"
+//Thanks man.
+"Coach_Thanks08"
+//Hang on, hang on, I'm comin!
+"Coach_ToTheRescue01"
+//Hang in there, I'm coming!
+"Coach_ToTheRescue02"
+//I hear ya, I'm comin'!
+"Coach_ToTheRescue03"
+//I comin', I comin'.
+"Coach_ToTheRescue04"
+//On my way! Right now!
+"Coach_ToTheRescue05"
+//Hang on, I'm comin'
+"Coach_ToTheRescue06"
+//That shit was crazy.
+"Coach_TransitionClose01"
+//That shit was crazy.
+"Coach_TransitionClose02"
+//That was some close ass shit.
+"Coach_TransitionClose03"
+//We just made that.
+"Coach_TransitionClose04"
+//I was bettin on the other guys (laughing).
+"Coach_TransitionClose05"
+//Man said, any fight you walk away from is a win.
+"Coach_TransitionClose06"
+//Let's put it behind us, we good, we good.
+"Coach_TransitionClose07"
+//Touchdown!
+"Coach_TransitionClose08"
+//They played us tough.
+"Coach_TransitionClose09"
+//That was some epic shit. Right there.
+"Coach_TransitionClose10"
+//Allright. We allright y'all. We made it.
+"Coach_TransitionClose11"
+//That shit was too goddamn close...
+"Coach_TransitionClose12"
+//We almost didn't make it...
+"Coach_TransitionClose13"
+//That was a little TOO close...
+"Coach_TransitionClose14"
+//Damn. I can't be all that's left...
+"Coach_TransitionClose15"
+//We got sloppy out there.
+"Coach_TransitionClose16"
+//I know we can do better than THAT.
+"Coach_TransitionClose17"
+//Man. That got BAD.
+"Coach_TransitionClose18"
+//Hold up.
+"Coach_WaitHere01"
+//Rest you ass for a sec.
+"Coach_WaitHere02"
+//Wait up.
+"Coach_WaitHere03"
+//Stop.
+"Coach_WaitHere04"
+//Hold up, hold up y'all.
+"Coach_WaitHere05"
+//Slow down. Damn.
+"Coach_WaitHere06"
+//BOOMER!
+"Coach_WarnBoomer01"
+//BOOMER!
+"Coach_WarnBoomer02"
+//BOOMER!
+"Coach_WarnBoomer03"
+//BOOMER!
+"Coach_WarnBoomer04"
+//Fat guy!
+"Coach_WarnBoomerC101"
+//Roly poly!
+"Coach_WarnBoomerC102"
+//Fat thing!
+"Coach_WarnBoomerC103"
+//Careful now...
+"Coach_WarnCareful01"
+//Shit ain't right, be careful.
+"Coach_WarnCareful02"
+//Everybody? Keep ya shit tight.
+"Coach_WarnCareful03"
+//Keep ya shit tight.
+"Coach_WarnCareful04"
+//CHARGER!
+"Coach_WarnCharger01"
+//CHARGER!
+"Coach_WarnCharger02"
+//CHARGER!
+"Coach_WarnCharger03"
+//Big arm!
+"Coach_WarnChargerC101"
+//One arm!
+"Coach_WarnChargerC102"
+//We gotta HUNTER!
+"Coach_WarnHunter01"
+//HUNTER!
+"Coach_WarnHunter02"
+//HUNTER!
+"Coach_WarnHunter03"
+//HUNTER!
+"Coach_WarnHunter04"
+//We got a Jumper!
+"Coach_WarnHunterC101"
+//Crazy legs!
+"Coach_WarnHunterC102"
+//JOCKEY!
+"Coach_WarnJockey01"
+//JOCKEY!
+"Coach_WarnJockey02"
+//JOCKEY!
+"Coach_WarnJockey03"
+//Little guy!
+"Coach_WarnJockeyC101"
+//Little creep!
+"Coach_WarnJockeyC102"
+//Skittish one.
+"Coach_WarnJockeyC103"
+//SMOKER!
+"Coach_WarnSmoker01"
+//SMOKER!
+"Coach_WarnSmoker02"
+//SMOKER!
+"Coach_WarnSmoker03"
+//Smokin' one.
+"Coach_WarnSmokerC101"
+//Tonguer!
+"Coach_WarnSmokerC102"
+//SPITTER!
+"Coach_WarnSpitter01"
+//SPITTER!
+"Coach_WarnSpitter02"
+//SPITTER!
+"Coach_WarnSpitter03"
+//Crazy woman!
+"Coach_WarnSpitterC101"
+//Neck!
+"Coach_WarnSpitterC102"
+//Spitting thing!
+"Coach_WarnSpitterC103"
+//Spit coming!
+"Coach_WarnSpitterIncoming01"
+//Goo coming!
+"Coach_WarnSpitterIncoming02"
+//Burning shit coming!
+"Coach_WarnSpitterIncoming03"
+//Spit coming!
+"Coach_WarnSpitterIncoming04"
+//Goo coming!
+"Coach_WarnSpitterIncoming05"
+//Burning shit coming!
+"Coach_WarnSpitterIncoming06"
+//Heads up, goo!
+"Coach_WarnSpitterIncoming07"
+//Watch out, spit!
+"Coach_WarnSpitterIncoming08"
+//TANK!
+"Coach_WarnTank01"
+//TANK!
+"Coach_WarnTank02"
+//TANK!
+"Coach_WarnTank03"
+//Some kind of super ass zombie.
+"Coach_WarnTankC101"
+//Gigantic thing!
+"Coach_WarnTankC102"
+//HOLY SHIT WHAT IS THAT?!?!
+"Coach_WarnTankC103"
+//Witch!
+"Coach_WarnWitch01"
+//We gotta witch!
+"Coach_WarnWitch02"
+//Witch!
+"Coach_WarnWitch03"
+//I see that Bitch!
+"Coach_WarnWitch04"
+//Bitch!
+"Coach_WarnWitch05"
+//Witch.
+"Coach_WarnWitch06"
+//Behind us!
+"Coach_WatchOutBehind01"
+//Behind us!
+"Coach_WatchOutBehind02"
+//They're behind us!
+"Coach_WatchOutBehind03"
+//Behind us.
+"Coach_WatchOutBehind04"
+//Behind us.
+"Coach_WatchOutBehind05"
+//The bitch is chasing me!
+"Coach_WitchChasing01"
+//Bitch on my ass!
+"Coach_WitchChasing02"
+//Run, run, witch coming through!
+"Coach_WitchChasing03"
+//Shoot the witch! Shoot the witch!
+"Coach_WitchChasing04"
+//Coming through! Witch on my ass!
+"Coach_WitchChasing05"
+//Get out of the way! Witch!!!!
+"Coach_WitchChasing06"
+//Aw shit. Witch! Witch! Witch!
+"Coach_WitchChasing07"
+//Oh shit, that bitch's pissed.
+"Coach_WitchGettingAngry01"
+//Quit trifling with that bitch, she gonna explode.
+"Coach_WitchGettingAngry02"
+//Watch out ya'all, someone pissed off that bitch.
+"Coach_WitchGettingAngry03"
+//Ohh shit, that bitch's gettin' angry!
+"Coach_WitchGettingAngry04"
+//There's the bridge.
+"Coach_World01"
+//Oh yeaah. Our goal is right next to the bridge, ON THE OTHER MOTHER F'IN SIDE OF THE RIVER!
+"Coach_World02"
+//Through here.
+"Coach_World05"
+//Over here.
+"Coach_World06"
+//Down here.
+"Coach_World08"
+//Run!
+"Coach_World10"
+//Just run!
+"Coach_World11"
+//Up here.
+"Coach_World12"
+//Gotta agree with that.
+"Coach_World14"
+//HEYYY! COME BACK! COME-ahh, he ain't comin' back.
+"Coach_WorldC1M1B01"
+//Okay, nobody panic. I live around here-and that chopper looks like it's headin' to the mall. It ain't far, I can take you there.
+"Coach_WorldC1M1B02"
+//Hey! There's still people on the roof! Get BACK HERE!
+"Coach_WorldC1M1B03"
+//There's a mall got turned into an evac station not too far from here. I'll bet that chopper's headin' there.
+"Coach_WorldC1M1B04"
+//Hey! There's still people on the roof! Get BACK HERE!
+"Coach_WorldC1M1B05"
+//Aw, heck, the rescue chopper's leavin'!
+"Coach_WorldC1M1B06"
+//Everybody calm down. I live around here, and that chopper looks like it's headin' to the mall. It ain't far-I'll take you there.
+"Coach_WorldC1M1B07"
+//There's a mall got turned into an evac station not too far from here. I'll bet that chopper's headin' there.
+"Coach_WorldC1M1B08"
+//Looks like it's headin' to the mall. Maybe they're still evacuatin' people there.
+"Coach_WorldC1M1B09"
+//My name's Coach. I don't like bein' here any more than you do-but if we gotta fight, we might as well fight together.
+"Coach_WorldC1M1B100"
+//My name's Coach. And I KNOW how to shoot a gun.
+"Coach_WorldC1M1B101"
+//Coach.
+"Coach_WorldC1M1B103"
+//Settle down, son. We're going to be okay. What's your name?
+"Coach_WorldC1M1B104"
+//And you?
+"Coach_WorldC1M1B105"
+//There we go. Most people call me Coach. And we're gonna be okay. Just gotta keep our heads.
+"Coach_WorldC1M1B106"
+//Everyone just calls me Coach.
+"Coach_WorldC1M1B108"
+//Naw, I'm good. You?
+"Coach_WorldC1M1B109"
+//What the heck is that chopper doing?
+"Coach_WorldC1M1B11"
+//People call me Coach, what's your name?
+"Coach_WorldC1M1B110"
+//Let's stay together... for a little longer at least. Okay, Nick?
+"Coach_WorldC1M1B111"
+//Who'd we lose?
+"Coach_WorldC1M1B114"
+//I think it was Ellis.
+"Coach_WorldC1M1B116"
+//Looked like it was headin' to the mall across town.
+"Coach_WorldC1M1B12"
+//No, I'm good.
+"Coach_WorldC1M1B121"
+//I don't think so.
+"Coach_WorldC1M1B124"
+//Coach'll work.
+"Coach_WorldC1M1B125"
+//That's what they call a boomer...
+"Coach_WorldC1M1B127"
+//Don't worry, they're heading to the mall, we can catch them there.
+"Coach_WorldC1M1B13"
+//Let's go through here.
+"Coach_WorldC1M1B139"
+//Mister... I don't think I like your attitude.
+"Coach_WorldC1M1B14"
+//Dollars to donuts, that chopper's headin' to the mall across town.
+"Coach_WorldC1M1B15"
+//Gotta agree. Let's follow them to the mall.
+"Coach_WorldC1M1B16"
+//Then let's do it. Everybody grab a weapon, and let's go.
+"Coach_WorldC1M1B17"
+//If everyone's good with it, we should stick together.
+"Coach_WorldC1M1B22"
+//We better grab a weapon. Might need to defend ourselves.
+"Coach_WorldC1M1B23"
+//I'm not a violent man. But I ain't stupid neither. Let's grab some weapons.
+"Coach_WorldC1M1B24"
+//Arm up. I don't have a good feeling about this.
+"Coach_WorldC1M1B25"
+//Grab whatever you can find to hit something with.
+"Coach_WorldC1M1B26"
+//Jumpin' Jehosaphat! What ARE these things?
+"Coach_WorldC1M1B38"
+//Y'all know what the hell these things are?
+"Coach_WorldC1M1B39"
+//It's them or us.
+"Coach_WorldC1M1B42"
+//Look at that map. We need to get ourselves to New Orleans.
+"Coach_WorldC1M1B45"
+//Man, LOOK at this map. We're all that's left.
+"Coach_WorldC1M1B47"
+//We need to get to New Orleans.
+"Coach_WorldC1M1B48"
+//Would you look at this. Folks, I think N'awlins is the last city standing.
+"Coach_WorldC1M1B49"
+//We gotta find a way around this fire!
+"Coach_WorldC1M1B54"
+//This way's blocked!
+"Coach_WorldC1M1B55"
+//[coughing] The fire's spreading!
+"Coach_WorldC1M1B56"
+//Fire over here, too.
+"Coach_WorldC1M1B57"
+//[coughing] Fire over here, too.
+"Coach_WorldC1M1B58"
+//The fire's spreading!
+"Coach_WorldC1M1B59"
+//Elevator's out!
+"Coach_WorldC1M1B61"
+//Gotta find some stairs.
+"Coach_WorldC1M1B63"
+//Let's get to the stairs.
+"Coach_WorldC1M1B64"
+//We can walk along the ledge!
+"Coach_WorldC1M1B66"
+//Let's try the ledge!
+"Coach_WorldC1M1B67"
+//Think the zombies mind if I take one of their guns?
+"Coach_WorldC1M1B70"
+//Now I ain't effin' around!
+"Coach_WorldC1M1B74"
+//I have NEVER been so happy to see a gun.
+"Coach_WorldC1M1B76"
+//Now we're talking.
+"Coach_WorldC1M1B80"
+//THAT levels the playin' field.
+"Coach_WorldC1M1B82"
+//Search these rooms. Might be something we can use.
+"Coach_WorldC1M1B84"
+//This elevator's still on!
+"Coach_WorldC1M1B85"
+//Thank Jesus, this one's still on. I ain't walkin' down thirty flights of stairs.
+"Coach_WorldC1M1B87"
+//I don't think you're supposed to use an elevator when the buildin's on fire.
+"Coach_WorldC1M1B88"
+//Hit the button before this turns into a bad idea.
+"Coach_WorldC1M1B90"
+//Everybody into the elevator!
+"Coach_WorldC1M1B91"
+//Get in the elevator!
+"Coach_WorldC1M1B92"
+//Alright, enough chat. Get ready.
+"Coach_WorldC1M1B95"
+//So. Pleased to meet you. You can call me Coach. What's your name?
+"Coach_WorldC1M1B96"
+//My friends call me Coach. I guess y'all can do the same.
+"Coach_WorldC1M1B97"
+//People just call me Coach.
+"Coach_WorldC1M1B98"
+//Coach.
+"Coach_WorldC1M1B99"
+//Let's go find that mall.
+"Coach_WorldC1M2B01"
+//Let's go find that helicopter.
+"Coach_WorldC1M2B02"
+//There's a gun store on the way to the mall. What do you say we pay it a visit?
+"Coach_WorldC1M2B03"
+//Let's go find that mall.
+"Coach_WorldC1M2B04"
+//Mall's THAT way! Let's move!
+"Coach_WorldC1M2B06"
+//We can jump down onto this truck!
+"Coach_WorldC1M2B13"
+//Over the dumpster!
+"Coach_WorldC1M2B14"
+//Stay with me! That mall's JUST up ahead!
+"Coach_WorldC1M2B15"
+//Look alive! We're getting close to the mall!
+"Coach_WorldC1M2B16"
+//Damn. Where IS everybody?
+"Coach_WorldC1M2B17"
+//Shit. This place is DESERTED. It's startin' to creep me out.
+"Coach_WorldC1M2B18"
+//That gun store's around here somewhere.
+"Coach_WorldC1M2B19"
+//We're getting close to that gun store.
+"Coach_WorldC1M2B20"
+//That gun store's just up ahead. Let's stock up and keep moving.
+"Coach_WorldC1M2B21"
+//Gun store's just down these stairs!
+"Coach_WorldC1M2B22"
+//Paydirt!
+"Coach_WorldC1M2B25"
+//Pretty sure all a these'll kill them zombies.
+"Coach_WorldC1M2B28"
+//This here is A LOT of guns.
+"Coach_WorldC1M2B29"
+//Well man-I'll get you your drinks, but you better help us.
+"Coach_WorldC1M2B30"
+//I hear ya my man. I understand your need for snacks. But I just gotta be clear that if we get 'em, you ARE gonna help us.
+"Coach_WorldC1M2B31"
+//Finally something that makes sense to me. A man and his snacks. We'll hook ya up. Just don't forget to take care of us.
+"Coach_WorldC1M2B34"
+//I have never killed zombies on a snack run, but today is a day of firsts. If you don't mind us using your guns to do it, we're good to go.
+"Coach_WorldC1M2B35"
+//Here comes the alarm.
+"Coach_WorldC1M2B37"
+//Grab the cola!
+"Coach_WorldC1M2B39"
+//I got the cola, let's get back!
+"Coach_WorldC1M2B40"
+//Alright, I got the crazy man's cola! Let's go!
+"Coach_WorldC1M2B41"
+//I got the cola!
+"Coach_WorldC1M2B42"
+//Grabbin' cola!
+"Coach_WorldC1M2B43"
+//Barrier's down! Let's move, baby!
+"Coach_WorldC1M2B44"
+//Path clear! Let's get to that mall!
+"Coach_WorldC1M2B45"
+//[laughs] When that man says he's gonna clear a path, he clears a path!
+"Coach_WorldC1M2B46"
+//That's how I used clear a path when I played college ball.
+"Coach_WorldC1M2B47"
+//Path's clear! Let's move, baby!
+"Coach_WorldC1M2B48"
+//Path's clear! Let's get to that mall!
+"Coach_WorldC1M2B49"
+//Ha-HA! There's the mall!
+"Coach_WorldC1M2B50"
+//Hmm. This mall look busy to you?
+"Coach_WorldC1M2B52"
+//I guess all the people must be inside.
+"Coach_WorldC1M2B53"
+//Keep an eye out for the evac center. Also the food court. I am STARVING.
+"Coach_WorldC1M3B01"
+//Everybody, gather 'round. Let's pray. Dear Lord. See us safely through our time of trial in this mall. And please Lord... let the food court be okay.
+"Coach_WorldC1M3B02"
+//Amen
+"Coach_WorldC1M3B03"
+//Amen
+"Coach_WorldC1M3B04"
+//CEDA's gotta be around here somewhere. Let's find this evac and get out of here.
+"Coach_WorldC1M3B05"
+//Up this escalator!
+"Coach_WorldC1M3B06"
+//Down that escalator!
+"Coach_WorldC1M3B09"
+//I hope the food court's okay.
+"Coach_WorldC1M3B11"
+//Please, lord, let the food court be okay.
+"Coach_WorldC1M3B12"
+//I could roll up a whole pizza right now, eat it sub-style.
+"Coach_WorldC1M3B13"
+//If I see a zombie running at me with a sample tray, I ain't shootin' it.
+"Coach_WorldC1M3B14"
+//Evac's this way!
+"Coach_WorldC1M3B18"
+//Heyyy! Jimmy Gibbs!
+"Coach_WorldC1M3B21"
+//Ohh heyyy! Jimmy Gibbs!
+"Coach_WorldC1M3B22"
+//I heard of Jimmy Gibbs! That man's a stock car LEGEND.
+"Coach_WorldC1M3B23"
+//Well, trust me-in these parts? He's as famous as... Elvis. Or the President.
+"Coach_WorldC1M3B24"
+//Get ready, alarm is gonna sound.
+"Coach_WorldC1M3B26"
+//Keep going!
+"Coach_WorldC1M3B27"
+//We gotta turn off that alarm!
+"Coach_WorldC1M3B28"
+//Last one to turn off the alarm is a rotten egg!
+"Coach_WorldC1M3B29"
+//Someone turn off the alarm!
+"Coach_WorldC1M3B30"
+//Got it!
+"Coach_WorldC1M3B31"
+//I can still hear it in my head, but I think the alarm is off.
+"Coach_WorldC1M3B33"
+//...poor food court never stood a chance...
+"Coach_WorldC1M3B34"
+//I hope SOMEBODY got out alright...
+"Coach_WorldC1M3B35"
+//I won't lie. It don't look good.
+"Coach_WorldC1M3B37"
+//Some of the refugees must've built a safe room!
+"Coach_WorldC1M3B38"
+//I hope SOMEBODY got out alright...
+"Coach_WorldC1M3B40"
+//Son, you got a DEAL.
+"Coach_WorldC1M4B01"
+//Ha HA! All the way to New Orleans! Baby, that sounds like a PLAN.
+"Coach_WorldC1M4B02"
+//Alright, so...Getting' evac'd ain't happening. Anybody got an idea, now's the time.
+"Coach_WorldC1M4B03"
+//Looks like we're gonna have to save ourselves. Anybody got an idea, speak up, we're listenin'.
+"Coach_WorldC1M4B04"
+//Normally I wouldn't do this. But in these circumstances, I think Mr. Gibbs, Jr. ain't gonna mind.
+"Coach_WorldC1M4B05"
+//If we see a Jimmy Gibbs zombie. somebody else is gonna have to kill him.
+"Coach_WorldC1M4B07"
+//Soon as them doors open? You run your ass off and find some GAS.
+"Coach_WorldC1M4B08"
+//Soon as these doors open, get ready to MOVE.
+"Coach_WorldC1M4B09"
+//Forgive us Jimmy, but we need your car.
+"Coach_WorldC1M4B10"
+//Haul ass and get gas!
+"Coach_WorldC1M4B11"
+//Oh, come on, baby, come on...
+"Coach_WorldC1M4B12"
+//Oh, come on, baby, come on...
+"Coach_WorldC1M4B13"
+//Please, baby, baby, please, please...
+"Coach_WorldC1M4B14"
+//Oh, come on, baby, come on...
+"Coach_WorldC1M4B15"
+//Hurry up, hurrrry upppp...
+"Coach_WorldC1M4B16"
+//Come onnnn, come onnnnnn...
+"Coach_WorldC1M4B17"
+//Fillin' it up here!
+"Coach_WorldC1M4B18"
+//I got this one!
+"Coach_WorldC1M4B19"
+//Let's go! Find a gas can!
+"Coach_WorldC1M4B20"
+//Let's get this car gassed up!
+"Coach_WorldC1M4B21"
+//We need more gas!
+"Coach_WorldC1M4B22"
+//We still need more gas!
+"Coach_WorldC1M4B23"
+//Alright, halfway there!
+"Coach_WorldC1M4B24"
+//Almost there!
+"Coach_WorldC1M4B25"
+//We still need ten more!
+"Coach_WorldC1M4B27"
+//We still need five more!
+"Coach_WorldC1M4B28"
+//Just three more!
+"Coach_WorldC1M4B29"
+//Just two more!
+"Coach_WorldC1M4B30"
+//One more can to go!
+"Coach_WorldC1M4B31"
+//We're all gassed up, get to the car!
+"Coach_WorldC1M4B32"
+//Here we come, New Orleans!
+"Coach_WorldC1M4B33"
+//GET TO THE CAR!
+"Coach_WorldC1M4B34"
+//GET TO THE CAR, PEOPLE!
+"Coach_WorldC1M4B35"
+//HIT IT!
+"Coach_WorldC1M4B36"
+//Sorry about this, Mr. Gibbs.
+"Coach_WorldC1M4B37"
+//GO ELLIS GO!
+"Coach_WorldC1M4B38"
+//GO ELLIS GO!
+"Coach_WorldC1M4B39"
+//PUNCH IT, ELLIS!
+"Coach_WorldC1M4B40"
+//Woo! Thank you, Mr. Gibbs.
+"Coach_WorldC1M4B41"
+//Down here.
+"Coach_WorldC2M114"
+//Alright, take the off ramp.
+"Coach_WorldC2M115"
+//Head down this way.
+"Coach_WorldC2M116"
+//Whispering oaks motel?  Sheeet....  I know where we are.
+"Coach_WorldC2M120"
+//That there's whispering oaks.
+"Coach_WorldC2M122"
+//Check the rooms.
+"Coach_WorldC2M125"
+//Let's try the second floor.
+"Coach_WorldC2M126"
+//Whoaaa! Whoa!
+"Coach_WorldC2M129"
+//Whoa, whoa, whoa, Whoaaa!
+"Coach_WorldC2M130"
+//Damn, I am too old for this shit.
+"Coach_WorldC2M131"
+//Nah, hell no.
+"Coach_WorldC2M132"
+//You a crazy man Ellis.
+"Coach_WorldC2M134"
+//We ain't the only ones that thought to take this short-cut
+"Coach_WorldC2M136"
+//Hell, it got us this far. We'll find another way to N'awlins.
+"Coach_WorldC2M1B01"
+//Maybe they left 'em when they got rescued.
+"Coach_WorldC2M1B02"
+//Hey, Whisperin' Oaks! Shit, I used to go there when I was a kid!
+"Coach_WorldC2M1B03"
+//Look, searchlights! Might be survivors there, we should check it out.
+"Coach_WorldC2M1B04"
+//Look, searchlights! I bet that's Whisperin' Oaks.
+"Coach_WorldC2M1B05"
+//Down this off ramp!
+"Coach_WorldC2M1B06"
+//Highway's blocked! Let's check out the motel!
+"Coach_WorldC2M1B09"
+//Check the rooms. Might be somethin' useful.
+"Coach_WorldC2M1B10"
+//[laughs] It's not funny. You coulda really hurt yours[breaks into laughs again] Naw, it's funny.
+"Coach_WorldC2M1B11"
+//[laughs] Watch that first step, baby.
+"Coach_WorldC2M1B12"
+//Whoa... Take it slow down this hill. Looks like a pretty big drop.
+"Coach_WorldC2M1B13"
+//Watch yerself on this hill...
+"Coach_WorldC2M1B14"
+//There she is! Whispering Oaks!
+"Coach_WorldC2M1B15"
+//Whoa... Take it slow down this hill. Looks like a pretty big drop.
+"Coach_WorldC2M1B16"
+//Watch yerself on this hill...
+"Coach_WorldC2M1B17"
+//Oh. Ahh sorry Ro.
+"Coach_WorldC2M201"
+//Man, I loved this place as a kid.
+"Coach_WorldC2M203"
+//I was a lil' peanut riding these.  This here was my favorite.
+"Coach_WorldC2M205"
+//Blocked down here.
+"Coach_WorldC2M206"
+//Let's try the roof.
+"Coach_WorldC2M207"
+//Alright, this is gonna open the gate and what the hell else?
+"Coach_WorldC2M209"
+//I'm opening the gate!
+"Coach_WorldC2M210"
+//Gotta keep movin', open the gate.
+"Coach_WorldC2M211"
+//Turn it off!
+"Coach_WorldC2M213"
+//Stop it!
+"Coach_WorldC2M214"
+//Ahh damn, the merry-go-round started!
+"Coach_WorldC2M215"
+//Shit. That things make it a racket!
+"Coach_WorldC2M216"
+//Turn it off, turn the damn thing off!
+"Coach_WorldC2M217"
+//Oh yeah... tunnel of love.
+"Coach_WorldC2M218"
+//Come on, get into the tunnel of love.
+"Coach_WorldC2M219"
+//We'll head towards the searchlights. If there's an evac, it'll be there.
+"Coach_WorldC2M2B01"
+//There's still searchlights on. I'd say that's a good sign.
+"Coach_WorldC2M2B02"
+//Hey, the Midnight Riders! I used to LOVE that band. Best pyrotechnics in the business.
+"Coach_WorldC2M2B03"
+//[singing] ...Gotta reach for the top, stay on that mountainnnn... dunh-nuh-NAH-nuh-NAH-nha!
+"Coach_WorldC2M2B05"
+//[singing] ...Every lady's crazy when her daddy's not around... dunh-nuh-NAH-nuh-NAH-nha!
+"Coach_WorldC2M2B06"
+//Hey! The Midnight Riders!
+"Coach_WorldC2M2B08"
+//Hell yes! I got ALL their albums. Even their new stuff that ain't no good.
+"Coach_WorldC2M2B09"
+//Best light show in the business, though.
+"Coach_WorldC2M2B11"
+//All these signs are making me hungry.
+"Coach_WorldC2M2B20"
+//Elephant ears... funnel cakes... corn dogs... Man, these signs are bringin' back some memories.
+"Coach_WorldC2M2B21"
+//Oh, baby, I could destroy some kettle corn right now.
+"Coach_WorldC2M2B22"
+//I find a Burger Tank in this place? I'm-a be a one-man cheeseburger apocalypse.
+"Coach_WorldC2M2B23"
+//Mmmhmm. Peach cobbler.
+"Coach_WorldC2M2B24"
+//Cotton Candy. The king of foods.
+"Coach_WorldC2M2B25"
+//Ah yeah. Cotton Candy. The wise pharaoh of food. Sittin' atop the food pyramid, passin' judgement on all lesser foods.
+"Coach_WorldC2M2B26"
+//Once the world goes back to normal? I'm buyin' you guys a steak dinner.
+"Coach_WorldC2M2B28"
+//Sometimes it feels like we're babysitting, doesn't it?
+"Coach_WorldC2M2B29"
+//'You must be this tall to ride.' Well-least there won't be no jockeys in there.
+"Coach_WorldC2M2B31"
+//'You must be this tall to ride.' Sorry Ellis. It's been real man.
+"Coach_WorldC2M2B32"
+//Gate's open!
+"Coach_WorldC2M2B35"
+//It's off.
+"Coach_WorldC2M2B36"
+//Damn it. They can't keep a candy machine filled up around here?
+"Coach_WorldC2M2B37"
+//There's the saferoom! Everybody in the tunnel of love!
+"Coach_WorldC2M2B38"
+//Get in the tunnel of love!
+"Coach_WorldC2M2B39"
+//Get your ass in the tunnel of love!
+"Coach_WorldC2M2B40"
+//Hey. No smoochin' y'all.
+"Coach_WorldC2M301"
+//In the maintenance room.
+"Coach_WorldC2M304"
+//Alright, let's do this together.
+"Coach_WorldC2M306"
+//Hm. Shit. First time I ever couldn't wait to get out of the tunnel of love.
+"Coach_WorldC2M308"
+//No, this ain't gonna be cool. You ain't right in the head boy.
+"Coach_WorldC2M311"
+//Running the screaming oak...now don't that beat all...
+"Coach_WorldC2M312"
+//We're blocked by the coaster.
+"Coach_WorldC2M313"
+//We're blocked by the screaming oak.
+"Coach_WorldC2M314"
+//The only way over is on the coaster.
+"Coach_WorldC2M315"
+//This is some crazy ass world we live in now.
+"Coach_WorldC2M316"
+//Let's get it going.
+"Coach_WorldC2M318"
+//Get ready to run, I'm hittin' it.
+"Coach_WorldC2M319"
+//That set off the alarm!
+"Coach_WorldC2M320"
+//Up the hill.
+"Coach_WorldC2M322"
+//Turn that shit off.
+"Coach_WorldC2M323"
+//Kill that alarm.
+"Coach_WorldC2M324"
+//Through the bumper cars!
+"Coach_WorldC2M325"
+//Well-looks like we're going through the tunnel of love, people. No hanky panky.
+"Coach_WorldC2M3B01"
+//Well-looks like we're going through the tunnel of love, people. Stay close to me.
+"Coach_WorldC2M3B02"
+//Nick, I was on the football team. Coach did just fine.
+"Coach_WorldC2M3B03"
+//Coach didn't do too bad for himself back in the day, Nick.
+"Coach_WorldC2M3B04"
+//How many tunnel of love memories YOU got, Nick?
+"Coach_WorldC2M3B05"
+//This water don't look natural...
+"Coach_WorldC2M3B06"
+//Back in the day, I had some posters that woulda looked GOOD in this light.
+"Coach_WorldC2M3B07"
+//Down this hole!
+"Coach_WorldC2M3B08"
+//I don't remember the tunnel of love bein' this LONG. I musta had something else on my mind.
+"Coach_WorldC2M3B10"
+//We'll have to get this crap off the tracks!
+"Coach_WorldC2M3B12"
+//We'll have to get this gate open.
+"Coach_WorldC2M3B13"
+//There's a chopper!
+"Coach_WorldC2M3B15"
+//There's that chopper again!
+"Coach_WorldC2M3B16"
+//There goes the chopper!
+"Coach_WorldC2M3B17"
+//We gotta turn that alarm off!
+"Coach_WorldC2M3B18"
+//Somebody turn off that alarm!
+"Coach_WorldC2M3B19"
+//Just keep following the tracks and we'll get through this!
+"Coach_WorldC2M3B20"
+//Stay on the tracks!
+"Coach_WorldC2M3B21"
+//Okay, alarm's off!
+"Coach_WorldC2M3B22"
+//Through the farm exhibits.
+"Coach_WorldC2M408"
+//Through the farm hall.
+"Coach_WorldC2M409"
+//Over the roof!
+"Coach_WorldC2M410"
+//There's the stage.
+"Coach_WorldC2M416"
+//Let's get inside the stadium, I have an idea!
+"Coach_WorldC2M4B01"
+//Midnight Riders are supposed to play here?
+"Coach_WorldC2M4B03"
+//I know how we can signal that chopper.
+"Coach_WorldC2M4B05"
+//Ellis, you ready to rock?
+"Coach_WorldC2M4B06"
+//Y'all know the Midnight Riders? They gonna save us.
+"Coach_WorldC2M5B04"
+//We start their finale, that chopper is gonna know something's up.
+"Coach_WorldC2M5B05"
+//Because nobody - and I mean NOBODY - has a bigger light show than the Midnight Riders.
+"Coach_WorldC2M5B06"
+//These zombies better be ready to rock.
+"Coach_WorldC2M5B08"
+//It's been a long time since I seen the Riders, but if their finale's the same, that'll signal the chopper pilot. We just need to start it.
+"Coach_WorldC2M5B10"
+//They nailed this damn song!
+"Coach_WorldC2M5B102"
+//I ain't normally a rock music man, but damn I love the Riders!
+"Coach_WorldC2M5B103"
+//The chopper saw us!
+"Coach_WorldC2M5B105"
+//The chopper's coming!
+"Coach_WorldC2M5B106"
+//The Midnight Riders saved us!
+"Coach_WorldC2M5B107"
+//All right Midnight Riders!
+"Coach_WorldC2M5B108"
+//Midnight Rider's finale? That'll alert the goddamn chopper.
+"Coach_WorldC2M5B11"
+//I'll be damned! Even I didn't think that was gonna work!
+"Coach_WorldC2M5B111"
+//Okay, here's the plan.
+"Coach_WorldC2M5B12"
+//Get on the chopper!
+"Coach_WorldC2M5B123"
+//Everyone to the chopper!
+"Coach_WorldC2M5B125"
+//Get on that chopper!
+"Coach_WorldC2M5B126"
+//First we look for supplies.
+"Coach_WorldC2M5B15"
+//Then we start the Midnight Rider finale. It's all kinds of fireworks, smokepots, and lights and shit. That chopper pilot can't miss it.
+"Coach_WorldC2M5B17"
+//We have to figure out how to turn all this stuff on.
+"Coach_WorldC2M5B20"
+//They have taped music? Shit. Old ass classic rock clowns.
+"Coach_WorldC2M5B22"
+//No, they're just saving their voices for the studio, Nick. That's SMART.
+"Coach_WorldC2M5B23"
+//You mock because you're jealous, Nick. These men are living legends.
+"Coach_WorldC2M5B24"
+//Well ain't this a bitch, they got a tape for their music. To think I used to like these guys.
+"Coach_WorldC2M5B25"
+//Lip syncing old ass bitches, they got a tape back here.
+"Coach_WorldC2M5B26"
+//There's a tape back here, this is all setup for the finale.
+"Coach_WorldC2M5B27"
+//The Rider's have their finale all cued up back here.
+"Coach_WorldC2M5B28"
+//When I hit this tape deck, it's all gonna start. Get ready!
+"Coach_WorldC2M5B29"
+//This tape's gonna start the finale! Get ready!
+"Coach_WorldC2M5B32"
+//This is gonna be good!
+"Coach_WorldC2M5B33"
+//When we start this tape, it's gonna be on. So get ready!
+"Coach_WorldC2M5B34"
+//When we start this tape, get ready! The music's gonna be INCREDIBLY GOOD, but try to focus.
+"Coach_WorldC2M5B36"
+//Get ready to rock, I'm gonna start the finale!
+"Coach_WorldC2M5B37"
+//Finale's on! Get ready to rock!
+"Coach_WorldC2M5B38"
+//Turn on the lights!
+"Coach_WorldC2M5B42"
+//Hit the lights!
+"Coach_WorldC2M5B43"
+//Turn on the lights!
+"Coach_WorldC2M5B51"
+//Hit the spotlights!
+"Coach_WorldC2M5B53"
+//I love you, Midnight Riders!
+"Coach_WorldC2M5B58"
+//I love this song! I love ALL these notes!
+"Coach_WorldC2M5B59"
+//Let loose!
+"Coach_WorldC2M5B61"
+//Turn on the lights!
+"Coach_WorldC2M5B65"
+//Come on Midnight Riders!
+"Coach_WorldC2M5B66"
+//This music IS GREAT!
+"Coach_WorldC2M5B67"
+//I forgot how much I like this song!
+"Coach_WorldC2M5B68"
+//They nailed this damn song!
+"Coach_WorldC2M5B69"
+//I love you, Midnight Riders!
+"Coach_WorldC2M5B90"
+//No CEDA, No Military.  Stay out.
+"Coach_WorldC3M102"
+//I don't think anyone likes the swamp.
+"Coach_WorldC3M103"
+//Come on now, if I was having a cookout, I ain't invitin' CEDA either.
+"Coach_WorldC3M104"
+//Anything in those houses?
+"Coach_WorldC3M105"
+//We gotta call that boat over here.
+"Coach_WorldC3M106"
+//Get ready, callin' the boat.
+"Coach_WorldC3M107"
+//Boat's coming!
+"Coach_WorldC3M108"
+//Boat's almost here!
+"Coach_WorldC3M109"
+//Get on the boat!
+"Coach_WorldC3M110"
+//Everyone on the boat!
+"Coach_WorldC3M111"
+//Hit the button.
+"Coach_WorldC3M112"
+//Hit it, let's cross this bitch.
+"Coach_WorldC3M113"
+//I seen that movie. It don't end well.
+"Coach_WorldC3M114"
+//Nah, that don't sound good at all.
+"Coach_WorldC3M115"
+//Though I walk through the valley of the shadow of death, I will fear no evil
+"Coach_WorldC3M116"
+//Though I walk through the valley of the shadow of death, I will fear no evil
+"Coach_WorldC3M117"
+//Nick, we're goin into a swamp filled with zombies.  Y'all want me to lie to ya?
+"Coach_WorldC3M118"
+//Nick, don't pay no attention to that boy.
+"Coach_WorldC3M119"
+//Heh, alright. Look at you youngin' given Nick some shit right back.
+"Coach_WorldC3M120"
+//Look at you youngin' given Nick some shit.
+"Coach_WorldC3M121"
+//I normally stay the hell away from swamps on principle.  You remember that movie with that golfer that got his hand ate by a gator?  That shit's real.
+"Coach_WorldC3M122"
+//Hell. sometimes its best not to find out what you don't know.
+"Coach_WorldC3M123"
+//Maybe we oughta just stop this boat right here and live the rest of years between the shores.
+"Coach_WorldC3M124"
+//Look, maybe we oughta just stop this boat right here and live the rest of years between the shores.
+"Coach_WorldC3M125"
+//Stay on the walk ways.
+"Coach_WorldC3M126"
+//Yeah, don't wander off.
+"Coach_WorldC3M127"
+//Girls got the right idea.
+"Coach_WorldC3M128"
+//Do not feed the gators.
+"Coach_WorldC3M129"
+//Into the drainage ditch.
+"Coach_WorldC3M130"
+//That was some shit, the pilot becoming a zombie right before our eyes. Nice shooting Nick.
+"Coach_WorldC3M1B02"
+//You know what? No more helicopters. I'm just saying that now. I'm good.
+"Coach_WorldC3M1B04"
+//Next time someone wants to shoot our pilot, can I get a little warning?
+"Coach_WorldC3M1B05"
+//That was the first time I was in a helicopter. I always imagined it with less zombies.
+"Coach_WorldC3M1B06"
+//Shit, that pilot just changed. One minute he was flying us to safety, the next he was... well... I am pretty damn sure he was trying to eat us.
+"Coach_WorldC3M1B07"
+//Where in the hell are we?
+"Coach_WorldC3M1B08"
+//Where in the hell are we?
+"Coach_WorldC3M1B09"
+//Anyone check where we were before we went down?
+"Coach_WorldC3M1B10"
+//Man. When you're forced to turn to people livin' in a swamp to help you get out of a city? I don't think CEDA's doing their job right.
+"Coach_WorldC3M1B12"
+//This swamp shit's gettin' old.
+"Coach_WorldC3M201"
+//Shit, why would you ever jump out of a plane?
+"Coach_WorldC3M203"
+//All right, now I understand why you would jump out of a plane.
+"Coach_WorldC3M204"
+//We gotta open this door.
+"Coach_WorldC3M205"
+//You know an alarm will sound when we open this.
+"Coach_WorldC3M206"
+//Everyone geared up?
+"Coach_WorldC3M207"
+//Hello!
+"Coach_WorldC3M208"
+//Anyone there!?!!
+"Coach_WorldC3M209"
+//Lights are on!
+"Coach_WorldC3M210"
+//Anyone home!
+"Coach_WorldC3M211"
+//Swamp people, we comin' home!
+"Coach_WorldC3M212"
+//I wonder if they got dinner cookin'?
+"Coach_WorldC3M213"
+//Looks like we weren't the only people crashing today.
+"Coach_WorldC3M2B01"
+//Nick, you didn't shoot this pilot too did you?
+"Coach_WorldC3M2B02"
+//This here is gonna set off an alarm, get ready.
+"Coach_WorldC3M2B03"
+//I'm opening it!
+"Coach_WorldC3M2B04"
+//I'm opening this door!
+"Coach_WorldC3M2B05"
+//All right, this just makes me sad.
+"Coach_WorldC3M301"
+//It did not end well for these people.
+"Coach_WorldC3M302"
+//I don't think they'd mind if we look for supplies.
+"Coach_WorldC3M304"
+//Careful lookin' for supplies, show respect.
+"Coach_WorldC3M305"
+//We have to lower this bridge.
+"Coach_WorldC3M307"
+//Lower the bridge.
+"Coach_WorldC3M308"
+//Bridge is down, let's go!
+"Coach_WorldC3M310"
+//Stay up here!
+"Coach_WorldC3M311"
+//Finally a safe house!
+"Coach_WorldC3M312"
+//I think we're at the end of the swamp.
+"Coach_WorldC3M313"
+//Let's keep moving.
+"Coach_WorldC3M3B03"
+//Search these houses.
+"Coach_WorldC3M402"
+//There's the house!
+"Coach_WorldC3M403"
+//Let's try the radio.
+"Coach_WorldC3M404"
+//Anyone out there?
+"Coach_WorldC3M406"
+//Can anyone here me?
+"Coach_WorldC3M407"
+//Shit, we're at the plantation house.
+"Coach_WorldC3M408"
+//We're at the big house.
+"Coach_WorldC3M409"
+//Get on the boat!
+"Coach_WorldC3M421"
+//Run to the boat!
+"Coach_WorldC3M422"
+//Everyone onto the boat!
+"Coach_WorldC3M423"
+//Get your asses on the boat!
+"Coach_WorldC3M424"
+//Oh shit! Gate open!
+"Coach_WorldC3M4B07"
+//Our Cajun friend opened the gate!
+"Coach_WorldC3M4B10"
+//Man, I sure wish the Burger Tank was open.
+"Coach_WorldC4M105"
+//I could go for a BBQ bacon burger.
+"Coach_WorldC4M107"
+//And a large order of fries, and...
+"Coach_WorldC4M108"
+//An orange soda with no ice, and a...
+"Coach_WorldC4M109"
+//piece of hot apple pie.
+"Coach_WorldC4M110"
+//Goddamn I miss Burger Tank.
+"Coach_WorldC4M111"
+//Down this street.
+"Coach_WorldC4M115"
+//Look here, the gas station's right across the street. We coulda already been there and back by now. Come on.
+"Coach_WorldC4M1B01"
+//What gun bag? Oh for-TELL ME we didn't forget the guns.
+"Coach_WorldC4M1B06"
+//We should be in and out here. Get the gas, get back to shore, signal Virgil with the flare gun in the gun bag. Then we just, uh... um... aw, HELL. Tell me SOMEONE brought the GUN BAG.
+"Coach_WorldC4M1B07"
+//Next gas two miles. Looks like Virgil's gonna be waitin' a bit longer than he thought.
+"Coach_WorldC4M1B08"
+//Next gas two miles. Hope Virgil likes waitin', 'cause it looks we're goin' for a walk.
+"Coach_WorldC4M1B09"
+//Outta gas. Shit.
+"Coach_WorldC4M1B10"
+//Let's head to this Ducatel diesel.
+"Coach_WorldC4M1B11"
+//Because if they DON'T, we gonna be stuck here forever, Nick.
+"Coach_WorldC4M1B12"
+//Let's just get this done and head back.
+"Coach_WorldC4M1B14"
+//Aw hell. Looks like a bad storm's comin.
+"Coach_WorldC4M1B17"
+//Keep your eyes open for landmarks. We gonna have to come back through here.
+"Coach_WorldC4M1B18"
+//Now, try to remember where the ammo dumps're at. We might need some on the way back.
+"Coach_WorldC4M1B19"
+//First the plague, now the flood. I feel like I should be buildin' an ark.
+"Coach_WorldC4M1B20"
+//First the plague, now the flood. I think somebody's trying to tell us something.
+"Coach_WorldC4M1B21"
+//Through this playground!
+"Coach_WorldC4M1B22"
+//Through that playground!
+"Coach_WorldC4M1B23"
+//Let's cut through the garage sale.
+"Coach_WorldC4M1B24"
+//That's a nasty damn wreck.
+"Coach_WorldC4M1B25"
+//We gotta hurry.
+"Coach_WorldC4M205"
+//Dang. Bitches must like sugar.
+"Coach_WorldC4M208"
+//Goddamn it, wha't with all these witches.
+"Coach_WorldC4M211"
+//Road's blocked.
+"Coach_WorldC4M2B01"
+//We gotta head through the sugar mill.
+"Coach_WorldC4M2B02"
+//If this rain really comes, we gonna get washed away.
+"Coach_WorldC4M2B04"
+//Water's starting to pool. We gotta move!
+"Coach_WorldC4M2B05"
+//[pointing at huge puddle] Look, it's already starting to flood.
+"Coach_WorldC4M2B06"
+//We already got plague. Maybe the Lord'll let us slide on the flood.
+"Coach_WorldC4M2B07"
+//People, if this rain really comes, we gonna be in trouble.
+"Coach_WorldC4M2B08"
+//Whole lotta witches round here...
+"Coach_WorldC4M2B09"
+//Lotta damn witches up in this place.
+"Coach_WorldC4M2B10"
+//Maybe the rain brings 'em out.
+"Coach_WorldC4M2B12"
+//Up that ramp!
+"Coach_WorldC4M2B16"
+//There's the gas station!
+"Coach_WorldC4M2B18"
+//Through the cane field!
+"Coach_WorldC4M2B19"
+//We can take that elevator down to the field.
+"Coach_WorldC4M2B20"
+//ELEVATOR'S HERE!
+"Coach_WorldC4M2B22"
+//EVERYBODY IN THE ELEVATOR!
+"Coach_WorldC4M2B24"
+//GET YOUR ASSES IN THE ELEVATOR!
+"Coach_WorldC4M2B25"
+//KEEP MOVING! HEAD FOR THE SIGN!
+"Coach_WorldC4M2B27"
+//HEAD TOWARD THE SIGN!
+"Coach_WorldC4M2B28"
+//KEEP MOVING!
+"Coach_WorldC4M2B29"
+//Says there's gas inside.
+"Coach_WorldC4M2B30"
+//[reading sign] Gas inside.
+"Coach_WorldC4M2B31"
+//Cool. Let's go get it.
+"Coach_WorldC4M2B32"
+//There's gas in the safe room!
+"Coach_WorldC4M2B34"
+//Close the door and let's get the gas.
+"Coach_WorldC4M2B37"
+//Damn. It's really stormin' now.
+"Coach_WorldC4M302"
+//It is coming down.
+"Coach_WorldC4M303"
+//It's all flooded.
+"Coach_WorldC4M307"
+//Goddamn this is slow going.
+"Coach_WorldC4M308"
+//This shit's worse than the swamp.
+"Coach_WorldC4M309"
+//Allright, people. Everybody got a can?
+"Coach_WorldC4M3B01"
+//Let's head back to the boat.
+"Coach_WorldC4M3B02"
+//Back to the boat, people.
+"Coach_WorldC4M3B03"
+//I got one.
+"Coach_WorldC4M3B05"
+//Getting' back to the boat ain't gonna be as easy as getting' here.
+"Coach_WorldC4M3B06"
+//I told ya these storms come up quick.
+"Coach_WorldC4M3B09"
+//I am not dying in a goddamn sugar mill.
+"Coach_WorldC4M3GoingToDie01"
+//Let's go, almost back to the boat.
+"Coach_WorldC4M401"
+//Towns flooded.
+"Coach_WorldC4M402"
+//Try sticking to the dry ground.
+"Coach_WorldC4M408"
+//I knew Burger Tank wouldn't let us down.
+"Coach_WorldC4M412"
+//Burger tank to the rescue!
+"Coach_WorldC4M413"
+//I remember that porch light.
+"Coach_WorldC4M4B04"
+//The yard sale! We're goin' the right way!
+"Coach_WorldC4M4B06"
+//There's the playground! We're close!
+"Coach_WorldC4M4B07"
+//If we fire up the Burger Tank sign, Virgil might see it.
+"Coach_WorldC4M4B11"
+//The sign's lit!
+"Coach_WorldC4M4B14"
+//Please be watchin', Virgil.
+"Coach_WorldC4M4B15"
+//THERE'S VIRGIL!
+"Coach_WorldC4M4B19"
+//GET TO THE BOAT!
+"Coach_WorldC4M4B20"
+//Thanks, Virgil. You stay safe, brother.
+"Coach_WorldC5M1B01"
+//We made it REAL damn far, people. I'm proud of you. Now let's just cross that last mile.
+"Coach_WorldC5M1B02"
+//We BEEN through hell getting here. Now we're at the last mile. Let's make this COUNT.
+"Coach_WorldC5M1B03"
+//All right people, let's get to that bridge.
+"Coach_WorldC5M1B04"
+//We're almost home free, people.
+"Coach_WorldC5M1B05"
+//They're still flying jets!
+"Coach_WorldC5M1B07"
+//It means they haven't abandoned New Orleans. C'mon, let's move!
+"Coach_WorldC5M1B08"
+//Alright, Military's still here!
+"Coach_WorldC5M1B09"
+//C'mon, let's head through the park!
+"Coach_WorldC5M2B01"
+//Look, that freeway's headin' right to our bridge.
+"Coach_WorldC5M2B02"
+//Allright, then, let's follow it!
+"Coach_WorldC5M2B03"
+//These ain't zombies. Somebody's been shootin' people.
+"Coach_WorldC5M2B04"
+//I don't know shit. We gonna keep movin'.
+"Coach_WorldC5M2B05"
+//[annoyed] How does bein' so right feel, Nick?
+"Coach_WorldC5M2B06"
+//RUN!
+"Coach_WorldC5M2B09"
+//MOVE YOUR ASSES!
+"Coach_WorldC5M2B10"
+//GO!
+"Coach_WorldC5M2B11"
+//KEEP MOVIN'!
+"Coach_WorldC5M2B12"
+//JUST RUN!
+"Coach_WorldC5M2B13"
+//GET THE LEAD OUT, PEOPLE!
+"Coach_WorldC5M2B14"
+//WE GOTTA TURN OFF THAT ALARM!
+"Coach_WorldC5M2B15"
+//MOVE!
+"Coach_WorldC5M2B16"
+//Through the bus station!
+"Coach_WorldC5M2B17"
+//This freeway's gotta hook up with the bridge.
+"Coach_WorldC5M3B01"
+//Bridge can't be too far now.
+"Coach_WorldC5M3B03"
+//Zombies didn't bring down that chopper.
+"Coach_WorldC5M3B08"
+//There was some kinda war goin on out here.
+"Coach_WorldC5M3B09"
+//I hope those hash marks mean zombies.
+"Coach_WorldC5M3B12"
+//Man, I hope not.
+"Coach_WorldC5M3B13"
+//Everybody in the sewer.
+"Coach_WorldC5M3B16"
+//Man, Nick, you picked a bad day to wear your white suit.
+"Coach_WorldC5M3B17"
+//Nick! Good news - we're going down into this sewer.
+"Coach_WorldC5M3B18"
+//Alarms everywhere, people. Watch yourselves!
+"Coach_WorldC5M3B19"
+//Everybody take it slow, now.
+"Coach_WorldC5M3B22"
+//Move careful, watch your fire, and we'll be just fine.
+"Coach_WorldC5M3B24"
+//WOULD YOU STOP SHOOTIN' THE GODDAMN CARS!
+"Coach_WorldC5M3B25"
+//MOTHERF-
+"Coach_WorldC5M3B28"
+//Allright. Shit. Nobody panic. We gonna head down and find another way up onto the bridge.
+"Coach_WorldC5M3B29"
+//Get your ass movin', Nick.
+"Coach_WorldC5M3B30"
+//Man, they're lighting up this whole place. We gotta get to the bridge.
+"Coach_WorldC5M4B01"
+//STOP BOMBING US.
+"Coach_WorldC5M4B02"
+//SHIT!
+"Coach_WorldC5M4B03"
+//Damn! That one was close!
+"Coach_WorldC5M4B04"
+//Shit. Damn, that one was close!
+"Coach_WorldC5M4B05"
+//There're the bridge!
+"Coach_WorldC5M4B06"
+//There's a safe room in the bridge!
+"Coach_WorldC5M4B08"
+//I hear ya man.  See ya soon.
+"Coach_WorldC5M504"
+//Wind up the chopper, because here we come.
+"Coach_WorldC5M506"
+//Once it's down, lets go!
+"Coach_WorldC5M510"
+//Allrightallright. We gonna stroll across that bridge, and the army's gonna take care of us.
+"Coach_WorldC5M5B01"
+//Well, you free to make yourself a new life here in this room, Nick.
+"Coach_WorldC5M5B03"
+//No.
+"Coach_WorldC5M5B04"
+//Those sound like soldiers! Somebody talk to 'em.
+"Coach_WorldC5M5B08"
+//Somebody pick up the radio.
+"Coach_WorldC5M5B09"
+//Hello!
+"Coach_WorldC5M5B10"
+//Hey! There's four of us on the bridge!
+"Coach_WorldC5M5B11"
+//We are NOT infected.
+"Coach_WorldC5M5B12"
+//"Encountered"? Boy, I am covered in zombie blood and puke and eyeballs and twenty other parts I don't even recognize. We are immune as SHIT.
+"Coach_WorldC5M5B13"
+//We're on our way.
+"Coach_WorldC5M5B14"
+//THERE'S OUR CHOPPER! COME ON!
+"Coach_WorldC5M5B24"
+//GET TO THE CHOPPER!
+"Coach_WorldC5M5B25"
+//Smells like people have been living here and shit.
+"Coach_WorldDead01"
+//Yeah, true that.
+"Coach_WorldDead02"
+//They been shot.
+"Coach_WorldDead03"
+//Shit got bad here.
+"Coach_WorldDead04"
+//Restricted area.
+"Coach_WorldSigns04"
+//This shit says: Use of deadly force authorized.
+"Coach_WorldSigns06"
+//It sure is.
+"Coach_WorldSigns07"
+//Use of deadly force authorized. Shit. Allright. It sure is.
+"Coach_WorldSigns08"
+//Where is CEDA.
+"Coach_WorldSigns09"
+//Zombiefied.
+"Coach_WorldSigns10"
+//Good question, where in the hell is CEDA. Cause I'd like to shoot some of their asses.
+"Coach_WorldSigns11"
+//Warning.  Alarm will sound if door is opened before clearance from tower.
+"Coach_WorldSigns12"
+//Form orderly line.
+"Coach_WorldSigns14"
+//Report the sick.
+"Coach_WorldSigns16"
+//Stay in your group.
+"Coach_WorldSigns17"
+//That's what I keep sayin'
+"Coach_WorldSigns18"
+//Restriced area.
+"Coach_WorldSigns19"
+//Photography prohibited.
+"Coach_WorldSigns21"
+//Infected detected in this area.
+"Coach_WorldSigns23"
+//No shit.
+"Coach_WorldSigns24"
+//No shit.
+"Coach_WorldSigns26"
+//Report unusual behavoir.
+"Coach_WorldSigns27"
+//Highly contagious area.
+"Coach_WorldSigns29"
+//Report the sick.
+"Coach_WorldSigns39"
+//Run!
+"Coach_YellRun01"
+//Haul ASS!
+"Coach_YellRun02"
+//Don't stop running!
+"Coach_YellRun03"
+//Run! Run! Run!
+"Coach_YellRun04"
+//Run! Run!
+"Coach_YellRun05"
+//KEEP RUNNING!
+"Coach_YellRun06"
+//Yeah.
+"Coach_Yes01"
+//Yeah.
+"Coach_Yes02"
+//Yes.
+"Coach_Yes03"
+//Oh Yeah.
+"Coach_Yes04"
+//For sure.
+"Coach_Yes05"
+//Know that's right.
+"Coach_Yes06"
+//Positively.
+"Coach_Yes07"
+//Yeah.
+"Coach_Yes08"
+//Sho sho.
+"Coach_Yes10"
+//It ain't nothin.
+"Coach_YouAreWelcome01"
+//We cool.
+"Coach_YouAreWelcome02"
+//We straight.
+"Coach_YouAreWelcome03"
+//It's all good.
+"Coach_YouAreWelcome04"
+//You're Welcome.
+"Coach_YouAreWelcome05"
+//We're all in this together Nick.
+"Coach_YouAreWelcomeGambler01"
+//No problem Ellis.
+"Coach_YouAreWelcomeMechanic01"
+//Anytime Ro.
+"Coach_YouAreWelcomeProducer01"
