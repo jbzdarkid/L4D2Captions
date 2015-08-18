@@ -11,7 +11,7 @@ Green: Witch draw
 Blue Bold: Primary weapon pickup (sniper, shotgun, smg)
 Blue: Secondary weapon pickup (pistol, melee, deagle)
 Blue Italics: Secondary weapon callout
-Purple Bold: Horde
+Purple Bold: Panic Event
 Purple: Boomed
 White Bold: Non-capping SI death (boomer, spitter)
 White: Important SI death (charger, smoker)

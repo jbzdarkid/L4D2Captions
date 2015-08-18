@@ -3098,7 +3098,7 @@
 "Mechanic_WorldC2M1B32"
 //Whispering Oaks! We made it!
 "Mechanic_WorldC2M1B33"
-//Whoa! Sorry Rochel!e!
+//Whoa! Sorry Rochelle!
 "Mechanic_WorldC2M201"
 //I never once thought a merry-go-round would turn on me.
 "Mechanic_WorldC2M203"
@@ -3392,9 +3392,9 @@
 "Mechanic_WorldC3M138"
 //Here we go! Everybody on the boat!
 "Mechanic_WorldC3M139"
-//Oh yeah, I know plenty about swarmps. Tthey're full of bugs and gators and snakes and well zombies now!
+//Oh yeah, I know plenty about swarmps. They're full of bugs and gators and snakes and well zombies now!
 "Mechanic_WorldC3M140"
-//The way were shootin'?  Each other.
+//The way were shootin'? Each other.
 "Mechanic_WorldC3M141"
 //Listen up everybody. Be on the lookout for blood farmers. I'm serious.
 "Mechanic_WorldC3M142"
@@ -3462,7 +3462,7 @@
 "Mechanic_WorldC3M177"
 //Dude, they must have gone this way.
 "Mechanic_WorldC3M178"
-//Tour ended here.   I think we gotta keep moving.
+//Tour ended here. I think we gotta keep moving.
 "Mechanic_WorldC3M179"
 //Planks this way.
 "Mechanic_WorldC3M180"
@@ -3884,7 +3884,7 @@
 "Mechanic_WorldMisc36"
 //What in the hell is a picture gonna do? (photography prohibited)
 "Mechanic_WorldSigns01"
-//Report the sick?   (report the sick)
+//Report the sick? (report the sick)
 "Mechanic_WorldSigns02"
 //Y'all think shootin' zombies would count? (Report unusual behavior.)
 "Mechanic_WorldSigns04"

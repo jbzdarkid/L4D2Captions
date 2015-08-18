@@ -3496,7 +3496,7 @@
 "Gambler_WorldC5M5B14"
 //GET TO THE COPTER!
 "Gambler_WorldC5M5B15"
-//My name's Nick. There's four of us on the... on the west  end of the bridge.
+//My name's Nick. There's four of us on the... on the west end of the bridge.
 "Gambler_WorldC5M5B16"
 //I am not going to die in this city.
 "Gambler_WorldC5MGoingToDie01"
@@ -3522,7 +3522,7 @@
 "Gambler_WorldMisc12"
 //Restricted area my ass (restricted area)
 "Gambler_WorldSigns01"
-//Really, I haven't seen any.  (Infected detected in this area.)
+//Really, I haven't seen any. (Infected detected in this area.)
 "Gambler_WorldSigns02"
 //Run
 "Gambler_YellRun01"
