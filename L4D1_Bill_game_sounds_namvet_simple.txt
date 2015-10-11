@@ -1,4 +1,4 @@
-//--------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------------------
 // NamVet Game Sound Text File
 //--------------------------------------------------------------------------------------------------------------
 
@@ -11,3078 +11,1541 @@
 // Cleaned by Darkid
 //--------------------------------------------------------------------------------------------------------------
 
-//Here, take this
-"Player.NamVet_AlertGiveItem01"//Here, I've got something for you
-"Player.NamVet_AlertGiveItem02"
-//Take this.
-"Player.NamVet_AlertGiveItem03"
-//Hold up, I got something for you.
-"Player.NamVet_AlertGiveItem04"
-//You're gonna need this.
-"Player.NamVet_AlertGiveItem05"
-//Here, I saved this for you.
-"Player.NamVet_AlertGiveItem06"
-//Here.
-"Player.NamVet_AlertGiveItem07"
-//Here!
-"Player.NamVet_AnswerLostCall01"
-//OVER HERE!
-"Player.NamVet_AnswerLostCall02"
-//I'm here!
-"Player.NamVet_AnswerLostCall03"
-//Over here!
-"Player.NamVet_AnswerLostCall04"
-//I hear you!
-"Player.NamVet_AnswerLostCall05"
-//Over hear, Kid!
-"Player.NamVet_AnswerLostCall06"
-//Ready.
-"npc.NamVet_AnswerReady01"
-//Good to go.
-"npc.NamVet_AnswerReady02"
-//I'm ready.
-"npc.NamVet_AnswerReady03"
-//I said I'm ready!
-"npc.NamVet_AnswerReady04"
-//Clear
-"Player.NamVet_AreaClear01"
-//Nothing in here.
-"Player.NamVet_AreaClear02"
-//Nothin' in here.
-"Player.NamVet_AreaClear03"
-//Clear
-"Player.NamVet_AreaClear04"
-//Nothin' in here.
-"Player.NamVet_AreaClear05"
-//Looks empty.
-"Player.NamVet_AreaClear06"
-//Looks empty.
-"Player.NamVet_AreaClear07"
-//I don't see anything.
-"Player.NamVet_AreaClear08"
-//I don't see anything here.
-"Player.NamVet_AreaClear09"
-//I got nothin' here.
-"Player.NamVet_AreaClear10"
-//Run to the boat!
-"Player.NamVet_ArriveBoat01"
-//Get to the Boat!
-"Player.NamVet_ArriveBoat02"
-//To the boat! MOVE!
-"Player.NamVet_ArriveBoat03"
-//Haul ass to that boat! RUN!
-"Player.NamVet_ArriveBoat04"
-//That's the boat! Time to bug out!
-"Player.NamVet_ArriveBoatInitial01"
-//Allright, the boat's here! Let's go!
-"Player.NamVet_ArriveBoatInitial02"
-//Get to the chopper! GO!
-"Player.NamVet_ArriveChopper01"
-//Get to the chopper!
-"Player.NamVet_ArriveChopper02"
-//To the chopper. Come on, MOVE IT, MOVE IT, MOVE IT!
-"Player.NamVet_ArriveChopper03"
-//Get to the LZ!
-"Player.NamVet_ArriveChopper04"
-//Our chopper's here! Let's get the hell out of dodge.
-"Player.NamVet_ArriveChopperInitial01"
-//The bird's here! Let's go!
-"Player.NamVet_ArriveChopperInitial02"
-//Get to the vehicle! GO!
-"Player.NamVet_ArriveGeneric01"
-//They're here for us! Let's go!
-"Player.NamVet_ArriveGeneric02"
-//Into the vehicle, people. MOVE MOVE MOVE!
-"Player.NamVet_ArriveGeneric03"
-//They're waitin' for us. MOVE!
-"Player.NamVet_ArriveGeneric04"
-//That's our ride. Let's go. Double time, people.
-"Player.NamVet_ArriveGenericInitial01"
-//Our ride's here! Let's go!
-"Player.NamVet_ArriveGenericInitial02"
-//Everyone on the plane! PRONTO!
-"Player.NamVet_ArrivePlane01"
-//Get to the plane!
-"Player.NamVet_ArrivePlane02"
-//Into the plane. Hustle it, people!
-"Player.NamVet_ArrivePlane03"
-//Our plane's here. Let's move out!
-"Player.NamVet_ArrivePlaneInitial01"
-//The plane's here! Let's go!
-"Player.NamVet_ArrivePlaneInitial02"
-//Get to the truck! MOVE!
-"Player.NamVet_ArriveTruck01"
-//Get to the truck!
-"Player.NamVet_ArriveTruck02"
-//Get to that truck on the double! GO! GO! GO!
-"Player.NamVet_ArriveTruck03"
-//The truck's waitin'. RUN!
-"Player.NamVet_ArriveTruck04"
-//The truck's here! Let's go!
-"Player.NamVet_ArriveTruckInitial01"
-//The truck has arrived! Let's move out, people!
-"Player.NamVet_ArriveTruckInitial02"
-//Ready?
-"Player.NamVet_AskReady01"
-//Ready?
-"Player.NamVet_AskReady02"
-//Ready for this?
-"Player.NamVet_AskReady03"
-//Everyone locked and loaded?
-"Player.NamVet_AskReady04"
-//Ready for this?
-"Player.NamVet_AskReady05"
-//Everybody ready to roll?
-"Player.NamVet_AskReady06"
-//Ready to rock?
-"Player.NamVet_AskReady07"
-//Everyone set?
-"Player.NamVet_AskReady08"
-//You people ready?
-"Player.NamVet_AskReady09"
-//Back up!
-"Player.NamVet_BackUp01"
-//Back up!
-"Player.NamVet_BackUp02"
-//Back back back back back back!
-"Player.NamVet_BackUp03"
-//Back back back!
-"Player.NamVet_BackUp04"
-//Back up!
-"Player.NamVet_BackUp05"
-//Move back!
-"Player.NamVet_BackUp06"
-//Back it up!
-"Player.NamVet_BackUp07"
-//Back up.
-"npc.NamVet_BackUpQuiet01"
-//Back back back.
-"npc.NamVet_BackUpQuiet02"
-//Back up, back up.
-"npc.NamVet_BackUpQuiet03"
-//Anybody out there?
-"Player.NamVet_CallForRescue01"
-//Come on people, let me out!
-"Player.NamVet_CallForRescue02"
-//[Struggling, Grunting, Exertion]
-"Player.NamVet_CallForRescue03"
-//[Struggling, Grunting, Exertion]
-"Player.NamVet_CallForRescue04"
-//Can anyone hear me?
-"Player.NamVet_CallForRescue05"
-//Let me out!
-"Player.NamVet_CallForRescue06"
-//Hey! Can anybody hear me?
-"Player.NamVet_CallForRescue07"
-//Get over here and let me out!
-"Player.NamVet_CallForRescue08"
-//God dammit, I'm trapped in here!
-"Player.NamVet_CallForRescue09"
-//I can't see a damn thing in here.  Let me out!
-"Player.NamVet_CallForRescue10"
-//This is such horseshit. Is anybody even out there?
-"Player.NamVet_CallForRescue11"
-//I know you can hear me, goddammit. Let me the hell out!
-"Player.NamVet_CallForRescue12"
-//Are you people fightin' something out there? LET ME OUT!
-"Player.NamVet_CallForRescue13"
-//I hear something goin' on out there. For chrissake, let me out!
-"Player.NamVet_CallForRescue14"
-//Listen up out there!  March your ass over here and let me out!
-"Player.NamVet_CallForRescue15"
-//Choking
-"Player.NamVet_Choke01"
-//Choking
-"Player.NamVet_Choke02"
-//Choking
-"Player.NamVet_Choke03"
-//Choking
-"Player.NamVet_Choke04"
-//Choking
-"Player.NamVet_Choke05"
-//Choking
-"Player.NamVet_Choke06"
-//Choking
-"Player.NamVet_Choke07"
-//Choking
-"Player.NamVet_Choke08"
-//Choking
-"Player.NamVet_Choke09"
-//[Choking]
-"Player.NamVet_Choke10"
-//[Choking]
-"Player.NamVet_Choke11"
-//[Choking]
-"Player.NamVet_Choke12"
-//That door ain't gonna lock itself, people.
-"Player.NamVet_CloseTheDoor01"
-//Lock the door. Do it!
-"Player.NamVet_CloseTheDoor02"
-//Lock that door.
-"Player.NamVet_CloseTheDoor03"
-//Lock the door.
-"Player.NamVet_CloseTheDoor04"
-//Lock that door!
-"Player.NamVet_CloseTheDoor05"
-//Lock the door.
-"Player.NamVet_CloseTheDoor06"
-//Lock that door
-"Player.NamVet_CloseTheDoor07"
-//Lock that door
-"Player.NamVet_CloseTheDoor08"
-//Lock the door.
-"Player.NamVet_CloseTheDoor09"
-//That door ain't gonna lock itself, people.
-"Player.NamVet_CloseTheDoor10"
-//Secure that door!
-"Player.NamVet_CloseTheDoor11"
-//Secure the door!
-"Player.NamVet_CloseTheDoor12"
-//Lock the door.
-"Player.NamVet_CloseTheDoor13"
-//To the left.
-"Player.NamVet_ContextModifierCalm01"
-//To the right.
-"Player.NamVet_ContextModifierCalm02"
-//Up there.
-"Player.NamVet_ContextModifierCalm03"
-//Above us.
-"Player.NamVet_ContextModifierCalm04"
-//Down there.
-"Player.NamVet_ContextModifierCalm05"
-//Below us.
-"Player.NamVet_ContextModifierCalm06"
-//Back there.
-"Player.NamVet_ContextModifierCalm07"
-//Up ahead.
-"Player.NamVet_ContextModifierCalm08"
-//In the window.
-"Player.NamVet_ContextModifierCalm09"
-//Around the corner.
-"Player.NamVet_ContextModifierCalm10"
-//In the doorway.
-"Player.NamVet_ContextModifierCalm11"
-//Behind this wall.
-"Player.NamVet_ContextModifierCalm12"
-//Behind this door.
-"Player.NamVet_ContextModifierCalm13"
-//On the roof.
-"Player.NamVet_ContextModifierCalm14"
-//Behind that.
-"Player.NamVet_ContextModifierCalm15"
-//In this building.
-"Player.NamVet_ContextModifierCalm16"
-//In the trees.
-"Player.NamVet_ContextModifierCalm17"
-//Near the rocks.
-"Player.NamVet_ContextModifierCalm18"
-//One of 'em.
-"Player.NamVet_ContextModifierCalm19"
-//Two of em.
-"Player.NamVet_ContextModifierCalm20"
-//Three of 'em.
-"Player.NamVet_ContextModifierCalm21"
-//Four of 'em.
-"Player.NamVet_ContextModifierCalm22"
-//Lots of 'em.
-"Player.NamVet_ContextModifierCalm23"
-//A couple of 'em.
-"Player.NamVet_ContextModifierCalm24"
-//A few of 'em.
-"Player.NamVet_ContextModifierCalm25"
-//To the left!
-"Player.NamVet_ContextModifierLoud01"
-//To the right!
-"Player.NamVet_ContextModifierLoud02"
-//Up there!
-"Player.NamVet_ContextModifierLoud03"
-//Above us!
-"Player.NamVet_ContextModifierLoud04"
-//Down there!
-"Player.NamVet_ContextModifierLoud05"
-//Below us!
-"Player.NamVet_ContextModifierLoud06"
-//Back there!
-"Player.NamVet_ContextModifierLoud07"
-//Up ahead!
-"Player.NamVet_ContextModifierLoud08"
-//In the window!
-"Player.NamVet_ContextModifierLoud09"
-//Around the corner!
-"Player.NamVet_ContextModifierLoud10"
-//In the doorway!
-"Player.NamVet_ContextModifierLoud11"
-//Behind this wall!
-"Player.NamVet_ContextModifierLoud12"
-//Behind this door!
-"Player.NamVet_ContextModifierLoud13"
-//On the roof!
-"Player.NamVet_ContextModifierLoud14"
-//Behind that!
-"Player.NamVet_ContextModifierLoud15"
-//In this building!
-"Player.NamVet_ContextModifierLoud16"
-//In the trees!
-"Player.NamVet_ContextModifierLoud17"
-//Near the rocks!
-"Player.NamVet_ContextModifierLoud18"
-//One of 'em!
-"Player.NamVet_ContextModifierLoud19"
-//Two of em!
-"Player.NamVet_ContextModifierLoud20"
-//Three of 'em!
-"Player.NamVet_ContextModifierLoud21"
-//Four of 'em!
-"Player.NamVet_ContextModifierLoud22"
-//Lots of 'em!
-"Player.NamVet_ContextModifierLoud23"
-//A couple of 'em!
-"Player.NamVet_ContextModifierLoud24"
-//A few of 'em!
-"Player.NamVet_ContextModifierLoud25"
-//(Coughing from smoke)
-"Player.NamVet_Cough01"
-//(Coughing from smoke)
-"Player.NamVet_Cough02"
-//(Coughing from smoke)
-"Player.NamVet_Cough03"
-//(Coughing from smoke)
-"Player.NamVet_Cough04"
-//(Coughing from smoke)
-"Player.NamVet_Cough05"
-//(Coughing from smoke)
-"Player.NamVet_Cough06"
-//Cover me!
-"Player.NamVet_CoverMe01"
-//Cover me.
-"Player.NamVet_CoverMe02"
-//Watch my back
-"Player.NamVet_CoverMe03"
-//Watch my back.
-"Player.NamVet_CoverMe04"
-//Cover me.
-"Player.NamVet_CoverMe05"
-//Healin', cover me
-"npc.NamVet_CoverMe06"
-//Cover me, gonna heal.
-"npc.NamVet_CoverMe07"
-//Wait up, I'm healing.
-"npc.NamVet_CoverMe08"
-//[Loud painful death scream]
-"Player.NamVet_DeathScream01"
-//[Death rattle]
-"Player.NamVet_DeathScream02"
-//[Loud painful death scream]
-"Player.NamVet_DeathScream03"
-//[Loud painful death scream]
-"Player.NamVet_DeathScream04"
-//[Short quick death scream]
-"Player.NamVet_DeathScream05"
-//[Short quick death scream]
-"Player.NamVet_DeathScream06"
-//[Death rattle]
-"Player.NamVet_DeathScream07"
-//[Death rattle]
-"Player.NamVet_DeathScream08"
-//They're coming through the door!
-"npc.NamVet_DoorBreaking01"
-//This door ain't holdin' 'em!
-"npc.NamVet_DoorBreaking02"
-//This is goin' to hell in a handbasket real fast!
-"npc.NamVet_DoubleDeathResponse01"
-//I didn't sign up for this shit!
-"npc.NamVet_DoubleDeathResponse02"
-//It's just you and me again, Zoey!
-"npc.NamVet_DoubleDeathResponse03"
-//It's just the two of us now, kid.
-"npc.NamVet_DoubleDeathResponse04"
-//Down in front!
-"npc.NamVet_DowninFront01"
-//Outta the way!
-"npc.NamVet_DowninFront02"
-//Duck!
-"npc.NamVet_DowninFront03"
-//I need help NOW!
-"npc.NamVet_Dying01"
-//I can't wait, I need help now!
-"npc.NamVet_Dying02"
-//Quit screwin' around and help me!
-"npc.NamVet_Dying03"
-//I NEED HELP NOW!
-"npc.NamVet_Dying04"
-//go go go
-"Player.NamVet_EmphaticGo01"
-//MOVE!
-"Player.NamVet_EmphaticGo02"
-//MOVE!
-"Player.NamVet_EmphaticGo03"
-//MOVE MOVE MOVE!
-"Player.NamVet_EmphaticGo04"
-//MOVE OUT!
-"Player.NamVet_EmphaticGo05"
-//go go go
-"Player.NamVet_EmphaticGo06"
-//Don't stop! Go!
-"npc.NamVet_EmphaticGoQuiet01"
-//Go go go!
-"npc.NamVet_EmphaticGoQuiet02"
-//Go!
-"npc.NamVet_EmphaticGoQuiet03"
-//Keep movin'!
-"npc.NamVet_EmphaticGoQuiet04"
-//No way, kid.
-"Player.NamVet_EmphaticNo01"
-//NO!
-"Player.NamVet_EmphaticNo02"
-//Are you crazy?
-"Player.NamVet_EmphaticNo03"
-//No way in Hell.
-"Player.NamVet_EmphaticNo04"
-//Are you out of your damn mind?
-"Player.NamVet_EmphaticNo05"
-//No way
-"Player.NamVet_EmphaticNo06"
-//Are you out of your mind?
-"Player.NamVet_EmphaticNo07"
-//Are you crazy?
-"Player.NamVet_EmphaticNo08"
-//RUN!
-"Player.NamVet_EmphaticRun01"
-//RUN!
-"Player.NamVet_EmphaticRun02"
-//BUG OUT!
-"Player.NamVet_EmphaticRun03"
-//HAUL ASS!
-"Player.NamVet_EmphaticRun04"
-//[Frightened, freaked out breathing]
-"Player.NamVet_ExertionCritical01"
-//[frightened freaked out breathing]
-"Player.NamVet_ExertionCritical02"
-//[frightened freaked out breathing]
-"Player.NamVet_ExertionCritical03"
-//[frightened freaked out breathing]
-"Player.NamVet_ExertionCritical04"
-//[heavy breathing - seriously winded]
-"Player.NamVet_ExertionMajor01"
-//[heavy breathing - seriously winded]
-"Player.NamVet_ExertionMajor02"
-//[breathing - panting out of breath]
-"Player.NamVet_ExertionMinor01"
-//[breathing - panting out of breath]
-"Player.NamVet_ExertionMinor02"
-//[Death scream as you fall]
-"Player.NamVet_Fall01"
-//[Death scream as you fall]
-"Player.NamVet_Fall02"
-//[Death scream as you fall]
-"Player.NamVet_Fall03"
-//[Death scream as you fall]
-"Player.NamVet_Fall04"
-//Wooaaah
-"Player.NamVet_FallShort01"
-//ohhh nooooo
-"Player.NamVet_FallShort02"
-//[Yelp]
-"Player.NamVet_FallShort03"
-//This looks like it - we're almost out of here.
-"Player.NamVet_FinaleAhead01"
-//We're almost out of here!
-"Player.NamVet_FinaleAhead02"
-//Okay, people, we're almost there. Let's keep moving!
-"Player.NamVet_FinaleAhead03"
-//Keep it together people. We're almost home free.
-"Player.NamVet_FinaleAhead04"
-//Come on, this way.
-"Player.NamVet_FollowMe01"
-//I'll take the lead.
-"Player.NamVet_FollowMe02"
-//Follow me!
-"Player.NamVet_FollowMe03"
-//This way, people!
-"Player.NamVet_FollowMe04"
-//This way.
-"Player.NamVet_FollowMe05"
-//I'm on point.
-"Player.NamVet_FollowMe06"
-//This way!
-"Player.NamVet_FollowMe07"
-//Fall in behind me.
-"Player.NamVet_FollowMe08"
-//Follow me.
-"Player.NamVet_FollowMe09"
-//Ahh! That hurt!
-"Player.NamVet_FriendlyFire01"
-//Ah! Knock it off!
-"Player.NamVet_FriendlyFire02"
-//Do I look like a target?
-"Player.NamVet_FriendlyFire03"
-//You know, I would appreciate it IF YOU'D STOP SHOOTING ME!
-"Player.NamVet_FriendlyFire04"
-//Watch where you're shooting!
-"Player.NamVet_FriendlyFire05"
-//Goddamn it, watch your fire!
-"Player.NamVet_FriendlyFire06"
-//Jesus H Christ, I'm on your side.
-"Player.NamVet_FriendlyFire07"
-//Watch where you're shooting!
-"Player.NamVet_FriendlyFire08"
-//Don't shoot me!
-"Player.NamVet_FriendlyFire09"
-//Watch where you point that thing!
-"Player.NamVet_FriendlyFire10"
-//Watch where you're shooting!
-"Player.NamVet_FriendlyFire11"
-//Do not shoot me!
-"Player.NamVet_FriendlyFire12"
-//Goddamit, watch where you're shooting!
-"Player.NamVet_FriendlyFire13"
-//Check your fire!
-"Player.NamVet_FriendlyFire14"
-//Secure that weapon!
-"Player.NamVet_FriendlyFire15"
-//Hold your fire!
-"Player.NamVet_FriendlyFire16"
-//Who's side are you on, kid?
-"Player.NamVet_FriendlyFire17"
-//Goddamnit, you set me on goddamn fire!
-"npc.NamVet_FriendlyFire18"
-//Jesus H Christ, Francis!
-"Player.NamVet_FriendlyFireFrancis01"
-//I'll see peace back on earth if I gotta murder everyone of these animals with my own bare hands. Ownbare_09.wav
-"Player.NamVet_Player.GameSpeech01"
-//[Girlie laugh]
-"Player.NamVet_Generic01"
-//I couldn't have done it without the tuna sandwich, I tell ya.
-"Player.NamVet_Generic02"
-//Francis, is there anything you don't hate?
-"npc.NamVet_Generic03"
-//How many fingers are you holding up?
-"npc.NamVet_Generic04"
-//Where am I?
-"npc.NamVet_Generic05"
-//What day of the week is it?
-"npc.NamVet_Generic06"
-//Francis, don't take God's name in vain.
-"npc.NamVet_Generic07"
-//Fer chrissake, Francis, don't take God's name in vain.
-"npc.NamVet_Generic08"
-//How in the hell is this gonna to work?
-"npc.NamVet_Generic09"
-//You ever use one of these?
-"npc.NamVet_Generic10"
-//That sounds like a line of horseshit.
-"npc.NamVet_Generic11"
-//You two done chatting?
-"npc.NamVet_Generic12"
-//Well, this don't remind me of nam.
-"npc.NamVet_Generic13"
-//Don't be an ass, Francis.
-"npc.NamVet_Generic14"
-//They're ain't much we can do now.
-"npc.NamVet_Generic15"
-//You're just spoutin' off ignorance.
-"npc.NamVet_Generic16"
-//I am gonna blow your ass to kingdom come.
-"npc.NamVet_Generic18"
-//Y'know, Francis, we'd all think you were a lot smarter if you said less.
-"npc.NamVet_Generic19"
-//The future sure ain't what it used to be.
-"npc.NamVet_Generic20"
-//Francis? You know what'd do us more good than all yer whinin' and jokin'? Shootin'.
-"npc.NamVet_Generic21"
-//Close your mouth and open your eyes, Francis. You'll aim better.
-"npc.NamVet_Generic22"
-//A few years in the service mighta slimmed you down and shut you up, Francis.
-"npc.NamVet_Generic23"
-//You know who's gonna survive this mess, Francis? It ain't the fella makin' jokes.
-"npc.NamVet_Generic24"
-//Francis, we might live through this if you stopped makin' jokes and started getting angry.
-"npc.NamVet_Generic25"
-//Speak up, Francis. Your voice got all muffled from yer head being so far up yer ass.
-"npc.NamVet_Generic27"
-//I'll see peace back on earth if I gotta murder every one of these bastards with my bare goddamn hands.
-"npc.NamVet_Generic29"
-//I ain't ready to meet my maker yet. But hearin' them animals outside, I'm happy to make some introductions.
-"npc.NamVet_Generic30"
-//This reminds me of the Battle of Hue.
-"npc.NamVet_Generic31"
-//Damn straight.
-"npc.NamVet_Generic32"
-//We been immune so far, but - well, if I start to turn, promise you'll shoot me.
-"npc.NamVet_Generic33"
-//Even bein' in a war doesn't prepare you for this. They never stop. They come at you and come at you and they *never* goddamn *stop*.
-"npc.NamVet_Generic34"
-//I don't want to piss on your parade, Louis, but what if it *doesn't* get better?
-"npc.NamVet_Generic35"
-//Good point.
-"npc.NamVet_Generic36"
-//I knew this day was comin'. They wouldn't listen.
-"npc.NamVet_Generic37"
-//Alright, it's official. I decided I hate zombies.
-"npc.NamVet_Generic38"
-//They're zombies, Francis.
-"npc.NamVet_Generic39"
-//Zombies.
-"npc.NamVet_Generic40"
-//[indignant] Hey!
-"npc.NamVet_Generic41"
-//As long as there's one of those ugly bastards left to shoot, I got a reason to keep on going.
-"npc.NamVet_Generic42"
-//[sarcastic] Way to land a chopper...
-"npc.NamVet_Generic43"
-//We're fightin' a war of attrition with a horde of brainless killing machines. I ain't exactly optimistic about our chances.
-"npc.NamVet_Generic44"
-//These things are like a brush fire: they don't discriminate. They just burn up every damn thing in their way.
-"npc.NamVet_Generic45"
-//I'll tell you what: if the meek inherit the earth after this, they'd better get a whole hell of a lot better at killin'.
-"npc.NamVet_Generic46"
-//Francis, why don't you stop makin' trouble and start makin' some corpses.
-"npc.NamVet_Generic47"
-//I'm gonna make an example out of the next one those things that jumps me.
-"npc.NamVet_Generic48"
-//You call this a zombie apocalypse? It don't hold a candle to the great zombie attack of 1957. [beat] Nah, I'm horseshittin' ya.
-"npc.NamVet_Generic49"
-//I don't believe it.
-"npc.NamVet_Generic50"
-//They're trying to stop us.
-"npc.NamVet_Generic51"
-//I'm with you, I hate these things.
-"npc.NamVet_Generic52"
-//That's not what they said on TV.
-"npc.NamVet_Generic53"
-//Up the stairs!
-"npc.NamVet_GenericDirections01"
-//Down the stairs!
-"npc.NamVet_GenericDirections02"
-//Let's get up that ladder!
-"npc.NamVet_GenericDirections03"
-//We need to go down there!
-"npc.NamVet_GenericDirections04"
-//Through here!
-"npc.NamVet_GenericDirections05"
-//Through this door!
-"npc.NamVet_GenericDirections06"
-//We need to get outside.
-"npc.NamVet_GenericDirections07"
-//We gotta get off the street.
-"npc.NamVet_GenericDirections08"
-//We gotta get back to the rooftops.
-"npc.NamVet_GenericDirections09"
-//Back here!
-"npc.NamVet_GenericDirections10"
-//We gotta get over this thing.
-"npc.NamVet_GenericDirections11"
-//Buck up, Son.
-"npc.NamVet_GenericResponses01"
-//[Disbelief] What?
-"npc.NamVet_GenericResponses02"
-//Are you joking?
-"npc.NamVet_GenericResponses03"
-//Oh Christ, you're not serious?
-"npc.NamVet_GenericResponses04"
-//What the hell are you talkin' about?
-"npc.NamVet_GenericResponses05"
-//I'll say.
-"npc.NamVet_GenericResponses06"
-//If you say so.
-"npc.NamVet_GenericResponses07"
-//That sounds about right.
-"npc.NamVet_GenericResponses08"
-//Allright, then, let's do it.
-"npc.NamVet_GenericResponses09"
-//Good thinking.
-"npc.NamVet_GenericResponses10"
-//Ah shit, here we go again.
-"npc.NamVet_GenericResponses11"
-//[laughing] You are an idiot.
-"npc.NamVet_GenericResponses12"
-//I say we just do it.
-"npc.NamVet_GenericResponses13"
-//You're sure about this, right?
-"npc.NamVet_GenericResponses14"
-//Okay...
-"npc.NamVet_GenericResponses15"
-//Hell yes.
-"npc.NamVet_GenericResponses16"
-//Hell if I know.
-"npc.NamVet_GenericResponses17"
-//I'm gonna let you handle that.
-"npc.NamVet_GenericResponses18"
-//That's actually a good point.
-"npc.NamVet_GenericResponses19"
-//Sounds good to me. Let's do it.
-"npc.NamVet_GenericResponses20"
-//I'm okay.
-"npc.NamVet_GettingRevived01"
-//I'm allright.
-"npc.NamVet_GettingRevived02"
-//[groan]
-"npc.NamVet_GettingRevived03"
-//Hell if I know.
-"npc.NamVet_GettingRevived04"
-//Most of this blood ain't mine.
-"npc.NamVet_GettingRevived05"
-//[groan2]
-"npc.NamVet_GettingRevived06"
-//I'll make it.
-"npc.NamVet_GettingRevived07"
-//I'll live.
-"npc.NamVet_GettingRevived08"
-//Hell, I'll live.
-"npc.NamVet_GettingRevived09"
-//I've had worse.
-"npc.NamVet_GettingRevived10"
-//[confused from hit on head] Who are you?
-"npc.NamVet_GettingRevived11"
-//[confused from hit on head] Mother?
-"npc.NamVet_GettingRevived12"
-//Well, I ain't *good*.
-"npc.NamVet_GettingRevived13"
-//Ahhh. A gun's a gun.
-"npc.NamVet_GnericWeaponPickup01"
-//If it shoots bullets, I'll take it.
-"npc.NamVet_GnericWeaponPickup02"
-//*This'll* do some damage.
-"npc.NamVet_GnericWeaponPickup03"
-//I don't feel so good.
-"Player.NamVet_GoingToDie01"
-//I don't know if I am going to make it.
-"Player.NamVet_GoingToDie02"
-//I feel awful.
-"Player.NamVet_GoingToDie03"
-//I am in bad shape, people.
-"Player.NamVet_GoingToDie04"
-//I'm gettin' too old for this horseshit.
-"Player.NamVet_GoingToDie05"
-//I feel terrible.
-"Player.NamVet_GoingToDie06"
-//You people might have to go on without me.
-"Player.NamVet_GoingToDie07"
-//[to self] goddamn horseshit.
-"Player.NamVet_GoingToDie08"
-//It's not lookin' good for me.
-"Player.NamVet_GoingToDie09"
-//I'm not feelin' too hot.
-"Player.NamVet_GoingToDie10"
-//Ah shit, I'm not doin' too good here.
-"Player.NamVet_GoingToDie11"
-//I'm really hurt, people
-"Player.NamVet_GoingToDie12"
-//Christ, I'm messed up.
-"Player.NamVet_GoingToDie13"
-//[sharp intake of breath followed by grunt]
-"Player.NamVet_GoingToDie14"
-//We gotta find me a medic.
-"Player.NamVet_GoingToDie15"
-//I feel awful.
-"Player.NamVet_GoingToDie16"
-//God damn it, I am seriously fubar.
-"Player.NamVet_GoingToDie17"
-//[pain sound followed by two grunts]
-"Player.NamVet_GoingToDie18"
-//I'm just barely hangin' on here
-"Player.NamVet_GoingToDie20"
-//[pain sound] I think I'm goin' home in a box
-"Player.NamVet_GoingToDie21"
-//I feel like hell.
-"Player.NamVet_GoingToDie22"
-//I'm about to buy the farm.
-"Player.NamVet_GoingToDie23"
-//If I go down, don't let those bastards eat me.
-"Player.NamVet_GoingToDie24"
-//[to self] Hang on, soldier.
-"Player.NamVet_GoingToDie25"
-//Dammit, I'm bleeding out.
-"Player.NamVet_GoingToDie26"
-//I'm not gonna hold out much longer.
-"Player.NamVet_GoingToDie27"
-//Anyone have some first aid? I ain't feelin' right.
-"npc.NamVet_GoingToDieAskForHeal01"
-//Someone gonna heal the old guy about to die?
-"npc.NamVet_GoingToDieAskForHeal02"
-//Sure could use some patchin' up.
-"npc.NamVet_GoingToDieAskForHeal03"
-//Anyone spare a med kit?
-"npc.NamVet_GoingToDieAskForHeal04"
-//This old body ain't gonna make it.
-"npc.NamVet_GoingToDieLight01"
-//Ah shit, I ain't feelin' right.
-"npc.NamVet_GoingToDieLight02"
-//Something ain't workin' right.
-"npc.NamVet_GoingToDieLight03"
-//This just ain't my day...
-"npc.NamVet_GoingToDieLight04"
-//<cough>Ah, hell... <blows air out through pursed lips> Shit...
-"npc.NamVet_GoingToDieLight05"
-//Ah. <breath> Dammit.
-"npc.NamVet_GoingToDieLight06"
-//<wincing pain noise> Hell with this.
-"npc.NamVet_GoingToDieLight07"
-//Hell, I was too old for this shit fifteen years ago.
-"npc.NamVet_GoingToDieLight08"
-//No, no,  NOOOO!
-"npc.NamVet_GRABBEDBYSMOKER01"
-//no, No, NO, NOOOOOOO!!!!!!!!!
-"Player.NamVet_GrabbedBySmoker01a"
-//no, No, NO, NOOOOOOO!!!!!!!!!
-"Player.NamVet_GrabbedBySmoker01b"
-//No, no, NOOOO!
-"npc.NamVet_GRABBEDBYSMOKER02"
-//no, No, NO, NOOOOOOO!!!!!!!!!
-"Player.NamVet_GrabbedBySmoker02a"
-//no, No, NO, NOOOOOOO!!!!!!!!!
-"Player.NamVet_GrabbedBySmoker02b"
-//no, NO!
-"Player.NamVet_GrabbedBySmoker03"
-//no NO NO NOO!
-"Player.NamVet_GrabbedBySmoker04"
-//GRENADE!!
-"Player.NamVet_Grenade01"
-//GRENADE!!
-"Player.NamVet_Grenade02"
-//FIRE IN THE HOLE!!
-"Player.NamVet_Grenade03"
-//FIRE IN THE HOLE!!
-"Player.NamVet_Grenade04"
-//FIRE IN THE HOLE!
-"Player.NamVet_Grenade05"
-//GRENADE!!
-"Player.NamVet_Grenade06"
-//Ah, not Francis
-"Player.NamVet_GriefBiker01"
-//Christ, I'm gonna miss that son of a bitch.
-"Player.NamVet_GriefBiker02"
-//I am going to miss that man and his gun
-"Player.NamVet_GriefBiker03"
-//She's dead!
-"Player.NamVet_GriefFemaleGeneric01"
-//Ah Christ, she's dead!
-"Player.NamVet_GriefFemaleGeneric02"
-//She didn't make it!
-"Player.NamVet_GriefFemaleGeneric03"
-//Goddamit, she didn't make it.
-"Player.NamVet_GriefFemaleGeneric04"
-//Let's hope she's in a better place. Hell, it couldn't be much worse.
-"Player.NamVet_GriefFemaleGeneric05"
-//He's dead!
-"Player.NamVet_GriefMaleGeneric01"
-//He didn't make it!
-"Player.NamVet_GriefMaleGeneric02"
-//Looks... Looks like we lost one.
-"Player.NamVet_GriefMaleGeneric03"
-//Godammit, he didn't make it.
-"Player.NamVet_GriefMaleGeneric04"
-//Ah Christ, he'd dead!
-"Player.NamVet_GriefMaleGeneric05"
-//Ah, Louis.
-"Player.NamVet_GriefManager01"
-//Louis didn't make it. Ah, Christ.
-"Player.NamVet_GriefManager02"
-//C'mon people, if we make it, he didn't die for nothin'.
-"Player.NamVet_GriefManager03"
-//Ah not Zoey
-"Player.NamVet_GriefTeengirl01"
-//Ah jesus. What a waste.
-"Player.NamVet_GriefTeengirl02"
-//One of those sick sons of bitches just sealed all a' their death warrants.
-"Player.NamVet_GriefTeengirl03"
-//One of those sick sons of bitches just sealed all a' their death warrants.
-"Player.NamVet_GriefTeengirl04"
-//Let me heal you up
-"Player.NamVet_HealOther01"
-//Hold still, I can heal you
-"Player.NamVet_HealOther02"
-//Hold on, let me patch you up
-"Player.NamVet_HealOther03"
-//Lemme heal ya up.
-"npc.NamVet_HealOther04"
-//Hold up, I'll heal ya.
-"npc.NamVet_HealOther05"
-//Quit moving, I'll heal ya.
-"npc.NamVet_HealOther06"
-//Stop squirmin', I'm gonna heal ya.
-"npc.NamVet_HealOther07"
-//Hold still, I'm gonna heal ya.
-"npc.NamVet_HealOther08"
-//I hear a boomer out there.
-"Player.NamVet_HeardBoomer01"
-//There's a Boomer around here.
-"Player.NamVet_HeardBoomer02"
-//Careful, Boomer.
-"Player.NamVet_HeardBoomer03"
-//Watch it, Boomer in the vacinity.
-"Player.NamVet_HeardBoomer04"
-//Boomer around here.
-"Player.NamVet_HeardBoomer05"
-//Boomer nearby.
-"Player.NamVet_HeardBoomer06"
-//There's a Boomer trackin' us.
-"Player.NamVet_HeardBoomer07"
-//Boomer closeby.
-"Player.NamVet_HeardBoomer08"
-//Boomer nearby.
-"Player.NamVet_HeardBoomer09"
-//Christ, there's a Boomer around here.
-"Player.NamVet_HeardBoomer10"
-//Dammit, Boomer nearby.
-"Player.NamVet_HeardBoomer11"
-//Tank Inbound!
-"Player.NamVet_HeardHulk01"
-//Tank out there
-"Player.NamVet_HeardHulk02"
-//Watch it, Tank nearby.
-"Player.NamVet_HeardHulk03"
-//Son of a bitch, a Tank.
-"Player.NamVet_HeardHulk04"
-//Tank Coming!
-"Player.NamVet_HeardHulk05"
-//Tank around here.
-"Player.NamVet_HeardHulk06"
-//Look out, Tank around here.
-"Player.NamVet_HeardHulk07"
-//There's a Tank closeby.
-"Player.NamVet_HeardHulk08"
-//Tank. Close.
-"Player.NamVet_HeardHulk09"
-//There's a Hunter around here.
-"Player.NamVet_HeardHunter01"
-//Careful, people, there's a Hunter nearby.
-"Player.NamVet_HeardHunter02"
-//There's a hunter spookin' around out there
-"Player.NamVet_HeardHunter03"
-//There's a hunter out there
-"Player.NamVet_HeardHunter04"
-//Careful, Hunter around here.
-"Player.NamVet_HeardHunter05"
-//Hunter out there.
-"Player.NamVet_HeardHunter06"
-//Watch your back - Hunter.
-"Player.NamVet_HeardHunter08"
-//Watch your back, there's a hunter out there.
-"Player.NamVet_HeardHunter09"
-//I think I saw a goddamn Hunter
-"Player.NamVet_HeardHunter10"
-//Smoker, right around here.
-"Player.NamVet_HeardSmoker01"
-//There's a Smoker nearby.
-"Player.NamVet_HeardSmoker02"
-//We got a Smoker around here.
-"Player.NamVet_HeardSmoker03"
-//Heads up, Smoker somewhere around here.
-"Player.NamVet_HeardSmoker04"
-//Smoker right around here someplace.
-"Player.NamVet_HeardSmoker05"
-//Smoker. And it's close.
-"Player.NamVet_HeardSmoker06"
-//There's a Smoker
-"Player.NamVet_HeardSmoker07"
-//Hear that, that's a witch
-"Player.NamVet_HeardWitch01"
-//Witch around here.
-"Player.NamVet_HeardWitch02"
-//Shit, Witch
-"Player.NamVet_HeardWitch03"
-//Quiet, there's a Witch around here.
-"Player.NamVet_HeardWitch04"
-//Shhh, Witch near here.
-"Player.NamVet_HeardWitch05"
-//People, I need some help!
-"Player.NamVet_Help01"
-//I need some help over here.
-"Player.NamVet_Help02"
-//Help!
-"Player.NamVet_Help03"
-//A little help, people.
-"Player.NamVet_Help04"
-//Help!
-"Player.NamVet_Help05"
-//Help me, dammit!
-"Player.NamVet_Help06"
-//Help me!
-"Player.NamVet_Help07"
-//Little help!
-"Player.NamVet_Help08"
-//Help me!
-"Player.NamVet_Help09"
-//Help!
-"Player.NamVet_Help10"
-//Need some help over here!
-"Player.NamVet_Help11"
-//Help.
-"Player.NamVet_Help12"
-//A little help please.
-"Player.NamVet_Help13"
-//Need some help over here!
-"Player.NamVet_Help14"
-//I'm in trouble!
-"Player.NamVet_Help15"
-//Little help!
-"Player.NamVet_Help16"
-//I need a hand, people!
-"Player.NamVet_Help17"
-//GET READY!
-"npc.NamVet_HordeAttack01"
-//They're coming!
-"npc.NamVet_HordeAttack02"
-//Here they come!
-"npc.NamVet_HordeAttack03"
-//Hunter's got Francis!
-"Player.NamVet_HunterFrancisPounced01"
-//Hunter pounced Francis!
-"Player.NamVet_HunterFrancisPounced02"
-//A Hunter's on Francis!
-"Player.NamVet_HunterFrancisPounced03"
-//Hunter's got Louis!
-"Player.NamVet_HunterLouisPounced01"
-//Hunter pounced Louis!
-"Player.NamVet_HunterLouisPounced02"
-//A Hunter's on Louis!
-"Player.NamVet_HunterLouisPounced03"
-//Hunter's got Zoey!
-"Player.NamVet_HunterZoeyPounced01"
-//Hunter pounced Zoey!
-"Player.NamVet_HunterZoeyPounced02"
-//A Hunter's on Zoey!
-"Player.NamVet_HunterZoeyPounced03"
-//All right!
-"Player.NamVet_Hurrah01"
-//We're doing pretty goddamn good. Don't let it go to your head.
-"Player.NamVet_Hurrah02"
-//GREAT JOB, PEOPLE!
-"Player.NamVet_Hurrah03"
-//We might just make it out of here after all.
-"Player.NamVet_Hurrah04"
-//We're going to be okay.
-"Player.NamVet_Hurrah05"
-//I think we're gonna make it.
-"Player.NamVet_Hurrah06"
-//They can't stop us.
-"Player.NamVet_Hurrah07"
-//Nothing can stop us.
-"Player.NamVet_Hurrah08"
-//We are unstoppable.
-"Player.NamVet_Hurrah09"
-//YEAH!
-"Player.NamVet_Hurrah10"
-//No sweat.
-"Player.NamVet_Hurrah11"
-//Aw riiiight!
-"Player.NamVet_Hurrah12"
-//YEAH!
-"Player.NamVet_Hurrah13"
-//OH YEAH!
-"Player.NamVet_Hurrah14"
-//Yeah, this is good.
-"Player.NamVet_Hurrah15"
-//We're gonna make it out of here
-"Player.NamVet_Hurrah16"
-//We're doin' good.
-"Player.NamVet_Hurrah17"
-//Those bastards are in for a big surprise.
-"Player.NamVet_Hurrah18"
-//Aw riiiight!
-"Player.NamVet_Hurrah19"
-//You people are gettin' good.
-"Player.NamVet_Hurrah20"
-//Hurry up!
-"Player.NamVet_HurryUp01"
-//Hurry up!
-"Player.NamVet_HurryUp02"
-//Hurry!
-"Player.NamVet_HurryUp03"
-//MOVE!
-"Player.NamVet_HurryUp04"
-//Get the lead out, people!
-"Player.NamVet_HurryUp05"
-//Hurry!
-"Player.NamVet_HurryUp06"
-//Hustle!
-"Player.NamVet_HurryUp07"
-//Hurry it up
-"Player.NamVet_HurryUp08"
-//Faster! Move it, people.
-"Player.NamVet_HurryUp09"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical01"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical02"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical03"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical04"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical05"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical06"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical07"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical08"
-//[pain noise - loud major pain]
-"Player.NamVet_HurtCritical09"
-//[pain noise - ahh]
-"Player.NamVet_HurtMajor01"
-//[pain noise - huh]
-"Player.NamVet_HurtMajor02"
-//[pain noise - oy]
-"Player.NamVet_HurtMajor03"
-//[pain noise - ugh]
-"Player.NamVet_HurtMajor04"
-//[pain noise - ugh]
-"Player.NamVet_HurtMajor05"
-//[pain noise - ugh]
-"Player.NamVet_HurtMajor06"
-//[pain noise - ugh]
-"Player.NamVet_HurtMajor07"
-//[pain noise - oy]
-"Player.NamVet_HurtMajor08"
-//[pain noise - ugh]
-"Player.NamVet_HurtMajor09"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor01"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor02"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor03"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor04"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor05"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor06"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor07"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor08"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor09"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor10"
-//[pain noise - short minor pain]
-"Player.NamVet_HurtMinor11"
-//I got your six.
-"Player.NamVet_ImWithYou01"
-//Right behind you.
-"Player.NamVet_ImWithYou02"
-//I'm with ya.
-"Player.NamVet_ImWithYou03"
-//I got your back.
-"Player.NamVet_ImWithYou04"
-//I'm right behind you.
-"Player.NamVet_ImWithYou05"
-//Right behind you.
-"Player.NamVet_ImWithYou06"
-//Ahhhh, I'm down!
-"npc.NamVet_IncapacitatedInitial01"
-//Damnit! I'm down!
-"npc.NamVet_IncapacitatedInitial02"
-//Ah shit, help!
-"npc.NamVet_IncapacitatedInitial03"
-//I'm down!
-"npc.NamVet_IncapacitatedInitial04"
-//[AHHHHH - terrified yell]
-"Player.NamVet_IncapacitatedInjury01"
-//[AHHHHH - terrified yell]
-"Player.NamVet_IncapacitatedInjury02"
-//[AHHHHH - terrified yell]
-"Player.NamVet_IncapacitatedInjury03"
-//[AHHHHH - terrified yell]
-"Player.NamVet_IncapacitatedInjury04"
-//[AHHHHH - terrified yell]
-"Player.NamVet_IncapacitatedInjury05"
-//Here they come!
-"Player.NamVet_Incoming01"
-//Here they come!
-"Player.NamVet_Incoming02"
-//INCOMING!
-"Player.NamVet_Incoming03"
-//Bookoo crazies inbound!
-"Player.NamVet_Incoming04"
-//HERE THEY COME!
-"Player.NamVet_Incoming05"
-//Contact!
-"Player.NamVet_Incoming06"
-//INCOMING!
-"Player.NamVet_Incoming07"
-//No sense dying of old age. Let's go help 'em.
-"npc.NamVet_InsideSafeRoom01"
-//I can't leave Zoey our there.
-"npc.NamVet_InsideSafeRoom02"
-//How well do you really know Louis?
-"npc.NamVet_InsideSafeRoom03"
-//I'm kidding. Let's go get him.
-"npc.NamVet_InsideSafeRoom04"
-//Let's heal up and get back out there.
-"npc.NamVet_InsideSafeRoom05"
-//We will NOT leave a man behind. Let's get back out there.
-"npc.NamVet_InsideSafeRoom06"
-//We do not leave men behind.
-"npc.NamVet_InsideSafeRoom07"
-//We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
-"Player.NamVet_IntroDeadAir01"
-//We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
-"Player.NamVet_IntroDeadAir02"
-//We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
-"Player.NamVet_IntroDeadAir03"
-//We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
-"Player.NamVet_IntroDeadAir04"
-//We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
-"Player.NamVet_IntroDeadAir05"
-//I never liked hospitals much, and I like sewers even less.  But I do love a chopper taking me out of a hell hole.  So we went through the bowels of the city to get to the hospital and to a chopper sent from heaven.
-"Player.NamVet_IntroNoMercy01"
-//I never liked hospitals much, and I like sewers even less.  But I do love a chopper taking me out of a hell hole.  So we went through the bowels of the city to get to the hospital and to a chopper sent from heaven.
-"Player.NamVet_IntroNoMercy02"
-//I never liked hospitals much, and I like sewers even less.  But I do love a chopper taking me out of a hell hole.  So we went through the bowels of the city to get to the hospital and to a chopper sent from heaven.
-"Player.NamVet_IntroNoMercy03"
-//We hiked down the road through some hick town and at the end there was a campground and a boat to a better place.  And when I say a better place, that is pretty much anywhere other than here, hell even Cleveland would be better place.
-"Player.NamVet_IntroRuralBoatEnding01"
-//We hiked down the road through some hick town and at the end there was a campground and a boat to a better place.  And when I say a better place, that is pretty much anywhere other than here, hell even Cleveland would be better place.
-"Player.NamVet_IntroRuralBoatEnding02"
-//We hiked down the road through some hick town and at the end there was a campground and a boat to a better place.  And when I say a better place, that is pretty much anywhere other than here, hell even Cleveland would be better place.
-"Player.NamVet_IntroRuralBoatEnding03"
-//We had no where else to go, so we followed the tracks to an old farmhouse.  The farmhouse was real quaint, pretty, peaceful even. For about 15 seconds.
-"Player.NamVet_IntroRuralFamrHouseEnding01"
-//We had no where else to go, so we followed the tracks to an old farmhouse.  The farmhouse was real quaint, pretty, peaceful even. For about 15 seconds.
-"Player.NamVet_IntroRuralFamrHouseEnding02"
-//We had no where else to go, so we followed the tracks to an old farmhouse.  The farmhouse was real quaint, pretty, peaceful even. For about 15 seconds.
-"Player.NamVet_IntroRuralFamrHouseEnding03"
-//Got 'em
-"Player.NamVet_KillConfirmation01"
-//Got it
-"Player.NamVet_KillConfirmation02"
-//He's dead
-"Player.NamVet_KillConfirmation03"
-//Got 'em
-"Player.NamVet_KillConfirmation05"
-//Got 'em
-"Player.NamVet_KillConfirmation06"
-//Got 'em
-"Player.NamVet_KillConfirmation07"
-//Got it
-"Player.NamVet_KillConfirmation08"
-//Kill that light!
-"Player.NamVet_KillThatLight01"
-//Turn your light off.
-"Player.NamVet_KillThatLight02"
-//Lights off!
-"Player.NamVet_KillThatLight03"
-//Turn those flashlights off!
-"Player.NamVet_KillThatLight04"
-//Turn your light off.
-"Player.NamVet_KillThatLight05"
-//Turn those flashlights off!
-"Player.NamVet_KillThatLight06"
-//Kill that light.
-"Player.NamVet_KillThatLight07"
-//Turn your light off.
-"Player.NamVet_KillThatLight08"
-//Lights off!
-"Player.NamVet_KillThatLight09"
-//Turn those flashlights off!
-"Player.NamVet_KillThatLight10"
-//<Short laugh>
-"npc.NamVet_Laughter01"
-//<Nervous laugh>
-"npc.NamVet_Laughter02"
-//<Hearty Laugh>
-"npc.NamVet_Laughter04"
-//<Nervous laugh>
-"npc.NamVet_Laughter05"
-//<Short laugh>
-"npc.NamVet_Laughter06"
-//<Short laugh>
-"npc.NamVet_Laughter07"
-//<Short laugh>
-"npc.NamVet_Laughter08"
-//<Short laugh>
-"npc.NamVet_Laughter09"
-//<Short laugh>
-"npc.NamVet_Laughter10"
-//<Short laugh>
-"npc.NamVet_Laughter11"
-//<Short laugh>
-"npc.NamVet_Laughter12"
-//<Short laugh>
-"npc.NamVet_Laughter13"
-//<Short laugh>
-"npc.NamVet_Laughter14"
-//You go ahead, I'll follow you
-"Player.NamVet_LeadOn01"
-//You take the lead
-"Player.NamVet_LeadOn02"
-//Go ahead
-"Player.NamVet_LeadOn03"
-//You're on point
-"Player.NamVet_LeadOn04"
-//I'll follow you
-"Player.NamVet_LeadOn05"
-//Lead on.
-"Player.NamVet_LeadOn06"
-//You go ahead, I'll cover you.
-"Player.NamVet_LeadOn07"
-//Take the point.
-"Player.NamVet_LeadOn08"
-//I'M SLIPPING! PULL ME UP!
-"Player.NamVet_LedgeHangEnd01"
-//I'M LOSING MY GRIP! GET OVER HERE!
-"Player.NamVet_LedgeHangEnd02"
-//I CAN'T HOLD ON - I'M GONNA FALL!
-"Player.NamVet_LedgeHangEnd03"
-//HELP ME! I'm about to take a redball into the ground!
-"Player.NamVet_LedgeHangEnd04"
-//I'M GONNA FALL!
-"Player.NamVet_LedgeHangEnd05"
-//Ah christ, somebody pull me up!
-"Player.NamVet_LedgeHangMiddle01"
-//I need some help, here.
-"Player.NamVet_LedgeHangMiddle02"
-//Dammit, I need a hand here!
-"Player.NamVet_LedgeHangMiddle03"
-//Pull me up, people.
-"Player.NamVet_LedgeHangMiddle04"
-//I need a hand up!
-"Player.NamVet_LedgeHangMiddle05"
-//I need a hand up!
-"Player.NamVet_LedgeHangStart01"
-//Somembody pull me up!
-"Player.NamVet_LedgeHangStart02"
-//Godammit, I'm hangin' off a ledge over here.
-"Player.NamVet_LedgeHangStart03"
-//Somebody needs to get over here and pull me up!
-"Player.NamVet_LedgeHangStart04"
-//Hey, people, I'm hangin' off a ledge over here!
-"Player.NamVet_LedgeHangStart05"
-//Somebody come pull me up!
-"Player.NamVet_LedgeHangStart06"
-//I'm gettin' too old for this hangin' shit.
-"Player.NamVet_LedgeHangStart07"
-//Somebody come help me up!
-"Player.NamVet_LedgeHangStart08"
-//Somebody come grab me up off this ledge.
-"Player.NamVet_LedgeHangStart09"
-//Okay, quit squirming, I gotcha. Come on, up ya go!
-"Player.NamVet_LedgeSave01"
-//Let's go, take my hand. I'm gonna get you up. Here we go.
-"Player.NamVet_LedgeSave02"
-//How the hell did this happen? Never mind, come on and grab my hand.
-"Player.NamVet_LedgeSave03"
-//Over there.
-"Player.NamVet_Look01"
-//Over there.
-"Player.NamVet_Look02"
-//Look
-"Player.NamVet_Look03"
-//Look!
-"Player.NamVet_Look04"
-//Look!
-"Player.NamVet_Look05"
-//Check this out.
-"Player.NamVet_LookHere01"
-//Look at this.
-"Player.NamVet_LookHere02"
-//Look over here.
-"Player.NamVet_LookHere03"
-//You're gonna want to see this.
-"Player.NamVet_LookHere04"
-//Look out!
-"Player.NamVet_LookOut01"
-//Watch out!
-"Player.NamVet_LookOut02"
-//Watch out!
-"Player.NamVet_LookOut03"
-//Watch your ass!
-"Player.NamVet_LookOut04"
-//Heads up!
-"Player.NamVet_LookOut05"
-//Behind you!!
-"Player.NamVet_LookOut06"
-//Hello?
-"Player.NamVet_LostCall01"
-//Where are you?
-"Player.NamVet_LostCall02"
-//Where is everyone?
-"Player.NamVet_LostCall03"
-//Is anyone there?
-"Player.NamVet_LostCall04"
-//Report in, people! Report!
-"Player.NamVet_LostCall05"
-//Hello?
-"Player.NamVet_LostCall06"
-//Whered'ja go?
-"Player.NamVet_LostCall07"
-//Anybody out there?
-"Player.NamVet_LostCall08"
-//Is anyone out there?
-"Player.NamVet_LostCall09"
-//I lost the group!
-"Player.NamVet_LostCall10"
-//Where'd you people go?
-"Player.NamVet_LostCall11"
-//Allright, let's go.
-"Player.NamVet_MoveOn01"
-//Let's move people.
-"Player.NamVet_MoveOn02"
-//Move it out!
-"Player.NamVet_MoveOn03"
-//Let's go.
-"Player.NamVet_MoveOn04"
-//Lets move people
-"Player.NamVet_MoveOn05"
-//Time to move out!
-"Player.NamVet_MoveOn06"
-//Let's move it out people
-"Player.NamVet_MoveOn07"
-//Alright, let's go.
-"Player.NamVet_MoveOn08"
-//Come on, let's go.
-"Player.NamVet_MoveOn09"
-//Come on, let's go.
-"Player.NamVet_MoveOn10"
-//Let's move it out!
-"Player.NamVet_MoveOn11"
-//Let's go, people!
-"Player.NamVet_MoveOn12"
-//Room's clear!
-"npc.NamVet_Movie01"
-//Ain't seen nothing like this before.
-"npc.NamVet_Movie05"
-//They're changing...
-"npc.NamVet_Movie07"
-//Lights off!
-"npc.NamVet_Movie16"
-//Lights... off. Back away... Quietly...
-"npc.NamVet_Movie18"
-//Goddammit, I told you -
-"npc.NamVet_Movie20"
-//Ah hell.
-"npc.NamVet_Movie21"
-//Go to hell.
-"npc.NamVet_Movie23"
-//I'll be fine.
-"npc.NamVet_Movie25"
-//Oh, this is gonna get bad...
-"npc.NamVet_Movie30"
-//One block down...
-"npc.NamVet_Movie38"
-//The battle's over. Now it's time for the war.
-"npc.NamVet_Movie41"
-//Francis! (loud)
-"Player.NamVet_NameFrancis01"
-//Fraaaaancis! (loud)
-"Player.NamVet_NameFrancis02"
-//Francis (quiet)
-"Player.NamVet_NameFrancis03"
-//Louis! (loud)
-"Player.NamVet_NameLouis01"
-//Looooouis! (loud)
-"Player.NamVet_NameLouis02"
-//Louis (quiet)
-"Player.NamVet_NameLouis03"
-//Zoey! (loud)
-"Player.NamVet_NameZoey01"
-//Zooooooey! (loud)
-"Player.NamVet_NameZoey02"
-//Zoey (quiet)
-"Player.NamVet_NameZoey03"
-//Francis, check your fire!
-"npc.NamVet_NamVet_FriendlyFireFrancis01"
-//What the hell are you doin' Francis?
-"npc.NamVet_NamVet_FriendlyFireFrancis02"
-//Francis! [through gritted teeth]
-"npc.NamVet_NamVet_FriendlyFireFrancis03"
-//Goddamnit Louis, stop shooting me!
-"npc.NamVet_NamVet_FriendlyFireLouis01"
-//Knock it off, Louis!
-"npc.NamVet_NamVet_FriendlyFireLouis02"
-//Louis! [through gritted teeth]
-"npc.NamVet_NamVet_FriendlyFireLouis03"
-//Ah Zoey, watch it.
-"npc.NamVet_NamVet_FriendlyFireZoey01"
-//Zoey! You know better than that!
-"npc.NamVet_NamVet_FriendlyFireZoey02"
-//Zoey! Stop pointing that thing at me!
-"npc.NamVet_NamVet_FriendlyFireZoey03"
-//Zoey! [through gritted teeth]
-"npc.NamVet_NamVet_FriendlyFireZoey04"
-//[Nervous Humming]
-"Player.NamVet_NervousHumming01"
-//[Nervous Whislte]
-"Player.NamVet_NervousWhislte01"
-//Nice!
-"Player.NamVet_NiceJob01"
-//Nice work!
-"Player.NamVet_NiceJob02"
-//Nice job.
-"Player.NamVet_NiceJob03"
-//You're doing this unit proud, kid.
-"Player.NamVet_NiceJob04"
-//Nice job.
-"Player.NamVet_NiceJob05"
-//Good work!
-"Player.NamVet_NiceJob06"
-//Hey, nice!
-"Player.NamVet_NiceJob07"
-//Nice!
-"Player.NamVet_NiceJob08"
-//Nice work!
-"Player.NamVet_NiceJob09"
-//Nice job.
-"Player.NamVet_NiceJob10"
-//You're doing this unit proud, kid.
-"Player.NamVet_NiceJob11"
-//Nice job.
-"Player.NamVet_NiceJob12"
-//Good work!
-"Player.NamVet_NiceJob13"
-//You did good.
-"Player.NamVet_NiceJob14"
-//Nice job.
-"Player.NamVet_NiceJob15"
-//You make me proud
-"Player.NamVet_NiceJob16"
-//Good. Very Good.
-"Player.NamVet_NiceJob17"
-//You're a credit to the squad, kid.
-"Player.NamVet_NiceJob18"
-//That was some piece of work.
-"Player.NamVet_NiceJob19"
-//Pretty damn good.
-"Player.NamVet_NiceJob20"
-//That was a good piece of work.
-"Player.NamVet_NiceJob21"
-//You did good, kid.
-"Player.NamVet_NiceJob22"
-//Nice shooting, kid.
-"Player.NamVet_NiceShooting01"
-//Nice shooting.
-"Player.NamVet_NiceShooting02"
-//Good shooting.
-"Player.NamVet_NiceShooting03"
-//Nice shooting, kid.
-"Player.NamVet_NiceShooting04"
-//Nice shooting.
-"Player.NamVet_NiceShooting05"
-//Good shooting.
-"Player.NamVet_NiceShooting06"
-//Good shooting, kid.
-"Player.NamVet_NiceShooting07"
-//That was a real kill spree, kid.
-"Player.NamVet_NiceShooting08"
-//GodDAMN, you really lit 'em up!
-"Player.NamVet_NiceShooting09"
-//I coulda used a gun hand like you in Nam.
-"Player.NamVet_NiceShooting10"
-//You definitely got that killer instinct, kid.
-"Player.NamVet_NiceShooting11"
-//Now THAT was some damn fine shooting
-"Player.NamVet_NiceShooting12"
-//Nice shot!
-"Player.NamVet_NiceShot01"
-//damn, kid, that was a good shot.
-"Player.NamVet_NiceShot02"
-//godDAMN that was a nice shot.
-"Player.NamVet_NiceShot03"
-//Nice shot!
-"Player.NamVet_NiceShot04"
-//damn, kid, that was a good shot.
-"Player.NamVet_NiceShot05"
-//godDAMN that was a nice shot.
-"Player.NamVet_NiceShot06"
-//Good shot, kid.
-"Player.NamVet_NiceShot07"
-//Good shot!
-"Player.NamVet_NiceShot08"
-//Damn, now that was a shot!
-"Player.NamVet_NiceShot09"
-//Whoo - nice shot.
-"Player.NamVet_NiceShot10"
-//Now THAT is how you handle a weapon.
-"Player.NamVet_NiceShot11"
-//Nice shot!
-"npc.NamVet_NICESHOT12"
-//Nice shooting
-"Player.NamVet_NiceShot13"
-//Nice
-"Player.NamVet_NiceShot14"
-//Ain't gonna happen.
-"Player.NamVet_No01"
-//No can do.
-"Player.NamVet_No02"
-//Negatory.
-"Player.NamVet_No03"
-//No way.
-"Player.NamVet_No04"
-//Nah.
-"Player.NamVet_No05"
-//Negative.
-"Player.NamVet_No06"
-//Not a chance.
-"Player.NamVet_No07"
-//No.
-"Player.NamVet_No08"
-//No.
-"Player.NamVet_No09"
-//No.
-"Player.NamVet_No10"
-//No possible way.
-"Player.NamVet_No11"
-//Uh, no.
-"Player.NamVet_No12"
-//No way.
-"Player.NamVet_No13"
-//I don't think so.
-"Player.NamVet_No14"
-//Absolutely not.
-"Player.NamVet_No15"
-//Ahhh
-"Player.NamVet_PainReliefSigh01"
-//ah
-"Player.NamVet_PainReliefSigh02"
-//ah
-"Player.NamVet_PainReliefSigh03"
-//ohh
-"Player.NamVet_PainReliefSigh04"
-//You should heal up.
-"npc.NamVet_PlayerSuggestHealth01"
-//Good time to heal up.
-"npc.NamVet_PlayerSuggestHealth02"
-//Let's heal up.
-"npc.NamVet_PlayerSuggestHealth03"
-//Francis, use your first aid kit.
-"npc.NamVet_PlayerSuggestHealthFrancis01"
-//Francis, you should heal up.
-"npc.NamVet_PlayerSuggestHealthFrancis02"
-//Heal up, Francis.
-"npc.NamVet_PlayerSuggestHealthFrancis03"
-//Francis, heal up.
-"npc.NamVet_PlayerSuggestHealthFrancis04"
-//Louis, use your first aid kit
-"npc.NamVet_PlayerSuggestHealthLouis01"
-//Heal up, Louis.
-"npc.NamVet_PlayerSuggestHealthLouis02"
-//Francis, buddy, you gonna use that health kit?
-"npc.NamVet_PlayerSuggestHealthSpecific01"
-//Zoey, can you spare me a health kit?
-"npc.NamVet_PlayerSuggestHealthSpecific02"
-//Louis, mind givin' an old man your health kit?
-"npc.NamVet_PlayerSuggestHealthSpecific03"
-//Zoey, maybe you should heal.
-"npc.NamVet_PlayerSuggestHealthZoey01"
-//Zoey, maybe heal up?
-"npc.NamVet_PlayerSuggestHealthZoey02"
-//Might want to heal up, Zoey.
-"npc.NamVet_PlayerSuggestHealthZoey03"
-//Jesus H Christ that was close.
-"npc.NamVet_PlayerTransitionClose01"
-//This shit's gettin' old.
-"npc.NamVet_PlayerTransitionClose02"
-//I've had about enough of this.
-"npc.NamVet_PlayerTransitionClose03"
-//That was a little closer than I'da liked.
-"npc.NamVet_PlayerTransitionClose04"
-//[Improv non-verbal pleasure & interest sounds]
-"Player.NamVet_PositiveNoise01"
-//[Improv non-verbal pleasure & interest sounds]
-"Player.NamVet_PositiveNoise02"
-//[Improv non-verbal pleasure & interest sounds]
-"Player.NamVet_PositiveNoise03"
-//Rescue boat's on its way. Now we gotta hold out.
-"Player.NamVet_RadioUsedBoat01"
-//I called the chopper
-"Player.NamVet_RadioUsedChopper01"
-//Allright, people, help is on the way. Let's dig in.
-"Player.NamVet_RadioUsedGeneric01"
-//Okay, people, listen up: Help is on its way. We're almost out of this.
-"Player.NamVet_RadioUsedGeneric02"
-//Okay, people, this is it. It's almost over.
-"Player.NamVet_RadioUsedGeneric03"
-//Allright, people, an extraction team is on its way. Let's dig in.
-"Player.NamVet_RadioUsedGeneric04"
-//Listen up: rescue's on the way. We gotta hold out til they get here.
-"Player.NamVet_RadioUsedGeneric05"
-//Listen up: Help is on the way. We gotta hold out til it gets here.
-"Player.NamVet_RadioUsedGeneric06"
-//Allright, people, the good news is help is on the way. The bad news is we gotta stay alive until they get here.
-"Player.NamVet_RadioUsedGeneric07"
-//Okay, there's an extraction team inbound. We just gotta dig in until they get here.
-"Player.NamVet_RadioUsedGeneric08"
-//Allright, people, there's an aircraft on its way. Let's dig in.
-"Player.NamVet_RadioUsedPlane01"
-//Listen up, there's a truck coming for us, so let's make sure we're alive to meet it.
-"Player.NamVet_RadioUsedTruck01"
-//I have a bad feeling about this
-"Player.NamVet_ReactionApprehensive01"
-//It's too quiet
-"Player.NamVet_ReactionApprehensive02"
-//Something don't feel right
-"Player.NamVet_ReactionApprehensive03"
-//I do not like this one bit.
-"Player.NamVet_ReactionApprehensive04"
-//I don't know...
-"Player.NamVet_ReactionApprehensive05"
-//Feels like an ambush...
-"Player.NamVet_ReactionApprehensive06"
-//
-"Player.NamVet_ReactionBoomerVomit01"
-//
-"Player.NamVet_ReactionBoomerVomit02"
-//
-"Player.NamVet_ReactionBoomerVomit03"
-//Ewwww...
-"Player.NamVet_ReactionDisgusted01"
-//Blech..
-"Player.NamVet_ReactionDisgusted02"
-//ehhhh
-"Player.NamVet_ReactionDisgusted03"
-//Oh shit.
-"Player.NamVet_ReactionDisgusted04"
-//Yech
-"Player.NamVet_ReactionDisgusted05"
-//echh
-"Player.NamVet_ReactionDisgusted06"
-//echh
-"Player.NamVet_ReactionDisgusted07"
-//Yech
-"Player.NamVet_ReactionDisgusted08"
-//Uh oh
-"Player.NamVet_ReactionNegative01"
-//Christ
-"Player.NamVet_ReactionNegative02"
-//Gee-zus
-"Player.NamVet_ReactionNegative03"
-//[Frustration sound]
-"Player.NamVet_ReactionNegative04"
-//[Frustration sound]
-"Player.NamVet_ReactionNegative05"
-//[Frustration sound]
-"Player.NamVet_ReactionNegative06"
-//God dammit
-"Player.NamVet_ReactionNegative07"
-//Ah shit
-"Player.NamVet_ReactionNegative08"
-//Son of a bitch
-"Player.NamVet_ReactionNegative09"
-//Dammit
-"Player.NamVet_ReactionNegative10"
-//ehhhh
-"Player.NamVet_ReactionNegative11"
-//[Frustration sound]
-"Player.NamVet_ReactionNegative12"
-//Allright!
-"Player.NamVet_ReactionPositive01"
-//Heh hehhh
-"Player.NamVet_ReactionPositive02"
-//Rock and roll
-"Player.NamVet_ReactionPositive03"
-//Trah-mendous
-"Player.NamVet_ReactionPositive04"
-//[chuckles and giggles]
-"Player.NamVet_ReactionPositive05"
-//[chuckles and giggles]
-"Player.NamVet_ReactionPositive06"
-//[chuckles and giggles]
-"Player.NamVet_ReactionPositive07"
-//[chuckles and giggles]
-"Player.NamVet_ReactionPositive08"
-//Well oh-kay
-"Player.NamVet_ReactionPositive09"
-//Out standing
-"Player.NamVet_ReactionPositive10"
-//Oh yeah
-"Player.NamVet_ReactionPositive11"
-//Whoah!
-"Player.NamVet_ReactionStartled01"
-//What the?
-"Player.NamVet_ReactionStartled02"
-//wah!
-"Player.NamVet_ReactionStartled03"
-//Reloading
-"Player.NamVet_Reloading01"
-//Reloading
-"Player.NamVet_Reloading02"
-//Reloading
-"Player.NamVet_Reloading03"
-//Reloading.
-"npc.NamVet_ReloadingQuiet01"
-//Reloading.
-"npc.NamVet_ReloadingQuiet02"
-//Reloading.
-"npc.NamVet_ReloadingQuiet03"
-//Reloading.
-"npc.NamVet_ReloadingQuiet04"
-//Reloading.
-"npc.NamVet_ReloadingQuiet05"
-//I can help you up, but I'm not gonna lie to ya - you're in bad shape. If we don't find you some first aid, you're not gonna survive another hit.
-"Player.NamVet_ReviveCriticalFriend01"
-//Holy hell, you are messed up. If we don't find you some first aid, you're not gonna survive another hit.
-"Player.NamVet_ReviveCriticalFriend02"
-//That really tore the hell outta you. If we don't find you some first aid, you're not gonna survive another hit.
-"Player.NamVet_ReviveCriticalFriend03"
-//Holy shit, they took a big piece outta you, kid. If we don't find you some first aid, you're not gonna survive another hit.
-"Player.NamVet_ReviveCriticalFriend04"
-//I can help you back on your feet, but it's temporary. If we don't find you some first aid, you're not gonna survive another hit.
-"Player.NamVet_ReviveCriticalFriend05"
-//You're in real bad shape, kid. If we don't find you some first aid, you're not gonna survive another hit.
-"Player.NamVet_ReviveCriticalFriend06"
-//No shame, kid. I woulda pissed myself, too. But if we don't find you some first aid, you're not gonna survive another hit.
-"Player.NamVet_ReviveCriticalFriend07"
-//Hold still, hold still. I'm gonna get you back on your feet and then we gotta move.
-"Player.NamVet_ReviveFriend01"
-//Okay. Allright, now. Come on kid, shake it off and let's get moving.
-"Player.NamVet_ReviveFriend02"
-//Ah hell, it looks a lot worse than it is. C'mon - you gotta get up and walk it off.
-"Player.NamVet_ReviveFriend03"
-//Probably stings like hell, but it ain't gonna kill ya. Up and at'em, soldier! Time to move.
-"Player.NamVet_ReviveFriend04"
-//There's a lot of blood, but you're not missin' anything important. Come on, get up, let's get moving!
-"Player.NamVet_ReviveFriend05"
-//Hold still, hold still. I'm gonna get you back on your feet and then we gotta move.
-"Player.NamVet_ReviveFriend06"
-//Okay. Allright, now. Come on kid, shake it off, let's get moving.
-"Player.NamVet_ReviveFriend07"
-//Take it easy, kid. I'm gonna get you back on your feet and fighting.
-"Player.NamVet_ReviveFriend08"
-//Hell, kid, they just winged ya. Come on, back on your feet and let's get moving.
-"Player.NamVet_ReviveFriend09"
-//Here we go - back on your feet, soldier. You're not gettin' out of this fight that easy.
-"Player.NamVet_ReviveFriend10"
-//Lie still, lemme look. Ah hell, I've seen worse. You'll be allright in a second.
-"Player.NamVet_ReviveFriend11"
-//You're not through yet, kid. Get up and let's go. These shitheads ain't gonna kill themselves.
-"Player.NamVet_ReviveFriend12"
-//Zoey, Zoey, don't worry - I won't leave you.
-"Player.NamVet_ReviveFriend13"
-//Ahh quit snivelling. I've seen worse.
-"npc.NamVet_ReviveFriend14"
-//Lemme get you up. Lemme get you up.
-"npc.NamVet_ReviveFriend15"
-//Relax Zoey, you're gonna be fine.
-"npc.NamVet_ReviveFriend16"
-//Hey Francis. Funny meeting you here. Get up.
-"npc.NamVet_ReviveFriend17"
-//Get up Louis. Hell, you gotta be more careful, son.
-"npc.NamVet_ReviveFriend18"
-//The man ain't comin' for you yet, Francis. Get up.
-"npc.NamVet_ReviveFriend19"
-//Son, you look rode hard and put away wet.
-"npc.NamVet_ReviveFriend20"
-//Ahhhh, dyin' ain't so scary. Happens all the time.
-"npc.NamVet_ReviveFriend21"
-//Stay with me, now. You did real good back there.
-"npc.NamVet_ReviveFriend22"
-//We'll live through this. Only the good and the really bad die young-and I figure we're somewhere in the middle.
-"npc.NamVet_ReviveFriend23"
-//Bein' brave doesn't mean you're not scared. It means you're scared as hell, and then you pick up the shotgun anyway.
-"npc.NamVet_ReviveFriend24"
-//You okay?
-"npc.NamVet_ReviveFriendA01"
-//How ya feelin'?
-"npc.NamVet_ReviveFriendA02"
-//Can you make it?
-"npc.NamVet_ReviveFriendA03"
-//You gonna make it?
-"npc.NamVet_ReviveFriendA04"
-//How bad are you?
-"npc.NamVet_ReviveFriendA05"
-//You look bad.
-"npc.NamVet_ReviveFriendA06"
-//How ya doin'?
-"npc.NamVet_ReviveFriendA07"
-//Can you walk?
-"npc.NamVet_ReviveFriendA08"
-//Up and at 'em.
-"npc.NamVet_ReviveFriendB01"
-//Come on up!
-"npc.NamVet_ReviveFriendB02"
-//Up ya go, son.
-"npc.NamVet_ReviveFriendB03"
-//You'll be okay.
-"npc.NamVet_ReviveFriendB04"
-//I got ya.
-"npc.NamVet_ReviveFriendB05"
-//Up we go.
-"npc.NamVet_ReviveFriendB06"
-//Hell, you're fine.
-"npc.NamVet_ReviveFriendB07"
-//It don't look bad.
-"npc.NamVet_ReviveFriendB08"
-//Come on up.
-"npc.NamVet_ReviveFriendB09"
-//Let's move!
-"npc.NamVet_ReviveFriendB10"
-//You're fine.
-"npc.NamVet_ReviveFriendB11"
-//Back on yer feet, Louis.
-"npc.NamVet_ReviveFriendB12"
-//Looks like yer big mouth still works.
-"npc.NamVet_ReviveFriendB13"
-//You're okay, Zoey.
-"npc.NamVet_ReviveFriendB14"
-//You'll be fine.
-"npc.NamVet_ReviveFriendB15"
-//I gotcha. You're gonna make it!
-"npc.NamVet_ReviveFriendLoud01"
-//Get up, get up! We ain't got time for this!
-"npc.NamVet_ReviveFriendLoud02"
-//Get up, get up!
-"npc.NamVet_ReviveFriendLoud03"
-//Come on, get up!
-"npc.NamVet_ReviveFriendLoud04"
-//Hang on, I gotcha!
-"npc.NamVet_ReviveFriendLoud05"
-//Come on! You gotta get up!
-"npc.NamVet_ReviveFriendLoud06"
-//You're not done yet. Come on!
-"npc.NamVet_ReviveFriendLoud07"
-//Let's go! Get up! Let's go!
-"npc.NamVet_ReviveFriendLoud08"
-//Come on! This fight ain't over!
-"npc.NamVet_ReviveFriendLoud09"
-//Come on!
-"npc.NamVet_ReviveFriendLoud10"
-//There's a safe spot up ahead.
-"Player.NamVet_SafeSpotAhead01"
-//There's a safe spot just ahead.
-"Player.NamVet_SafeSpotAhead02"
-//Safe spot dead ahead
-"Player.NamVet_SafeSpotAhead03"
-//We're near a safe spot.
-"Player.NamVet_SafeSpotAhead04"
-//There's a safe place up aheaad.
-"Player.NamVet_SafeSpotAhead05"
-//Safe place ahead.
-"Player.NamVet_SafeSpotAhead06"
-//Safe house ahead!
-"npc.NamVet_SafeSpotAhead07"
-//Safe house!
-"npc.NamVet_SafeSpotAhead08"
-//Finally!
-"npc.NamVet_SafeSpotAheadReaction01"
-//Thank God.
-"npc.NamVet_SafeSpotAheadReaction02"
-//'Bout time!
-"npc.NamVet_SafeSpotAheadReaction03"
-//Hallelujah!
-"npc.NamVet_SafeSpotAheadReaction04"
-//Well it's about damn time.
-"npc.NamVet_SafeSpotAheadReaction05"
-//I could use a damn break.
-"npc.NamVet_SafeSpotAheadReaction06"
-//There's something over there
-"Player.NamVet_SawSomething01"
-//There's something over there
-"Player.NamVet_SawSomething02"
-//There's something over there
-"Player.NamVet_SawSomething03"
-//I saw something.
-"Player.NamVet_SawSomething04"
-//I saw something.
-"Player.NamVet_SawSomething05"
-//I saw something.
-"Player.NamVet_SawSomething06"
-//I'm here.
-"Player.NamVet_ScenarioJoin01"
-//Hello!
-"Player.NamVet_ScenarioJoin02"
-//Hey, I'm here.
-"Player.NamVet_ScenarioJoin03"
-//We're all here.
-"Player.NamVet_ScenarioJoinLast01"
-//GET IT OFF!
-"Player.NamVet_ScreamWhilePounced01"
-//GET IT OFF GET IT OFF!
-"Player.NamVet_ScreamWhilePounced02"
-//GET IT OFF!
-"Player.NamVet_ScreamWhilePounced03"
-//[Reaction to body hits - uhs ahs]
-"Player.NamVet_Shoved01"
-//[Reaction to body hits - uhs ahs]
-"Player.NamVet_Shoved02"
-//[Reaction to body hits - uhs ahs]
-"Player.NamVet_Shoved03"
-//[Reaction to body hits - uhs ahs]
-"Player.NamVet_Shoved04"
-//[Reaction to body hits - uhs ahs]
-"Player.NamVet_Shoved05"
-//Sorry.
-"Player.NamVet_Sorry01"
-//I am sorry.
-"Player.NamVet_Sorry02"
-//Sorry about that.
-"Player.NamVet_Sorry03"
-//My fault!
-"Player.NamVet_Sorry04"
-//I shouldn't have done that.
-"Player.NamVet_Sorry05"
-//Ah horsehit, that was my fault.
-"Player.NamVet_Sorry06"
-//Sorry about that.
-"Player.NamVet_Sorry07"
-//My fault!
-"Player.NamVet_Sorry08"
-//Won't happen again.
-"Player.NamVet_Sorry09"
-//I regret that mistake.
-"Player.NamVet_Sorry10"
-//Ah, hell, I'm gettin too old for this shit
-"Player.NamVet_Sorry11"
-//That was careless of me.
-"Player.NamVet_Sorry12"
-//Ammo here!
-"npc.NamVet_SPOT01"
-//First aid kit here!
-"npc.NamVet_SPOT02"
-//First aid here!
-"npc.NamVet_SPOT03"
-//Grenades here!
-"npc.NamVet_SPOT04"
-//Weapons here!
-"npc.NamVet_SPOT05"
-//Pills here!
-"npc.NamVet_SPOT06"
-//Ammo here!
-"Player.NamVet_SpotAmmo01"
-//First Aid Kit here!
-"Player.NamVet_SpotFirstAid01"
-//First Aid here!
-"Player.NamVet_SpotFirstAid02"
-//First aid kit!
-"npc.NamVet_SpotFirstAid03"
-//First aid kit over here!
-"npc.NamVet_SpotFirstAid04"
-//Health pack here!
-"npc.NamVet_SpotFirstAid05"
-//Grenades here!
-"Player.NamVet_SpotGrenades01"
-//Molotov over here!
-"npc.NamVet_SpotGrenades02"
-//Molotov!
-"npc.NamVet_SpotGrenades03"
-//Pipebomb over here!
-"npc.NamVet_SpotGrenades04"
-//Pipebomb!
-"npc.NamVet_SpotGrenades05"
-//Pills here!
-"Player.NamVet_SpotPills01"
-//Weapons here!
-"Player.NamVet_SpotWeapons01"
-//Weapon over here!
-"npc.NamVet_SpotWeapons02"
-//Got a Weapon here!
-"npc.NamVet_SpotWeapons03"
-//Stay close!
-"Player.NamVet_StayTogether01"
-//Come on - we got to stay together.
-"Player.NamVet_StayTogether02"
-//Keep together, people.
-"Player.NamVet_StayTogether03"
-//Stay together.
-"Player.NamVet_StayTogether04"
-//Form up!
-"Player.NamVet_StayTogether05"
-//Nobody go AWOL.
-"Player.NamVet_StayTogether06"
-//Stay close.
-"Player.NamVet_StayTogether07"
-//Don't get split up.
-"Player.NamVet_StayTogether08"
-//Stay together.
-"Player.NamVet_StayTogether09"
-//Stick together, people.
-"Player.NamVet_StayTogether10"
-//We've got to stay together.
-"Player.NamVet_StayTogether11"
-//For chrissake people, get in here!
-"Player.NamVet_StayTogetherInside01"
-//Into the safe room, people!
-"Player.NamVet_StayTogetherInside02"
-//Double time it into the safe room, people!
-"Player.NamVet_StayTogetherInside03"
-//Assemble in the safe room!
-"Player.NamVet_StayTogetherInside04"
-//Fall back to the safe room!
-"Player.NamVet_StayTogetherInside05"
-//Die, bitch!
-"npc.NamVet_SwearCoupdeGrace01"
-//Go to hell.
-"npc.NamVet_SwearCoupdeGrace02"
-//Burn in hell, you bastard!
-"npc.NamVet_SwearCoupdeGrace03"
-//Burn, you son of a bitch!
-"npc.NamVet_SwearCoupdeGrace04"
-//That was for Zoey, you son of a bitch.
-"npc.NamVet_SwearCoupdeGrace05"
-//That was for Francis, you son of a bitch.
-"npc.NamVet_SwearCoupdeGrace06"
-//That was for Louis, you son of a bitch.
-"npc.NamVet_SwearCoupdeGrace07"
-//Die, you bastard!
-"npc.NamVet_SwearCoupdeGrace08"
-//Burn in hell!
-"npc.NamVet_SwearCoupdeGrace09"
-//All you sick sons of bitches are gonna pay.
-"npc.NamVet_SwearCoupdeGrace10"
-//bu-tee-ful!
-"npc.NamVet_SwearCoupdeGrace11"
-//Burn, you bastard.
-"npc.NamVet_SwearCoupdeGrace12"
-//Bullshit.
-"npc.NamVet_Swears01"
-//Go to hell.
-"npc.NamVet_Swears02"
-//Son of a bitch.
-"npc.NamVet_Swears03"
-//Bull-frickin-horseshit.
-"npc.NamVet_Swears04"
-//Mother. Humper.
-"npc.NamVet_Swears05"
-//Bastard.
-"npc.NamVet_Swears06"
-//Ah hell.
-"npc.NamVet_Swears07"
-//Dammit.
-"npc.NamVet_Swears08"
-//God DAMMIT.
-"npc.NamVet_Swears09"
-//Mother of mercy.
-"npc.NamVet_Swears10"
-//Ah shit.
-"npc.NamVet_Swears12"
-//Shit shit shit.
-"npc.NamVet_Swears13"
-//What a crock a' shit...
-"npc.NamVet_Swears14"
-//Mother. Hubbard.
-"npc.NamVet_Swears15"
-//Ah shit.
-"npc.NamVet_Swears16"
-//Shit.
-"npc.NamVet_Swears17"
-//Shit shit shit.
-"npc.NamVet_Swears18"
-//What a crock a' shit...
-"npc.NamVet_Swears19"
-//Aw shiiiiiiiiit.
-"npc.NamVet_Swears20"
-//An assault rifle. This shit's gettin more like 'nam every second.
-"Player.NamVet_TakeAssaultRifle01"
-//An assault rifle. Come to papa.
-"Player.NamVet_TakeAssaultRifle02"
-//I'm grabbing this rifle
-"Player.NamVet_TakeAssaultRifle03"
-//An assault rifle! Man, this takes me back.
-"Player.NamVet_TakeAssaultRifle04"
-//I'm grabbin' an assault rifle.
-"Player.NamVet_TakeAssaultRifle05"
-//Full auto shotgun
-"Player.NamVet_TakeAutoShotgun01"
-//Auto shottie!
-"Player.NamVet_TakeAutoShotgun02"
-//I'm grabbing this shotgun.
-"Player.NamVet_TakeAutoShotgun03"
-//I'm taking this shotgun
-"Player.NamVet_TakeAutoShotgun04"
-//Shotgun!
-"Player.NamVet_TakeAutoShotgun05"
-//First to aid, last to die
-"Player.NamVet_TakeFirstAid01"
-//Grabbing First Aid
-"Player.NamVet_TakeFirstAid02"
-//I'm gonna need these
-"Player.NamVet_TakeFirstAid03"
-//Molotov.
-"Player.NamVet_TakeMolotov01"
-//Grabbing a Molotov.
-"Player.NamVet_TakeMolotov02"
-//Might want to save this for later.
-"Player.NamVet_TakeMolotov03"
-//I'm gonna need these
-"Player.NamVet_TakePills01"
-//Grabbing pills
-"Player.NamVet_TakePills02"
-//Someone's gonna need these
-"Player.NamVet_TakePills03"
-//A black powder bomb.
-"Player.NamVet_TakePipeBomb01"
-//Grabbing a pipe bomb
-"Player.NamVet_TakePipeBomb02"
-//Grabbing a pipe bomb
-"Player.NamVet_TakePipeBomb03"
-//I'd rather have a grenade, but this'll do.
-"Player.NamVet_TakePipeBomb04"
-//I'm taking an extra pistol
-"Player.NamVet_TakePistol01"
-//I'm taking an extra pistol.
-"Player.NamVet_TakePistol02"
-//Extra Pistol!
-"Player.NamVet_TakePistol03"
-//Extra Sidearm!
-"Player.NamVet_TakePistol04"
-//Grabbing a shotgun
-"Player.NamVet_TakeShotgun01"
-//I'm grabbing this shotgun.
-"Player.NamVet_TakeShotgun02"
-//Shotgun
-"Player.NamVet_TakeShotgun03"
-//I'm gonna grab this range rifle
-"Player.NamVet_TakeSniper01"
-//I'm grabbing a hunting rifle.
-"Player.NamVet_TakeSniper02"
-//SMG
-"Player.NamVet_TakeSubMachineGun01"
-//Grabbing an SMG
-"Player.NamVet_TakeSubMachineGun02"
-//Full auto - beautiful.
-"Player.NamVet_TakeSubMachineGun03"
-//It's killin' me
-"Player.NamVet_TankPound01"
-//Get this thing offa me!
-"Player.NamVet_TankPound02"
-//AAHHHH He's crushing me!
-"Player.NamVet_TankPound03"
-//[loud, evil laugh]
-"Player.NamVet_Taunt01"
-//[loud, evil laugh]
-"Player.NamVet_Taunt02"
-//That's right
-"Player.NamVet_Taunt03"
-//That's right
-"Player.NamVet_Taunt04"
-//Oh Yeah
-"Player.NamVet_Taunt05"
-//Oh Yeah
-"Player.NamVet_Taunt06"
-//[loud, evil laugh]
-"Player.NamVet_Taunt07"
-//[loud, evil laugh]
-"Player.NamVet_Taunt08"
-//[loud, evil laugh]
-"Player.NamVet_Taunt09"
-//You're goin' down!
-"Player.NamVet_Taunt10"
-//Be careful!
-"Player.NamVet_TeamKillAccident01"
-//Have you lost your mind?
-"Player.NamVet_TeamKillAccident02"
-//What did you do you just do?
-"Player.NamVet_TeamKillAccident03"
-//Watch it, Watch it!
-"Player.NamVet_TeamKillAccident04"
-//That ain't gonna earn you any medals.
-"Player.NamVet_TeamKillOnPurpose01"
-//CAREFUL!
-"Player.NamVet_TeamKillOnPurpose02"
-//Jesus H Christ, you had better not try that shit on me.
-"Player.NamVet_TeamKillOnPurpose03"
-//HE WAS ON OUR SIDE!
-"Player.NamVet_TeamKillOnPurpose04"
-//What in the holy hell are you doing?
-"Player.NamVet_TeamKillOnPurpose05"
-//Oh, nice work [sarcastic]
-"Player.NamVet_TeamKillOnPurpose07"
-//What in the hell are you thinking?
-"Player.NamVet_TeamKillOnPurpose08"
-//Now that was some true amateur hour horseshit.
-"Player.NamVet_TeamKillOnPurpose09"
-//Thanks, I owe you one.
-"Player.NamVet_Thanks01"
-//appreciate that.
-"Player.NamVet_Thanks02"
-//Eh, you're a good kid.
-"Player.NamVet_Thanks03"
-//Thanks.
-"Player.NamVet_Thanks04"
-//Thank you.
-"Player.NamVet_Thanks05"
-//Thanks a lot.
-"Player.NamVet_Thanks06"
-//I owe ya one.
-"Player.NamVet_Thanks07"
-//That's one I owe you.
-"Player.NamVet_Thanks08"
-//'ppreciate it.
-"Player.NamVet_Thanks09"
-//You didn't have to do that
-"Player.NamVet_Thanks10"
-//That wasn't necessary, but thanks.
-"Player.NamVet_Thanks11"
-//Hold on I'm on my way!
-"Player.NamVet_ToTheRescue01"
-//I'm coming!
-"Player.NamVet_ToTheRescue02"
-//Don't get your panties in a bunch, I'm comin'!
-"Player.NamVet_ToTheRescue03"
-//Thanks for getting me out of there.
-"npc.NamVet_ToTheRescueThanks01"
-//Thanks for that.
-"npc.NamVet_ToTheRescueThanks02"
-//Thanks. I was gettin' lonely.
-"npc.NamVet_ToTheRescueThanks03"
-//Thanks. It was gettin' hard to breathe in there.
-"npc.NamVet_ToTheRescueThanks04"
-//Well that didn't go so well
-"Player.NamVet_TransitionClose01"
-//We've done better
-"Player.NamVet_TransitionClose02"
-//Thank god that's over
-"Player.NamVet_TransitionClose03"
-//Thank god that's over
-"Player.NamVet_TransitionClose04"
-//What the hell was that?
-"npc.NamVet_Uncertain01"
-//What was that?
-"npc.NamVet_Uncertain02"
-//What the hell is that?
-"npc.NamVet_Uncertain03"
-//What is that?
-"npc.NamVet_Uncertain04"
-//Did you hear that?
-"npc.NamVet_Uncertain05"
-//Anyone else hear that?
-"npc.NamVet_Uncertain06"
-//Are you kidding me?
-"npc.NamVet_Uncertain07"
-//Jee-zus...
-"npc.NamVet_ViolenceAwe01"
-//Holy crap.
-"npc.NamVet_ViolenceAwe02"
-//Whoa.
-"npc.NamVet_ViolenceAwe03"
-//Holy shit...
-"npc.NamVet_ViolenceAwe04"
-//Did you see that?
-"npc.NamVet_ViolenceAwe05"
-//<laugh>Whoa-ho-ho.
-"npc.NamVet_ViolenceAwe06"
-//Holy Mother of God...
-"npc.NamVet_ViolenceAwe07"
-//Christ almighty...
-"npc.NamVet_ViolenceAwe08"
-//*General idle noises*
-"npc.NamVet_VocalFidgets01"
-//*General idle noises*
-"npc.NamVet_VocalFidgets02"
-//*General idle noises*
-"npc.NamVet_VocalFidgets03"
-//*General idle noises*
-"npc.NamVet_VocalFidgets04"
-//*General idle noises*
-"npc.NamVet_VocalFidgets05"
-//*General idle noises*
-"npc.NamVet_VocalFidgets06"
-//*General idle noises*
-"npc.NamVet_VocalFidgets07"
-//Let's wait here.
-"Player.NamVet_WaitHere01"
-//Let's wait for a minute.
-"Player.NamVet_WaitHere02"
-//Wait here just a minute.
-"Player.NamVet_WaitHere03"
-//Hold up!
-"Player.NamVet_WaitHere04"
-//Boomer!
-"npc.NamVet_WARN01"
-//Tank!
-"npc.NamVet_WARN02"
-//Smoker!
-"npc.NamVet_WARN03"
-//Witch!
-"npc.NamVet_WARN04"
-//Hunter!
-"npc.NamVet_WARN05"
-//Boomer!
-"npc.NamVet_WARN06"
-//BOOMER!
-"npc.NamVet_WARN07"
-//Tank!
-"npc.NamVet_WARN08"
-//Smoker!
-"npc.NamVet_WARN09"
-//Witch!
-"npc.NamVet_WARN10"
-//WITCH!
-"npc.NamVet_WARN11"
-//Hunter!
-"npc.NamVet_WARN12"
-//Hunter!
-"npc.NamVet_WARN13"
-//TANK!
-"npc.NamVet_WARN14"
-//SMOKER!
-"npc.NamVet_WARN15"
-//Smoker!
-"npc.NamVet_WARN16"
-//Witch!
-"npc.NamVet_WARN17"
-//BOOMER!
-"Player.NamVet_WarnBoomer01"
-//BOOMER!
-"Player.NamVet_WarnBoomer02"
-//BOOMER!
-"Player.NamVet_WarnBoomer03"
-//Careful.
-"Player.NamVet_WarnCareful01"
-//Watch yourself.
-"Player.NamVet_WarnCareful02"
-//Careful.
-"Player.NamVet_WarnCareful03"
-//Careful.
-"Player.NamVet_WarnCareful04"
-//Be careful.
-"Player.NamVet_WarnCareful05"
-//Watch yourself now.
-"Player.NamVet_WarnCareful06"
-//Eyes and ears, people, eyes and ears.
-"Player.NamVet_WarnCareful07"
-//Be careful.
-"Player.NamVet_WarnCareful08"
-//Stay sharp.
-"Player.NamVet_WarnCareful09"
-//Charger
-"Player.NamVet_WarnCharger01"
-//HUNTER!
-"Player.NamVet_WarnHunter01"
-//HUNTER!
-"Player.NamVet_WarnHunter02"
-//HUNTER!
-"Player.NamVet_WarnHunter03"
-//SMOKER!
-"Player.NamVet_WarnSmoker01"
-//SMOKER!
-"Player.NamVet_WarnSmoker02"
-//SMOKER!
-"Player.NamVet_WarnSmoker03"
-//SMOKER!
-"Player.NamVet_WarnSmoker04"
-//TANK!
-"Player.NamVet_WarnTank01"
-//TANK!
-"Player.NamVet_WarnTank02"
-//TANK!
-"Player.NamVet_WarnTank03"
-//WITCH!
-"Player.NamVet_WarnWitch01"
-//WITCH!
-"Player.NamVet_WarnWitch02"
-//WITCH!
-"Player.NamVet_WarnWitch03"
-//WITCH!
-"Player.NamVet_WarnWitch04"
-//Behind us!
-"Player.NamVet_WatchOutBehind01"
-//They're behind us!
-"Player.NamVet_WatchOutBehind02"
-//Behind us!
-"Player.NamVet_WatchOutBehind03"
-//They're behind us!
-"Player.NamVet_WatchOutBehind04"
-//I got a goddam witch on my ass,RUN!
-"Player.NamVet_WitchChasing01"
-//Ah shit, she's after me!
-"Player.NamVet_WitchChasing02"
-//SCATTER! WITCH! TRACKING ME!
-"Player.NamVet_WitchChasing03"
-//There's gonna be hell to pay, you keep aggravatin that witch.
-"Player.NamVet_WitchGettingAngry01"
-//STOP! That witch is mad as hell.
-"Player.NamVet_WitchGettingAngry02"
-//Hold up, that witch is getting ready to pounce!
-"Player.NamVet_WitchGettingAngry03"
-//Hold on, that witch is about to blow.
-"Player.NamVet_WitchGettingAngry04"
-//STOP! That witch is mad as hell.
-"Player.NamVet_WitchGettingAngry05"
-//I've seen 'em fly lower.
-"npc.NamVet_WorldAirport0101"
-//A C-130 is nice flying.
-"npc.NamVet_WorldAirport0102"
-//Just like I said, they bombed the airport
-"npc.NamVet_WorldAirport0401"
-//What'd I tell ya?  They tried to stop people from leaving.
-"npc.NamVet_WorldAirport0402"
-//Bombed!
-"npc.NamVet_WorldAirport0403"
-//Who in the hell set that off?
-"npc.NamVet_WorldAirport0404"
-//Why in the hell would you set that off?
-"npc.NamVet_WorldAirport0405"
-//How in the hell was I supposed to know?
-"npc.NamVet_WorldAirport0406"
-//That's a C-130! Maybe we can catch up to it at the airport!
-"npc.NamVet_WorldAirportIntro01"
-//That C-130's headed for the airport. I say we head there, too.
-"npc.NamVet_WorldAirportIntro02"
-//Terry's dead, kid. We can get you gassed up if you like.
-"npc.NamVet_WorldAirportNPC01"
-//It ain't Terry, pal. You want us to get you gassed up?
-"npc.NamVet_WorldAirportNPC02"
-//Terry's dead. You lookin' to fuel up?
-"npc.NamVet_WorldAirportNPC03"
-//Terry's dead, son. Can you get this plane in the air?
-"npc.NamVet_WorldAirportNPC04"
-//Understood. Come on, kids, let's load up.
-"npc.NamVet_WorldAirportNPC05"
-//I see it. Give us a minute to get ready.
-"npc.NamVet_WorldAirportNPC06"
-//Allright, let's get this done.
-"npc.NamVet_WorldAirportNPC07"
-//About goddamn time!
-"npc.NamVet_WorldAirportNPC08"
-//[shooting infected off hangar] Oh no, ya don't! [cackles]
-"npc.NamVet_WorldAirportNPC09"
-//Louis didn't make it!
-"npc.NamVet_WorldAirportNPC10"
-//Zoey didn't make it!
-"npc.NamVet_WorldAirportNPC11"
-//Francis didn't make it!
-"npc.NamVet_WorldAirportNPC12"
-//I don't trust the woods.
-"npc.NamVet_WorldFarmHouse0101"
-//Francis, this look like home to you?
-"npc.NamVet_WorldFarmHouse0102"
-//There's the tracks!
-"npc.NamVet_WorldFarmHouse0103"
-//We can get down to the tracks through there.
-"npc.NamVet_WorldFarmHouse0104"
-//Safe house back here!
-"npc.NamVet_WorldFarmHouse0105"
-//We gotta follow these train tracks.
-"npc.NamVet_WorldFarmHouse0106"
-//There's the train tracks!
-"npc.NamVet_WorldFarmHouse0107"
-//There's our train tracks!
-"npc.NamVet_WorldFarmHouse0108"
-//We can get down to the tracks through here!
-"npc.NamVet_WorldFarmHouse0201"
-//It's through this tunnel.
-"npc.NamVet_WorldFarmHouse0202"
-//We gotta follow the tracks.
-"npc.NamVet_WorldFarmHouse0203"
-//Through here!
-"npc.NamVet_WorldFarmHouse0204"
-//Goddamnit, the tracks are blocked.
-"npc.NamVet_WorldFarmHouse0205"
-//This side passage better lead somewhere.
-"npc.NamVet_WorldFarmHouse0206"
-//Safe house in here!
-"npc.NamVet_WorldFarmHouse0207"
-//Tracks are blocked!
-"npc.NamVet_WorldFarmHouse0208"
-//Ah hell. I think we gotta go through this tunnel.
-"npc.NamVet_WorldFarmHouse0209"
-//This shit just confuses me.
-"npc.NamVet_WorldFarmHouse0301"
-//Blind leading the blind...
-"npc.NamVet_WorldFarmHouse0302"
-//Fresh air!
-"npc.NamVet_WorldFarmHouse0303"
-//Electrical fence!
-"npc.NamVet_WorldFarmHouse0304"
-//Hit that power switch!
-"npc.NamVet_WorldFarmHouse0305"
-//Get the power.
-"npc.NamVet_WorldFarmHouse0306"
-//Start the engine!
-"npc.NamVet_WorldFarmHouse0307"
-//Let's unhook that car.
-"npc.NamVet_WorldFarmHouse0308"
-//Get that thing moving!
-"npc.NamVet_WorldFarmHouse0309"
-//Hit it!
-"npc.NamVet_WorldFarmHouse0310"
-//All Aboard!
-"npc.NamVet_WorldFarmHouse0311"
-//Let's get up there!
-"npc.NamVet_WorldFarmHouse0312"
-//Up there!
-"npc.NamVet_WorldFarmHouse0313"
-//Safe house up there.
-"npc.NamVet_WorldFarmHouse0314"
-//Check that house for supplies.
-"npc.NamVet_WorldFarmHouse0315"
-//There's the tracks.
-"npc.NamVet_WorldFarmHouse0316"
-//Goddamn track's blocked again
-"npc.NamVet_WorldFarmHouse0317"
-//Let's get over that hill.
-"npc.NamVet_WorldFarmHouse0318"
-//Check the barn for supplies.
-"npc.NamVet_WorldFarmHouse0401"
-//Anyone check that barn?
-"npc.NamVet_WorldFarmHouse0402"
-//Keep moving. The tracks gotta be up ahead
-"npc.NamVet_WorldFarmHouse0403"
-//I remember that shit.
-"npc.NamVet_WorldFarmHouse0404"
-//I hated that show.
-"npc.NamVet_WorldFarmHouse0405"
-//Station ahead!
-"npc.NamVet_WorldFarmHouse0406"
-//The tracks are down there!
-"npc.NamVet_WorldFarmHouse0407"
-//Train station.
-"npc.NamVet_WorldFarmHouse0408"
-//Anything about the base?
-"npc.NamVet_WorldFarmHouse0409"
-//Why can't one of these goddamn trains be working?
-"npc.NamVet_WorldFarmHouse0410"
-//We can go through this building.
-"npc.NamVet_WorldFarmHouse0411"
-//Get the gate.
-"npc.NamVet_WorldFarmHouse0412"
-//Open the gate.
-"npc.NamVet_WorldFarmHouse0413"
-//Cross the bridge! Go go go!
-"npc.NamVet_WorldFarmHouse0414"
-//Run for the car!
-"npc.NamVet_WorldFarmHouse0415"
-//Get to the train!
-"npc.NamVet_WorldFarmHouse0416"
-//Haul it!
-"npc.NamVet_WorldFarmHouse0417"
-//Finally, an outpost!
-"npc.NamVet_WorldFarmHouse0501"
-//The honest to God military!
-"npc.NamVet_WorldFarmHouse0502"
-//Up the hill!
-"npc.NamVet_WorldFarmHouse0503"
-//I could go for some creamed corn.
-"npc.NamVet_WorldFarmHouse0504"
-//I got a hankering for some corn on the cob.
-"npc.NamVet_WorldFarmHouse0505"
-//Something ain't right
-"npc.NamVet_WorldFarmHouse0506"
-//Settle down Francis. Just use that radio. They'll come.
-"npc.NamVet_WorldFarmHouse0507"
-//Hope they don't take long.
-"npc.NamVet_WorldFarmHouse0508"
-//You guys ready? I'm callin' em.
-"npc.NamVet_WorldFarmHouse0509"
-//I'm callin' 'em to come get our sorry asses.
-"npc.NamVet_WorldFarmHouse0510"
-//Beautiful! The calvery has arrived!
-"npc.NamVet_WorldFarmHouse0511"
-//Roger and out.
-"npc.NamVet_WorldFarmHouse0512"
-//H-o-l-y s-h-i-t
-"npc.NamVet_WorldFarmHouse0513"
-//Now that is how you do it people!
-"npc.NamVet_WorldFarmHouse0514"
-//I believe we have found our place.
-"npc.NamVet_WorldFarmHouse0515"
-//Anyone for just retiring here?
-"npc.NamVet_WorldFarmHouse0516"
-//We can set up in the barn or the house.
-"npc.NamVet_WorldFarmHouse0517"
-//Emergency band was talking about a military outpost just North a' here.
-"npc.NamVet_WorldFarmHouseIntro01"
-//We just need to find the train tracks and then follow 'em.
-"npc.NamVet_WorldFarmHouseIntro02"
-//If we can find some train tracks, we can follow 'em to the military outpost.
-"npc.NamVet_WorldFarmHouseIntro03"
-//I wonder what outfit is stationed there?
-"npc.NamVet_WorldFarmHouseIntro04"
-//Probably the chickenshit national guard.
-"npc.NamVet_WorldFarmHouseIntro05"
-//I heard the military's got an outpost just north of here. There should be some train tracks somewhere around here that'll take us right to it.
-"npc.NamVet_WorldFarmHouseIntro06"
-//The military's got an outpost just north of here. We gotta find the train tracks and they should take us right to it.
-"npc.NamVet_WorldFarmHouseIntro07"
-//The military hasn't been much help so far, but last I heard they had an outpost not far from here off the railroad tracks.
-"npc.NamVet_WorldFarmHouseIntro08"
-//I say we follow the tracks and see if the outpost is still operational.
-"npc.NamVet_WorldFarmHouseIntro09"
-//If anyone has a better plan, speak now.
-"npc.NamVet_WorldFarmHouseIntro10"
-//I'll admit the government hasn't been a hell of a lotta help so far, but we're runnin' out of options here.
-"npc.NamVet_WorldFarmHouseIntro11"
-//Last thing I heard, there's some kind of military outpost not far from here along the train tracks.
-"npc.NamVet_WorldFarmHouseIntro12"
-//We're here!
-"npc.NamVet_WorldFarmHouseNPC01"
-//Hello?
-"npc.NamVet_WorldFarmHouseNPC02"
-//Copy that!
-"npc.NamVet_WorldFarmHouseNPC03"
-//Roger that!
-"npc.NamVet_WorldFarmHouseNPC04"
-//We're ready, soldier.
-"npc.NamVet_WorldFarmHouseNPC05"
-//You are a voice for sore ears, son.
-"npc.NamVet_WorldFarmHouseNPC06"
-//We're good to go, son.
-"npc.NamVet_WorldFarmHouseNPC07"
-//Lookin' forward to seein' you.
-"npc.NamVet_WorldFarmHouseNPC08"
-//Read you loud and clear, son.
-"npc.NamVet_WorldFarmHouseNPC09"
-//Roger. We'll be waiting.
-"npc.NamVet_WorldFarmHouseNPC10"
-//Understood, soldier.
-"npc.NamVet_WorldFarmHouseNPC11"
-//Goddamn it, we gave 'em hell, didn't we? [coughing]  We gave 'em hell...
-"npc.NamVet_WorldFarmHouseNPC12"
-//Yeah, we did it.
-"npc.NamVet_WorldFarmHouseNPC19"
-//Yeah, we made it.
-"npc.NamVet_WorldFarmHouseNPC20"
-//We made it.
-"npc.NamVet_WorldFarmHouseNPC21"
-//We did it.
-"npc.NamVet_WorldFarmHouseNPC22"
-//YEEHAW!!
-"npc.NamVet_WorldFarmHouseNPC23"
-//The red line will take us straight to mercy hospital.
-"Player.NamVet_WorldHospital0101"
-//Station's just up the street.
-"Player.NamVet_WorldHospital0102"
-//There's a subway station just around the corner.
-"Player.NamVet_WorldHospital0103"
-//Might not be a bad idea to get off the street.
-"Player.NamVet_WorldHospital0104"
-//Poor gal didn't make it. Well, I understand.
-"Player.NamVet_WorldHospital0105"
-//There's the station!
-"Player.NamVet_WorldHospital0106"
-//Everyone to the station!
-"Player.NamVet_WorldHospital0107"
-//This way people.
-"Player.NamVet_WorldHospital0108"
-//This way!
-"Player.NamVet_WorldHospital0109"
-//It's right around the corner!
-"Player.NamVet_WorldHospital0110"
-//Station's blocked.  Maybe we can get through here?
-"Player.NamVet_WorldHospital0111"
-//We can take the subway tunnels to the hospital.  There's a redline station not far from here.
-"Player.NamVet_WorldHospital0112"
-//Ahh shit, subway looks full of zombies.
-"Player.NamVet_WorldHospital0201"
-//Was hoping there would be less zombies down here.
-"Player.NamVet_WorldHospital0202"
-//Red line North will take us straight there.
-"Player.NamVet_WorldHospital0203"
-//The red line North will take us to Mercy.
-"Player.NamVet_WorldHospital0204"
-//The red line North will take us to the hospital.
-"Player.NamVet_WorldHospital0205"
-//At least it isn't raining in here.
-"Player.NamVet_WorldHospital0206"
-//The north line is to the right.
-"Player.NamVet_WorldHospital0207"
-//Goddamnit, the line's blocked.
-"Player.NamVet_WorldHospital0208"
-//Gotta find another way.
-"Player.NamVet_WorldHospital0209"
-//This seemed too easy.
-"Player.NamVet_WorldHospital0210"
-//Going to have to go top side.
-"Player.NamVet_WorldHospital0211"
-//It isn't that much farther.
-"Player.NamVet_WorldHospital0212"
-//I'll hit it.
-"Player.NamVet_WorldHospital0213"
-//Get Ready! I'm hitting the button.
-"Player.NamVet_WorldHospital0214"
-//At least it's brighter (ironic)
-"Player.NamVet_WorldHospital0215"
-//Guns up here.
-"Player.NamVet_WorldHospital0216"
-//Look, there's guns.
-"Player.NamVet_WorldHospital0217"
-//Guns!
-"Player.NamVet_WorldHospital0218"
-//Down the street.
-"Player.NamVet_WorldHospital0219"
-//We have to keep moving down the street.
-"Player.NamVet_WorldHospital0220"
-//Don't shoot that car!
-"Player.NamVet_WorldHospital0221"
-//Check your guns.  Don't shoot the car!
-"Player.NamVet_WorldHospital0222"
-//What in the hell were you thinking!?!?
-"Player.NamVet_WorldHospital0223"
-//Safehouse up in the pawnshop.
-"Player.NamVet_WorldHospital0224"
-//Get to the pawnshop people!
-"Player.NamVet_WorldHospital0225"
-//Keep moving, safehouse ahead!
-"Player.NamVet_WorldHospital0226"
-//The north line is to the right.
-"Player.NamVet_WorldHospital0227"
-//I don't know which way.  Through here I think.
-"Player.NamVet_WorldHospital0301"
-//Should be a way up ahead.
-"Player.NamVet_WorldHospital0302"
-//Deadend, let's try up there.
-"Player.NamVet_WorldHospital0303"
-//To the lift.
-"Player.NamVet_WorldHospital0304"
-//Hit the button!
-"Player.NamVet_WorldHospital0305"
-//Through the warehouse.
-"Player.NamVet_WorldHospital0306"
-//At least this is the right direction.
-"Player.NamVet_WorldHospital0307"
-//Looks like people went this way.
-"Player.NamVet_WorldHospital0308"
-//I think they tried to escape.
-"Player.NamVet_WorldHospital0309"
-//Into the sewers we go.
-"Player.NamVet_WorldHospital0310"
-//Well hell, let's try the sewers.
-"Player.NamVet_WorldHospital0311"
-//Maybe there's no stinkin' zombies in the sewers? (laughing)
-"Player.NamVet_WorldHospital0312"
-//Already smell pretty bad.
-"Player.NamVet_WorldHospital0313"
-//Need to find manhole, the hospital is above us.
-"Player.NamVet_WorldHospital0314"
-//I've smelled worse.
-"Player.NamVet_WorldHospital0315"
-//Francis, is that you or the sewer?
-"Player.NamVet_WorldHospital0316"
-//Heaven help us.
-"Player.NamVet_WorldHospital0317"
-//That's a crock of shit.
-"Player.NamVet_WorldHospital0318"
-//The HOSPITAL!
-"Player.NamVet_WorldHospital0319"
-//TO THE HOSPITAL!
-"Player.NamVet_WorldHospital0320"
-//Into the emergency room people!
-"Player.NamVet_WorldHospital0321"
-//Let's go, let's go.
-"Player.NamVet_WorldHospital0322"
-//Get on the lift!
-"Player.NamVet_WorldHospital0323"
-//Hospital's just on the other side of the water works.
-"Player.NamVet_WorldHospital0324"
-//There's the Hospital!
-"Player.NamVet_WorldHospital0325"
-//Through here!
-"Player.NamVet_WorldHospital0327"
-//Need to find manhole.
-"Player.NamVet_WorldHospital0328"
-//Get on the lift!
-"Player.NamVet_WorldHospital0329"
-//Almost there!
-"Player.NamVet_WorldHospital0401"
-//Power's on.
-"Player.NamVet_WorldHospital0402"
-//At least the power's on.
-"Player.NamVet_WorldHospital0403"
-//Let's find an elevator.
-"Player.NamVet_WorldHospital0404"
-//I ain't walking to the roof.
-"Player.NamVet_WorldHospital0405"
-//Ahh.. more stairs.
-"Player.NamVet_WorldHospital0406"
-//I'm callin' the elevator people.
-"Player.NamVet_WorldHospital0407"
-//Get ready, I'm callin' the elevator.
-"Player.NamVet_WorldHospital0408"
-//Can't that thing move any faster? (loud and quiet)
-"Player.NamVet_WorldHospital0410"
-//Can't this thing move any faster? (loud and quiet)
-"Player.NamVet_WorldHospital0411"
-//Elevator's here!
-"Player.NamVet_WorldHospital0412"
-//Get to the elevator!
-"Player.NamVet_WorldHospital0413"
-//Into the elevator!
-"Player.NamVet_WorldHospital0414"
-//Now to the roof!
-"Player.NamVet_WorldHospital0415"
-//Watch out for the fall!
-"Player.NamVet_WorldHospital0416"
-//Saferoom up here!
-"Player.NamVet_WorldHospital0417"
-//We can get to the the roof through here.
-"Player.NamVet_WorldHospital0418"
-//Hurry up.
-"Player.NamVet_WorldHospital0419"
-//Hurry up people.
-"Player.NamVet_WorldHospital0420"
-//Can't that thing move any faster? (loud and quiet)
-"Player.NamVet_WorldHospital0421"
-//Can't this thing move any faster? (loud and quiet)
-"Player.NamVet_WorldHospital0422"
-//That first step'll kill ya.
-"Player.NamVet_WorldHospital0423"
-//Watch out that first step'll kill ya.
-"Player.NamVet_WorldHospital0424"
-//Roof this way!
-"Player.NamVet_WorldHospital0501"
-//There's the landing pad.
-"Player.NamVet_WorldHospital0502"
-//Let's find that radio.
-"Player.NamVet_WorldHospital0503"
-//Let's find the radio and get a hold of that pilot.
-"Player.NamVet_WorldHospital0504"
-//Well this is it.
-"Player.NamVet_WorldHospital0505"
-//Get to the chopper!
-"Player.NamVet_WorldHospital0506"
-//Oh man, so close, so close.
-"Player.NamVet_WorldHospital0507"
-//Let's get the hell out of here!
-"Player.NamVet_WorldHospital0508"
-//Damn happy to see you!
-"Player.NamVet_WorldHospital0509"
-//Dust off!
-"Player.NamVet_WorldHospital0510"
-//Jesus Mary and Joseph!
-"Player.NamVet_WorldHospital0511"
-//For christ's sake!
-"Player.NamVet_WorldHospital0512"
-//Let's find that radio.
-"Player.NamVet_WorldHospital0513"
-//These woods look thicker 'n boomer shit. Nobody wander off.
-"npc.NamVet_WorldSmallTown0101"
-//Nobody wander off.
-"npc.NamVet_WorldSmallTown0102"
-//This place is a ghost town.
-"npc.NamVet_WorldSmallTown0401"
-//Looks like they couldn't hold out.
-"npc.NamVet_WorldSmallTown0402"
-//Something doesn't feel right here.
-"npc.NamVet_WorldSmallTown0403"
-//There's lights on in that church!
-"npc.NamVet_WorldSmallTown0404"
-//Let's check out the church.
-"npc.NamVet_WorldSmallTown0405"
-//Poor bastards barricaded themselves inside the city. All it musta took was one infected...
-"npc.NamVet_WorldSmallTown0407"
-//We're gonna die if we stay in Riverside. Let's head to the water and look for a boat.
-"npc.NamVet_WorldSmallTown0408"
-//The television said people were heading to Riverside.
-"npc.NamVet_WorldSmallTown0409"
-//This tunnel was a deathtrap.
-"npc.NamVet_WorldSmallTown0410"
-//They didn't have a chance.
-"npc.NamVet_WorldSmallTown0411"
-//Son, we're immune, we're tired, and there's infected in the damn woods. Now cut the shit and let us in!
-"npc.NamVet_WorldSmallTownNPCBellman01"
-//We're as human as they come, son. I promise you.
-"npc.NamVet_WorldSmallTownNPCBellman02"
-//This guy's nuttier than candy bar shit.
-"npc.NamVet_WorldSmallTownNPCBellman03"
-//I don't believe this.
-"npc.NamVet_WorldSmallTownNPCBellman04"
-//Oh, what the hell! OPEN THE DOOR ALREADY!
-"npc.NamVet_WorldSmallTownNPCBellman05"
-//Son, any of us get hurt, you WILL regret it.
-"npc.NamVet_WorldSmallTownNPCBellman06"
-//I don't believe this shit. We're arguin' for our lives here with a damn mental moron!
-"npc.NamVet_WorldSmallTownNPCBellman07"
-//We're gonna need a minute to think about it.
-"npc.NamVet_WorldSmallTownNPCBoatman01"
-//You got a deal. Give us a minute to get ready.
-"npc.NamVet_WorldSmallTownNPCBoatman02"
-//You got a deal.
-"npc.NamVet_WorldSmallTownNPCBoatman03"
-//Go on and head out. We're ready.
-"npc.NamVet_WorldSmallTownNPCBoatman04"
-//Come and get us. We're good to go.
-"npc.NamVet_WorldSmallTownNPCBoatman05"
-//For all we know he's out there on a Huck Finn raft. Still, he's all we got.
-"npc.NamVet_WorldSmallTownNPCBoatman06"
-//This'd better be a big goddamn boat.
-"npc.NamVet_WorldSmallTownNPCBoatman07"
-//I wish he'd hurry the hell up.
-"npc.NamVet_WorldSmallTownNPCBoatman08"
-//How long's it take to drive a boat to shore?
-"npc.NamVet_WorldSmallTownNPCBoatman09"
-//He's sure taking his sweet time about it.
-"npc.NamVet_WorldSmallTownNPCBoatman10"
-//Move your asses, people, we are leaving!
-"npc.NamVet_WorldSmallTownNPCBoatman11"
-//When this is all over? Something tells me I ain't gonna visit Riverside again.
-"npc.NamVet_WorldSmallTownNPCBoatman12"
-//So that was Riverside, was it? [beat] What. A. Shithole.
-"npc.NamVet_WorldSmallTownNPCBoatman13"
-//See you later, Riverside.
-"npc.NamVet_WorldSmallTownNPCBoatman14"
-//Ma'am, I'm sorry, but we're gonna take your husband's offer.
-"npc.NamVet_WorldSmallTownNPCBoatman15"
-//Miss, I think we're gonna take your husband's offer.
-"npc.NamVet_WorldSmallTownNPCBoatman16"
-//d'oh jeez, allright.
-"Player.NamVet_Yes01"
-//Roger that.
-"Player.NamVet_Yes02"
-//Yeah.
-"Player.NamVet_Yes03"
-//Okay.
-"Player.NamVet_Yes04"
-//Yes.
-"Player.NamVet_Yes05"
-//Affirmative.
-"Player.NamVet_Yes06"
-//Sure thing.
-"Player.NamVet_YouAreWelcome01"
-//Well, you're welcome.
-"Player.NamVet_YouAreWelcome02"
-//Any time.
-"Player.NamVet_YouAreWelcome03"
-//Hey, no problem
-"Player.NamVet_YouAreWelcome04"
-//No problem.
-"Player.NamVet_YouAreWelcome05"
-//No problem.
-"Player.NamVet_YouAreWelcome06"
-//Sure.
-"Player.NamVet_YouAreWelcome07"
-//Sure thing, kid.
-"Player.NamVet_YouAreWelcome08"
-//Not a problem.
-"Player.NamVet_YouAreWelcome09"
-//Yeah, yeah, yeah.
-"Player.NamVet_YouAreWelcome10"
-//Don't get too used to it.
-"Player.NamVet_YouAreWelcome11"
-//Don't mention it.
-"Player.NamVet_YouAreWelcome12"
-//Eh, it's not a big deal.
-"Player.NamVet_YouAreWelcome13"
-//Yeah, okay, it don't mean we're married now
-"Player.NamVet_YouAreWelcome14"
-//Don't expect a hug
-"Player.NamVet_YouAreWelcome15"
-//Here's an awful thought. What if this thing evolves like a virus? I mean to say: what if bein' immune's not a lifetime guarantee?
-"npc.NamVet_ZombieGeneralPurpose01"
-//[cough, sniff] Goddamnit. I can't even get a cold anymore without worryin' it's the early stages of zombieism.
-"npc.NamVet_ZombieGeneralPurpose02"
-//Ah well. Least I'm old. No offense to you kids, but I already had a full life.
-"npc.NamVet_ZombieGeneralPurpose03"
-//The zombies I can live with. But good lord, I hate the woods.
-"npc.NamVet_ZombieGeneralPurpose05"
-//[alert] You hear that, or am I goin' senile?
-"npc.NamVet_ZombieGeneralPurpose06"
-//This just went pear-shaped! Fall back!
-"npc.NamVet_ZombieGeneralPurpose07"
-//Don't worry about me, I'm calm as a june bug.
-"npc.NamVet_ZombieGeneralPurpose08"
-//I'm jumpier'n' spit on a hot skillet.
-"npc.NamVet_ZombieGeneralPurpose09"
-//Francis, if they melted your yellow ass down, you couldn't be poured into a fight.
-"npc.NamVet_ZombieGeneralPurpose10"
-//Laggin' behind, Francis? That's okay. Yellow suits you.
-"npc.NamVet_ZombieGeneralPurpose11"
-//Don't let Francis get to ya. He's all broth and no beans.
-"npc.NamVet_ZombieGeneralPurpose12"
-//Don't let Francis wear you down. He'd break his arm pattin' himself on the back.
-"npc.NamVet_ZombieGeneralPurpose13"
-//What's the matter? You decided you want to live forever? Let's go!
-"npc.NamVet_ZombieGeneralPurpose14"
-//I know it's a nice safehouse, but we need to keep moving.
-"npc.NamVet_ZombieGeneralPurpose15"
-//You gonna stick around and redecorate? Come on, let's go.
-"npc.NamVet_ZombieGeneralPurpose16"
-//Come on, Zoey. If we don't keep moving we're goners.
-"npc.NamVet_ZombieGeneralPurpose17"
-//Don't shut the door! She's still out there!
-"npc.NamVet_ZombieGeneralPurpose18"
-//I blame Bill Clinton.
-"npc.NamVet_ZombieGeneralPurpose19"
+"Player.NamVet_AlertGiveItem01" // Here, take this
+"Player.NamVet_AlertGiveItem02" // Here, I've got something for you
+"Player.NamVet_AlertGiveItem03" // Take this.
+"Player.NamVet_AlertGiveItem04" // Hold up, I got something for you.
+"Player.NamVet_AlertGiveItem05" // You're gonna need this.
+"Player.NamVet_AlertGiveItem06" // Here, I saved this for you.
+"Player.NamVet_AlertGiveItem07" // Here.
+"Player.NamVet_AnswerLostCall01" // Here!
+"Player.NamVet_AnswerLostCall02" // OVER HERE!
+"Player.NamVet_AnswerLostCall03" // I'm here!
+"Player.NamVet_AnswerLostCall04" // Over here!
+"Player.NamVet_AnswerLostCall05" // I hear you!
+"Player.NamVet_AnswerLostCall06" // Over hear, Kid!
+"npc.NamVet_AnswerReady01" // Ready.
+"npc.NamVet_AnswerReady02" // Good to go.
+"npc.NamVet_AnswerReady03" // I'm ready.
+"npc.NamVet_AnswerReady04" // I said I'm ready!
+"Player.NamVet_AreaClear01" // Clear
+"Player.NamVet_AreaClear02" // Nothing in here.
+"Player.NamVet_AreaClear03" // Nothin' in here.
+"Player.NamVet_AreaClear04" // Clear
+"Player.NamVet_AreaClear05" // Nothin' in here.
+"Player.NamVet_AreaClear06" // Looks empty.
+"Player.NamVet_AreaClear07" // Looks empty.
+"Player.NamVet_AreaClear08" // I don't see anything.
+"Player.NamVet_AreaClear09" // I don't see anything here.
+"Player.NamVet_AreaClear10" // I got nothin' here.
+"Player.NamVet_ArriveBoat01" // Run to the boat!
+"Player.NamVet_ArriveBoat02" // Get to the Boat!
+"Player.NamVet_ArriveBoat03" // To the boat! MOVE!
+"Player.NamVet_ArriveBoat04" // Haul ass to that boat! RUN!
+"Player.NamVet_ArriveBoatInitial01" // That's the boat! Time to bug out!
+"Player.NamVet_ArriveBoatInitial02" // Allright, the boat's here! Let's go!
+"Player.NamVet_ArriveChopper01" // Get to the chopper! GO!
+"Player.NamVet_ArriveChopper02" // Get to the chopper!
+"Player.NamVet_ArriveChopper03" // To the chopper. Come on, MOVE IT, MOVE IT, MOVE IT!
+"Player.NamVet_ArriveChopper04" // Get to the LZ!
+"Player.NamVet_ArriveChopperInitial01" // Our chopper's here! Let's get the hell out of dodge.
+"Player.NamVet_ArriveChopperInitial02" // The bird's here! Let's go!
+"Player.NamVet_ArriveGeneric01" // Get to the vehicle! GO!
+"Player.NamVet_ArriveGeneric02" // They're here for us! Let's go!
+"Player.NamVet_ArriveGeneric03" // Into the vehicle, people. MOVE MOVE MOVE!
+"Player.NamVet_ArriveGeneric04" // They're waitin' for us. MOVE!
+"Player.NamVet_ArriveGenericInitial01" // That's our ride. Let's go. Double time, people.
+"Player.NamVet_ArriveGenericInitial02" // Our ride's here! Let's go!
+"Player.NamVet_ArrivePlane01" // Everyone on the plane! PRONTO!
+"Player.NamVet_ArrivePlane02" // Get to the plane!
+"Player.NamVet_ArrivePlane03" // Into the plane. Hustle it, people!
+"Player.NamVet_ArrivePlaneInitial01" // Our plane's here. Let's move out!
+"Player.NamVet_ArrivePlaneInitial02" // The plane's here! Let's go!
+"Player.NamVet_ArriveTruck01" // Get to the truck! MOVE!
+"Player.NamVet_ArriveTruck02" // Get to the truck!
+"Player.NamVet_ArriveTruck03" // Get to that truck on the double! GO! GO! GO!
+"Player.NamVet_ArriveTruck04" // The truck's waitin'. RUN!
+"Player.NamVet_ArriveTruckInitial01" // The truck's here! Let's go!
+"Player.NamVet_ArriveTruckInitial02" // The truck has arrived! Let's move out, people!
+"Player.NamVet_AskReady01" // Ready?
+"Player.NamVet_AskReady02" // Ready?
+"Player.NamVet_AskReady03" // Ready for this?
+"Player.NamVet_AskReady04" // Everyone locked and loaded?
+"Player.NamVet_AskReady05" // Ready for this?
+"Player.NamVet_AskReady06" // Everybody ready to roll?
+"Player.NamVet_AskReady07" // Ready to rock?
+"Player.NamVet_AskReady08" // Everyone set?
+"Player.NamVet_AskReady09" // You people ready?
+"Player.NamVet_BackUp01" // Back up!
+"Player.NamVet_BackUp02" // Back up!
+"Player.NamVet_BackUp03" // Back back back back back back!
+"Player.NamVet_BackUp04" // Back back back!
+"Player.NamVet_BackUp05" // Back up!
+"Player.NamVet_BackUp06" // Move back!
+"Player.NamVet_BackUp07" // Back it up!
+"npc.NamVet_BackUpQuiet01" // Back up.
+"npc.NamVet_BackUpQuiet02" // Back back back.
+"npc.NamVet_BackUpQuiet03" // Back up, back up.
+"Player.NamVet_CallForRescue01" // Anybody out there?
+"Player.NamVet_CallForRescue02" // Come on people, let me out!
+"Player.NamVet_CallForRescue03" // [Struggling, Grunting, Exertion]
+"Player.NamVet_CallForRescue04" // [Struggling, Grunting, Exertion]
+"Player.NamVet_CallForRescue05" // Can anyone hear me?
+"Player.NamVet_CallForRescue06" // Let me out!
+"Player.NamVet_CallForRescue07" // Hey! Can anybody hear me?
+"Player.NamVet_CallForRescue08" // Get over here and let me out!
+"Player.NamVet_CallForRescue09" // God dammit, I'm trapped in here!
+"Player.NamVet_CallForRescue10" // I can't see a damn thing in here.  Let me out!
+"Player.NamVet_CallForRescue11" // This is such horseshit. Is anybody even out there?
+"Player.NamVet_CallForRescue12" // I know you can hear me, goddammit. Let me the hell out!
+"Player.NamVet_CallForRescue13" // Are you people fightin' something out there? LET ME OUT!
+"Player.NamVet_CallForRescue14" // I hear something goin' on out there. For chrissake, let me out!
+"Player.NamVet_CallForRescue15" // Listen up out there!  March your ass over here and let me out!
+"Player.NamVet_Choke01" // Choking
+"Player.NamVet_Choke02" // Choking
+"Player.NamVet_Choke03" // Choking
+"Player.NamVet_Choke04" // Choking
+"Player.NamVet_Choke05" // Choking
+"Player.NamVet_Choke06" // Choking
+"Player.NamVet_Choke07" // Choking
+"Player.NamVet_Choke08" // Choking
+"Player.NamVet_Choke09" // Choking
+"Player.NamVet_Choke10" // [Choking]
+"Player.NamVet_Choke11" // [Choking]
+"Player.NamVet_Choke12" // [Choking]
+"Player.NamVet_CloseTheDoor01" // That door ain't gonna lock itself, people.
+"Player.NamVet_CloseTheDoor02" // Lock the door. Do it!
+"Player.NamVet_CloseTheDoor03" // Lock that door.
+"Player.NamVet_CloseTheDoor04" // Lock the door.
+"Player.NamVet_CloseTheDoor05" // Lock that door!
+"Player.NamVet_CloseTheDoor06" // Lock the door.
+"Player.NamVet_CloseTheDoor07" // Lock that door
+"Player.NamVet_CloseTheDoor08" // Lock that door
+"Player.NamVet_CloseTheDoor09" // Lock the door.
+"Player.NamVet_CloseTheDoor10" // That door ain't gonna lock itself, people.
+"Player.NamVet_CloseTheDoor11" // Secure that door!
+"Player.NamVet_CloseTheDoor12" // Secure the door!
+"Player.NamVet_CloseTheDoor13" // Lock the door.
+"Player.NamVet_ContextModifierCalm01" // To the left.
+"Player.NamVet_ContextModifierCalm02" // To the right.
+"Player.NamVet_ContextModifierCalm03" // Up there.
+"Player.NamVet_ContextModifierCalm04" // Above us.
+"Player.NamVet_ContextModifierCalm05" // Down there.
+"Player.NamVet_ContextModifierCalm06" // Below us.
+"Player.NamVet_ContextModifierCalm07" // Back there.
+"Player.NamVet_ContextModifierCalm08" // Up ahead.
+"Player.NamVet_ContextModifierCalm09" // In the window.
+"Player.NamVet_ContextModifierCalm10" // Around the corner.
+"Player.NamVet_ContextModifierCalm11" // In the doorway.
+"Player.NamVet_ContextModifierCalm12" // Behind this wall.
+"Player.NamVet_ContextModifierCalm13" // Behind this door.
+"Player.NamVet_ContextModifierCalm14" // On the roof.
+"Player.NamVet_ContextModifierCalm15" // Behind that.
+"Player.NamVet_ContextModifierCalm16" // In this building.
+"Player.NamVet_ContextModifierCalm17" // In the trees.
+"Player.NamVet_ContextModifierCalm18" // Near the rocks.
+"Player.NamVet_ContextModifierCalm19" // One of 'em.
+"Player.NamVet_ContextModifierCalm20" // Two of em.
+"Player.NamVet_ContextModifierCalm21" // Three of 'em.
+"Player.NamVet_ContextModifierCalm22" // Four of 'em.
+"Player.NamVet_ContextModifierCalm23" // Lots of 'em.
+"Player.NamVet_ContextModifierCalm24" // A couple of 'em.
+"Player.NamVet_ContextModifierCalm25" // A few of 'em.
+"Player.NamVet_ContextModifierLoud01" // To the left!
+"Player.NamVet_ContextModifierLoud02" // To the right!
+"Player.NamVet_ContextModifierLoud03" // Up there!
+"Player.NamVet_ContextModifierLoud04" // Above us!
+"Player.NamVet_ContextModifierLoud05" // Down there!
+"Player.NamVet_ContextModifierLoud06" // Below us!
+"Player.NamVet_ContextModifierLoud07" // Back there!
+"Player.NamVet_ContextModifierLoud08" // Up ahead!
+"Player.NamVet_ContextModifierLoud09" // In the window!
+"Player.NamVet_ContextModifierLoud10" // Around the corner!
+"Player.NamVet_ContextModifierLoud11" // In the doorway!
+"Player.NamVet_ContextModifierLoud12" // Behind this wall!
+"Player.NamVet_ContextModifierLoud13" // Behind this door!
+"Player.NamVet_ContextModifierLoud14" // On the roof!
+"Player.NamVet_ContextModifierLoud15" // Behind that!
+"Player.NamVet_ContextModifierLoud16" // In this building!
+"Player.NamVet_ContextModifierLoud17" // In the trees!
+"Player.NamVet_ContextModifierLoud18" // Near the rocks!
+"Player.NamVet_ContextModifierLoud19" // One of 'em!
+"Player.NamVet_ContextModifierLoud20" // Two of em!
+"Player.NamVet_ContextModifierLoud21" // Three of 'em!
+"Player.NamVet_ContextModifierLoud22" // Four of 'em!
+"Player.NamVet_ContextModifierLoud23" // Lots of 'em!
+"Player.NamVet_ContextModifierLoud24" // A couple of 'em!
+"Player.NamVet_ContextModifierLoud25" // A few of 'em!
+"Player.NamVet_Cough01" // (Coughing from smoke)
+"Player.NamVet_Cough02" // (Coughing from smoke)
+"Player.NamVet_Cough03" // (Coughing from smoke)
+"Player.NamVet_Cough04" // (Coughing from smoke)
+"Player.NamVet_Cough05" // (Coughing from smoke)
+"Player.NamVet_Cough06" // (Coughing from smoke)
+"Player.NamVet_CoverMe01" // Cover me!
+"Player.NamVet_CoverMe02" // Cover me.
+"Player.NamVet_CoverMe03" // Watch my back
+"Player.NamVet_CoverMe04" // Watch my back.
+"Player.NamVet_CoverMe05" // Cover me.
+"npc.NamVet_CoverMe06" // Healin', cover me
+"npc.NamVet_CoverMe07" // Cover me, gonna heal.
+"npc.NamVet_CoverMe08" // Wait up, I'm healing.
+"Player.NamVet_DeathScream01" // [Loud painful death scream]
+"Player.NamVet_DeathScream02" // [Death rattle]
+"Player.NamVet_DeathScream03" // [Loud painful death scream]
+"Player.NamVet_DeathScream04" // [Loud painful death scream]
+"Player.NamVet_DeathScream05" // [Short quick death scream]
+"Player.NamVet_DeathScream06" // [Short quick death scream]
+"Player.NamVet_DeathScream07" // [Death rattle]
+"Player.NamVet_DeathScream08" // [Death rattle]
+"npc.NamVet_DoorBreaking01" // They're coming through the door!
+"npc.NamVet_DoorBreaking02" // This door ain't holdin' 'em!
+"npc.NamVet_DoubleDeathResponse01" // This is goin' to hell in a handbasket real fast!
+"npc.NamVet_DoubleDeathResponse02" // I didn't sign up for this shit!
+"npc.NamVet_DoubleDeathResponse03" // It's just you and me again, Zoey!
+"npc.NamVet_DoubleDeathResponse04" // It's just the two of us now, kid.
+"npc.NamVet_DowninFront01" // Down in front!
+"npc.NamVet_DowninFront02" // Outta the way!
+"npc.NamVet_DowninFront03" // Duck!
+"npc.NamVet_Dying01" // I need help NOW!
+"npc.NamVet_Dying02" // I can't wait, I need help now!
+"npc.NamVet_Dying03" // Quit screwin' around and help me!
+"npc.NamVet_Dying04" // I NEED HELP NOW!
+"Player.NamVet_EmphaticGo01" // go go go
+"Player.NamVet_EmphaticGo02" // MOVE!
+"Player.NamVet_EmphaticGo03" // MOVE!
+"Player.NamVet_EmphaticGo04" // MOVE MOVE MOVE!
+"Player.NamVet_EmphaticGo05" // MOVE OUT!
+"Player.NamVet_EmphaticGo06" // go go go
+"npc.NamVet_EmphaticGoQuiet01" // Don't stop! Go!
+"npc.NamVet_EmphaticGoQuiet02" // Go go go!
+"npc.NamVet_EmphaticGoQuiet03" // Go!
+"npc.NamVet_EmphaticGoQuiet04" // Keep movin'!
+"Player.NamVet_EmphaticNo01" // No way, kid.
+"Player.NamVet_EmphaticNo02" // NO!
+"Player.NamVet_EmphaticNo03" // Are you crazy?
+"Player.NamVet_EmphaticNo04" // No way in Hell.
+"Player.NamVet_EmphaticNo05" // Are you out of your damn mind?
+"Player.NamVet_EmphaticNo06" // No way
+"Player.NamVet_EmphaticNo07" // Are you out of your mind?
+"Player.NamVet_EmphaticNo08" // Are you crazy?
+"Player.NamVet_EmphaticRun01" // RUN!
+"Player.NamVet_EmphaticRun02" // RUN!
+"Player.NamVet_EmphaticRun03" // BUG OUT!
+"Player.NamVet_EmphaticRun04" // HAUL ASS!
+"Player.NamVet_ExertionCritical01" // [Frightened, freaked out breathing]
+"Player.NamVet_ExertionCritical02" // [frightened freaked out breathing]
+"Player.NamVet_ExertionCritical03" // [frightened freaked out breathing]
+"Player.NamVet_ExertionCritical04" // [frightened freaked out breathing]
+"Player.NamVet_ExertionMajor01" // [heavy breathing - seriously winded]
+"Player.NamVet_ExertionMajor02" // [heavy breathing - seriously winded]
+"Player.NamVet_ExertionMinor01" // [breathing - panting out of breath]
+"Player.NamVet_ExertionMinor02" // [breathing - panting out of breath]
+"Player.NamVet_Fall01" // [Death scream as you fall]
+"Player.NamVet_Fall02" // [Death scream as you fall]
+"Player.NamVet_Fall03" // [Death scream as you fall]
+"Player.NamVet_Fall04" // [Death scream as you fall]
+"Player.NamVet_FallShort01" // Wooaaah
+"Player.NamVet_FallShort02" // ohhh nooooo
+"Player.NamVet_FallShort03" // [Yelp]
+"Player.NamVet_FinaleAhead01" // This looks like it - we're almost out of here.
+"Player.NamVet_FinaleAhead02" // We're almost out of here!
+"Player.NamVet_FinaleAhead03" // Okay, people, we're almost there. Let's keep moving!
+"Player.NamVet_FinaleAhead04" // Keep it together people. We're almost home free.
+"Player.NamVet_FollowMe01" // Come on, this way.
+"Player.NamVet_FollowMe02" // I'll take the lead.
+"Player.NamVet_FollowMe03" // Follow me!
+"Player.NamVet_FollowMe04" // This way, people!
+"Player.NamVet_FollowMe05" // This way.
+"Player.NamVet_FollowMe06" // I'm on point.
+"Player.NamVet_FollowMe07" // This way!
+"Player.NamVet_FollowMe08" // Fall in behind me.
+"Player.NamVet_FollowMe09" // Follow me.
+"Player.NamVet_FriendlyFire01" // Ahh! That hurt!
+"Player.NamVet_FriendlyFire02" // Ah! Knock it off!
+"Player.NamVet_FriendlyFire03" // Do I look like a target?
+"Player.NamVet_FriendlyFire04" // You know, I would appreciate it IF YOU'D STOP SHOOTING ME!
+"Player.NamVet_FriendlyFire05" // Watch where you're shooting!
+"Player.NamVet_FriendlyFire06" // Goddamn it, watch your fire!
+"Player.NamVet_FriendlyFire07" // Jesus H Christ, I'm on your side.
+"Player.NamVet_FriendlyFire08" // Watch where you're shooting!
+"Player.NamVet_FriendlyFire09" // Don't shoot me!
+"Player.NamVet_FriendlyFire10" // Watch where you point that thing!
+"Player.NamVet_FriendlyFire11" // Watch where you're shooting!
+"Player.NamVet_FriendlyFire12" // Do not shoot me!
+"Player.NamVet_FriendlyFire13" // Goddamit, watch where you're shooting!
+"Player.NamVet_FriendlyFire14" // Check your fire!
+"Player.NamVet_FriendlyFire15" // Secure that weapon!
+"Player.NamVet_FriendlyFire16" // Hold your fire!
+"Player.NamVet_FriendlyFire17" // Who's side are you on, kid?
+"npc.NamVet_FriendlyFire18" // Goddamnit, you set me on goddamn fire!
+"Player.NamVet_FriendlyFireFrancis01" // Jesus H Christ, Francis!
+"Player.NamVet_Player.GameSpeech01" // I'll see peace back on earth if I gotta murder everyone of these animals with my own bare hands. Ownbare_09.wav
+"Player.NamVet_Generic01" // [Girlie laugh]
+"Player.NamVet_Generic02" // I couldn't have done it without the tuna sandwich, I tell ya.
+"npc.NamVet_Generic03" // Francis, is there anything you don't hate?
+"npc.NamVet_Generic04" // How many fingers are you holding up?
+"npc.NamVet_Generic05" // Where am I?
+"npc.NamVet_Generic06" // What day of the week is it?
+"npc.NamVet_Generic07" // Francis, don't take God's name in vain.
+"npc.NamVet_Generic08" // Fer chrissake, Francis, don't take God's name in vain.
+"npc.NamVet_Generic09" // How in the hell is this gonna to work?
+"npc.NamVet_Generic10" // You ever use one of these?
+"npc.NamVet_Generic11" // That sounds like a line of horseshit.
+"npc.NamVet_Generic12" // You two done chatting?
+"npc.NamVet_Generic13" // Well, this don't remind me of nam.
+"npc.NamVet_Generic14" // Don't be an ass, Francis.
+"npc.NamVet_Generic15" // They're ain't much we can do now.
+"npc.NamVet_Generic16" // You're just spoutin' off ignorance.
+"npc.NamVet_Generic18" // I am gonna blow your ass to kingdom come.
+"npc.NamVet_Generic19" // Y'know, Francis, we'd all think you were a lot smarter if you said less.
+"npc.NamVet_Generic20" // The future sure ain't what it used to be.
+"npc.NamVet_Generic21" // Francis? You know what'd do us more good than all yer whinin' and jokin'? Shootin'.
+"npc.NamVet_Generic22" // Close your mouth and open your eyes, Francis. You'll aim better.
+"npc.NamVet_Generic23" // A few years in the service mighta slimmed you down and shut you up, Francis.
+"npc.NamVet_Generic24" // You know who's gonna survive this mess, Francis? It ain't the fella makin' jokes.
+"npc.NamVet_Generic25" // Francis, we might live through this if you stopped makin' jokes and started getting angry.
+"npc.NamVet_Generic27" // Speak up, Francis. Your voice got all muffled from yer head being so far up yer ass.
+"npc.NamVet_Generic29" // I'll see peace back on earth if I gotta murder every one of these bastards with my bare goddamn hands.
+"npc.NamVet_Generic30" // I ain't ready to meet my maker yet. But hearin' them animals outside, I'm happy to make some introductions.
+"npc.NamVet_Generic31" // This reminds me of the Battle of Hue.
+"npc.NamVet_Generic32" // Damn straight.
+"npc.NamVet_Generic33" // We been immune so far, but - well, if I start to turn, promise you'll shoot me.
+"npc.NamVet_Generic34" // Even bein' in a war doesn't prepare you for this. They never stop. They come at you and come at you and they *never* goddamn *stop*.
+"npc.NamVet_Generic35" // I don't want to piss on your parade, Louis, but what if it *doesn't* get better?
+"npc.NamVet_Generic36" // Good point.
+"npc.NamVet_Generic37" // I knew this day was comin'. They wouldn't listen.
+"npc.NamVet_Generic38" // Alright, it's official. I decided I hate zombies.
+"npc.NamVet_Generic39" // They're zombies, Francis.
+"npc.NamVet_Generic40" // Zombies.
+"npc.NamVet_Generic41" // [indignant] Hey!
+"npc.NamVet_Generic42" // As long as there's one of those ugly bastards left to shoot, I got a reason to keep on going.
+"npc.NamVet_Generic43" // [sarcastic] Way to land a chopper...
+"npc.NamVet_Generic44" // We're fightin' a war of attrition with a horde of brainless killing machines. I ain't exactly optimistic about our chances.
+"npc.NamVet_Generic45" // These things are like a brush fire: they don't discriminate. They just burn up every damn thing in their way.
+"npc.NamVet_Generic46" // I'll tell you what: if the meek inherit the earth after this, they'd better get a whole hell of a lot better at killin'.
+"npc.NamVet_Generic47" // Francis, why don't you stop makin' trouble and start makin' some corpses.
+"npc.NamVet_Generic48" // I'm gonna make an example out of the next one those things that jumps me.
+"npc.NamVet_Generic49" // You call this a zombie apocalypse? It don't hold a candle to the great zombie attack of 1957. [beat] Nah, I'm horseshittin' ya.
+"npc.NamVet_Generic50" // I don't believe it.
+"npc.NamVet_Generic51" // They're trying to stop us.
+"npc.NamVet_Generic52" // I'm with you, I hate these things.
+"npc.NamVet_Generic53" // That's not what they said on TV.
+"npc.NamVet_GenericDirections01" // Up the stairs!
+"npc.NamVet_GenericDirections02" // Down the stairs!
+"npc.NamVet_GenericDirections03" // Let's get up that ladder!
+"npc.NamVet_GenericDirections04" // We need to go down there!
+"npc.NamVet_GenericDirections05" // Through here!
+"npc.NamVet_GenericDirections06" // Through this door!
+"npc.NamVet_GenericDirections07" // We need to get outside.
+"npc.NamVet_GenericDirections08" // We gotta get off the street.
+"npc.NamVet_GenericDirections09" // We gotta get back to the rooftops.
+"npc.NamVet_GenericDirections10" // Back here!
+"npc.NamVet_GenericDirections11" // We gotta get over this thing.
+"npc.NamVet_GenericResponses01" // Buck up, Son.
+"npc.NamVet_GenericResponses02" // [Disbelief] What?
+"npc.NamVet_GenericResponses03" // Are you joking?
+"npc.NamVet_GenericResponses04" // Oh Christ, you're not serious?
+"npc.NamVet_GenericResponses05" // What the hell are you talkin' about?
+"npc.NamVet_GenericResponses06" // I'll say.
+"npc.NamVet_GenericResponses07" // If you say so.
+"npc.NamVet_GenericResponses08" // That sounds about right.
+"npc.NamVet_GenericResponses09" // Allright, then, let's do it.
+"npc.NamVet_GenericResponses10" // Good thinking.
+"npc.NamVet_GenericResponses11" // Ah shit, here we go again.
+"npc.NamVet_GenericResponses12" // [laughing] You are an idiot.
+"npc.NamVet_GenericResponses13" // I say we just do it.
+"npc.NamVet_GenericResponses14" // You're sure about this, right?
+"npc.NamVet_GenericResponses15" // Okay...
+"npc.NamVet_GenericResponses16" // Hell yes.
+"npc.NamVet_GenericResponses17" // Hell if I know.
+"npc.NamVet_GenericResponses18" // I'm gonna let you handle that.
+"npc.NamVet_GenericResponses19" // That's actually a good point.
+"npc.NamVet_GenericResponses20" // Sounds good to me. Let's do it.
+"npc.NamVet_GettingRevived01" // I'm okay.
+"npc.NamVet_GettingRevived02" // I'm allright.
+"npc.NamVet_GettingRevived03" // [groan]
+"npc.NamVet_GettingRevived04" // Hell if I know.
+"npc.NamVet_GettingRevived05" // Most of this blood ain't mine.
+"npc.NamVet_GettingRevived06" // [groan2]
+"npc.NamVet_GettingRevived07" // I'll make it.
+"npc.NamVet_GettingRevived08" // I'll live.
+"npc.NamVet_GettingRevived09" // Hell, I'll live.
+"npc.NamVet_GettingRevived10" // I've had worse.
+"npc.NamVet_GettingRevived11" // [confused from hit on head] Who are you?
+"npc.NamVet_GettingRevived12" // [confused from hit on head] Mother?
+"npc.NamVet_GettingRevived13" // Well, I ain't *good*.
+"npc.NamVet_GnericWeaponPickup01" // Ahhh. A gun's a gun.
+"npc.NamVet_GnericWeaponPickup02" // If it shoots bullets, I'll take it.
+"npc.NamVet_GnericWeaponPickup03" // *This'll* do some damage.
+"Player.NamVet_GoingToDie01" // I don't feel so good.
+"Player.NamVet_GoingToDie02" // I don't know if I am going to make it.
+"Player.NamVet_GoingToDie03" // I feel awful.
+"Player.NamVet_GoingToDie04" // I am in bad shape, people.
+"Player.NamVet_GoingToDie05" // I'm gettin' too old for this horseshit.
+"Player.NamVet_GoingToDie06" // I feel terrible.
+"Player.NamVet_GoingToDie07" // You people might have to go on without me.
+"Player.NamVet_GoingToDie08" // [to self] goddamn horseshit.
+"Player.NamVet_GoingToDie09" // It's not lookin' good for me.
+"Player.NamVet_GoingToDie10" // I'm not feelin' too hot.
+"Player.NamVet_GoingToDie11" // Ah shit, I'm not doin' too good here.
+"Player.NamVet_GoingToDie12" // I'm really hurt, people
+"Player.NamVet_GoingToDie13" // Christ, I'm messed up.
+"Player.NamVet_GoingToDie14" // [sharp intake of breath followed by grunt]
+"Player.NamVet_GoingToDie15" // We gotta find me a medic.
+"Player.NamVet_GoingToDie16" // I feel awful.
+"Player.NamVet_GoingToDie17" // God damn it, I am seriously fubar.
+"Player.NamVet_GoingToDie18" // [pain sound followed by two grunts]
+"Player.NamVet_GoingToDie20" // I'm just barely hangin' on here
+"Player.NamVet_GoingToDie21" // [pain sound] I think I'm goin' home in a box
+"Player.NamVet_GoingToDie22" // I feel like hell.
+"Player.NamVet_GoingToDie23" // I'm about to buy the farm.
+"Player.NamVet_GoingToDie24" // If I go down, don't let those bastards eat me.
+"Player.NamVet_GoingToDie25" // [to self] Hang on, soldier.
+"Player.NamVet_GoingToDie26" // Dammit, I'm bleeding out.
+"Player.NamVet_GoingToDie27" // I'm not gonna hold out much longer.
+"npc.NamVet_GoingToDieAskForHeal01" // Anyone have some first aid? I ain't feelin' right.
+"npc.NamVet_GoingToDieAskForHeal02" // Someone gonna heal the old guy about to die?
+"npc.NamVet_GoingToDieAskForHeal03" // Sure could use some patchin' up.
+"npc.NamVet_GoingToDieAskForHeal04" // Anyone spare a med kit?
+"npc.NamVet_GoingToDieLight01" // This old body ain't gonna make it.
+"npc.NamVet_GoingToDieLight02" // Ah shit, I ain't feelin' right.
+"npc.NamVet_GoingToDieLight03" // Something ain't workin' right.
+"npc.NamVet_GoingToDieLight04" // This just ain't my day...
+"npc.NamVet_GoingToDieLight05" // <cough>Ah, hell... <blows air out through pursed lips> Shit...
+"npc.NamVet_GoingToDieLight06" // Ah. <breath> Dammit.
+"npc.NamVet_GoingToDieLight07" // <wincing pain noise> Hell with this.
+"npc.NamVet_GoingToDieLight08" // Hell, I was too old for this shit fifteen years ago.
+"npc.NamVet_GRABBEDBYSMOKER01" // No, no,  NOOOO!
+"Player.NamVet_GrabbedBySmoker01a" // no, No, NO, NOOOOOOO!!!!!!!!!
+"Player.NamVet_GrabbedBySmoker01b" // no, No, NO, NOOOOOOO!!!!!!!!!
+"npc.NamVet_GRABBEDBYSMOKER02" // No, no, NOOOO!
+"Player.NamVet_GrabbedBySmoker02a" // no, No, NO, NOOOOOOO!!!!!!!!!
+"Player.NamVet_GrabbedBySmoker02b" // no, No, NO, NOOOOOOO!!!!!!!!!
+"Player.NamVet_GrabbedBySmoker03" // no, NO!
+"Player.NamVet_GrabbedBySmoker04" // no NO NO NOO!
+"Player.NamVet_Grenade01" // GRENADE!!
+"Player.NamVet_Grenade02" // GRENADE!!
+"Player.NamVet_Grenade03" // FIRE IN THE HOLE!!
+"Player.NamVet_Grenade04" // FIRE IN THE HOLE!!
+"Player.NamVet_Grenade05" // FIRE IN THE HOLE!
+"Player.NamVet_Grenade06" // GRENADE!!
+"Player.NamVet_GriefBiker01" // Ah, not Francis
+"Player.NamVet_GriefBiker02" // Christ, I'm gonna miss that son of a bitch.
+"Player.NamVet_GriefBiker03" // I am going to miss that man and his gun
+"Player.NamVet_GriefFemaleGeneric01" // She's dead!
+"Player.NamVet_GriefFemaleGeneric02" // Ah Christ, she's dead!
+"Player.NamVet_GriefFemaleGeneric03" // She didn't make it!
+"Player.NamVet_GriefFemaleGeneric04" // Goddamit, she didn't make it.
+"Player.NamVet_GriefFemaleGeneric05" // Let's hope she's in a better place. Hell, it couldn't be much worse.
+"Player.NamVet_GriefMaleGeneric01" // He's dead!
+"Player.NamVet_GriefMaleGeneric02" // He didn't make it!
+"Player.NamVet_GriefMaleGeneric03" // Looks... Looks like we lost one.
+"Player.NamVet_GriefMaleGeneric04" // Godammit, he didn't make it.
+"Player.NamVet_GriefMaleGeneric05" // Ah Christ, he'd dead!
+"Player.NamVet_GriefManager01" // Ah, Louis.
+"Player.NamVet_GriefManager02" // Louis didn't make it. Ah, Christ.
+"Player.NamVet_GriefManager03" // C'mon people, if we make it, he didn't die for nothin'.
+"Player.NamVet_GriefTeengirl01" // Ah not Zoey
+"Player.NamVet_GriefTeengirl02" // Ah jesus. What a waste.
+"Player.NamVet_GriefTeengirl03" // One of those sick sons of bitches just sealed all a' their death warrants.
+"Player.NamVet_GriefTeengirl04" // One of those sick sons of bitches just sealed all a' their death warrants.
+"Player.NamVet_HealOther01" // Let me heal you up
+"Player.NamVet_HealOther02" // Hold still, I can heal you
+"Player.NamVet_HealOther03" // Hold on, let me patch you up
+"npc.NamVet_HealOther04" // Lemme heal ya up.
+"npc.NamVet_HealOther05" // Hold up, I'll heal ya.
+"npc.NamVet_HealOther06" // Quit moving, I'll heal ya.
+"npc.NamVet_HealOther07" // Stop squirmin', I'm gonna heal ya.
+"npc.NamVet_HealOther08" // Hold still, I'm gonna heal ya.
+"Player.NamVet_HeardBoomer01" // I hear a boomer out there.
+"Player.NamVet_HeardBoomer02" // There's a Boomer around here.
+"Player.NamVet_HeardBoomer03" // Careful, Boomer.
+"Player.NamVet_HeardBoomer04" // Watch it, Boomer in the vacinity.
+"Player.NamVet_HeardBoomer05" // Boomer around here.
+"Player.NamVet_HeardBoomer06" // Boomer nearby.
+"Player.NamVet_HeardBoomer07" // There's a Boomer trackin' us.
+"Player.NamVet_HeardBoomer08" // Boomer closeby.
+"Player.NamVet_HeardBoomer09" // Boomer nearby.
+"Player.NamVet_HeardBoomer10" // Christ, there's a Boomer around here.
+"Player.NamVet_HeardBoomer11" // Dammit, Boomer nearby.
+"Player.NamVet_HeardHulk01" // Tank Inbound!
+"Player.NamVet_HeardHulk02" // Tank out there
+"Player.NamVet_HeardHulk03" // Watch it, Tank nearby.
+"Player.NamVet_HeardHulk04" // Son of a bitch, a Tank.
+"Player.NamVet_HeardHulk05" // Tank Coming!
+"Player.NamVet_HeardHulk06" // Tank around here.
+"Player.NamVet_HeardHulk07" // Look out, Tank around here.
+"Player.NamVet_HeardHulk08" // There's a Tank closeby.
+"Player.NamVet_HeardHulk09" // Tank. Close.
+"Player.NamVet_HeardHunter01" // There's a Hunter around here.
+"Player.NamVet_HeardHunter02" // Careful, people, there's a Hunter nearby.
+"Player.NamVet_HeardHunter03" // There's a hunter spookin' around out there
+"Player.NamVet_HeardHunter04" // There's a hunter out there
+"Player.NamVet_HeardHunter05" // Careful, Hunter around here.
+"Player.NamVet_HeardHunter06" // Hunter out there.
+"Player.NamVet_HeardHunter08" // Watch your back - Hunter.
+"Player.NamVet_HeardHunter09" // Watch your back, there's a hunter out there.
+"Player.NamVet_HeardHunter10" // I think I saw a goddamn Hunter
+"Player.NamVet_HeardSmoker01" // Smoker, right around here.
+"Player.NamVet_HeardSmoker02" // There's a Smoker nearby.
+"Player.NamVet_HeardSmoker03" // We got a Smoker around here.
+"Player.NamVet_HeardSmoker04" // Heads up, Smoker somewhere around here.
+"Player.NamVet_HeardSmoker05" // Smoker right around here someplace.
+"Player.NamVet_HeardSmoker06" // Smoker. And it's close.
+"Player.NamVet_HeardSmoker07" // There's a Smoker
+"Player.NamVet_HeardWitch01" // Hear that, that's a witch
+"Player.NamVet_HeardWitch02" // Witch around here.
+"Player.NamVet_HeardWitch03" // Shit, Witch
+"Player.NamVet_HeardWitch04" // Quiet, there's a Witch around here.
+"Player.NamVet_HeardWitch05" // Shhh, Witch near here.
+"Player.NamVet_Help01" // People, I need some help!
+"Player.NamVet_Help02" // I need some help over here.
+"Player.NamVet_Help03" // Help!
+"Player.NamVet_Help04" // A little help, people.
+"Player.NamVet_Help05" // Help!
+"Player.NamVet_Help06" // Help me, dammit!
+"Player.NamVet_Help07" // Help me!
+"Player.NamVet_Help08" // Little help!
+"Player.NamVet_Help09" // Help me!
+"Player.NamVet_Help10" // Help!
+"Player.NamVet_Help11" // Need some help over here!
+"Player.NamVet_Help12" // Help.
+"Player.NamVet_Help13" // A little help please.
+"Player.NamVet_Help14" // Need some help over here!
+"Player.NamVet_Help15" // I'm in trouble!
+"Player.NamVet_Help16" // Little help!
+"Player.NamVet_Help17" // I need a hand, people!
+"npc.NamVet_HordeAttack01" // GET READY!
+"npc.NamVet_HordeAttack02" // They're coming!
+"npc.NamVet_HordeAttack03" // Here they come!
+"Player.NamVet_HunterFrancisPounced01" // Hunter's got Francis!
+"Player.NamVet_HunterFrancisPounced02" // Hunter pounced Francis!
+"Player.NamVet_HunterFrancisPounced03" // A Hunter's on Francis!
+"Player.NamVet_HunterLouisPounced01" // Hunter's got Louis!
+"Player.NamVet_HunterLouisPounced02" // Hunter pounced Louis!
+"Player.NamVet_HunterLouisPounced03" // A Hunter's on Louis!
+"Player.NamVet_HunterZoeyPounced01" // Hunter's got Zoey!
+"Player.NamVet_HunterZoeyPounced02" // Hunter pounced Zoey!
+"Player.NamVet_HunterZoeyPounced03" // A Hunter's on Zoey!
+"Player.NamVet_Hurrah01" // All right!
+"Player.NamVet_Hurrah02" // We're doing pretty goddamn good. Don't let it go to your head.
+"Player.NamVet_Hurrah03" // GREAT JOB, PEOPLE!
+"Player.NamVet_Hurrah04" // We might just make it out of here after all.
+"Player.NamVet_Hurrah05" // We're going to be okay.
+"Player.NamVet_Hurrah06" // I think we're gonna make it.
+"Player.NamVet_Hurrah07" // They can't stop us.
+"Player.NamVet_Hurrah08" // Nothing can stop us.
+"Player.NamVet_Hurrah09" // We are unstoppable.
+"Player.NamVet_Hurrah10" // YEAH!
+"Player.NamVet_Hurrah11" // No sweat.
+"Player.NamVet_Hurrah12" // Aw riiiight!
+"Player.NamVet_Hurrah13" // YEAH!
+"Player.NamVet_Hurrah14" // OH YEAH!
+"Player.NamVet_Hurrah15" // Yeah, this is good.
+"Player.NamVet_Hurrah16" // We're gonna make it out of here
+"Player.NamVet_Hurrah17" // We're doin' good.
+"Player.NamVet_Hurrah18" // Those bastards are in for a big surprise.
+"Player.NamVet_Hurrah19" // Aw riiiight!
+"Player.NamVet_Hurrah20" // You people are gettin' good.
+"Player.NamVet_HurryUp01" // Hurry up!
+"Player.NamVet_HurryUp02" // Hurry up!
+"Player.NamVet_HurryUp03" // Hurry!
+"Player.NamVet_HurryUp04" // MOVE!
+"Player.NamVet_HurryUp05" // Get the lead out, people!
+"Player.NamVet_HurryUp06" // Hurry!
+"Player.NamVet_HurryUp07" // Hustle!
+"Player.NamVet_HurryUp08" // Hurry it up
+"Player.NamVet_HurryUp09" // Faster! Move it, people.
+"Player.NamVet_HurtCritical01" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical02" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical03" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical04" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical05" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical06" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical07" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical08" // [pain noise - loud major pain]
+"Player.NamVet_HurtCritical09" // [pain noise - loud major pain]
+"Player.NamVet_HurtMajor01" // [pain noise - ahh]
+"Player.NamVet_HurtMajor02" // [pain noise - huh]
+"Player.NamVet_HurtMajor03" // [pain noise - oy]
+"Player.NamVet_HurtMajor04" // [pain noise - ugh]
+"Player.NamVet_HurtMajor05" // [pain noise - ugh]
+"Player.NamVet_HurtMajor06" // [pain noise - ugh]
+"Player.NamVet_HurtMajor07" // [pain noise - ugh]
+"Player.NamVet_HurtMajor08" // [pain noise - oy]
+"Player.NamVet_HurtMajor09" // [pain noise - ugh]
+"Player.NamVet_HurtMinor01" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor02" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor03" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor04" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor05" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor06" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor07" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor08" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor09" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor10" // [pain noise - short minor pain]
+"Player.NamVet_HurtMinor11" // [pain noise - short minor pain]
+"Player.NamVet_ImWithYou01" // I got your six.
+"Player.NamVet_ImWithYou02" // Right behind you.
+"Player.NamVet_ImWithYou03" // I'm with ya.
+"Player.NamVet_ImWithYou04" // I got your back.
+"Player.NamVet_ImWithYou05" // I'm right behind you.
+"Player.NamVet_ImWithYou06" // Right behind you.
+"npc.NamVet_IncapacitatedInitial01" // Ahhhh, I'm down!
+"npc.NamVet_IncapacitatedInitial02" // Damnit! I'm down!
+"npc.NamVet_IncapacitatedInitial03" // Ah shit, help!
+"npc.NamVet_IncapacitatedInitial04" // I'm down!
+"Player.NamVet_IncapacitatedInjury01" // [AHHHHH - terrified yell]
+"Player.NamVet_IncapacitatedInjury02" // [AHHHHH - terrified yell]
+"Player.NamVet_IncapacitatedInjury03" // [AHHHHH - terrified yell]
+"Player.NamVet_IncapacitatedInjury04" // [AHHHHH - terrified yell]
+"Player.NamVet_IncapacitatedInjury05" // [AHHHHH - terrified yell]
+"Player.NamVet_Incoming01" // Here they come!
+"Player.NamVet_Incoming02" // Here they come!
+"Player.NamVet_Incoming03" // INCOMING!
+"Player.NamVet_Incoming04" // Bookoo crazies inbound!
+"Player.NamVet_Incoming05" // HERE THEY COME!
+"Player.NamVet_Incoming06" // Contact!
+"Player.NamVet_Incoming07" // INCOMING!
+"npc.NamVet_InsideSafeRoom01" // No sense dying of old age. Let's go help 'em.
+"npc.NamVet_InsideSafeRoom02" // I can't leave Zoey our there.
+"npc.NamVet_InsideSafeRoom03" // How well do you really know Louis?
+"npc.NamVet_InsideSafeRoom04" // I'm kidding. Let's go get him.
+"npc.NamVet_InsideSafeRoom05" // Let's heal up and get back out there.
+"npc.NamVet_InsideSafeRoom06" // We will NOT leave a man behind. Let's get back out there.
+"npc.NamVet_InsideSafeRoom07" // We do not leave men behind.
+"Player.NamVet_IntroDeadAir01" // We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
+"Player.NamVet_IntroDeadAir02" // We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
+"Player.NamVet_IntroDeadAir03" // We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
+"Player.NamVet_IntroDeadAir04" // We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
+"Player.NamVet_IntroDeadAir05" // We planned on taking the rooftop route to avoid the crowds below.  It was about a mile to the airport as the crow flies.  But I guess the crow we were following was pretty drunk.
+"Player.NamVet_IntroNoMercy01" // I never liked hospitals much, and I like sewers even less.  But I do love a chopper taking me out of a hell hole.  So we went through the bowels of the city to get to the hospital and to a chopper sent from heaven.
+"Player.NamVet_IntroNoMercy02" // I never liked hospitals much, and I like sewers even less.  But I do love a chopper taking me out of a hell hole.  So we went through the bowels of the city to get to the hospital and to a chopper sent from heaven.
+"Player.NamVet_IntroNoMercy03" // I never liked hospitals much, and I like sewers even less.  But I do love a chopper taking me out of a hell hole.  So we went through the bowels of the city to get to the hospital and to a chopper sent from heaven.
+"Player.NamVet_IntroRuralBoatEnding01" // We hiked down the road through some hick town and at the end there was a campground and a boat to a better place.  And when I say a better place, that is pretty much anywhere other than here, hell even Cleveland would be better place.
+"Player.NamVet_IntroRuralBoatEnding02" // We hiked down the road through some hick town and at the end there was a campground and a boat to a better place.  And when I say a better place, that is pretty much anywhere other than here, hell even Cleveland would be better place.
+"Player.NamVet_IntroRuralBoatEnding03" // We hiked down the road through some hick town and at the end there was a campground and a boat to a better place.  And when I say a better place, that is pretty much anywhere other than here, hell even Cleveland would be better place.
+"Player.NamVet_IntroRuralFamrHouseEnding01" // We had no where else to go, so we followed the tracks to an old farmhouse.  The farmhouse was real quaint, pretty, peaceful even. For about 15 seconds.
+"Player.NamVet_IntroRuralFamrHouseEnding02" // We had no where else to go, so we followed the tracks to an old farmhouse.  The farmhouse was real quaint, pretty, peaceful even. For about 15 seconds.
+"Player.NamVet_IntroRuralFamrHouseEnding03" // We had no where else to go, so we followed the tracks to an old farmhouse.  The farmhouse was real quaint, pretty, peaceful even. For about 15 seconds.
+"Player.NamVet_KillConfirmation01" // Got 'em
+"Player.NamVet_KillConfirmation02" // Got it
+"Player.NamVet_KillConfirmation03" // He's dead
+"Player.NamVet_KillConfirmation05" // Got 'em
+"Player.NamVet_KillConfirmation06" // Got 'em
+"Player.NamVet_KillConfirmation07" // Got 'em
+"Player.NamVet_KillConfirmation08" // Got it
+"Player.NamVet_KillThatLight01" // Kill that light!
+"Player.NamVet_KillThatLight02" // Turn your light off.
+"Player.NamVet_KillThatLight03" // Lights off!
+"Player.NamVet_KillThatLight04" // Turn those flashlights off!
+"Player.NamVet_KillThatLight05" // Turn your light off.
+"Player.NamVet_KillThatLight06" // Turn those flashlights off!
+"Player.NamVet_KillThatLight07" // Kill that light.
+"Player.NamVet_KillThatLight08" // Turn your light off.
+"Player.NamVet_KillThatLight09" // Lights off!
+"Player.NamVet_KillThatLight10" // Turn those flashlights off!
+"npc.NamVet_Laughter01" // <Short laugh>
+"npc.NamVet_Laughter02" // <Nervous laugh>
+"npc.NamVet_Laughter04" // <Hearty Laugh>
+"npc.NamVet_Laughter05" // <Nervous laugh>
+"npc.NamVet_Laughter06" // <Short laugh>
+"npc.NamVet_Laughter07" // <Short laugh>
+"npc.NamVet_Laughter08" // <Short laugh>
+"npc.NamVet_Laughter09" // <Short laugh>
+"npc.NamVet_Laughter10" // <Short laugh>
+"npc.NamVet_Laughter11" // <Short laugh>
+"npc.NamVet_Laughter12" // <Short laugh>
+"npc.NamVet_Laughter13" // <Short laugh>
+"npc.NamVet_Laughter14" // <Short laugh>
+"Player.NamVet_LeadOn01" // You go ahead, I'll follow you
+"Player.NamVet_LeadOn02" // You take the lead
+"Player.NamVet_LeadOn03" // Go ahead
+"Player.NamVet_LeadOn04" // You're on point
+"Player.NamVet_LeadOn05" // I'll follow you
+"Player.NamVet_LeadOn06" // Lead on.
+"Player.NamVet_LeadOn07" // You go ahead, I'll cover you.
+"Player.NamVet_LeadOn08" // Take the point.
+"Player.NamVet_LedgeHangEnd01" // I'M SLIPPING! PULL ME UP!
+"Player.NamVet_LedgeHangEnd02" // I'M LOSING MY GRIP! GET OVER HERE!
+"Player.NamVet_LedgeHangEnd03" // I CAN'T HOLD ON - I'M GONNA FALL!
+"Player.NamVet_LedgeHangEnd04" // HELP ME! I'm about to take a redball into the ground!
+"Player.NamVet_LedgeHangEnd05" // I'M GONNA FALL!
+"Player.NamVet_LedgeHangMiddle01" // Ah christ, somebody pull me up!
+"Player.NamVet_LedgeHangMiddle02" // I need some help, here.
+"Player.NamVet_LedgeHangMiddle03" // Dammit, I need a hand here!
+"Player.NamVet_LedgeHangMiddle04" // Pull me up, people.
+"Player.NamVet_LedgeHangMiddle05" // I need a hand up!
+"Player.NamVet_LedgeHangStart01" // I need a hand up!
+"Player.NamVet_LedgeHangStart02" // Somembody pull me up!
+"Player.NamVet_LedgeHangStart03" // Godammit, I'm hangin' off a ledge over here.
+"Player.NamVet_LedgeHangStart04" // Somebody needs to get over here and pull me up!
+"Player.NamVet_LedgeHangStart05" // Hey, people, I'm hangin' off a ledge over here!
+"Player.NamVet_LedgeHangStart06" // Somebody come pull me up!
+"Player.NamVet_LedgeHangStart07" // I'm gettin' too old for this hangin' shit.
+"Player.NamVet_LedgeHangStart08" // Somebody come help me up!
+"Player.NamVet_LedgeHangStart09" // Somebody come grab me up off this ledge.
+"Player.NamVet_LedgeSave01" // Okay, quit squirming, I gotcha. Come on, up ya go!
+"Player.NamVet_LedgeSave02" // Let's go, take my hand. I'm gonna get you up. Here we go.
+"Player.NamVet_LedgeSave03" // How the hell did this happen? Never mind, come on and grab my hand.
+"Player.NamVet_Look01" // Over there.
+"Player.NamVet_Look02" // Over there.
+"Player.NamVet_Look03" // Look
+"Player.NamVet_Look04" // Look!
+"Player.NamVet_Look05" // Look!
+"Player.NamVet_LookHere01" // Check this out.
+"Player.NamVet_LookHere02" // Look at this.
+"Player.NamVet_LookHere03" // Look over here.
+"Player.NamVet_LookHere04" // You're gonna want to see this.
+"Player.NamVet_LookOut01" // Look out!
+"Player.NamVet_LookOut02" // Watch out!
+"Player.NamVet_LookOut03" // Watch out!
+"Player.NamVet_LookOut04" // Watch your ass!
+"Player.NamVet_LookOut05" // Heads up!
+"Player.NamVet_LookOut06" // Behind you!!
+"Player.NamVet_LostCall01" // Hello?
+"Player.NamVet_LostCall02" // Where are you?
+"Player.NamVet_LostCall03" // Where is everyone?
+"Player.NamVet_LostCall04" // Is anyone there?
+"Player.NamVet_LostCall05" // Report in, people! Report!
+"Player.NamVet_LostCall06" // Hello?
+"Player.NamVet_LostCall07" // Whered'ja go?
+"Player.NamVet_LostCall08" // Anybody out there?
+"Player.NamVet_LostCall09" // Is anyone out there?
+"Player.NamVet_LostCall10" // I lost the group!
+"Player.NamVet_LostCall11" // Where'd you people go?
+"Player.NamVet_MoveOn01" // Allright, let's go.
+"Player.NamVet_MoveOn02" // Let's move people.
+"Player.NamVet_MoveOn03" // Move it out!
+"Player.NamVet_MoveOn04" // Let's go.
+"Player.NamVet_MoveOn05" // Lets move people
+"Player.NamVet_MoveOn06" // Time to move out!
+"Player.NamVet_MoveOn07" // Let's move it out people
+"Player.NamVet_MoveOn08" // Alright, let's go.
+"Player.NamVet_MoveOn09" // Come on, let's go.
+"Player.NamVet_MoveOn10" // Come on, let's go.
+"Player.NamVet_MoveOn11" // Let's move it out!
+"Player.NamVet_MoveOn12" // Let's go, people!
+"npc.NamVet_Movie01" // Room's clear!
+"npc.NamVet_Movie05" // Ain't seen nothing like this before.
+"npc.NamVet_Movie07" // They're changing...
+"npc.NamVet_Movie16" // Lights off!
+"npc.NamVet_Movie18" // Lights... off. Back away... Quietly...
+"npc.NamVet_Movie20" // Goddammit, I told you -
+"npc.NamVet_Movie21" // Ah hell.
+"npc.NamVet_Movie23" // Go to hell.
+"npc.NamVet_Movie25" // I'll be fine.
+"npc.NamVet_Movie30" // Oh, this is gonna get bad...
+"npc.NamVet_Movie38" // One block down...
+"npc.NamVet_Movie41" // The battle's over. Now it's time for the war.
+"Player.NamVet_NameFrancis01" // Francis! (loud)
+"Player.NamVet_NameFrancis02" // Fraaaaancis! (loud)
+"Player.NamVet_NameFrancis03" // Francis (quiet)
+"Player.NamVet_NameLouis01" // Louis! (loud)
+"Player.NamVet_NameLouis02" // Looooouis! (loud)
+"Player.NamVet_NameLouis03" // Louis (quiet)
+"Player.NamVet_NameZoey01" // Zoey! (loud)
+"Player.NamVet_NameZoey02" // Zooooooey! (loud)
+"Player.NamVet_NameZoey03" // Zoey (quiet)
+"npc.NamVet_NamVet_FriendlyFireFrancis01" // Francis, check your fire!
+"npc.NamVet_NamVet_FriendlyFireFrancis02" // What the hell are you doin' Francis?
+"npc.NamVet_NamVet_FriendlyFireFrancis03" // Francis! [through gritted teeth]
+"npc.NamVet_NamVet_FriendlyFireLouis01" // Goddamnit Louis, stop shooting me!
+"npc.NamVet_NamVet_FriendlyFireLouis02" // Knock it off, Louis!
+"npc.NamVet_NamVet_FriendlyFireLouis03" // Louis! [through gritted teeth]
+"npc.NamVet_NamVet_FriendlyFireZoey01" // Ah Zoey, watch it.
+"npc.NamVet_NamVet_FriendlyFireZoey02" // Zoey! You know better than that!
+"npc.NamVet_NamVet_FriendlyFireZoey03" // Zoey! Stop pointing that thing at me!
+"npc.NamVet_NamVet_FriendlyFireZoey04" // Zoey! [through gritted teeth]
+"Player.NamVet_NervousHumming01" // [Nervous Humming]
+"Player.NamVet_NervousWhislte01" // [Nervous Whislte]
+"Player.NamVet_NiceJob01" // Nice!
+"Player.NamVet_NiceJob02" // Nice work!
+"Player.NamVet_NiceJob03" // Nice job.
+"Player.NamVet_NiceJob04" // You're doing this unit proud, kid.
+"Player.NamVet_NiceJob05" // Nice job.
+"Player.NamVet_NiceJob06" // Good work!
+"Player.NamVet_NiceJob07" // Hey, nice!
+"Player.NamVet_NiceJob08" // Nice!
+"Player.NamVet_NiceJob09" // Nice work!
+"Player.NamVet_NiceJob10" // Nice job.
+"Player.NamVet_NiceJob11" // You're doing this unit proud, kid.
+"Player.NamVet_NiceJob12" // Nice job.
+"Player.NamVet_NiceJob13" // Good work!
+"Player.NamVet_NiceJob14" // You did good.
+"Player.NamVet_NiceJob15" // Nice job.
+"Player.NamVet_NiceJob16" // You make me proud
+"Player.NamVet_NiceJob17" // Good. Very Good.
+"Player.NamVet_NiceJob18" // You're a credit to the squad, kid.
+"Player.NamVet_NiceJob19" // That was some piece of work.
+"Player.NamVet_NiceJob20" // Pretty damn good.
+"Player.NamVet_NiceJob21" // That was a good piece of work.
+"Player.NamVet_NiceJob22" // You did good, kid.
+"Player.NamVet_NiceShooting01" // Nice shooting, kid.
+"Player.NamVet_NiceShooting02" // Nice shooting.
+"Player.NamVet_NiceShooting03" // Good shooting.
+"Player.NamVet_NiceShooting04" // Nice shooting, kid.
+"Player.NamVet_NiceShooting05" // Nice shooting.
+"Player.NamVet_NiceShooting06" // Good shooting.
+"Player.NamVet_NiceShooting07" // Good shooting, kid.
+"Player.NamVet_NiceShooting08" // That was a real kill spree, kid.
+"Player.NamVet_NiceShooting09" // GodDAMN, you really lit 'em up!
+"Player.NamVet_NiceShooting10" // I coulda used a gun hand like you in Nam.
+"Player.NamVet_NiceShooting11" // You definitely got that killer instinct, kid.
+"Player.NamVet_NiceShooting12" // Now THAT was some damn fine shooting
+"Player.NamVet_NiceShot01" // Nice shot!
+"Player.NamVet_NiceShot02" // damn, kid, that was a good shot.
+"Player.NamVet_NiceShot03" // godDAMN that was a nice shot.
+"Player.NamVet_NiceShot04" // Nice shot!
+"Player.NamVet_NiceShot05" // damn, kid, that was a good shot.
+"Player.NamVet_NiceShot06" // godDAMN that was a nice shot.
+"Player.NamVet_NiceShot07" // Good shot, kid.
+"Player.NamVet_NiceShot08" // Good shot!
+"Player.NamVet_NiceShot09" // Damn, now that was a shot!
+"Player.NamVet_NiceShot10" // Whoo - nice shot.
+"Player.NamVet_NiceShot11" // Now THAT is how you handle a weapon.
+"npc.NamVet_NICESHOT12" // Nice shot!
+"Player.NamVet_NiceShot13" // Nice shooting
+"Player.NamVet_NiceShot14" // Nice
+"Player.NamVet_No01" // Ain't gonna happen.
+"Player.NamVet_No02" // No can do.
+"Player.NamVet_No03" // Negatory.
+"Player.NamVet_No04" // No way.
+"Player.NamVet_No05" // Nah.
+"Player.NamVet_No06" // Negative.
+"Player.NamVet_No07" // Not a chance.
+"Player.NamVet_No08" // No.
+"Player.NamVet_No09" // No.
+"Player.NamVet_No10" // No.
+"Player.NamVet_No11" // No possible way.
+"Player.NamVet_No12" // Uh, no.
+"Player.NamVet_No13" // No way.
+"Player.NamVet_No14" // I don't think so.
+"Player.NamVet_No15" // Absolutely not.
+"Player.NamVet_PainReliefSigh01" // Ahhh
+"Player.NamVet_PainReliefSigh02" // ah
+"Player.NamVet_PainReliefSigh03" // ah
+"Player.NamVet_PainReliefSigh04" // ohh
+"npc.NamVet_PlayerSuggestHealth01" // You should heal up.
+"npc.NamVet_PlayerSuggestHealth02" // Good time to heal up.
+"npc.NamVet_PlayerSuggestHealth03" // Let's heal up.
+"npc.NamVet_PlayerSuggestHealthFrancis01" // Francis, use your first aid kit.
+"npc.NamVet_PlayerSuggestHealthFrancis02" // Francis, you should heal up.
+"npc.NamVet_PlayerSuggestHealthFrancis03" // Heal up, Francis.
+"npc.NamVet_PlayerSuggestHealthFrancis04" // Francis, heal up.
+"npc.NamVet_PlayerSuggestHealthLouis01" // Louis, use your first aid kit
+"npc.NamVet_PlayerSuggestHealthLouis02" // Heal up, Louis.
+"npc.NamVet_PlayerSuggestHealthSpecific01" // Francis, buddy, you gonna use that health kit?
+"npc.NamVet_PlayerSuggestHealthSpecific02" // Zoey, can you spare me a health kit?
+"npc.NamVet_PlayerSuggestHealthSpecific03" // Louis, mind givin' an old man your health kit?
+"npc.NamVet_PlayerSuggestHealthZoey01" // Zoey, maybe you should heal.
+"npc.NamVet_PlayerSuggestHealthZoey02" // Zoey, maybe heal up?
+"npc.NamVet_PlayerSuggestHealthZoey03" // Might want to heal up, Zoey.
+"npc.NamVet_PlayerTransitionClose01" // Jesus H Christ that was close.
+"npc.NamVet_PlayerTransitionClose02" // This shit's gettin' old.
+"npc.NamVet_PlayerTransitionClose03" // I've had about enough of this.
+"npc.NamVet_PlayerTransitionClose04" // That was a little closer than I'da liked.
+"Player.NamVet_PositiveNoise01" // [Improv non-verbal pleasure & interest sounds]
+"Player.NamVet_PositiveNoise02" // [Improv non-verbal pleasure & interest sounds]
+"Player.NamVet_PositiveNoise03" // [Improv non-verbal pleasure & interest sounds]
+"Player.NamVet_RadioUsedBoat01" // Rescue boat's on its way. Now we gotta hold out.
+"Player.NamVet_RadioUsedChopper01" // I called the chopper
+"Player.NamVet_RadioUsedGeneric01" // Allright, people, help is on the way. Let's dig in.
+"Player.NamVet_RadioUsedGeneric02" // Okay, people, listen up: Help is on its way. We're almost out of this.
+"Player.NamVet_RadioUsedGeneric03" // Okay, people, this is it. It's almost over.
+"Player.NamVet_RadioUsedGeneric04" // Allright, people, an extraction team is on its way. Let's dig in.
+"Player.NamVet_RadioUsedGeneric05" // Listen up: rescue's on the way. We gotta hold out til they get here.
+"Player.NamVet_RadioUsedGeneric06" // Listen up: Help is on the way. We gotta hold out til it gets here.
+"Player.NamVet_RadioUsedGeneric07" // Allright, people, the good news is help is on the way. The bad news is we gotta stay alive until they get here.
+"Player.NamVet_RadioUsedGeneric08" // Okay, there's an extraction team inbound. We just gotta dig in until they get here.
+"Player.NamVet_RadioUsedPlane01" // Allright, people, there's an aircraft on its way. Let's dig in.
+"Player.NamVet_RadioUsedTruck01" // Listen up, there's a truck coming for us, so let's make sure we're alive to meet it.
+"Player.NamVet_ReactionApprehensive01" // I have a bad feeling about this
+"Player.NamVet_ReactionApprehensive02" // It's too quiet
+"Player.NamVet_ReactionApprehensive03" // Something don't feel right
+"Player.NamVet_ReactionApprehensive04" // I do not like this one bit.
+"Player.NamVet_ReactionApprehensive05" // I don't know...
+"Player.NamVet_ReactionApprehensive06" // Feels like an ambush...
+"Player.NamVet_ReactionBoomerVomit01" //
+"Player.NamVet_ReactionBoomerVomit02" //
+"Player.NamVet_ReactionBoomerVomit03" //
+"Player.NamVet_ReactionDisgusted01" // Ewwww...
+"Player.NamVet_ReactionDisgusted02" // Blech..
+"Player.NamVet_ReactionDisgusted03" // ehhhh
+"Player.NamVet_ReactionDisgusted04" // Oh shit.
+"Player.NamVet_ReactionDisgusted05" // Yech
+"Player.NamVet_ReactionDisgusted06" // echh
+"Player.NamVet_ReactionDisgusted07" // echh
+"Player.NamVet_ReactionDisgusted08" // Yech
+"Player.NamVet_ReactionNegative01" // Uh oh
+"Player.NamVet_ReactionNegative02" // Christ
+"Player.NamVet_ReactionNegative03" // Gee-zus
+"Player.NamVet_ReactionNegative04" // [Frustration sound]
+"Player.NamVet_ReactionNegative05" // [Frustration sound]
+"Player.NamVet_ReactionNegative06" // [Frustration sound]
+"Player.NamVet_ReactionNegative07" // God dammit
+"Player.NamVet_ReactionNegative08" // Ah shit
+"Player.NamVet_ReactionNegative09" // Son of a bitch
+"Player.NamVet_ReactionNegative10" // Dammit
+"Player.NamVet_ReactionNegative11" // ehhhh
+"Player.NamVet_ReactionNegative12" // [Frustration sound]
+"Player.NamVet_ReactionPositive01" // Allright!
+"Player.NamVet_ReactionPositive02" // Heh hehhh
+"Player.NamVet_ReactionPositive03" // Rock and roll
+"Player.NamVet_ReactionPositive04" // Trah-mendous
+"Player.NamVet_ReactionPositive05" // [chuckles and giggles]
+"Player.NamVet_ReactionPositive06" // [chuckles and giggles]
+"Player.NamVet_ReactionPositive07" // [chuckles and giggles]
+"Player.NamVet_ReactionPositive08" // [chuckles and giggles]
+"Player.NamVet_ReactionPositive09" // Well oh-kay
+"Player.NamVet_ReactionPositive10" // Out standing
+"Player.NamVet_ReactionPositive11" // Oh yeah
+"Player.NamVet_ReactionStartled01" // Whoah!
+"Player.NamVet_ReactionStartled02" // What the?
+"Player.NamVet_ReactionStartled03" // wah!
+"Player.NamVet_Reloading01" // Reloading
+"Player.NamVet_Reloading02" // Reloading
+"Player.NamVet_Reloading03" // Reloading
+"npc.NamVet_ReloadingQuiet01" // Reloading.
+"npc.NamVet_ReloadingQuiet02" // Reloading.
+"npc.NamVet_ReloadingQuiet03" // Reloading.
+"npc.NamVet_ReloadingQuiet04" // Reloading.
+"npc.NamVet_ReloadingQuiet05" // Reloading.
+"Player.NamVet_ReviveCriticalFriend01" // I can help you up, but I'm not gonna lie to ya - you're in bad shape. If we don't find you some first aid, you're not gonna survive another hit.
+"Player.NamVet_ReviveCriticalFriend02" // Holy hell, you are messed up. If we don't find you some first aid, you're not gonna survive another hit.
+"Player.NamVet_ReviveCriticalFriend03" // That really tore the hell outta you. If we don't find you some first aid, you're not gonna survive another hit.
+"Player.NamVet_ReviveCriticalFriend04" // Holy shit, they took a big piece outta you, kid. If we don't find you some first aid, you're not gonna survive another hit.
+"Player.NamVet_ReviveCriticalFriend05" // I can help you back on your feet, but it's temporary. If we don't find you some first aid, you're not gonna survive another hit.
+"Player.NamVet_ReviveCriticalFriend06" // You're in real bad shape, kid. If we don't find you some first aid, you're not gonna survive another hit.
+"Player.NamVet_ReviveCriticalFriend07" // No shame, kid. I woulda pissed myself, too. But if we don't find you some first aid, you're not gonna survive another hit.
+"Player.NamVet_ReviveFriend01" // Hold still, hold still. I'm gonna get you back on your feet and then we gotta move.
+"Player.NamVet_ReviveFriend02" // Okay. Allright, now. Come on kid, shake it off and let's get moving.
+"Player.NamVet_ReviveFriend03" // Ah hell, it looks a lot worse than it is. C'mon - you gotta get up and walk it off.
+"Player.NamVet_ReviveFriend04" // Probably stings like hell, but it ain't gonna kill ya. Up and at'em, soldier! Time to move.
+"Player.NamVet_ReviveFriend05" // There's a lot of blood, but you're not missin' anything important. Come on, get up, let's get moving!
+"Player.NamVet_ReviveFriend06" // Hold still, hold still. I'm gonna get you back on your feet and then we gotta move.
+"Player.NamVet_ReviveFriend07" // Okay. Allright, now. Come on kid, shake it off, let's get moving.
+"Player.NamVet_ReviveFriend08" // Take it easy, kid. I'm gonna get you back on your feet and fighting.
+"Player.NamVet_ReviveFriend09" // Hell, kid, they just winged ya. Come on, back on your feet and let's get moving.
+"Player.NamVet_ReviveFriend10" // Here we go - back on your feet, soldier. You're not gettin' out of this fight that easy.
+"Player.NamVet_ReviveFriend11" // Lie still, lemme look. Ah hell, I've seen worse. You'll be allright in a second.
+"Player.NamVet_ReviveFriend12" // You're not through yet, kid. Get up and let's go. These shitheads ain't gonna kill themselves.
+"Player.NamVet_ReviveFriend13" // Zoey, Zoey, don't worry - I won't leave you.
+"npc.NamVet_ReviveFriend14" // Ahh quit snivelling. I've seen worse.
+"npc.NamVet_ReviveFriend15" // Lemme get you up. Lemme get you up.
+"npc.NamVet_ReviveFriend16" // Relax Zoey, you're gonna be fine.
+"npc.NamVet_ReviveFriend17" // Hey Francis. Funny meeting you here. Get up.
+"npc.NamVet_ReviveFriend18" // Get up Louis. Hell, you gotta be more careful, son.
+"npc.NamVet_ReviveFriend19" // The man ain't comin' for you yet, Francis. Get up.
+"npc.NamVet_ReviveFriend20" // Son, you look rode hard and put away wet.
+"npc.NamVet_ReviveFriend21" // Ahhhh, dyin' ain't so scary. Happens all the time.
+"npc.NamVet_ReviveFriend22" // Stay with me, now. You did real good back there.
+"npc.NamVet_ReviveFriend23" // We'll live through this. Only the good and the really bad die young-and I figure we're somewhere in the middle.
+"npc.NamVet_ReviveFriend24" // Bein' brave doesn't mean you're not scared. It means you're scared as hell, and then you pick up the shotgun anyway.
+"npc.NamVet_ReviveFriendA01" // You okay?
+"npc.NamVet_ReviveFriendA02" // How ya feelin'?
+"npc.NamVet_ReviveFriendA03" // Can you make it?
+"npc.NamVet_ReviveFriendA04" // You gonna make it?
+"npc.NamVet_ReviveFriendA05" // How bad are you?
+"npc.NamVet_ReviveFriendA06" // You look bad.
+"npc.NamVet_ReviveFriendA07" // How ya doin'?
+"npc.NamVet_ReviveFriendA08" // Can you walk?
+"npc.NamVet_ReviveFriendB01" // Up and at 'em.
+"npc.NamVet_ReviveFriendB02" // Come on up!
+"npc.NamVet_ReviveFriendB03" // Up ya go, son.
+"npc.NamVet_ReviveFriendB04" // You'll be okay.
+"npc.NamVet_ReviveFriendB05" // I got ya.
+"npc.NamVet_ReviveFriendB06" // Up we go.
+"npc.NamVet_ReviveFriendB07" // Hell, you're fine.
+"npc.NamVet_ReviveFriendB08" // It don't look bad.
+"npc.NamVet_ReviveFriendB09" // Come on up.
+"npc.NamVet_ReviveFriendB10" // Let's move!
+"npc.NamVet_ReviveFriendB11" // You're fine.
+"npc.NamVet_ReviveFriendB12" // Back on yer feet, Louis.
+"npc.NamVet_ReviveFriendB13" // Looks like yer big mouth still works.
+"npc.NamVet_ReviveFriendB14" // You're okay, Zoey.
+"npc.NamVet_ReviveFriendB15" // You'll be fine.
+"npc.NamVet_ReviveFriendLoud01" // I gotcha. You're gonna make it!
+"npc.NamVet_ReviveFriendLoud02" // Get up, get up! We ain't got time for this!
+"npc.NamVet_ReviveFriendLoud03" // Get up, get up!
+"npc.NamVet_ReviveFriendLoud04" // Come on, get up!
+"npc.NamVet_ReviveFriendLoud05" // Hang on, I gotcha!
+"npc.NamVet_ReviveFriendLoud06" // Come on! You gotta get up!
+"npc.NamVet_ReviveFriendLoud07" // You're not done yet. Come on!
+"npc.NamVet_ReviveFriendLoud08" // Let's go! Get up! Let's go!
+"npc.NamVet_ReviveFriendLoud09" // Come on! This fight ain't over!
+"npc.NamVet_ReviveFriendLoud10" // Come on!
+"Player.NamVet_SafeSpotAhead01" // There's a safe spot up ahead.
+"Player.NamVet_SafeSpotAhead02" // There's a safe spot just ahead.
+"Player.NamVet_SafeSpotAhead03" // Safe spot dead ahead
+"Player.NamVet_SafeSpotAhead04" // We're near a safe spot.
+"Player.NamVet_SafeSpotAhead05" // There's a safe place up aheaad.
+"Player.NamVet_SafeSpotAhead06" // Safe place ahead.
+"npc.NamVet_SafeSpotAhead07" // Safe house ahead!
+"npc.NamVet_SafeSpotAhead08" // Safe house!
+"npc.NamVet_SafeSpotAheadReaction01" // Finally!
+"npc.NamVet_SafeSpotAheadReaction02" // Thank God.
+"npc.NamVet_SafeSpotAheadReaction03" // 'Bout time!
+"npc.NamVet_SafeSpotAheadReaction04" // Hallelujah!
+"npc.NamVet_SafeSpotAheadReaction05" // Well it's about damn time.
+"npc.NamVet_SafeSpotAheadReaction06" // I could use a damn break.
+"Player.NamVet_SawSomething01" // There's something over there
+"Player.NamVet_SawSomething02" // There's something over there
+"Player.NamVet_SawSomething03" // There's something over there
+"Player.NamVet_SawSomething04" // I saw something.
+"Player.NamVet_SawSomething05" // I saw something.
+"Player.NamVet_SawSomething06" // I saw something.
+"Player.NamVet_ScenarioJoin01" // I'm here.
+"Player.NamVet_ScenarioJoin02" // Hello!
+"Player.NamVet_ScenarioJoin03" // Hey, I'm here.
+"Player.NamVet_ScenarioJoinLast01" // We're all here.
+"Player.NamVet_ScreamWhilePounced01" // GET IT OFF!
+"Player.NamVet_ScreamWhilePounced02" // GET IT OFF GET IT OFF!
+"Player.NamVet_ScreamWhilePounced03" // GET IT OFF!
+"Player.NamVet_Shoved01" // [Reaction to body hits - uhs ahs]
+"Player.NamVet_Shoved02" // [Reaction to body hits - uhs ahs]
+"Player.NamVet_Shoved03" // [Reaction to body hits - uhs ahs]
+"Player.NamVet_Shoved04" // [Reaction to body hits - uhs ahs]
+"Player.NamVet_Shoved05" // [Reaction to body hits - uhs ahs]
+"Player.NamVet_Sorry01" // Sorry.
+"Player.NamVet_Sorry02" // I am sorry.
+"Player.NamVet_Sorry03" // Sorry about that.
+"Player.NamVet_Sorry04" // My fault!
+"Player.NamVet_Sorry05" // I shouldn't have done that.
+"Player.NamVet_Sorry06" // Ah horsehit, that was my fault.
+"Player.NamVet_Sorry07" // Sorry about that.
+"Player.NamVet_Sorry08" // My fault!
+"Player.NamVet_Sorry09" // Won't happen again.
+"Player.NamVet_Sorry10" // I regret that mistake.
+"Player.NamVet_Sorry11" // Ah, hell, I'm gettin too old for this shit
+"Player.NamVet_Sorry12" // That was careless of me.
+"npc.NamVet_SPOT01" // Ammo here!
+"npc.NamVet_SPOT02" // First aid kit here!
+"npc.NamVet_SPOT03" // First aid here!
+"npc.NamVet_SPOT04" // Grenades here!
+"npc.NamVet_SPOT05" // Weapons here!
+"npc.NamVet_SPOT06" // Pills here!
+"Player.NamVet_SpotAmmo01" // Ammo here!
+"Player.NamVet_SpotFirstAid01" // First Aid Kit here!
+"Player.NamVet_SpotFirstAid02" // First Aid here!
+"npc.NamVet_SpotFirstAid03" // First aid kit!
+"npc.NamVet_SpotFirstAid04" // First aid kit over here!
+"npc.NamVet_SpotFirstAid05" // Health pack here!
+"Player.NamVet_SpotGrenades01" // Grenades here!
+"npc.NamVet_SpotGrenades02" // Molotov over here!
+"npc.NamVet_SpotGrenades03" // Molotov!
+"npc.NamVet_SpotGrenades04" // Pipebomb over here!
+"npc.NamVet_SpotGrenades05" // Pipebomb!
+"Player.NamVet_SpotPills01" // Pills here!
+"Player.NamVet_SpotWeapons01" // Weapons here!
+"npc.NamVet_SpotWeapons02" // Weapon over here!
+"npc.NamVet_SpotWeapons03" // Got a Weapon here!
+"Player.NamVet_StayTogether01" // Stay close!
+"Player.NamVet_StayTogether02" // Come on - we got to stay together.
+"Player.NamVet_StayTogether03" // Keep together, people.
+"Player.NamVet_StayTogether04" // Stay together.
+"Player.NamVet_StayTogether05" // Form up!
+"Player.NamVet_StayTogether06" // Nobody go AWOL.
+"Player.NamVet_StayTogether07" // Stay close.
+"Player.NamVet_StayTogether08" // Don't get split up.
+"Player.NamVet_StayTogether09" // Stay together.
+"Player.NamVet_StayTogether10" // Stick together, people.
+"Player.NamVet_StayTogether11" // We've got to stay together.
+"Player.NamVet_StayTogetherInside01" // For chrissake people, get in here!
+"Player.NamVet_StayTogetherInside02" // Into the safe room, people!
+"Player.NamVet_StayTogetherInside03" // Double time it into the safe room, people!
+"Player.NamVet_StayTogetherInside04" // Assemble in the safe room!
+"Player.NamVet_StayTogetherInside05" // Fall back to the safe room!
+"npc.NamVet_SwearCoupdeGrace01" // Die, bitch!
+"npc.NamVet_SwearCoupdeGrace02" // Go to hell.
+"npc.NamVet_SwearCoupdeGrace03" // Burn in hell, you bastard!
+"npc.NamVet_SwearCoupdeGrace04" // Burn, you son of a bitch!
+"npc.NamVet_SwearCoupdeGrace05" // That was for Zoey, you son of a bitch.
+"npc.NamVet_SwearCoupdeGrace06" // That was for Francis, you son of a bitch.
+"npc.NamVet_SwearCoupdeGrace07" // That was for Louis, you son of a bitch.
+"npc.NamVet_SwearCoupdeGrace08" // Die, you bastard!
+"npc.NamVet_SwearCoupdeGrace09" // Burn in hell!
+"npc.NamVet_SwearCoupdeGrace10" // All you sick sons of bitches are gonna pay.
+"npc.NamVet_SwearCoupdeGrace11" // bu-tee-ful!
+"npc.NamVet_SwearCoupdeGrace12" // Burn, you bastard.
+"npc.NamVet_Swears01" // Bullshit.
+"npc.NamVet_Swears02" // Go to hell.
+"npc.NamVet_Swears03" // Son of a bitch.
+"npc.NamVet_Swears04" // Bull-frickin-horseshit.
+"npc.NamVet_Swears05" // Mother. Humper.
+"npc.NamVet_Swears06" // Bastard.
+"npc.NamVet_Swears07" // Ah hell.
+"npc.NamVet_Swears08" // Dammit.
+"npc.NamVet_Swears09" // God DAMMIT.
+"npc.NamVet_Swears10" // Mother of mercy.
+"npc.NamVet_Swears12" // Ah shit.
+"npc.NamVet_Swears13" // Shit shit shit.
+"npc.NamVet_Swears14" // What a crock a' shit...
+"npc.NamVet_Swears15" // Mother. Hubbard.
+"npc.NamVet_Swears16" // Ah shit.
+"npc.NamVet_Swears17" // Shit.
+"npc.NamVet_Swears18" // Shit shit shit.
+"npc.NamVet_Swears19" // What a crock a' shit...
+"npc.NamVet_Swears20" // Aw shiiiiiiiiit.
+"Player.NamVet_TakeAssaultRifle01" // An assault rifle. This shit's gettin more like 'nam every second.
+"Player.NamVet_TakeAssaultRifle02" // An assault rifle. Come to papa.
+"Player.NamVet_TakeAssaultRifle03" // I'm grabbing this rifle
+"Player.NamVet_TakeAssaultRifle04" // An assault rifle! Man, this takes me back.
+"Player.NamVet_TakeAssaultRifle05" // I'm grabbin' an assault rifle.
+"Player.NamVet_TakeAutoShotgun01" // Full auto shotgun
+"Player.NamVet_TakeAutoShotgun02" // Auto shottie!
+"Player.NamVet_TakeAutoShotgun03" // I'm grabbing this shotgun.
+"Player.NamVet_TakeAutoShotgun04" // I'm taking this shotgun
+"Player.NamVet_TakeAutoShotgun05" // Shotgun!
+"Player.NamVet_TakeFirstAid01" // First to aid, last to die
+"Player.NamVet_TakeFirstAid02" // Grabbing First Aid
+"Player.NamVet_TakeFirstAid03" // I'm gonna need these
+"Player.NamVet_TakeMolotov01" // Molotov.
+"Player.NamVet_TakeMolotov02" // Grabbing a Molotov.
+"Player.NamVet_TakeMolotov03" // Might want to save this for later.
+"Player.NamVet_TakePills01" // I'm gonna need these
+"Player.NamVet_TakePills02" // Grabbing pills
+"Player.NamVet_TakePills03" // Someone's gonna need these
+"Player.NamVet_TakePipeBomb01" // A black powder bomb.
+"Player.NamVet_TakePipeBomb02" // Grabbing a pipe bomb
+"Player.NamVet_TakePipeBomb03" // Grabbing a pipe bomb
+"Player.NamVet_TakePipeBomb04" // I'd rather have a grenade, but this'll do.
+"Player.NamVet_TakePistol01" // I'm taking an extra pistol
+"Player.NamVet_TakePistol02" // I'm taking an extra pistol.
+"Player.NamVet_TakePistol03" // Extra Pistol!
+"Player.NamVet_TakePistol04" // Extra Sidearm!
+"Player.NamVet_TakeShotgun01" // Grabbing a shotgun
+"Player.NamVet_TakeShotgun02" // I'm grabbing this shotgun.
+"Player.NamVet_TakeShotgun03" // Shotgun
+"Player.NamVet_TakeSniper01" // I'm gonna grab this range rifle
+"Player.NamVet_TakeSniper02" // I'm grabbing a hunting rifle.
+"Player.NamVet_TakeSubMachineGun01" // SMG
+"Player.NamVet_TakeSubMachineGun02" // Grabbing an SMG
+"Player.NamVet_TakeSubMachineGun03" // Full auto - beautiful.
+"Player.NamVet_TankPound01" // It's killin' me
+"Player.NamVet_TankPound02" // Get this thing offa me!
+"Player.NamVet_TankPound03" // AAHHHH He's crushing me!
+"Player.NamVet_Taunt01" // [loud, evil laugh]
+"Player.NamVet_Taunt02" // [loud, evil laugh]
+"Player.NamVet_Taunt03" // That's right
+"Player.NamVet_Taunt04" // That's right
+"Player.NamVet_Taunt05" // Oh Yeah
+"Player.NamVet_Taunt06" // Oh Yeah
+"Player.NamVet_Taunt07" // [loud, evil laugh]
+"Player.NamVet_Taunt08" // [loud, evil laugh]
+"Player.NamVet_Taunt09" // [loud, evil laugh]
+"Player.NamVet_Taunt10" // You're goin' down!
+"Player.NamVet_TeamKillAccident01" // Be careful!
+"Player.NamVet_TeamKillAccident02" // Have you lost your mind?
+"Player.NamVet_TeamKillAccident03" // What did you do you just do?
+"Player.NamVet_TeamKillAccident04" // Watch it, Watch it!
+"Player.NamVet_TeamKillOnPurpose01" // That ain't gonna earn you any medals.
+"Player.NamVet_TeamKillOnPurpose02" // CAREFUL!
+"Player.NamVet_TeamKillOnPurpose03" // Jesus H Christ, you had better not try that shit on me.
+"Player.NamVet_TeamKillOnPurpose04" // HE WAS ON OUR SIDE!
+"Player.NamVet_TeamKillOnPurpose05" // What in the holy hell are you doing?
+"Player.NamVet_TeamKillOnPurpose07" // Oh, nice work [sarcastic]
+"Player.NamVet_TeamKillOnPurpose08" // What in the hell are you thinking?
+"Player.NamVet_TeamKillOnPurpose09" // Now that was some true amateur hour horseshit.
+"Player.NamVet_Thanks01" // Thanks, I owe you one.
+"Player.NamVet_Thanks02" // appreciate that.
+"Player.NamVet_Thanks03" // Eh, you're a good kid.
+"Player.NamVet_Thanks04" // Thanks.
+"Player.NamVet_Thanks05" // Thank you.
+"Player.NamVet_Thanks06" // Thanks a lot.
+"Player.NamVet_Thanks07" // I owe ya one.
+"Player.NamVet_Thanks08" // That's one I owe you.
+"Player.NamVet_Thanks09" // 'ppreciate it.
+"Player.NamVet_Thanks10" // You didn't have to do that
+"Player.NamVet_Thanks11" // That wasn't necessary, but thanks.
+"Player.NamVet_ToTheRescue01" // Hold on I'm on my way!
+"Player.NamVet_ToTheRescue02" // I'm coming!
+"Player.NamVet_ToTheRescue03" // Don't get your panties in a bunch, I'm comin'!
+"npc.NamVet_ToTheRescueThanks01" // Thanks for getting me out of there.
+"npc.NamVet_ToTheRescueThanks02" // Thanks for that.
+"npc.NamVet_ToTheRescueThanks03" // Thanks. I was gettin' lonely.
+"npc.NamVet_ToTheRescueThanks04" // Thanks. It was gettin' hard to breathe in there.
+"Player.NamVet_TransitionClose01" // Well that didn't go so well
+"Player.NamVet_TransitionClose02" // We've done better
+"Player.NamVet_TransitionClose03" // Thank god that's over
+"Player.NamVet_TransitionClose04" // Thank god that's over
+"npc.NamVet_Uncertain01" // What the hell was that?
+"npc.NamVet_Uncertain02" // What was that?
+"npc.NamVet_Uncertain03" // What the hell is that?
+"npc.NamVet_Uncertain04" // What is that?
+"npc.NamVet_Uncertain05" // Did you hear that?
+"npc.NamVet_Uncertain06" // Anyone else hear that?
+"npc.NamVet_Uncertain07" // Are you kidding me?
+"npc.NamVet_ViolenceAwe01" // Jee-zus...
+"npc.NamVet_ViolenceAwe02" // Holy crap.
+"npc.NamVet_ViolenceAwe03" // Whoa.
+"npc.NamVet_ViolenceAwe04" // Holy shit...
+"npc.NamVet_ViolenceAwe05" // Did you see that?
+"npc.NamVet_ViolenceAwe06" // <laugh>Whoa-ho-ho.
+"npc.NamVet_ViolenceAwe07" // Holy Mother of God...
+"npc.NamVet_ViolenceAwe08" // Christ almighty...
+"npc.NamVet_VocalFidgets01" // *General idle noises*
+"npc.NamVet_VocalFidgets02" // *General idle noises*
+"npc.NamVet_VocalFidgets03" // *General idle noises*
+"npc.NamVet_VocalFidgets04" // *General idle noises*
+"npc.NamVet_VocalFidgets05" // *General idle noises*
+"npc.NamVet_VocalFidgets06" // *General idle noises*
+"npc.NamVet_VocalFidgets07" // *General idle noises*
+"Player.NamVet_WaitHere01" // Let's wait here.
+"Player.NamVet_WaitHere02" // Let's wait for a minute.
+"Player.NamVet_WaitHere03" // Wait here just a minute.
+"Player.NamVet_WaitHere04" // Hold up!
+"npc.NamVet_WARN01" // Boomer!
+"npc.NamVet_WARN02" // Tank!
+"npc.NamVet_WARN03" // Smoker!
+"npc.NamVet_WARN04" // Witch!
+"npc.NamVet_WARN05" // Hunter!
+"npc.NamVet_WARN06" // Boomer!
+"npc.NamVet_WARN07" // BOOMER!
+"npc.NamVet_WARN08" // Tank!
+"npc.NamVet_WARN09" // Smoker!
+"npc.NamVet_WARN10" // Witch!
+"npc.NamVet_WARN11" // WITCH!
+"npc.NamVet_WARN12" // Hunter!
+"npc.NamVet_WARN13" // Hunter!
+"npc.NamVet_WARN14" // TANK!
+"npc.NamVet_WARN15" // SMOKER!
+"npc.NamVet_WARN16" // Smoker!
+"npc.NamVet_WARN17" // Witch!
+"Player.NamVet_WarnBoomer01" // BOOMER!
+"Player.NamVet_WarnBoomer02" // BOOMER!
+"Player.NamVet_WarnBoomer03" // BOOMER!
+"Player.NamVet_WarnCareful01" // Careful.
+"Player.NamVet_WarnCareful02" // Watch yourself.
+"Player.NamVet_WarnCareful03" // Careful.
+"Player.NamVet_WarnCareful04" // Careful.
+"Player.NamVet_WarnCareful05" // Be careful.
+"Player.NamVet_WarnCareful06" // Watch yourself now.
+"Player.NamVet_WarnCareful07" // Eyes and ears, people, eyes and ears.
+"Player.NamVet_WarnCareful08" // Be careful.
+"Player.NamVet_WarnCareful09" // Stay sharp.
+"Player.NamVet_WarnCharger01" // Charger
+"Player.NamVet_WarnHunter01" // HUNTER!
+"Player.NamVet_WarnHunter02" // HUNTER!
+"Player.NamVet_WarnHunter03" // HUNTER!
+"Player.NamVet_WarnSmoker01" // SMOKER!
+"Player.NamVet_WarnSmoker02" // SMOKER!
+"Player.NamVet_WarnSmoker03" // SMOKER!
+"Player.NamVet_WarnSmoker04" // SMOKER!
+"Player.NamVet_WarnTank01" // TANK!
+"Player.NamVet_WarnTank02" // TANK!
+"Player.NamVet_WarnTank03" // TANK!
+"Player.NamVet_WarnWitch01" // WITCH!
+"Player.NamVet_WarnWitch02" // WITCH!
+"Player.NamVet_WarnWitch03" // WITCH!
+"Player.NamVet_WarnWitch04" // WITCH!
+"Player.NamVet_WatchOutBehind01" // Behind us!
+"Player.NamVet_WatchOutBehind02" // They're behind us!
+"Player.NamVet_WatchOutBehind03" // Behind us!
+"Player.NamVet_WatchOutBehind04" // They're behind us!
+"Player.NamVet_WitchChasing01" // I got a goddam witch on my ass,RUN!
+"Player.NamVet_WitchChasing02" // Ah shit, she's after me!
+"Player.NamVet_WitchChasing03" // SCATTER! WITCH! TRACKING ME!
+"Player.NamVet_WitchGettingAngry01" // There's gonna be hell to pay, you keep aggravatin that witch.
+"Player.NamVet_WitchGettingAngry02" // STOP! That witch is mad as hell.
+"Player.NamVet_WitchGettingAngry03" // Hold up, that witch is getting ready to pounce!
+"Player.NamVet_WitchGettingAngry04" // Hold on, that witch is about to blow.
+"Player.NamVet_WitchGettingAngry05" // STOP! That witch is mad as hell.
+"npc.NamVet_WorldAirport0101" // I've seen 'em fly lower.
+"npc.NamVet_WorldAirport0102" // A C-130 is nice flying.
+"npc.NamVet_WorldAirport0401" // Just like I said, they bombed the airport
+"npc.NamVet_WorldAirport0402" // What'd I tell ya?  They tried to stop people from leaving.
+"npc.NamVet_WorldAirport0403" // Bombed!
+"npc.NamVet_WorldAirport0404" // Who in the hell set that off?
+"npc.NamVet_WorldAirport0405" // Why in the hell would you set that off?
+"npc.NamVet_WorldAirport0406" // How in the hell was I supposed to know?
+"npc.NamVet_WorldAirportIntro01" // That's a C-130! Maybe we can catch up to it at the airport!
+"npc.NamVet_WorldAirportIntro02" // That C-130's headed for the airport. I say we head there, too.
+"npc.NamVet_WorldAirportNPC01" // Terry's dead, kid. We can get you gassed up if you like.
+"npc.NamVet_WorldAirportNPC02" // It ain't Terry, pal. You want us to get you gassed up?
+"npc.NamVet_WorldAirportNPC03" // Terry's dead. You lookin' to fuel up?
+"npc.NamVet_WorldAirportNPC04" // Terry's dead, son. Can you get this plane in the air?
+"npc.NamVet_WorldAirportNPC05" // Understood. Come on, kids, let's load up.
+"npc.NamVet_WorldAirportNPC06" // I see it. Give us a minute to get ready.
+"npc.NamVet_WorldAirportNPC07" // Allright, let's get this done.
+"npc.NamVet_WorldAirportNPC08" // About goddamn time!
+"npc.NamVet_WorldAirportNPC09" // [shooting infected off hangar] Oh no, ya don't! [cackles]
+"npc.NamVet_WorldAirportNPC10" // Louis didn't make it!
+"npc.NamVet_WorldAirportNPC11" // Zoey didn't make it!
+"npc.NamVet_WorldAirportNPC12" // Francis didn't make it!
+"npc.NamVet_WorldFarmHouse0101" // I don't trust the woods.
+"npc.NamVet_WorldFarmHouse0102" // Francis, this look like home to you?
+"npc.NamVet_WorldFarmHouse0103" // There's the tracks!
+"npc.NamVet_WorldFarmHouse0104" // We can get down to the tracks through there.
+"npc.NamVet_WorldFarmHouse0105" // Safe house back here!
+"npc.NamVet_WorldFarmHouse0106" // We gotta follow these train tracks.
+"npc.NamVet_WorldFarmHouse0107" // There's the train tracks!
+"npc.NamVet_WorldFarmHouse0108" // There's our train tracks!
+"npc.NamVet_WorldFarmHouse0201" // We can get down to the tracks through here!
+"npc.NamVet_WorldFarmHouse0202" // It's through this tunnel.
+"npc.NamVet_WorldFarmHouse0203" // We gotta follow the tracks.
+"npc.NamVet_WorldFarmHouse0204" // Through here!
+"npc.NamVet_WorldFarmHouse0205" // Goddamnit, the tracks are blocked.
+"npc.NamVet_WorldFarmHouse0206" // This side passage better lead somewhere.
+"npc.NamVet_WorldFarmHouse0207" // Safe house in here!
+"npc.NamVet_WorldFarmHouse0208" // Tracks are blocked!
+"npc.NamVet_WorldFarmHouse0209" // Ah hell. I think we gotta go through this tunnel.
+"npc.NamVet_WorldFarmHouse0301" // This shit just confuses me.
+"npc.NamVet_WorldFarmHouse0302" // Blind leading the blind...
+"npc.NamVet_WorldFarmHouse0303" // Fresh air!
+"npc.NamVet_WorldFarmHouse0304" // Electrical fence!
+"npc.NamVet_WorldFarmHouse0305" // Hit that power switch!
+"npc.NamVet_WorldFarmHouse0306" // Get the power.
+"npc.NamVet_WorldFarmHouse0307" // Start the engine!
+"npc.NamVet_WorldFarmHouse0308" // Let's unhook that car.
+"npc.NamVet_WorldFarmHouse0309" // Get that thing moving!
+"npc.NamVet_WorldFarmHouse0310" // Hit it!
+"npc.NamVet_WorldFarmHouse0311" // All Aboard!
+"npc.NamVet_WorldFarmHouse0312" // Let's get up there!
+"npc.NamVet_WorldFarmHouse0313" // Up there!
+"npc.NamVet_WorldFarmHouse0314" // Safe house up there.
+"npc.NamVet_WorldFarmHouse0315" // Check that house for supplies.
+"npc.NamVet_WorldFarmHouse0316" // There's the tracks.
+"npc.NamVet_WorldFarmHouse0317" // Goddamn track's blocked again
+"npc.NamVet_WorldFarmHouse0318" // Let's get over that hill.
+"npc.NamVet_WorldFarmHouse0401" // Check the barn for supplies.
+"npc.NamVet_WorldFarmHouse0402" // Anyone check that barn?
+"npc.NamVet_WorldFarmHouse0403" // Keep moving. The tracks gotta be up ahead
+"npc.NamVet_WorldFarmHouse0404" // I remember that shit.
+"npc.NamVet_WorldFarmHouse0405" // I hated that show.
+"npc.NamVet_WorldFarmHouse0406" // Station ahead!
+"npc.NamVet_WorldFarmHouse0407" // The tracks are down there!
+"npc.NamVet_WorldFarmHouse0408" // Train station.
+"npc.NamVet_WorldFarmHouse0409" // Anything about the base?
+"npc.NamVet_WorldFarmHouse0410" // Why can't one of these goddamn trains be working?
+"npc.NamVet_WorldFarmHouse0411" // We can go through this building.
+"npc.NamVet_WorldFarmHouse0412" // Get the gate.
+"npc.NamVet_WorldFarmHouse0413" // Open the gate.
+"npc.NamVet_WorldFarmHouse0414" // Cross the bridge! Go go go!
+"npc.NamVet_WorldFarmHouse0415" // Run for the car!
+"npc.NamVet_WorldFarmHouse0416" // Get to the train!
+"npc.NamVet_WorldFarmHouse0417" // Haul it!
+"npc.NamVet_WorldFarmHouse0501" // Finally, an outpost!
+"npc.NamVet_WorldFarmHouse0502" // The honest to God military!
+"npc.NamVet_WorldFarmHouse0503" // Up the hill!
+"npc.NamVet_WorldFarmHouse0504" // I could go for some creamed corn.
+"npc.NamVet_WorldFarmHouse0505" // I got a hankering for some corn on the cob.
+"npc.NamVet_WorldFarmHouse0506" // Something ain't right
+"npc.NamVet_WorldFarmHouse0507" // Settle down Francis. Just use that radio. They'll come.
+"npc.NamVet_WorldFarmHouse0508" // Hope they don't take long.
+"npc.NamVet_WorldFarmHouse0509" // You guys ready? I'm callin' em.
+"npc.NamVet_WorldFarmHouse0510" // I'm callin' 'em to come get our sorry asses.
+"npc.NamVet_WorldFarmHouse0511" // Beautiful! The calvery has arrived!
+"npc.NamVet_WorldFarmHouse0512" // Roger and out.
+"npc.NamVet_WorldFarmHouse0513" // H-o-l-y s-h-i-t
+"npc.NamVet_WorldFarmHouse0514" // Now that is how you do it people!
+"npc.NamVet_WorldFarmHouse0515" // I believe we have found our place.
+"npc.NamVet_WorldFarmHouse0516" // Anyone for just retiring here?
+"npc.NamVet_WorldFarmHouse0517" // We can set up in the barn or the house.
+"npc.NamVet_WorldFarmHouseIntro01" // Emergency band was talking about a military outpost just North a' here.
+"npc.NamVet_WorldFarmHouseIntro02" // We just need to find the train tracks and then follow 'em.
+"npc.NamVet_WorldFarmHouseIntro03" // If we can find some train tracks, we can follow 'em to the military outpost.
+"npc.NamVet_WorldFarmHouseIntro04" // I wonder what outfit is stationed there?
+"npc.NamVet_WorldFarmHouseIntro05" // Probably the chickenshit national guard.
+"npc.NamVet_WorldFarmHouseIntro06" // I heard the military's got an outpost just north of here. There should be some train tracks somewhere around here that'll take us right to it.
+"npc.NamVet_WorldFarmHouseIntro07" // The military's got an outpost just north of here. We gotta find the train tracks and they should take us right to it.
+"npc.NamVet_WorldFarmHouseIntro08" // The military hasn't been much help so far, but last I heard they had an outpost not far from here off the railroad tracks.
+"npc.NamVet_WorldFarmHouseIntro09" // I say we follow the tracks and see if the outpost is still operational.
+"npc.NamVet_WorldFarmHouseIntro10" // If anyone has a better plan, speak now.
+"npc.NamVet_WorldFarmHouseIntro11" // I'll admit the government hasn't been a hell of a lotta help so far, but we're runnin' out of options here.
+"npc.NamVet_WorldFarmHouseIntro12" // Last thing I heard, there's some kind of military outpost not far from here along the train tracks.
+"npc.NamVet_WorldFarmHouseNPC01" // We're here!
+"npc.NamVet_WorldFarmHouseNPC02" // Hello?
+"npc.NamVet_WorldFarmHouseNPC03" // Copy that!
+"npc.NamVet_WorldFarmHouseNPC04" // Roger that!
+"npc.NamVet_WorldFarmHouseNPC05" // We're ready, soldier.
+"npc.NamVet_WorldFarmHouseNPC06" // You are a voice for sore ears, son.
+"npc.NamVet_WorldFarmHouseNPC07" // We're good to go, son.
+"npc.NamVet_WorldFarmHouseNPC08" // Lookin' forward to seein' you.
+"npc.NamVet_WorldFarmHouseNPC09" // Read you loud and clear, son.
+"npc.NamVet_WorldFarmHouseNPC10" // Roger. We'll be waiting.
+"npc.NamVet_WorldFarmHouseNPC11" // Understood, soldier.
+"npc.NamVet_WorldFarmHouseNPC12" // Goddamn it, we gave 'em hell, didn't we? [coughing]  We gave 'em hell...
+"npc.NamVet_WorldFarmHouseNPC19" // Yeah, we did it.
+"npc.NamVet_WorldFarmHouseNPC20" // Yeah, we made it.
+"npc.NamVet_WorldFarmHouseNPC21" // We made it.
+"npc.NamVet_WorldFarmHouseNPC22" // We did it.
+"npc.NamVet_WorldFarmHouseNPC23" // YEEHAW!!
+"Player.NamVet_WorldHospital0101" // The red line will take us straight to mercy hospital.
+"Player.NamVet_WorldHospital0102" // Station's just up the street.
+"Player.NamVet_WorldHospital0103" // There's a subway station just around the corner.
+"Player.NamVet_WorldHospital0104" // Might not be a bad idea to get off the street.
+"Player.NamVet_WorldHospital0105" // Poor gal didn't make it. Well, I understand.
+"Player.NamVet_WorldHospital0106" // There's the station!
+"Player.NamVet_WorldHospital0107" // Everyone to the station!
+"Player.NamVet_WorldHospital0108" // This way people.
+"Player.NamVet_WorldHospital0109" // This way!
+"Player.NamVet_WorldHospital0110" // It's right around the corner!
+"Player.NamVet_WorldHospital0111" // Station's blocked.  Maybe we can get through here?
+"Player.NamVet_WorldHospital0112" // We can take the subway tunnels to the hospital.  There's a redline station not far from here.
+"Player.NamVet_WorldHospital0201" // Ahh shit, subway looks full of zombies.
+"Player.NamVet_WorldHospital0202" // Was hoping there would be less zombies down here.
+"Player.NamVet_WorldHospital0203" // Red line North will take us straight there.
+"Player.NamVet_WorldHospital0204" // The red line North will take us to Mercy.
+"Player.NamVet_WorldHospital0205" // The red line North will take us to the hospital.
+"Player.NamVet_WorldHospital0206" // At least it isn't raining in here.
+"Player.NamVet_WorldHospital0207" // The north line is to the right.
+"Player.NamVet_WorldHospital0208" // Goddamnit, the line's blocked.
+"Player.NamVet_WorldHospital0209" // Gotta find another way.
+"Player.NamVet_WorldHospital0210" // This seemed too easy.
+"Player.NamVet_WorldHospital0211" // Going to have to go top side.
+"Player.NamVet_WorldHospital0212" // It isn't that much farther.
+"Player.NamVet_WorldHospital0213" // I'll hit it.
+"Player.NamVet_WorldHospital0214" // Get Ready! I'm hitting the button.
+"Player.NamVet_WorldHospital0215" // At least it's brighter (ironic)
+"Player.NamVet_WorldHospital0216" // Guns up here.
+"Player.NamVet_WorldHospital0217" // Look, there's guns.
+"Player.NamVet_WorldHospital0218" // Guns!
+"Player.NamVet_WorldHospital0219" // Down the street.
+"Player.NamVet_WorldHospital0220" // We have to keep moving down the street.
+"Player.NamVet_WorldHospital0221" // Don't shoot that car!
+"Player.NamVet_WorldHospital0222" // Check your guns.  Don't shoot the car!
+"Player.NamVet_WorldHospital0223" // What in the hell were you thinking!?!?
+"Player.NamVet_WorldHospital0224" // Safehouse up in the pawnshop.
+"Player.NamVet_WorldHospital0225" // Get to the pawnshop people!
+"Player.NamVet_WorldHospital0226" // Keep moving, safehouse ahead!
+"Player.NamVet_WorldHospital0227" // The north line is to the right.
+"Player.NamVet_WorldHospital0301" // I don't know which way.  Through here I think.
+"Player.NamVet_WorldHospital0302" // Should be a way up ahead.
+"Player.NamVet_WorldHospital0303" // Deadend, let's try up there.
+"Player.NamVet_WorldHospital0304" // To the lift.
+"Player.NamVet_WorldHospital0305" // Hit the button!
+"Player.NamVet_WorldHospital0306" // Through the warehouse.
+"Player.NamVet_WorldHospital0307" // At least this is the right direction.
+"Player.NamVet_WorldHospital0308" // Looks like people went this way.
+"Player.NamVet_WorldHospital0309" // I think they tried to escape.
+"Player.NamVet_WorldHospital0310" // Into the sewers we go.
+"Player.NamVet_WorldHospital0311" // Well hell, let's try the sewers.
+"Player.NamVet_WorldHospital0312" // Maybe there's no stinkin' zombies in the sewers? (laughing)
+"Player.NamVet_WorldHospital0313" // Already smell pretty bad.
+"Player.NamVet_WorldHospital0314" // Need to find manhole, the hospital is above us.
+"Player.NamVet_WorldHospital0315" // I've smelled worse.
+"Player.NamVet_WorldHospital0316" // Francis, is that you or the sewer?
+"Player.NamVet_WorldHospital0317" // Heaven help us.
+"Player.NamVet_WorldHospital0318" // That's a crock of shit.
+"Player.NamVet_WorldHospital0319" // The HOSPITAL!
+"Player.NamVet_WorldHospital0320" // TO THE HOSPITAL!
+"Player.NamVet_WorldHospital0321" // Into the emergency room people!
+"Player.NamVet_WorldHospital0322" // Let's go, let's go.
+"Player.NamVet_WorldHospital0323" // Get on the lift!
+"Player.NamVet_WorldHospital0324" // Hospital's just on the other side of the water works.
+"Player.NamVet_WorldHospital0325" // There's the Hospital!
+"Player.NamVet_WorldHospital0327" // Through here!
+"Player.NamVet_WorldHospital0328" // Need to find manhole.
+"Player.NamVet_WorldHospital0329" // Get on the lift!
+"Player.NamVet_WorldHospital0401" // Almost there!
+"Player.NamVet_WorldHospital0402" // Power's on.
+"Player.NamVet_WorldHospital0403" // At least the power's on.
+"Player.NamVet_WorldHospital0404" // Let's find an elevator.
+"Player.NamVet_WorldHospital0405" // I ain't walking to the roof.
+"Player.NamVet_WorldHospital0406" // Ahh.. more stairs.
+"Player.NamVet_WorldHospital0407" // I'm callin' the elevator people.
+"Player.NamVet_WorldHospital0408" // Get ready, I'm callin' the elevator.
+"Player.NamVet_WorldHospital0410" // Can't that thing move any faster? (loud and quiet)
+"Player.NamVet_WorldHospital0411" // Can't this thing move any faster? (loud and quiet)
+"Player.NamVet_WorldHospital0412" // Elevator's here!
+"Player.NamVet_WorldHospital0413" // Get to the elevator!
+"Player.NamVet_WorldHospital0414" // Into the elevator!
+"Player.NamVet_WorldHospital0415" // Now to the roof!
+"Player.NamVet_WorldHospital0416" // Watch out for the fall!
+"Player.NamVet_WorldHospital0417" // Saferoom up here!
+"Player.NamVet_WorldHospital0418" // We can get to the the roof through here.
+"Player.NamVet_WorldHospital0419" // Hurry up.
+"Player.NamVet_WorldHospital0420" // Hurry up people.
+"Player.NamVet_WorldHospital0421" // Can't that thing move any faster? (loud and quiet)
+"Player.NamVet_WorldHospital0422" // Can't this thing move any faster? (loud and quiet)
+"Player.NamVet_WorldHospital0423" // That first step'll kill ya.
+"Player.NamVet_WorldHospital0424" // Watch out that first step'll kill ya.
+"Player.NamVet_WorldHospital0501" // Roof this way!
+"Player.NamVet_WorldHospital0502" // There's the landing pad.
+"Player.NamVet_WorldHospital0503" // Let's find that radio.
+"Player.NamVet_WorldHospital0504" // Let's find the radio and get a hold of that pilot.
+"Player.NamVet_WorldHospital0505" // Well this is it.
+"Player.NamVet_WorldHospital0506" // Get to the chopper!
+"Player.NamVet_WorldHospital0507" // Oh man, so close, so close.
+"Player.NamVet_WorldHospital0508" // Let's get the hell out of here!
+"Player.NamVet_WorldHospital0509" // Damn happy to see you!
+"Player.NamVet_WorldHospital0510" // Dust off!
+"Player.NamVet_WorldHospital0511" // Jesus Mary and Joseph!
+"Player.NamVet_WorldHospital0512" // For christ's sake!
+"Player.NamVet_WorldHospital0513" // Let's find that radio.
+"npc.NamVet_WorldSmallTown0101" // These woods look thicker 'n boomer shit. Nobody wander off.
+"npc.NamVet_WorldSmallTown0102" // Nobody wander off.
+"npc.NamVet_WorldSmallTown0401" // This place is a ghost town.
+"npc.NamVet_WorldSmallTown0402" // Looks like they couldn't hold out.
+"npc.NamVet_WorldSmallTown0403" // Something doesn't feel right here.
+"npc.NamVet_WorldSmallTown0404" // There's lights on in that church!
+"npc.NamVet_WorldSmallTown0405" // Let's check out the church.
+"npc.NamVet_WorldSmallTown0407" // Poor bastards barricaded themselves inside the city. All it musta took was one infected...
+"npc.NamVet_WorldSmallTown0408" // We're gonna die if we stay in Riverside. Let's head to the water and look for a boat.
+"npc.NamVet_WorldSmallTown0409" // The television said people were heading to Riverside.
+"npc.NamVet_WorldSmallTown0410" // This tunnel was a deathtrap.
+"npc.NamVet_WorldSmallTown0411" // They didn't have a chance.
+"npc.NamVet_WorldSmallTownNPCBellman01" // Son, we're immune, we're tired, and there's infected in the damn woods. Now cut the shit and let us in!
+"npc.NamVet_WorldSmallTownNPCBellman02" // We're as human as they come, son. I promise you.
+"npc.NamVet_WorldSmallTownNPCBellman03" // This guy's nuttier than candy bar shit.
+"npc.NamVet_WorldSmallTownNPCBellman04" // I don't believe this.
+"npc.NamVet_WorldSmallTownNPCBellman05" // Oh, what the hell! OPEN THE DOOR ALREADY!
+"npc.NamVet_WorldSmallTownNPCBellman06" // Son, any of us get hurt, you WILL regret it.
+"npc.NamVet_WorldSmallTownNPCBellman07" // I don't believe this shit. We're arguin' for our lives here with a damn mental moron!
+"npc.NamVet_WorldSmallTownNPCBoatman01" // We're gonna need a minute to think about it.
+"npc.NamVet_WorldSmallTownNPCBoatman02" // You got a deal. Give us a minute to get ready.
+"npc.NamVet_WorldSmallTownNPCBoatman03" // You got a deal.
+"npc.NamVet_WorldSmallTownNPCBoatman04" // Go on and head out. We're ready.
+"npc.NamVet_WorldSmallTownNPCBoatman05" // Come and get us. We're good to go.
+"npc.NamVet_WorldSmallTownNPCBoatman06" // For all we know he's out there on a Huck Finn raft. Still, he's all we got.
+"npc.NamVet_WorldSmallTownNPCBoatman07" // This'd better be a big goddamn boat.
+"npc.NamVet_WorldSmallTownNPCBoatman08" // I wish he'd hurry the hell up.
+"npc.NamVet_WorldSmallTownNPCBoatman09" // How long's it take to drive a boat to shore?
+"npc.NamVet_WorldSmallTownNPCBoatman10" // He's sure taking his sweet time about it.
+"npc.NamVet_WorldSmallTownNPCBoatman11" // Move your asses, people, we are leaving!
+"npc.NamVet_WorldSmallTownNPCBoatman12" // When this is all over? Something tells me I ain't gonna visit Riverside again.
+"npc.NamVet_WorldSmallTownNPCBoatman13" // So that was Riverside, was it? [beat] What. A. Shithole.
+"npc.NamVet_WorldSmallTownNPCBoatman14" // See you later, Riverside.
+"npc.NamVet_WorldSmallTownNPCBoatman15" // Ma'am, I'm sorry, but we're gonna take your husband's offer.
+"npc.NamVet_WorldSmallTownNPCBoatman16" // Miss, I think we're gonna take your husband's offer.
+"Player.NamVet_Yes01" // d'oh jeez, allright.
+"Player.NamVet_Yes02" // Roger that.
+"Player.NamVet_Yes03" // Yeah.
+"Player.NamVet_Yes04" // Okay.
+"Player.NamVet_Yes05" // Yes.
+"Player.NamVet_Yes06" // Affirmative.
+"Player.NamVet_YouAreWelcome01" // Sure thing.
+"Player.NamVet_YouAreWelcome02" // Well, you're welcome.
+"Player.NamVet_YouAreWelcome03" // Any time.
+"Player.NamVet_YouAreWelcome04" // Hey, no problem
+"Player.NamVet_YouAreWelcome05" // No problem.
+"Player.NamVet_YouAreWelcome06" // No problem.
+"Player.NamVet_YouAreWelcome07" // Sure.
+"Player.NamVet_YouAreWelcome08" // Sure thing, kid.
+"Player.NamVet_YouAreWelcome09" // Not a problem.
+"Player.NamVet_YouAreWelcome10" // Yeah, yeah, yeah.
+"Player.NamVet_YouAreWelcome11" // Don't get too used to it.
+"Player.NamVet_YouAreWelcome12" // Don't mention it.
+"Player.NamVet_YouAreWelcome13" // Eh, it's not a big deal.
+"Player.NamVet_YouAreWelcome14" // Yeah, okay, it don't mean we're married now
+"Player.NamVet_YouAreWelcome15" // Don't expect a hug
+"npc.NamVet_ZombieGeneralPurpose01" // Here's an awful thought. What if this thing evolves like a virus? I mean to say: what if bein' immune's not a lifetime guarantee?
+"npc.NamVet_ZombieGeneralPurpose02" // [cough, sniff] Goddamnit. I can't even get a cold anymore without worryin' it's the early stages of zombieism.
+"npc.NamVet_ZombieGeneralPurpose03" // Ah well. Least I'm old. No offense to you kids, but I already had a full life.
+"npc.NamVet_ZombieGeneralPurpose05" // The zombies I can live with. But good lord, I hate the woods.
+"npc.NamVet_ZombieGeneralPurpose06" // [alert] You hear that, or am I goin' senile?
+"npc.NamVet_ZombieGeneralPurpose07" // This just went pear-shaped! Fall back!
+"npc.NamVet_ZombieGeneralPurpose08" // Don't worry about me, I'm calm as a june bug.
+"npc.NamVet_ZombieGeneralPurpose09" // I'm jumpier'n' spit on a hot skillet.
+"npc.NamVet_ZombieGeneralPurpose10" // Francis, if they melted your yellow ass down, you couldn't be poured into a fight.
+"npc.NamVet_ZombieGeneralPurpose11" // Laggin' behind, Francis? That's okay. Yellow suits you.
+"npc.NamVet_ZombieGeneralPurpose12" // Don't let Francis get to ya. He's all broth and no beans.
+"npc.NamVet_ZombieGeneralPurpose13" // Don't let Francis wear you down. He'd break his arm pattin' himself on the back.
+"npc.NamVet_ZombieGeneralPurpose14" // What's the matter? You decided you want to live forever? Let's go!
+"npc.NamVet_ZombieGeneralPurpose15" // I know it's a nice safehouse, but we need to keep moving.
+"npc.NamVet_ZombieGeneralPurpose16" // You gonna stick around and redecorate? Come on, let's go.
+"npc.NamVet_ZombieGeneralPurpose17" // Come on, Zoey. If we don't keep moving we're goners.
+"npc.NamVet_ZombieGeneralPurpose18" // Don't shut the door! She's still out there!
+"npc.NamVet_ZombieGeneralPurpose19" // I blame Bill Clinton.
