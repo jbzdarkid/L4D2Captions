@@ -1,6 +1,7 @@
 # L4D2Captions
 A set of closed captions aimed at competitive l4d/l4d2 players
 Due to engine limitations, the captions are split into two files.
+Not printing on C3M1 because it's too spammy.
 
 Currently tracking:
 Red: Black and White (self)
