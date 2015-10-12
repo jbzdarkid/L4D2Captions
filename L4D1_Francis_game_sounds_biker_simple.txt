@@ -1397,3 +1397,410 @@
 "Player.Biker_WarnCareful09" // Careful, kids...
 "Player.Biker_WarnCharger01" // Charger
 "Player.Biker_WarnHunter01" // HUNTER!
+"Player.Biker_WarnHunter02" // HUNTER!
+"Player.Biker_WarnHunter03" // HUNTER!
+"Player.Biker_WarnSmoker01" // SMOKER!
+"Player.Biker_WarnSmoker02" // SMOKER!
+"Player.Biker_WarnSmoker03" // SMOKER!
+"Player.Biker_WarnTank01" // TANK!
+"Player.Biker_WarnTank02" // TANK!
+"Player.Biker_WarnTank03" // TANK!
+"Player.Biker_WarnWitch01" // WITCH!
+"Player.Biker_WarnWitch02" // WITCH!
+"Player.Biker_WarnWitch03" // WITCH!
+"Player.Biker_WatchOutBehind01" // Behind us!
+"Player.Biker_WatchOutBehind02" // They're behind us!
+"Player.Biker_WatchOutBehind03" // Behind us!
+"Player.Biker_WitchChasing01" // She's Coming For me!
+"Player.Biker_WitchChasing02" // Witch on my ass!
+"Player.Biker_WitchChasing03" // The WITCH IS CHASING ME!
+"Player.Biker_WitchChasing04" // Shit, she's Coming For me!
+"Player.Biker_WitchGettingAngry01" // You got a death wish? Leave that witch alone!
+"Player.Biker_WitchGettingAngry02" // Stop spookin' the effin witch!
+"Player.Biker_WitchGettingAngry03" // Oh shit, the witch's gettin' riled up!
+"Player.Biker_WitchGettingAngry04" // Watch it, that witch is gettin' pissed!
+"npc.Biker_WorldAirport0102" // Working plane means working airport. I say we head there.
+"npc.Biker_WorldAirport0103" // We got a better chance of making if we stick to the rooftops.
+"npc.Biker_WorldAirport0104" // That plane's headed right for the airport. I say we head there too.
+"npc.Biker_WorldAirport0105" // The whole damn city's on fire.
+"npc.Biker_WorldAirport0106" // I sure as hell wouldn't mind flyin' outta here. Let's head to the airport.
+"npc.Biker_WorldAirport0107" // That plane's headed for the airport and the airport ain't far from here. If nobody's got a better idea, I say we head for the airport too.
+"npc.Biker_WorldAirport0108" // Up the fire escape!
+"npc.Biker_WorldAirport0109" // Get to the hotel!
+"npc.Biker_WorldAirport0110" // Safe house in the hotel!
+"npc.Biker_WorldAirport0111" // It's worth a try.
+"npc.Biker_WorldAirport0112" // That's better than my plan.
+"npc.Biker_WorldAirport0113" // I didn't have one.
+"npc.Biker_WorldAirport0114" // That plane's headed right for the airport. I say we head there too.
+"npc.Biker_WorldAirport0115" // Holy shit, the whole damn city's on fire.
+"npc.Biker_WorldAirport0201" // We can get back to the rooftops.
+"npc.Biker_WorldAirport0202" // Let's head back up.
+"npc.Biker_WorldAirport0203" // We oughtta get back on the rooftops.
+"npc.Biker_WorldAirport0204" // We can't get across some buildings this way
+"npc.Biker_WorldAirport0205" // The crane'll lower that dumpster, then we can jump across.
+"npc.Biker_WorldAirport0206" // We can get across on that dumpster.
+"npc.Biker_WorldAirport0207" // Somebody wanna lower that dumpster so we can get across?
+"npc.Biker_WorldAirport0208" // Somebody start the crane.
+"npc.Biker_WorldAirport0209" // It's down! Let's move!
+"npc.Biker_WorldAirport0210" // Our dumpster has arrived! Let's go!
+"npc.Biker_WorldAirport0211" // We're gonna have to jump for it.
+"npc.Biker_WorldAirport0212" // Gonna have to jump it.
+"npc.Biker_WorldAirport0213" // Dig in. That dumpster's gonna take a minute.
+"npc.Biker_WorldAirport0214" // Jump!
+"npc.Biker_WorldAirport0215" // Down the stairs!
+"npc.Biker_WorldAirport0216" // Let's head down the stairs.
+"npc.Biker_WorldAirport0217" // Good thinking!
+"npc.Biker_WorldAirport0218" // Nice crane technique, Louis!
+"npc.Biker_WorldAirport0219" // Good job, Billy!
+"npc.Biker_WorldAirport0220" // You really made that crane your bitch, Zoey.
+"npc.Biker_WorldAirport0221" // We're getting close the airport!
+"npc.Biker_WorldAirport0222" // We're almost to the airport!
+"npc.Biker_WorldAirport0223" // Safe house in that storage place!
+"npc.Biker_WorldAirport0224" // Looks like we take the stairs.
+"npc.Biker_WorldAirport0225" // We're all outta roof.
+"npc.Biker_WorldAirport0226" // Nice one, Bill!
+"npc.Biker_WorldAirport0227" // Good thinking, Zoey!
+"npc.Biker_WorldAirport0228" // Nice thinking, Louis!
+"npc.Biker_WorldAirport0229" // Don't everybody start the crane at once.
+"npc.Biker_WorldAirport0230" // Damn, I hate hotels.
+"npc.Biker_WorldAirport0231" // Our dumpster has arrived! Let's go, girls!
+"npc.Biker_WorldAirport0232" // I hate jumping.
+"npc.Biker_WorldAirport0301" // Let's burn down this barricade.
+"npc.Biker_WorldAirport0302" // It figures the only thing in the damn city not on fire is the one thing we need burned down.
+"npc.Biker_WorldAirport0303" // THE AIRPORT!
+"npc.Biker_WorldAirport0304" // HELL YES, IT'S THE AIRPORT!
+"npc.Biker_WorldAirport0305" // Through here!
+"npc.Biker_WorldAirport0306" // What the hell happened to the airport?
+"npc.Biker_WorldAirport0307" // Well, we're here, we may as well look for a plane.
+"npc.Biker_WorldAirport0308" // The doors are all blocked!
+"npc.Biker_WorldAirport0309" // The path is clear!
+"npc.Biker_WorldAirport0310" // We burned a path!
+"npc.Biker_WorldAirport0311" // This better not be the plane we saw.
+"npc.Biker_WorldAirport0312" // We can get inside over the skybridge.
+"npc.Biker_WorldAirport0313" // There's the skybridge!
+"npc.Biker_WorldAirport0314" // There's a safe house across the skybridge!
+"npc.Biker_WorldAirport0315" // What idiot bombed the airport?
+"npc.Biker_WorldAirport0316" // Let's go through here.
+"npc.Biker_WorldAirport0317" // Ah shit, that half a plane ain't real encouraging.
+"npc.Biker_WorldAirport0318" // Let's burn this pile a' crap.
+"npc.Biker_WorldAirport0319" // THE AIRPORT! Told ya I'd get us here.
+"npc.Biker_WorldAirport0320" // Hey suit, this look familiar? tch tck?
+"npc.Biker_WorldAirport0321" // What friggin' idiot bombed the airport?
+"npc.Biker_WorldAirport0322" // Heh heh, hot shot.
+"npc.Biker_WorldAirport0323" // Never a cop when you need one.
+"npc.Biker_WorldAirport0401" // We need to get downstairs.
+"npc.Biker_WorldAirport0402" // Let's go through the offices!
+"npc.Biker_WorldAirport0403" // We can send the van through that pile a' crap.
+"npc.Biker_WorldAirport0404" // We gotta get through that pile a' junk.
+"npc.Biker_WorldAirport0405" // Big pile a' luggage. Lotta good it did em.
+"npc.Biker_WorldAirport0406" // We need ta be on the other side of that pile a' crap.
+"npc.Biker_WorldAirport0407" // Why would the army bomb the airport?
+"npc.Biker_WorldAirport0408" // Get outta the damn metal detector!
+"npc.Biker_WorldAirport0409" // Maybe your belt buckle set that off.
+"npc.Biker_WorldAirport0410" // Bill? I was the one that said that.
+"npc.Biker_WorldAirport0411" // What do you mean it's just like the army?
+"npc.Biker_WorldAirport0412" // There's the plane we saw!
+"npc.Biker_WorldAirport0413" // Let's get down to that plane!
+"npc.Biker_WorldAirport0414" // There's the plane! How the hell do to it?
+"npc.Biker_WorldAirport0416" // I hate Ayn Rand.
+"npc.Biker_WorldAirport0417" // You think my belt buckle set it off?
+"npc.Biker_WorldAirport0418" // Here's a crazy idea: What if we send the van into that pile of junk?
+"npc.Biker_WorldAirport0419" // We need to get out to the runway.
+"npc.Biker_WorldAirport0420" // We gotta get to the runway.
+"npc.Biker_WorldAirport0421" // This is the most sober I've ever been in an airport.
+"npc.Biker_WorldAirport0422" // That skybridge will get us over.
+"npc.Biker_WorldAirport0423" // There's the plane!
+"npc.Biker_WorldAirport0424" // The sad thing is this is only the second worst time I've ever had in an airport.
+"npc.Biker_WorldAirport0425" // I hate vans.
+"npc.Biker_WorldAirport0426" // God's dead, huh? Well, join the damn club.
+"npc.Biker_WorldAirport0427" // Holy shit... that wasn't our plane was it?
+"npc.Biker_WorldAirport0428" // I'm a little scared of flyin' now.
+"npc.Biker_WorldAirport0429" // What's the chance that'll happen twice in a row?
+"npc.Biker_WorldAirport0501" // That plane looks like it's still workin'
+"npc.Biker_WorldAirport0502" // We gotta gas up the plane.
+"npc.Biker_WorldAirport0503" // Starting the fuel truck...
+"npc.Biker_WorldAirport0504" // Start the fuel truck!
+"npc.Biker_WorldAirport0505" // The plane's gassed up: Let's go!
+"npc.Biker_WorldAirport0506" // The plane's ready!
+"npc.Biker_WorldAirport0507" // Plane's ready! Let's go! Let's go!
+"npc.Biker_WorldAirport0509" // Somebody really blew this place to Hell...
+"npc.Biker_WorldAirport0510" // What the hell happened to this place?
+"npc.Biker_WorldAirport0511" // *That* plane looks okay.
+"npc.Biker_WorldAirport0512" // Jesus, it looks like a bomb went off here. A few bombs.
+"npc.Biker_WorldAirport0513" // I hate planes.
+"npc.Biker_WorldAirport05NPC01" // Everyone but us is either a zombie or an asshole.
+"npc.Biker_WorldAirport05NPC02" // Listen candy-pants, we can *make* you open that goddamn door.
+"npc.Biker_WorldAirport05NPC03" // Fine.
+"npc.Biker_WorldAirport05NPC04" // Have a heart, we gotta a helpless old man with us!
+"npc.Biker_WorldAirport05NPC05" // [under your breath] Shut up, Bill.
+"npc.Biker_WorldAirport05NPC06" // If anybody dies pumpin' this goddamn gas, I'm takin' it out on you.
+"npc.Biker_WorldAirport05NPC07" // Everyone but us is either a vampire or an asshole.
+"npc.Biker_WorldAirport05NPC08" // I'm votin' asshole.
+"npc.Biker_WorldAirport05NPC09" // Are you kidding me?
+"npc.Biker_WorldAirport05NPC10" // Yeah, yeah, we get it.  You're a hero.
+"npc.Biker_WorldAirport05NPC11" // Listen asshole, I can fly the plane!
+"npc.Biker_WorldAirport05NPC12" // Why don't you come out here and prove it?
+"npc.Biker_WorldAirport05NPC13" // Sir, Terry's dead. And we're cops.
+"npc.Biker_WorldAirport05NPC14" // Terry didn't make it, pal.
+"npc.Biker_WorldAirport05NPC15" // We can do that.
+"npc.Biker_WorldAirport05NPC16" // Hell, we can do that.
+"npc.Biker_WorldAirport05NPC17" // You just make sure the damn thing is ready to fly.
+"npc.Biker_WorldAirport05NPC18" // Sir, uh, we're cops.
+"npc.Biker_WorldAirport05NPC19" // Sir, uh, we're cops.
+"npc.Biker_WorldAirport05NPC20" // Jackass.
+"npc.Biker_WorldAirport05NPC21" // Don't make me come over there and open up a can of whoopass.
+"npc.Biker_WorldFarmHouse0101" // Yer tellin' me people camp for fun?
+"npc.Biker_WorldFarmHouse0102" // All right.
+"npc.Biker_WorldFarmHouse0103" // We gotta be close to the outpost.
+"npc.Biker_WorldFarmHouse0104" // If we can find some tracks, we can follow em to the military outpost.
+"npc.Biker_WorldFarmHouse0105" // Shit. Never thought I'd go lookin' for the military.
+"npc.Biker_WorldFarmHouse0106" // Bet you kids cross shit like this for fun.
+"npc.Biker_WorldFarmHouse0107" // Nice place.
+"npc.Biker_WorldFarmHouse0108" // There's the tracks. Now we just need to get to 'em.
+"npc.Biker_WorldFarmHouse0109" // Bet we can get to the tracks from that building.
+"npc.Biker_WorldFarmHouse0110" // There's a safe house back here!
+"npc.Biker_WorldFarmHouse0111" // Man I hate the woods.
+"npc.Biker_WorldFarmHouse0112" // I hate the woods.
+"npc.Biker_WorldFarmHouse0113" // Bridge's out.
+"npc.Biker_WorldFarmHouse0114" // Woah...Okay... all we need to do is find the rail road tracks.
+"npc.Biker_WorldFarmHouse0115" // Nice day for a picnic.
+"npc.Biker_WorldFarmHouse0116" // Bridge's out. Terrific.
+"npc.Biker_WorldFarmHouse0201" // Louis, what's scarier: zombies or goin' back to work in an office?
+"npc.Biker_WorldFarmHouse0202" // We can get down to the tracks over here!
+"npc.Biker_WorldFarmHouse0203" // Looks like this tunnel heads the right way.
+"npc.Biker_WorldFarmHouse0204" // This tunnel heads the right way.
+"npc.Biker_WorldFarmHouse0205" // The tracks are down from here.
+"npc.Biker_WorldFarmHouse0206" // Through here!
+"npc.Biker_WorldFarmHouse0207" // Well, goddamnit, the tracks are blocked.
+"npc.Biker_WorldFarmHouse0208" // Let's try this tunnel.
+"npc.Biker_WorldFarmHouse0209" // Maintenance corridor up here!
+"npc.Biker_WorldFarmHouse0210" // Damn tracks are blocked!
+"npc.Biker_WorldFarmHouse0211" // I hate trains.
+"npc.Biker_WorldFarmHouse0212" // I hate tunnels.
+"npc.Biker_WorldFarmHouse0213" // Louis, what's scarier: vampires or goin' back to work in an office?
+"npc.Biker_WorldFarmHouse0214" // The tracks should just be downstairs.
+"npc.Biker_WorldFarmHouse0301" // These things are a real frickin' maze. I hate mazes.
+"npc.Biker_WorldFarmHouse0302" // This better go through.
+"npc.Biker_WorldFarmHouse0303" // Watch out for that fence.
+"npc.Biker_WorldFarmHouse0304" // Nice, they electrified the fence.
+"npc.Biker_WorldFarmHouse0305" // Hey Pointdexter, hit the power.
+"npc.Biker_WorldFarmHouse0306" // Hey suit, hit the power.
+"npc.Biker_WorldFarmHouse0307" // Woaah, fried.
+"npc.Biker_WorldFarmHouse0308" // Start the engine.
+"npc.Biker_WorldFarmHouse0309" // Hey, unhook that car.
+"npc.Biker_WorldFarmHouse0310" // Get that thing moving!
+"npc.Biker_WorldFarmHouse0311" // Hit it!
+"npc.Biker_WorldFarmHouse0312" // Watch out for the train!
+"npc.Biker_WorldFarmHouse0313" // We can get up there now!
+"npc.Biker_WorldFarmHouse0314" // Up there!
+"npc.Biker_WorldFarmHouse0315" // Safe house up there!
+"npc.Biker_WorldFarmHouse0316" // There might be supplies in that house.
+"npc.Biker_WorldFarmHouse0317" // Let's check this house.
+"npc.Biker_WorldFarmHouse0318" // There's the tracks!
+"npc.Biker_WorldFarmHouse0319" // Track's blocked again. Looks like they curve around that hill.
+"npc.Biker_WorldFarmHouse0320" // Let's hump our asses over the hill.
+"npc.Biker_WorldFarmHouse0321" // God DAMN I hate electric fences.
+"npc.Biker_WorldFarmHouse0322" // Yo, you in the monkey suit, hit the power.
+"npc.Biker_WorldFarmHouse0323" // This is a real freakin' maze.
+"npc.Biker_WorldFarmHouse0324" // There're some trains back here.
+"npc.Biker_WorldFarmHouse0325" // There's some trains back there
+"npc.Biker_WorldFarmHouse0326" // You know - I bet we could knock that bridge down.
+"npc.Biker_WorldFarmHouse0327" // We need to get up there.
+"npc.Biker_WorldFarmHouse0401" // Barn ahead!
+"npc.Biker_WorldFarmHouse0402" // Any supplies in the barn?
+"npc.Biker_WorldFarmHouse0403" // Let's check out the barn.
+"npc.Biker_WorldFarmHouse0404" // Is Arnold in there?
+"npc.Biker_WorldFarmHouse0405" // Never rmind, I forgot, you guys are like 10 years old. 'Cept you, Bill.
+"npc.Biker_WorldFarmHouse0406" // The tracks!
+"npc.Biker_WorldFarmHouse0407" // Another building!
+"npc.Biker_WorldFarmHouse0408" // The tracks should be down there!
+"npc.Biker_WorldFarmHouse0409" // Train station
+"npc.Biker_WorldFarmHouse0410" // This better not be the military outpost.
+"npc.Biker_WorldFarmHouse0411" // This is all messed up.
+"npc.Biker_WorldFarmHouse0412" // We can get around down here.
+"npc.Biker_WorldFarmHouse0413" // Someone get the gate.
+"npc.Biker_WorldFarmHouse0414" // Open the gate!
+"npc.Biker_WorldFarmHouse0415" // Across the bridge, GO!
+"npc.Biker_WorldFarmHouse0416" // Run for the train car!
+"npc.Biker_WorldFarmHouse0417" // Get to the goddam train car!
+"npc.Biker_WorldFarmHouse0418" // Yeah, the caboose!
+"npc.Biker_WorldFarmHouse0419" // I have NEVER liked barns.
+"npc.Biker_WorldFarmHouse0420" // I hate barns.
+"npc.Biker_WorldFarmHouse0501" // Get to the farm house!
+"npc.Biker_WorldFarmHouse0502" // An outpost!
+"npc.Biker_WorldFarmHouse0503" // Yeah, we made it!
+"npc.Biker_WorldFarmHouse0504" // Up the hill!
+"npc.Biker_WorldFarmHouse0505" // Finally!  We're getting out of here.
+"npc.Biker_WorldFarmHouse0506" // I don't like this...
+"npc.Biker_WorldFarmHouse0507" // Somethin's not right...
+"npc.Biker_WorldFarmHouse0508" // Pick up the radio.
+"npc.Biker_WorldFarmHouse0509" // What's this shit?
+"npc.Biker_WorldFarmHouse0510" // Well, I'm callin' em, this is it.
+"npc.Biker_WorldFarmHouse0511" // We just gotta wait until they show up.
+"npc.Biker_WorldFarmHouse0512" // Army's here!
+"npc.Biker_WorldFarmHouse0513" // Look at that shit!
+"npc.Biker_WorldFarmHouse0515" // That's some fire power!
+"npc.Biker_WorldFarmHouse0517" // Ladies, I do believe we have been saved.
+"npc.Biker_WorldFarmHouse0518" // Guns in the barn!
+"npc.Biker_WorldFarmHouse0519" // Yeah, army's here!
+"npc.Biker_WorldFarmHouse0521" // We walk 500 miles, kill 10,000 zombies just to make it to a goddamn tape loop?  Screw the army.
+"npc.Biker_WorldFarmHouse0522" // These guys better not take long. I've had it.
+"npc.Biker_WorldFarmHouse0523" // I forgive you, Army. I love you guys!
+"npc.Biker_WorldFarmHouse0524" // That is one creepy ass house.
+"npc.Biker_WorldFarmHouse0525" // You got to be shittin me.  We walk a hundred miles, fight 5 million vampires -
+"npc.Biker_WorldFarmHouse0526" // Goddamn tape loop piece of shit.
+"npc.Biker_WorldFarmHouse0527" // -whatever. And all they got is a goddamn tape loop? Screw the goddamn army.
+"npc.Biker_WorldFarmHouse0528" // I LOVE the goddamn army!
+"npc.Biker_WorldFarmHouse0529" // We walk 500 miles, kill 10,000 vampires just to make it to a goddamn tape loop?  Screw the army.
+"npc.Biker_WorldFarmHouseGeneric01" // Fried zombies...
+"npc.Biker_WorldFarmHouseGeneric02" // Hey, fried zombies... tasty
+"npc.Biker_WorldFarmHouseIntro01" // I heard the military's got a safe zone north of here. We just gotta follow the train tracks.
+"npc.Biker_WorldFarmHouseIntro02" // I knew that idiot couldn't fly a plane. Everybody in one piece?
+"npc.Biker_WorldFarmHouseIntro03" // Yeah, I heard that, too.
+"npc.Biker_WorldFarmHouseIntro04" // You got a better plan?
+"npc.Biker_WorldFarmHouseIntro05" // We ain't gonna survive on our own forever. I heard the military's got a safe zone north of here. We just gotta follow the train tracks.
+"npc.Biker_WorldFarmHouseIntro06" // Listen, the government's got a hate-free zone up north... I'm kidding, the military's got a stronghold up there and they're killing anything that walks funny. Railroad tracks should take us right there.
+"npc.Biker_WorldFarmhouseNPC01" // Uh, hello?
+"npc.Biker_WorldFarmhouseNPC02" // Attention Army: This is the cops.
+"npc.Biker_WorldFarmhouseNPC03" // Rodger dodger.
+"npc.Biker_WorldFarmhouseNPC04" // We're ready!
+"npc.Biker_WorldFarmhouseNPC05" // We're all set!
+"npc.Biker_WorldFarmhouseNPC06" // Come get us!
+"npc.Biker_WorldFarmhouseNPC07" // I hope they believed that shit about us being cops.
+"npc.Biker_WorldFarmhouseNPC08" // Attention Army: This is the cops.
+"npc.Biker_WorldHospital0201" // I hate subways.
+"npc.Biker_WorldHospital0301" // We've got to get to the hospital.
+"npc.Biker_WorldHospital0302" // Into the hospital!
+"npc.Biker_WorldHospital0303" // There's a safe house in the hospital!
+"npc.Biker_WorldHospital0304" // Hit the button!
+"npc.Biker_WorldHospital0305" // Get on the lift!
+"npc.Biker_WorldHospital0306" // Now this is some shit.
+"npc.Biker_WorldHospital0308" // I hate sewers.
+"npc.Biker_WorldHospital0401" // If he ain't, at least we'll die with a nice view of the city.
+"npc.Biker_WorldHospital0402" // So, how's yer beard holdin' up, Bill?
+"npc.Biker_WorldHospital0403" // Which one of you jackasses just beefed?
+"npc.Biker_WorldHospital0404" // I hate hospitals.  And doctors and lawyers and cops...
+"npc.Biker_WorldHospital0405" // I hate hospitals.
+"npc.Biker_WorldHospital0406" // Elevator's here!
+"npc.Biker_WorldHospital0407" // Get on the elevator!
+"npc.Biker_WorldHospital0408" // I hate hospitals.
+"npc.Biker_WorldHospital0409" // I hate elevators.
+"npc.Biker_WorldHospital0410" // I hate stairs.
+"npc.Biker_WorldHospital0411" // and doctors, and lawyers and...
+"npc.Biker_WorldHospital0501" // I hate helicopters.
+"npc.Biker_WorldHospital0502" // Louis, try not to blow up the helicopter...
+"npc.Biker_WorldHospitalGeneric01" // I already pressed the damn button.
+"npc.Biker_WorldHospitalGeneric02" // Yeah, it'll probably come quicker if ya keep pressin it.
+"npc.Biker_WorldHospitalGeneric03" // Hey jackass, I already pressed the damn button.
+"npc.Biker_WorldHospitalGeneric04" // Yeah, it'll probably come quicker if you just keep pressin' it.
+"npc.Biker_WorldSmallTown0103" // Gunfire! Somebody's still alive in Riverside!
+"npc.Biker_WorldSmallTown0104" // That sounds like a plan.
+"npc.Biker_WorldSmallTown0105" // Sounds good to me. Let's head to Riverside.
+"npc.Biker_WorldSmallTown0106" // Hear that? There's fightin' in town.
+"npc.Biker_WorldSmallTown0107" // If we find a way to the surface, we can get to Riverside.
+"npc.Biker_WorldSmallTown0108" // Watch out for bats!
+"npc.Biker_WorldSmallTown0109" // I don't HATE bats, but I do not like them.
+"npc.Biker_WorldSmallTown0110" // Bridge is out.
+"npc.Biker_WorldSmallTown0111" // Yep... Bridge is out.
+"npc.Biker_WorldSmallTown0112" // Come on, this tunnel is a little creepy
+"npc.Biker_WorldSmallTown0113" // Watch out above us.
+"npc.Biker_WorldSmallTown0114" // Down here!
+"npc.Biker_WorldSmallTown0115" // Blocked!
+"npc.Biker_WorldSmallTown0116" // We can take these stairs!
+"npc.Biker_WorldSmallTown0117" // Safe house up there!
+"npc.Biker_WorldSmallTown0118" // I hate turnpikes.
+"npc.Biker_WorldSmallTown0201" // We gotta activate that bridge.
+"npc.Biker_WorldSmallTown0202" // Is this that kind of sewer?
+"npc.Biker_WorldSmallTown0203" // Cool.
+"npc.Biker_WorldSmallTown0204" // I hate trainyards.
+"npc.Biker_WorldSmallTown0205" // Yeah, I don't think they held.
+"npc.Biker_WorldSmallTown0206" // I hate churches.
+"npc.Biker_WorldSmallTown0207" // Ew. I hate caca.
+"npc.Biker_WorldSmallTown0301" // Riverside's to our right.
+"npc.Biker_WorldSmallTown0302" // Almost to Riverside.
+"npc.Biker_WorldSmallTown0303" // The town's pretty quiet...
+"npc.Biker_WorldSmallTown0304" // Get to the church!
+"npc.Biker_WorldSmallTown0305" // So much fer Riverside.
+"npc.Biker_WorldSmallTown0306" // Looks like Riverside couldn't hold it together.
+"npc.Biker_WorldSmallTown0307" // Looks like we're getting close to Riverside.
+"npc.Biker_WorldSmallTown0308" // Riverside ain't too far from here.
+"npc.Biker_WorldSmallTown0309" // There's lights on in that church!
+"npc.Biker_WorldSmallTown0310" // I hate walking.
+"npc.Biker_WorldSmallTown0311" // I hate small towns.
+"npc.Biker_WorldSmallTown03NPC01" // If we live through this, I'm gonna kill that guy.
+"npc.Biker_WorldSmallTown03NPC02" // Not if I kill him first.
+"npc.Biker_WorldSmallTown03NPC03" // If we live through this, I'm gonna frickin' kill that guy.
+"npc.Biker_WorldSmallTown0401" // Riverside's a bust. Let's just get to the river and steal a boat.
+"npc.Biker_WorldSmallTown0402" // We can get to the river through here.
+"npc.Biker_WorldSmallTown0501" // Get to the boat house!
+"npc.Biker_WorldSmallTown0502" // Get to the boat!
+"npc.Biker_WorldSmallTown0503" // Our ride's here! Let's go!
+"npc.Biker_WorldSmallTown0504" // They're here! Everyone to the boat!
+"npc.Biker_WorldSmallTown0505" // Get to the boat!
+"npc.Biker_WorldSmallTown0506" // To the boat!
+"npc.Biker_WorldSmallTown0507" // The boat's here!
+"npc.Biker_WorldSmallTown0508" // I hate boats.
+"npc.Biker_WorldSmallTown0509" // I hate the water.
+"npc.Biker_WorldSmallTown0510" // I hate boat people.
+"npc.Biker_WorldSmallTown0511" // I hate lawyers
+"npc.Biker_WorldSmallTown0512" // I hate boat lawyers. When are they gonna get done practicing law?
+"npc.Biker_WorldSmallTown0513" // You know what I don't hate? I don't hate vests.
+"npc.Biker_WorldSmallTown0514" // I hate vomit.
+"npc.Biker_WorldSmallTown0515" // I love my vest.
+"npc.Biker_WorldSmallTown0516" // Hey - not on the vest!
+"npc.Biker_WorldSmallTown0517" // Hey - not on the vest!
+"npc.Biker_WorldSmallTownNPCBellman01" // Who are you?
+"npc.Biker_WorldSmallTownNPCBellman02" // Just open the goddamn door.
+"npc.Biker_WorldSmallTownNPCBellman03" // We're cops. Open up.
+"npc.Biker_WorldSmallTownNPCBellman04" // Well, let's see: I'm Francis, and that's Grandpa Bill, and - THERE'S ZOMBIES OUT HERE OPEN THE GODDAMN DOOR.
+"npc.Biker_WorldSmallTownNPCBellman05" // I am going to tear that bell down and shove it up your ass!
+"npc.Biker_WorldSmallTownNPCBellman06" // Are you ringing that goddamn bell?
+"npc.Biker_WorldSmallTownNPCBellman07" // Is he ringing that goddamn bell?
+"npc.Biker_WorldSmallTownNPCBellman08" // Stop ringing the goddamn bell!
+"npc.Biker_WorldSmallTownNPCBellman09" // We're not infected!
+"npc.Biker_WorldSmallTownNPCBellman10" // We're not infected! I just have herpes!
+"npc.Biker_WorldSmallTownNPCBellman11" // Well, let's see: I'm Francis, and that's Grandpa Bill, and - THERE'S VAMPIRES OUT HERE OPEN THE GODDAMN DOOR.
+"npc.Biker_WorldSmallTownNPCBellman12" // Open the door, we're cops.
+"npc.Biker_WorldSmallTownNPCBellman13" // Man, I don't think the cop thing worked.
+"npc.Biker_WorldSmallTownNPCBoatman01" // You got a deal.
+"npc.Biker_WorldSmallTownNPCBoatman02" // You got a deal, pal.
+"npc.Biker_WorldSmallTownNPCBoatman03" // Come get us!
+"npc.Biker_WorldSmallTownNPCBoatman04" // Give us a minute, here.
+"npc.Biker_WorldSmallTownNPCBoatman05" // We got guns, pal.
+"npc.Biker_WorldSmallTownNPCBoatman06" // There's four us with guns here.
+"npc.Biker_WorldSmallTownNPCBoatman07" // We gotta whole lotta guns, pal.
+"npc.Biker_WorldSmallTownNPCBoatman08" // So long Riverside.
+"npc.Biker_WorldSmallTownNPCBoatman09" // Sorry lady, we're takin' yer husband's offer.
+"npc.Biker_WorldSmallTownNPCBoatman10" // Sorry lady.
+"npc.Biker_WorldSmallTownNPCBoatman11" // Lady: We're the cops. Now come get us.
+"npc.Biker_WorldSmallTownNPCBoatman12" // Attention boat owner: We are the cops. Come pick us up.
+"npc.Biker_WorldSmallTownNPCBoatman13" // Attention boat owner: We are the cops. I command you to pick us up. NOW.
+"npc.Biker_WorldSmallTownNPCBoatman14" // Attention boat owner: We are the cops. I command you to pick us up.
+"Player.Biker_Yes01" // Yes.
+"Player.Biker_Yes02" // Okay.
+"Player.Biker_Yes03" // Yep.
+"Player.Biker_Yes04" // Yeah.
+"Player.Biker_Yes05" // Yeah.
+"Player.Biker_Yes06" // Roger that good buddy.
+"Player.Biker_YouAreWelcome01" // Well, hell, you're welcome.
+"Player.Biker_YouAreWelcome02" // I got your back.
+"Player.Biker_YouAreWelcome03" // Any damn time.
+"Player.Biker_YouAreWelcome04" // Hey, no problem.
+"Player.Biker_YouAreWelcome05" // No problem.
+"Player.Biker_YouAreWelcome06" // Sure.
+"Player.Biker_YouAreWelcome07" // I told ya I'd take care of ya.
+"Player.Biker_YouAreWelcome08" // No, thank YOU!
+"Player.Biker_YouAreWelcome09" // Yer welcome.
+"Player.Biker_YouAreWelcome10" // Yea, Iím pretty awesome.
+"Player.Biker_YouAreWelcome11" // No problemo, pal.
+"Player.Biker_YouAreWelcome12" // It's all good.
+"Player.Biker_YouAreWelcome13" // Gotcha.
+//Whatever, whenever, man.
+"Player.Biker_YouAreWelcome14"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.53"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"		"SNDLVL_85dB"
+	"wave"			"player\survivor\voice\Biker\YouAreWelcome14.wav"
+}
